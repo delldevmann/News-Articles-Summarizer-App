@@ -25,4 +25,4 @@ for filepath in files:
     else:
         print(f"File '{filepath}' does not exist.")
 
-start()
+start_new()
