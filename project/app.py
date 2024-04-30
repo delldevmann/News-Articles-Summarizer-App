@@ -69,3 +69,5 @@ for i in range(min(50, len(df))):
             st.write("")        
     else:
         print("One or more required fields are empty or invalid. Skipping article display.")
+
+st.sidebar.markdown("<p style='font-size: small; color: grey; text-align: center;'>A NLP project by <a href='https://github.com/akanksha1131'>Akanksha Kale</a>. Made for educational purposes only. Disclaimer: This project is intended for educational purposes only. Web scraping without proper authorization is not encourages or endorsed.</p>", unsafe_allow_html=True)    
