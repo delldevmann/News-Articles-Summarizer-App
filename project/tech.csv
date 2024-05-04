@@ -1,96 +1,106 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-CEO of 19 tech companies sentenced to 6 years prison for selling fake Cisco equipment,https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-19-tech-companies-sentenced-to-6-years-prison-for-selling-fake-cisco-equipment/articleshow/109795395.cms,"Counterfeit equipment was sold to both govt & private sector companies
+"Microsoft has warning about these 2 Android apps with billions of download, name of the infected apps and why millions may still be at risk",https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-warning-about-these-2-android-apps-with-billions-of-download-name-of-infected-apps-and-why-millions-may-still-be-at-risk/articleshow/109825567.cms,"Two popular apps specifically mentioned by Microsoft are:
 
-Authorities aware of fraud for years
+Xiaomi
 
-Sentence aimed to send strong message
+'s File Manager:
 
-A Miami-based tech CEO, Onur Aksoy (also known as Ron Aksoy and Dave Durden), has been sentenced to over six years in prison for running a large-scale operation selling fake Cisco equipment .Aksoy pleaded guilty in June 2023 to charges including conspiracy, mail fraud, and wire fraud. Through 19 companies and online storefronts operating from 2013 to 2022, he resold counterfeit Cisco products with an estimated retail value exceeding $1 billion.These entities, collectively known as Pro Network Entities, sold the fake networking products on Amazon and eBay.As part of the plea agreement, Aksoy is required to pay $100 million in restitution to Cisco and other victims.The counterfeit equipment infiltrated critical infrastructure, compromising both private and public sectors. This included sensitive U.S. government systems used by the Navy, Air Force, and Army. The fake parts jeopardized operations for fighter jets, bombers, helicopters, and maritime patrol aircraft.Furthermore, schools and hospitals were also unknowingly affected by the shoddy equipment, which often malfunctioned or failed entirely after installation.Aksoy's fraudulent activity was detected by U.S. authorities and Cisco as early as 2014. Counterfeit shipments were seized, and Aksoy was ordered to cease operations. However, he continued the scheme with the help of Chinese suppliers. These suppliers would modify used or discarded Cisco products to appear legitimate and install pirated software.Vikas Khanna, US attorney, emphasised the vastness of the operation and the potential harm caused. The sentencing, he stated, holds Aksoy accountable for the ""breathtaking scale"" of the counterfeit scheme.Cisco is said to have faced challenges in recent years due to supply chain disruptions, making it more vulnerable to counterfeit activity.","Onur Aksoy, a Miami-based tech CEO, has been sentenced to over six years in prison for running a large-scale operation selling fake Cisco equipment. He pleaded guilty in June 2023 to charges including conspiracy, mail fraud, and wire fraud. Through 19 companies and online storefronts, he resold counterfeit Cisco products with an estimated retail value exceeding $1 billion.","https://static.toiimg.com/thumb/msid-109795418,imgsize-363128,width-400,resizemode-4/109795418.jpg"
-"Google is solving one of the 'most-dangerous problems' with Android apps of government departments, here's how",https://timesofindia.indiatimes.com/technology/tech-news/google-is-solving-one-of-the-most-dangerous-problem-with-android-apps-of-government-departments-heres-how/articleshow/109795351.cms,"How to spot the government badge on
+WPS Office
 
-Android apps
+:
 
-Partnered with governments worldwide, including India
+How millions of Android users may still be at risk
 
-Safety through verification
+How Android smartphone users can protect themselves
 
-Good news for Android users. Google Play Store is now making it easier to identify legitimate government apps . After months of testing, official badges are rolling out in over 14 countries to clearly mark state and federal government apps. This initiative aims to tackle the issue of fake apps impersonating official/government ones to steal data or money.Google said that these badges currently cover more than 2,000 apps in countries including Australia, Canada, Germany, France, the United Kingdom, Japan, South Korea, the United States, Brazil, Indonesia, India, and Mexico. In November 2023, the company teased this feature when it announced new rules for app developers.Look for the new ""Government"" badge displayed prominently on official apps. Tapping the badge reveals a message confirming Play Store's verification of the app's affiliation with a government entity. These badges will also be visible in app listings like ""Top Charts.""Google has partnered with governments and their developers to ensure a smooth rollout of these badges. This is particularly important in regions like India, where fake government apps have been a concern.It's important to note that Google Play Store already has policies in place to prevent misleading apps. These policies prohibit apps with deceptive descriptions, icons, or screenshots, especially those claiming to be official. Additionally, Google's rules specifically target apps that falsely represent government affiliation or offer unauthorized services.For secure processing of government documents within apps, Google may request developers to submit authorization proof. Furthermore, Google encourages governments to use official email addresses when creating developer accounts for publishing apps on the Play Store.This update from Google Play Store empowers users to make informed choices when downloading government-related apps, promoting a safer and more reliable mobile experience.","Google Play Store is now making it easier to identify legitimate government apps. After months of testing, official badges are rolling out in over 14 countries. This initiative aims to tackle the issue of fake apps impersonating official/government ones to steal data or money.","https://static.toiimg.com/thumb/msid-109795349,imgsize-211832,width-400,resizemode-4/109795349.jpg"
-These interviews of Amazon CEO Andy Jassy broke federal law; rules US court,https://timesofindia.indiatimes.com/technology/tech-news/amazon-ceo-andy-jassys-remarks-broke-laws-us-rules-court/articleshow/109795008.cms,"Amazon CEO Andy Jassy’s anti-union remarks
+* Keep apps updated:
+
+* Install from trusted sources:
+
+* Be cautious of permissions:
+
+Microsoft researchers recently discovered vulnerabilities in several popular Android applications, totaling over 4 billion downloads according to a blog post by Microsoft's Threat Intelligence Team. These security flaws could have allowed attackers to steal sensitive user data.The specific issue identified is called a ""dirty stream"" attack, where a malicious app could potentially overwrite settings on a vulnerable device and gain access to a user's authentication tokens or other confidential information.This information could then be used to impersonate the user and potentially access their accounts or data on other services.This app has over 1 billion installs.This popular office suite has over 500 million installs.Both Xiaomi and WPS Office have since addressed the vulnerabilities with updates. However, Microsoft recommends that all Android users update these apps immediately if they are installed on their devices.While both Xiaomi and WPS have patched the security loophole, but millions of users may still be at risk if they haven't updated their apps. It is important for users to have updated these apps to protect themselves from these security flaws.Regularly update your apps through the Google Play Store or other trusted sources to ensure you have the latest security patches.Only download apps from reputable developers and stores to minimize the risk of malware.Pay attention to the permissions requested by apps before installing them. Granting unnecessary permissions can increase your risk.Microsoft has also collaborated with Google to inform app developers and help them avoid similar vulnerabilities in the future. This collaboration between security researchers and tech companies is crucial in keeping users safe in an evolving threat landscape.",Microsoft researchers recently discovered vulnerabilities in several popular Android applications. These security flaws could have allowed attackers to steal sensitive user data. Both Xiaomi and WPS Office have since addressed the vulnerabilities with updates. Microsoft recommends that all Android users update these apps immediately if they are installed.,"https://static.toiimg.com/thumb/msid-109825563,imgsize-62402,width-400,resizemode-4/109825563.jpg"
+Reliance Jio and Airtel add mobile subscribers; while these two companies lose in March 2024,https://timesofindia.indiatimes.com/technology/tech-news/reliance-jio-and-airtel-add-mobile-subscribers-while-these-two-companies-lose-in-march-2024/articleshow/109825046.cms,"* Overall Subscribers base in India:
+
+* Mobile Subscriber Leaders:
+
+* Broadband Subscribers in India:
+
+* Broadband Type:
+
+* Top 5 Broadband Providers in India:
+
+India's telecom subscriber base reached 1.199 billion in March 2024, reflecting a slight monthly increase, according to a report by the Telecom Regulatory Authority of India (Trai).The growth was driven by new customer additions from Reliance Jio (2.14 million) and Bharti Airtel (1.75 million). However, Vodafone Idea (VIL) lost subscribers (0.68 million), along with state-owned operators BSNL (2.35 million) and MTNL (4,674).The report also highlights trends in the broadband segment, which grew to 924 million subscribers in March.This growth was primarily fueled by wireless broadband connections, reaching 883.2 million, while wired connections saw a more modest increase to 4.06 million.Here's a quick breakdown of the key findings:1.199 billion (0.13% monthly growth)Reliance Jio (subscriber gain), Bharti Airtel (subscriber gain), VIL (subscriber loss), BSNL (subscriber loss), MTNL (subscriber loss)924 million (0.80% monthly growth)Wireless dominates (883.2 million), wired connections show some growth (4.06 million)Reliance Jio, Bharti Airtel, VIL, BSNL, Atria Convergence (combined market share: 98.36%)This Trai report suggests that while India's telecom market is expanding slowly, competition remains fierce among service providers. The dominance of wireless broadband also continues, with wired connections playing a smaller role.","India's telecom subscriber base reached 1.199 billion in March 2024. The growth was driven by new customer additions from Reliance Jio and Bharti Airtel. Vodafone Idea (VIL) lost subscribers (0.68 million), along with state-owned operators BSNL and MTNL.","https://static.toiimg.com/thumb/msid-109825027,imgsize-53828,width-400,resizemode-4/109825027.jpg"
+How Apple aims to tell an AI story in a way different than Google and Microsoft,https://timesofindia.indiatimes.com/technology/tech-news/how-apple-aims-to-tell-an-ai-story-in-a-way-different-than-google-and-microsoft/articleshow/109824897.cms,"There may be no big AI bills for Apple
+
+For over a year, analysts have pressed Apple CEO Tim Cook for details on the company's artificial intelligence (AI) plans. According to Reuters, Cook recently hinted that those details are coming soon. ""[We] continue to feel very bullish about our opportunity in generative AI and we're making significant investments,"" Cook told Reuters.While Apple's Big Tech competitors like Google and Microsoft have been pouring money into building data centers to support their AI services, Apple is taking a different approach, according to Reuters.Apple spent a significantly smaller $10 billion on capital expenditures in 2023 compared to its rivals' $12-$40 billion range. This focus on on-device processing reflects a longstanding Apple strategy of partnering with suppliers to manage manufacturing costs, says Reuters.Apple is expected to unveil new AI features at its upcoming software conference and integrate AI-ready chips into its products, but investors shouldn't expect a major shift in capital expenditure practices, says a Reuters report. Apple CFO Luca Maestri said that the company will likely continue its split-cost model with data centers, similar to its approach with manufacturing tools. ""We do something similar on the data center side,"" Maestri said. ""We have our own data center capacity, and then we use capacity from third parties. It's a model that has worked well for us historically, and we plan to continue along the same lines going forward.""The success of this on-device AI strategy remains to be seen, according to Reuters. While some analysts believe better on-device processing will entice professional users, it may not be a game-changer for overall sales.","Apple spent a significantly smaller $10 billion on capital expenditures in 2023 compared to its rivals' $12-$40 billion range. Apple CFO Luca Maestri said that the company will likely continue its split-cost model with data centers, similar to its approach with manufacturing tools.","https://static.toiimg.com/thumb/msid-109824871,imgsize-267709,width-400,resizemode-4/109824871.jpg"
+"Nvidia CEO Jensen Huang's secret to $2 trillion dollar valuation: Early mornings, long hours, and more",https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huangs-secret-to-2-trillion-dollar-valuation-early-mornings-long-hours-and-more/articleshow/109823833.cms,"Nvidia CEO works 14 hours a day, communication with his employees top priority
+
+Huang & Nvidia’s journey from bankruptcy to $2 trillion dollars
+
+Jensen Huang , the founder and CEO of Nvidia , has led the company to a staggering $2 trillion valuation, making it the third most valuable company in the world. Huang's success can be attributed to his relentless work ethic, engaged leadership style, and dedication to his role as the ""custodian of the culture"" at Nvidia.Huang's workday begins at 6 a.m.after he wakes up and exercises. He then embarks on a gruelling 14-hour workday, often working through holidays and weekends. Despite the long hours, Huang finds his work relaxing and loves what he does. He believes that struggle and pain are character-building and necessary for achieving greatness.Unlike many Big Tech CEOs, Huang prioritises communication with his employees. He frequently eats in the company cafeteria to connect with staff and has 60 direct reports. Huang encourages open communication across the company, asking employees to send him the top five things on their minds. He believes this approach helps with problem-solving and empowers people by giving them equal access to information.Huang's leadership style has been instrumental in Nvidia's success. The company nearly went bankrupt in the late 1990s, a memory that Huang says is hard to shake off. However, under his guidance, Nvidia has become a significant player in the tech industry , with a surge in stock driven by the demand for its chips for AI applications .Despite his success, Huang remains humble and driven. He wakes up ""worried and concerned"" each day and is known for his high standards and demanding nature. Huang believes CEOs should have the most direct reports in an organisation, as they can help lead others to greatness and inspire and empower people.To manage his time effectively, Huang sometimes clears his calendar to focus on areas he believes will have a long-lasting influence on the company, such as product and strategy planning. He also acknowledges that, as a CEO, not sleeping is often a good choice to free up time.Huang's dedication and leadership have made Nvidia a tech giant and earned him a spot as the 20th richest person in the world, with an estimated net worth of $73 billion.",Jensen Huang is the founder and CEO of Nvidia. He has led the company to a staggering $2 trillion valuation. Huang's success can be attributed to his relentless work ethic. He works 14 hours a day and has 60 direct reports.,"https://static.toiimg.com/thumb/msid-109823836,imgsize-86854,width-400,resizemode-4/109823836.jpg"
+"Samsung tops Apple in global smartphone shipments: How Oppo, Vivo and other brands performed",https://timesofindia.indiatimes.com/technology/tech-news/samsung-tops-apple-in-global-smartphone-shipments-how-oppo-vivo-and-other-brands-performed/articleshow/109822977.cms,"What led Samsung’s growth and how other brands fared
+
+Overall global smartphone market grows
+
+Samsung has replaced Apple as the top smartphone player globally in the first quarter this year (Q1 2024), accounting for 20% shipment share, a report said on Friday. Apple’s shipments declined 13% (YoY) owing to high inventory build-up during the last quarter, however, the brand’s average selling price (ASP) grew 2% YoY, said Counterpoint Research in its latest research.It took the second spot.Samsung re-captured the top spot, driven by the early refresh of the Galaxy-A-series and strong performance of the Galaxy S24 series. Samsung reached its highest-ever ASP during the quarter as well. Apple’s performance was a mixed bag.“Tough competition in China, record low upgrades in the US and a difficult compare from last year due to iPhone 14 Pro’s supply shifting to Q1 2023 all weighed on iPhone performance,” said research director Jeff Fieldhack.“However, there were upsides as well. An improved product mix with 15 Pro’s performing better than its predecessors, and an increasing footprint in emerging markets, helped Apple in arresting some of the declines. Emerging markets especially provide long term growth opportunities,” Fieldhack added.Meanwhile, smartphone brands from China – Xiaomi and Vivo – registered growth. While Xiaomi registered growth in almost all its key markets, Vivo posted strong performance in emerging markets of Asia Pacific including India.Huawei, Honor and Transsion also gained during the quarter. Huawei made gains in China, Honor gained in Caribbean And Latin America and Middle East and North Africa, in addition to having a strong share in China.The Transsion brands – Tecno, itel and Infinix, performed strongly in APAC, Eastern Europe, India and the MEA. Oppo – which includes OnePlus – experienced a shipment decline due to stiff competition in key markets like China.Riding the success of these brands, the global smartphone market grew by 6% year-on-year (YoY) to reach 296.9 million unit shipments. The growth is mostly attributed to the strong performance in key regions such as Europe, Middle East and Africa (MEA) and Caribbean and Latin America (CALA).“The India market also saw growth thanks to exiting 2023 with healthy inventory levels. The mature markets of North America and Japan declined relative to the same period in 2023,” said senior analyst Prachir Singh.Global smartphone revenues grew by 7% in Q1 2024 and reached the highest-ever in the first quarter of the year.","Samsung re-captured the top spot, driven by the early refresh of the Galaxy-A- series. Apple’s shipments declined 13% (YoY) owing to high inventory build-up during the last quarter. Meanwhile, smartphone brands from China – Xiaomi and Vivo – registered growth.","https://static.toiimg.com/thumb/msid-109822951,imgsize-59350,width-400,resizemode-4/109822951.jpg"
+"ChatGPT maker OpenAI’s CEO Sam Altman: This is the ""dumbest model any of you will ever, ever have to use again....""",https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openais-ceo-sam-altman-this-is-the-dumbest-model-any-of-you-will-ever-ever-have-to-use-again-/articleshow/109822309.cms,"What to expect from GPT-5 and GPT-6
 
 
 
-What the judge has to say
+ChatGPT maker OpenAI ’s CEO Sam Altman has said that the AI chatbot developed by the company is not phenomenal and that the large language model (LLM) – GPT 4 – that powers it is the “dumbest model”. He also hinted that the successive models that the company may launch in future will comparatively be much more powerful than the ones individuals and businesses use today.Altman was replying to a question on the economic model of the company in a session at an event hosted by Ravi Belani, a Stanford lecturer.Belani asked about the monetisation source for the company that spent $520 million of cash last year in making ChatGPT “phenomenal”.“Well, first of all, that's nice of you to say, but ChatGPT is not phenomenal. ChatGPT is mildly embarrassing at best. GPT 4 is the dumbest model any of you will ever, ever have to use again by a lot,” he said in the session.“But, you know, it's important to ship early and often and we believe in iterative deployment. Like if we go build AGI in a basement and then, you know, the world is like kind of blissfully walking blindfolded along. I don't think that makes us very good neighbours,” he added.He emphasised that expressing opinions about the future of a technology isn't enough and that the best way to understand its impact is to release it and let society experiment with it. He noted that in this way, the society is allowed to provide feedback on how the technology is used and its potential benefits and drawbacks.“Whether we burn 500 million a year or 5 billion or 50 billion a year, I don't care. I genuinely don't. As long as we can, I think, stay on a trajectory where eventually we create way more value for society than that and as long as we can figure out a way to pay the bills like we're making AGI, it's gonna be expensive. It's totally worth it,” he added.Altman also talked about the next-generation of models. While OpenAI is yet to announce or even name the next model, the CEO said that the next models will be more powerful and smarter than what it is today.“I think the most important thing about GPT-5, or whatever we call (it), is that it’s going to be smarter. And this sounds like a dodge. But, I think that among the most remarkable facts in human history is that we can just do something and we can say right now with a high degree of scientific certainty, GPT-5 is going to be a lot smarter than GPT-4. GPT-6 is going to be a lot smarter than GPT-5 and we are not near the top of this curve,” said Altman.",ChatGPT maker OpenAI’s CEO Sam Altman has said that the AI chatbot developed by the company is not phenomenal. He also hinted that the successive models that the company may launch in future will comparatively be much more powerful than the ones individuals and businesses use today.,"https://static.toiimg.com/thumb/msid-109822309,imgsize-13146,width-400,resizemode-4/109822309.jpg"
+YouTube fixes video uploading error; read what the company has to say,https://timesofindia.indiatimes.com/technology/tech-news/youtube-fixes-video-uploading-error-read-what-the-company-has-to-say/articleshow/109822010.cms,"How this error affected users
 
 
 
-What Amazon has to say
+What the company said about the issue
 
 
 
-Amazon CEO Andy Jassy has violated federal labour law in the US. According to a report by CNBC, a National Labor Relations Board (NLRB) judge has ruled that the CEO of the e-commerce major violated the country’s labour laws while discussing unionisation efforts at the company with media outlets.The report notes that NLRB Administrative Law Judge Brian Gee cited multiple interviews Jassy gave in 2022.The interviews also coincided when union campaigns in Amazon’s warehouse and delivery operations were at their peak.In an interview with CNBC in April 2022, Jassy said that if employees were to vote in a union, they may be less empowered in the workplace and things would become “much slower” and “more bureaucratic.”Similarly, in another Bloomberg interview, Jassy stated: “If you see something on the line that you think could be better for your team or you or your customers, you can’t just go to your manager and say, ‘Let’s change it.’”Again, at the DealBook conference, Jassy said that without a union the workplace isn’t “bureaucratic, it’s not slow.”The NLRB filed a complaint against Amazon and Jassy the same year.Judge Gee ruled that Jassy’s comments “threatened employees that, if they selected a union, they would become less empowered and would find it harder to get things done quickly.”During his ruling, Gee also noted (spotted by CNBC) that Jassy’s other comments that unionisation would change workers’ relationship with their employers were lawful. However, the Amazon chief’s other remarks that employees would be less empowered and “better off” without a union violated labour law in the country, “because they went beyond merely commenting on the employee-employer relationship.”The judge has ordered Amazon to stop making such comments in the coming days. The NLRB has also asked the company to post and distribute a notice about the order to employees in the US.In a statement to CNBC, Amazon spokesperson Mary Kate Paradis said that the company disagrees with the NLRB’s ruling and that it intends to appeal.“The decision reflects poorly on the state of free speech rights today, and we remain optimistic that we will be able to continue to engage in a reasonable discussion on these issues where all perspectives have an opportunity to be heard,” Paradis explained.","A National Labor Relations Board (NLRB) judge has ruled that the CEO of the e-commerce major violated the country’s labour laws while discussing unionisation efforts at the company. In an interview with CNBC in April 2022, Jassy said that if employees were to vote in a union, they may be less empowered in the workplace and things would become “much slower’","https://static.toiimg.com/thumb/msid-109794996,imgsize-17580,width-400,resizemode-4/109794996.jpg"
-ChatGPT maker OpenAI CEO Sam Altman has made investment in this Israeli cyber startup,https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openai-ceo-sam-altman-has-made-investment-in-this-israeli-cyber-startup/articleshow/109794211.cms,"Israeli cyber security startup Apex, focused on securing the rapid adoption of artificial intelligence (AI) tools, has announced that it received an undisclosed investment from OpenAI CEO Sam Altman . Apex secured a total of $7 million in seed funding, led by Sequoia Capital and Index Ventures, with participation from Altman and others. The company stated it was finalizing paid contracts after successful trials with several Fortune 500 companies and investment firms.The new funds will be used for product development, hiring, and marketing efforts.With the rising demand for AI tools, like OpenAI's ChatGPT, that expedite tasks, users are increasingly looking for ways to safeguard their data and prevent security threats and inappropriate data infiltration.""There's a whole new landscape of threats and risks involving AI models,"" Matan Derman, Apex's CEO, told Reuters. ""It encompasses data leakage and data-related issues. It extends to privacy, compliance, and what re-enters an organization.""This, according to Derman, signifies a critical shift for the cybersecurity industry, which has traditionally focused on preventative measures and blocking unauthorized access.""Our goal at Apex is to build the additional security layers required for enterprises to adopt AI,"" he said. ""We're committed to maximizing our impact.""Israel is said to be a powerhouse in the cybersecurity domain, boasting hundreds of startups.Derman co-founded Apex ten months ago with Tomer Avni, a fellow officer in the elite 8200 intelligence unit of the Israeli military. The company has since operated in stealth mode, collaborating confidentially with select companies.""Every board member, CEO, investor, and entrepreneur is discussing AI and how to leverage it,"" Avni said. ""Therefore, the need for security is more pressing than ever.""Avni compared AI to prior major technological advancements like personal computers, networks, and the cloud, each necessitating enhanced security measures.""AI is likely to surpass all these prior revolutions,"" he said, ""because AI is simply pervasive.""","Apex secured a total of $7 million in seed funding, led by Sequoia Capital and Index Ventures. The company stated it was finalizing paid contracts after successful trials with several Fortune 500 companies. The new funds will be used for product development, hiring, and marketing efforts.","https://static.toiimg.com/thumb/msid-109794200,imgsize-37952,width-400,resizemode-4/109794200.jpg"
-"Microsoft-backed OpenAI may launch search, taking on Google's 'biggest product'",https://timesofindia.indiatimes.com/technology/tech-news/microsoft-backed-openai-may-launch-search-taking-on-googles-biggest-product/articleshow/109794140.cms,"OpenAI search likely to be powered by Microsoft
+YouTube users have reported facing issues on the platform. Creators accessing the Google-owned video streaming platform were reportedly unable to upload new videos. Previously, the tech giant has revealed that “more than 500 hours of content are uploaded to YouTube every minute.”According to a report by 9to5Google, users earlier complained that YouTube Studio (which is available only for the web client) showed messages like “Upload complete” and “Processing will begin shortly,” however, the users reported that they couldn’t see any progress.Moreover, users also noted that they didn’t face any problems while watching or searching for a video on YouTube.Google has now revealed that the error has been fixed and users will soon be able to upload new videos on YouTube. The company wrote:“The fix is rolling out to all creators and you should be able to upload videos in a few hours!If your video is stuck in processing, hold tight! It's best not to delete and re-upload for now.Thank you for bearing with us!”YouTube has confirmed the same on social media platform X (earlier Twitter).The company swiftly addressed and acknowledged the video-uploading issue on YouTube. Soon after users started complaining about it, the company took to X to announce that it was aware of the problem and “working to fix the issue.”Earlier, YouTube said that “video uploads [are] stuck in processing and not uploading,” for several accounts. The company also warned users that they may even see an error message while uploading new videos on the platform.In its support page, YouTube previously wrote: “We’re receiving reports that some users are seeing video uploads stuck in processing and not uploading. Our teams are aware of and working to fix the issue. We’ll have more updates soon.”",YouTube users have reported facing issues on the platform. Creators accessing the Google-owned video streaming platform were reportedly unable to upload new videos. Google has now revealed that the error has been fixed and users will soon be able to uploading new videos on YouTube.,"https://static.toiimg.com/thumb/msid-109822034,imgsize-12088,width-400,resizemode-4/109822034.jpg"
+"Garena Free Fire Max redeem codes for May 3, 2024: Win exciting rewards daily",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-may-3-2024-win-exciting-rewards-daily/articleshow/109802032.cms,"What are Free Fire Max redeem codes?
 
-Speculations in the tech world suggest that OpenAI is gearing up for a major announcement, possibly a new search engine . According to Jimmy Apples, who reports the claim as an insider, the company is planning an event this month (May), tentatively scheduled for May 9, 2024, at 10 am.This speculation is fueled by OpenAI's recent hiring spree for an events team, starting in January.""They were actively recruiting for in-house event staff and event marketing back in January, and just hired an events manager last month,"" shared Jimmy Apples, hinting at a significant event potentially in June where OpenAI might unveil its next big project, ""whatever Sam [Altman, CEO] decides to call it.""Furthermore, Jimmy Apples suggests a flurry of activity within OpenAI since late April. ""There have been at least 50 new internal subdomains created since April 24th.""According to media reports, if these rumors hold weight, OpenAI's search engine could preempt Google I/O, scheduled for May 14th, 2024. This could also render Perplexity AI obsolete, especially considering Microsoft 's recent ban on employee use due to security concerns.Reports have indicated that OpenAI has been developing a web search product, potentially intensifying competition with Google. The service might leverage Bing's infrastructure to some extent. In a recent podcast with Lex Fridman, OpenAI CEO Sam Altman acknowledged the potential of large language models (LLMs) in search: ""The perfect marriage of LLMs and search hasn't been achieved yet. I'd love to tackle that challenge, it would be exciting.""However, Altman emphasized OpenAI's desire to avoid simply replicating Google Search. ""I find the current model boring. The question shouldn't be about building a 'better' Google Search. It's about fundamentally improving information discovery, utilization, and synthesis,"" he explained.OpenAI's potential search app follows Microsoft CEO Satya Nadella's declaration last year to ""make Google dance"" by integrating OpenAI's GPT models into Bing. With both tech giants vying for search dominance, the landscape could be set for a significant shift in how users access information online.","Speculations in the tech world suggest that OpenAI is gearing up for a major announcement, possibly a new search engine. According to Jimmy Apples, who reports the claim as an insider, the company is planning an event this month (May), tentatively scheduled for May 9, 2024.","https://static.toiimg.com/thumb/msid-109794133,imgsize-481616,width-400,resizemode-4/109794133.jpg"
-"Meet the world’s first AI government representative, developed by this country",https://timesofindia.indiatimes.com/technology/tech-news/meet-the-worlds-first-ai-government-representative-developed-by-this-country/articleshow/109791625.cms,"As artificial intelligence (AI) technology takes the industries by storm, the world has got its first AID diplomat who will represent
+Garena Free Fire Max redeem codes for May 3, 2024:
 
-Ukraine
+A5B1C9D3F6K2L4
 
-. The Ukrainian Ministry of Foreign Affairs introduced
+M7N5O1P4Q8R2S6
 
-Victoria Shi
+T9U3V7X5Y1Z4W2
 
-– an
+G6H8I2J4K3L9M1
 
-AI-generated spokesperson
+N3O7P5Q2R6S8T4
 
-, marking the first use of an AI avatar for official government statements in history.
+B1C9D4E7F2G5H8
 
-Victoria Shi is based on a real person - Ukrainian singer and influencer Rosalie Nombre, who agreed to participate in the project.
+U3V8W2X5Y7Z4A6
 
-Statements delivered by Shi will be written by humans. The ministry posted a video on X (formerly Twitter) showing Shi dressed in a formal suit. She introduces herself as a digital person and uses head as well as hand movements for a more natural presentation.
+I2J5K8L1M3N9O4
 
-“Meet Victoria Shi — a
+P7Q2R5S9T6U3V8
 
-digital representative
+E1F6G4H9I3J7K2
 
-of the MFA of Ukraine, created using AI to provide timely updates on consular affairs!,” the tweet says.
+W5X2Y8Z6A3B1C7
 
-“For the first time in history, the MFA of Ukraine has presented a digital persona that will officially comment for the media,” it added.
+L4M9N6O3P1Q7R5
 
-How ministry will combat deepfake
+S2T8U5V1W4X6Y9
 
-To combat potential
+D7E3F1G5H2I8J4
 
-deepfake concerns
+Z6A9B3C7D2E8F5
 
-, each of Victoria's statements will include a unique QR code linking to the official text version on the Ministry's website. The video shared by the ministry on X also shows a QR code.
+K1L4M7N2O5P3Q8
 
-“Comments from Victoria will appear on the MFA's official website & social media platforms.
+T6U9V2W8X4Y7Z1
 
-The only original videos featuring statements from Victoria are those that contain a QR code linking to the MFA's official page with the statement's text,” a separate post on X read.
+H5I2J8K3L6M4N9
 
-Notably, the statements delivered by Shi will be written and verified by human staff, with only the visual aspect being AI-generated. Also, the ministry clarified that Shi is not a substitute for the spokesperson of the Ministry of Foreign Affairs of Ukraine.",Victoria Shi is an AI-generated spokesperson for the Ukrainian Ministry of Foreign Affairs. She is based on a real person - Ukrainian singer and influencer Rosalie Nombre.Statements delivered by Shi will be written by humans. Each of Victoria's statements will include a unique QR code.,"https://static.toiimg.com/thumb/msid-109791722,imgsize-15346,width-400,resizemode-4/109791722.jpg"
-"Songs of Drake, Taylor Swift and others are returning on TikTok: What it means for users",https://timesofindia.indiatimes.com/technology/tech-news/songs-of-drake-taylor-swift-and-others-are-returning-on-tiktok-what-it-means-for-users/articleshow/109789503.cms,"Why UMG pulled music from TikTok
+Q3R6S9T2U5V7W1
 
-Universal Music Group (UMG), which blasted TikTok for its ""exploitative"" tactics, has announced a multi-dimensional licensing agreement with the Chinese app that will bring songs by UMG ’s global family of artists, songwriters and labels on the short video-sharing platform. This means that songs by popular artists Taylor Swift , Drake and others will be back on TikTok.With the new deal in place, one billion-plus content creators and users will be able to use UMG music to make videos on the platform.“This new chapter in our relationship with TikTok focuses on the value of music, the primacy of human artistry and the welfare of the creative community. We look forward to collaborating with the team at TikTok to further the interests of our artists and songwriters and drive innovation in fan engagement while advancing social music monetization,” said Sir Lucian Grainge, chairman and CEO, Universal Music Group.The agreement between the two organisations focuses on two key areas. Firstly, both TikTok and UMG will collaborate to develop new ways for artists to generate revenue using TikTok's growing e-commerce features. Secondly, UMG will leverage TikTok's reach to promote its artists across all music genres and regions around the world through joint marketing campaigns.“Music is an integral part of the TikTok ecosystem and we are pleased to have found a path forward with Universal Music Group,” added Shou Chew, CEO of TikTok.Earlier this year, UMG started removing the music catalogues of artists the label represents after negotiations to renew licensing agreements with TikTok broke down. The previous licensing agreement between UMG and TikTok expired on January 31.UMG also accused the app of offering unfair compensation compared to other social media giants, failing to protect artists from piracy and even actively promoting the creation of AI-generated music that could potentially replace human artists.","Universal Music Group has announced a multi-dimensional licensing agreement with the Chinese app. UMG will bring songs by its global family of artists, songwriters and labels on the short video-sharing platform. This means that songs by popular artists Taylor Swift, Drake and others will be back on TikTok.","https://static.toiimg.com/thumb/msid-109789517,imgsize-39020,width-400,resizemode-4/109789517.jpg"
-"Garena Free Fire Max redeem codes for May 2, 2024: Win exciting rewards daily",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-may-2-2024-win-exciting-rewards-daily/articleshow/109768982.cms,"What are Free Fire Max redeem codes?
-
-Garena Free Fire Max redeem codes for May 2, 2024
-
-2E4C7V0B5N6M1Z8
-
-I2O3A4S5D62F7G8
-
-U9Y0ST1R2E3W4Q5
-
-H6J7K8L9Z1X2SC3
-
-M4N5B6SV7F8G9H0
-
-P1OS2I3U4Y5T6W7
-
-A8S9D0F1G2J3K4
+F8G1H4I7J5K9L2
 
 How to redeem Free Fire codes
 
@@ -114,7 +124,7 @@ Kindly allow a 24-hour processing period for the rewards to be credited
 
 Also read
 
-Garena Free Fire Max is an enhanced version of the widely popular Garena Free Fire, which gained significant traction in India after its predecessor was banned. Known for its impressive visuals and engaging gameplay, the game has garnered widespread acclaim nationwide.One notable feature of Garena Free Fire Max is its daily redemption codes, which enhance the player experience by adding excitement and urgency.These time-limited codes remain active for 12 to 18 hours, fostering anticipation and increasing user engagement.Following developer guidelines, the 12-character alphanumeric redemption codes of Garena Free Fire Max provide daily rewards to a maximum of 500 registered players, ensuring fairness and equal opportunities for progression.With its time-sensitive rewards, stunning graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately crafted universe promises an exhilarating adventure for players, solidifying its position in India's battle royale gaming scene.Players who use redeem codes in Garena Free Fire Max can access a variety of valuable in-game items, including weapons, diamonds, and exclusive skins. These codes comprise 12-character alphanumeric combinations, enriching the gaming experience. Upon redemption, players can unlock rewards such as Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. It's noteworthy that these codes are time-limited, active for up to 12 hours, and restricted to the first 500 users who redeem them.","Garena Free Fire Max is an enhanced version of the widely popular Garena. Known for its impressive visuals and engaging gameplay, the game has garnered widespread acclaim nationwide. One notable feature of the game is its daily redemption codes, which enhance the player experience by adding excitement and urgency.","https://static.toiimg.com/thumb/msid-109768987,imgsize-52216,width-400,resizemode-4/109768987.jpg"
+Garena Free Fire Max represents an upgraded iteration of the immensely popular Garena Free Fire, which gained significant traction in India following the ban of its predecessor. Renowned for its exceptional visuals and captivating gameplay, the game has garnered widespread acclaim across the nation.A standout feature of Garena Free Fire Max is its daily redemption codes, designed to enhance the player experience by injecting excitement and urgency.These time-limited codes remain active for 12 to 18 hours, fostering anticipation and boosting user engagement.Adhering to developer guidelines, the 12-character alphanumeric redemption codes of Garena Free Fire Max offer daily rewards to a maximum of 500 registered players, ensuring fairness and equal opportunities for progression.With its time-sensitive rewards, stunning graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately crafted universe promises an exhilarating adventure for players, solidifying its position in India's battle royale gaming scene.Players who use redeem codes in Garena Free Fire Max can access a variety of valuable in-game items, including weapons, diamonds, and exclusive skins. These codes comprise 12-character alphanumeric combinations, enriching the gaming experience. Upon redemption, players can unlock rewards such as Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. It's noteworthy that these codes are time-limited, active for up to 12 hours, and restricted to the first 500 users who redeem them.","Garena Free Fire Max redeem codes for May 3, 2024: A5A5B1C9D3F3F, B5A4A5C9, C5A6C5C, D5A7C5, D6C6C7, D7C7. The codes are time-limited, active for up to 12 hours, and restricted to the first 500 users who redeem them.","https://static.toiimg.com/thumb/msid-109802048,imgsize-29064,width-400,resizemode-4/109802048.jpg"
 "Instagram captions for girls: Love, cool, attitude, and other caption ideas to boost your Instagram posts",https://timesofindia.indiatimes.com/technology/tech-tips/instagram-caption-for-girls-love-cool-attitude-and-other-caption-ideas-to-boost-your-instagram-posts/articleshow/109572910.cms,"Best Instagram captions for girls
 
 Sunkissed and summertime bliss
@@ -1234,27 +1244,13 @@ Let your light shine bright.
 Also read
 
 When it comes to enhancing the impact of your Instagram posts with images and videos, incorporating unique and stylish captions can significantly elevate their appeal and engagement. In this article, we've curated a diverse collection of Instagram captions tailored specifically for girls, spanning categories like best, attitude, cute, cool, and more.These captions serve as a creative way to express your posts with a personal touch, adding depth and personality to your content. Additionally, using the right caption can contribute to achieving higher impressions and reach on Instagram, enhancing the overall impact of your social media presence.","Summarize: Best Instagram captions for girls based on confidence level: selfie with no filter. ""I'm not a backup plan, and definitely not a second choice"" ""Be a voice, not an echo. Less perfection, more authenticity.Simplicity is the ultimate sophistication""","https://static.toiimg.com/thumb/msid-109572992,imgsize-21882,width-400,resizemode-4/109572992.jpg"
-"Amazon Great Summer Sale is now live: Non-to-miss deals on smartphones from OnePlus, Apple, Samsung, Vivo, Oppo and more",https://timesofindia.indiatimes.com/technology/mobiles-tabs/amazon-great-summer-sale-is-now-live-non-to-miss-deals-on-smartphones-from-oneplus-apple-samsung-vivo-oppo-and-more/articleshow/109769167.cms,"OnePlus smartphone deals
+"Tim Cook: “We are very, very pleased about…” Tim Cook on how Apple’s doing in India",https://timesofindia.indiatimes.com/technology/tech-news/we-are-very-very-pleased-about-tim-cook-on-how-apples-doing-in-india/articleshow/109809655.cms,"Need to be more “competitive” for ‘Make in India’
 
+Continuing retail expansion
 
+Focus on nurturing the developer community in India
 
-Apple iPhone deals
-
-
-
-Samsung smartphone deals
-
-iQoo smartphone deals
-
-
-
-Realme smartphone deals
-
-Xiaomi smartphone deals
-
-
-
-Amazon Great Summer Sale is now live for Prime members and starting at Noon, the deals and discounts will also go live for non-Prime members too. While discounts are available on a wide range of products spread over different categories, some smartphone deals are too good to be true. Here are some non-to-miss smartphone deals for you.Customers can enjoy up to Rs 3,000 instant bank discount on OnePlus smartphones.Notable offers include the OnePlus Nord CE4 at Rs 22,999 with bank offers and the newly launched OnePlus 12R at Rs 37,999 including all offers. The OnePlus 11R is also available for the first time ever at Rs 29,999 including a bank offer.The iPhone 13 is up for grabs at Rs 47,499, inclusive of a bank offer.Samsung smartphones are available with up to Rs 6,000 instant bank discount during this sale. Models start at just Rs 9,499, and the Samsung M15 5G with Amoled screen can be purchased for Rs 10,999 after applying additional bank discounts. Additional perks include exchange offers worth up to Rs 6,000 and up to 9 months No Cost EMI on select models.Buyers can available up to Rs 3,000 instant bank discount on iQoo smartphones during the Amazon sale. The latest launch, the iQOO Z7s 5G, is available for Rs 13,999. The iQOO Z7 Pro comes at a discounted price of Rs 20,999, and the iQOO Neo 7 Pro 5G is priced at Rs 29,999 after an instant bank discount of Rs 1,000.Realme smartphones feature instant bank discounts of up to Rs 2,740 and Amazon coupon offers worth up to Rs 2,000. Notable models include the Realme Narzo 70 at Rs 14,999 after applying an additional coupon offer and the Realme NARZO 70x 5G at Rs 10,999 including a coupon offer of Rs 1000.Xiaomi smartphones are available at instant bank discounts of up to Rs 5,000 and coupon offers worth up to Rs 200. The Redmi 125G is available at its lowest price ever of Rs 9,999 after applying an additional offer, and the Redmi 13C 5G can be yours for Rs 9,499 including a coupon offer.","Amazon Great Summer Sale is now live for Prime members and starting at Noon, the deals and discounts will also go live for non-Prime members too. Customers can enjoy up to Rs 3,000 instant bank discount on OnePlus smartphones. The iPhone 13 is up for grabs at Rs 47,499, inclusive of a bank offer.","https://static.toiimg.com/thumb/msid-109769167,imgsize-33638,width-400,resizemode-4/109769167.jpg"
+Apple posted double-digit growth in India during the March quarter of 2024 despite an overall 4 percent revenue decline year-over-year. CEO Tim Cook couldn't be more ""pleased"" about the company's robust performance in the country. In a post-earnings conference call, Cook stated, ""We did grow strong double-digit. And so we were very, very pleased about it.It was a new March quarter revenue record for us.""Cook stressed the importance of manufacturing iPhones in India to remain competitive. ""In terms of the operational side or supply chain side, we are producing there, from a pragmatic point of view, you need to produce there to be competitive,"" he said.Apple has been ramping up its iPhone assembly in India over the past few years, partnering with contract manufacturers to produce a range of models, from the iPhone 12 to the latest iPhone 15. The company aims to make 25% of its iPhone production in India by 2025 as it seeks to diversify its supply chain and reduce reliance on China.In addition to being bullish on local manufacturing, Apple has also been increasing its retail footprint in India. The company opened two new stores in Mumbai and Delhi last year, and both stores are reported to be making an average of Rs 16-17 crores a month.""We just opened a couple of stores last year, as you know, and we see enormous opportunity there. We're continuing to expand our channels, and also working on the developer ecosystem as well,"" Cook said, emphasising the potential for growth in India.Last month, The Economic Times reported that Apple is scouting new locations to open three new stores, which could be in the cities of Pune, Bangalore, and Noida.Apple has also been focusing on nurturing thedeveloper community in India, recognizing the country's vast tech talent pool. The company last told in 2023 that it has over a million developer jobs in India, and from Cook’s comment, Apple seems to be actively working to expand its ecosystem.""We've been very pleased that there is a rapidly-growing base of developers there. And so, we're working all of the entire ecosystem from developer to the market to operations, the whole thing,"" Cook said, highlighting Apple's holistic approach to engaging with the developer community.Luca Maestri, Apple's Chief Financial Officer, highlighted the company's strong performance in emerging markets, including India. ""We were particularly pleased with our strong momentum in emerging markets, as we set first-half revenue records in several countries and regions including Latin America, West Asia, India, Indonesia, the Philippines, and Turkey,"" Maestri said.Cook further stressed that India has emerged as a key focus area for Apple, with the CEO describing the country as ""an incredibly exciting market and a major focus for us [Apple].""","Apple posted double-digit growth in India during the March quarter of 2024. CEO Tim Cook couldn't be more ""pleased"" about the company's robust performance in the country. Apple has been ramping up its iPhone assembly in India over the past few years.","https://static.toiimg.com/thumb/msid-109809740,imgsize-1947186,width-400,resizemode-4/109809740.jpg"
 CBSE Result 2024: 4 ways you can check Class 10 and Class 12 board exam results online,https://timesofindia.indiatimes.com/technology/tech-tips/cbse-result-2024-4-ways-you-can-check-class-10-and-class-12-board-exam-results-online/articleshow/109775026.cms,"Roll number
 
 School number
@@ -1374,61 +1370,15 @@ Compatible with Apple Pencil (2nd generation) for drawing and note-taking, and M
 Also read
 
 The iPad Air 5th Gen is now available on Flipkart with attractive features and a special pricing offer. Originally priced at Rs 59,900, Flipkart is currently offering a discounted rate of Rs 55,400, representing a 7% reduction. However, the savings don't end there! Customers can maximise their discounts by taking advantage of an exchange offer and additional benefits.Flipkart offers an exchange discount of up to Rs 21,500 for customers trading in their old iPhone 13 mini in good condition.Furthermore, customers can benefit from an extra Rs 2,400 discount on Microsoft Subscription by activating the key received from Flipkart.com.By combining the exchange deal and the Microsoft subscription discount, the Apple iPad Air 5th Gen (64GB, 10.9-inch, Wi-Fi only) is available at an incredibly low price of just Rs 31,500. This offer presents a fantastic opportunity to acquire the iPad Air 5th Gen at a highly competitive price, making it a compelling choice for those seeking cutting-edge technology at an affordable rate.","The iPad Air 5th Gen is now available on Flipkart with attractive features and a special pricing offer. Originally priced at Rs 59,900, Flipkmart is currently offering a discounted rate of Rs 55,400. Customers can maximise their discounts by taking advantage of an exchange offer and additional benefits.","https://static.toiimg.com/thumb/msid-109761559,imgsize-10478,width-400,resizemode-4/109761559.jpg"
-Stellar Blade is now one of the highest-rated games on Sony PS5: Report,https://timesofindia.indiatimes.com/technology/gaming/stellar-blade-is-now-one-of-the-highest-rated-games-on-ps5-report/articleshow/109750085.cms,"Stellar Blade , the game that launched on April 26 on PS5, has already managed to win the hearts of gamers and has become one of top the rating charts on the rating website -- Metacritic, according to GameRant's report.Stellar Blade, an action RPG from developer Shift Up , currently has a user score of 9.1 on the Metacritic website which makes it the third highest-rated game on PlayStation 5 after Resident Evil 4: Separate Ways and Cyberpunk 2077: Ultimate Edition which both sit at 9.2.Here’s everything you need to know about Stellar Blade game.Stellar Blade is a narrative-driven game following the journey of Eve, a warrior aiming to defeat the Naytibas, mysterious enemies that emerged on Earth . Alongside Adam and Lily, Eve battles against the Naytibas, forming alliances with surviving citizens in Xion, the last human city.The game features a semi-open world including the Wasteland and the Great Desert, where players engage in various adventures and aid Xion's residents. Missions involve gathering Hyper Cells to restore Xion's energy, leading to encounters with additional characters. \Throughout the game, players collect items like Exospines and Gears, as well as SP EXP to unlock powerful skills. Various cosmetics, including costumes, accessories, and hairstyles, are also available. The game's soundtrack offers a diverse range of music, immersing players in its world.Additionally, players can customise their characters with a range of cosmetics, including costumes and accessories. The game's soundtrack features diverse compositions, ranging from serene melodies at campsites to evocative tunes reflecting the desolation of ruined cities. Stellar Blade leverages the DualSense controller's capabilities, utilising haptics and adaptive triggers to further immerse players in its world of turmoil and resilience.",Stellar Blade currently has a user score of 9.1 on the Metacritic website. It is the third highest-rated game on PlayStation 5 after Resident Evil 4: Separate Ways and Cyberpunk 2077: Ultimate Edition which both sit at 9.2.,"https://static.toiimg.com/thumb/msid-109750085,imgsize-86746,width-400,resizemode-4/109750085.jpg"
+"Honor X9b 5G available with up to Rs 7,000 discount on Amazon: Here’s how to get the offer",https://timesofindia.indiatimes.com/technology/mobiles-tabs/honor-x9b-5g-available-with-up-to-rs-7000-discount-on-amazon-heres-how-to-get-the-offer/articleshow/109822479.cms,"Amazon Great Summer Sale: Discounts on Honor products
+
+
+
+HTech launched its second smartphone, the Honor X9b 5G , in India earlier this year in February. The company has now announced new deals across its range of products -- which include the latest Honor Choice Earbuds X5 and the Honor Choice Watch . These deals are exclusively available on the e-commerce platform Amazon in the ongoing ‘ Great Summer Sale ’ which will run till May 7.While buying the Honor X9b on Amazon, consumers can enjoy offers up to Rs. 7000. In this sale, the smartphone which was launched in February at Rs 25,999, is now available at Rs 18,999.The offer includes a complimentary coupon discount of Rs. 4000 along with a bank offer of Rs. 3000 on all transactions made with debit or credit cards. This comprehensive discount scheme applies across all card types.Apart from the Honor X9b smartphone, the company is also offering deals on its AIOT devices. This will help customers to access an Honor ecosystem experience.The Honor Choice Watch is now available at a discounted price of Rs 4999. The smartwatch which was launched at Rs 6,499 is now selling on Amazon with a discount of Rs 1500.Additionally, the Honor Choice X5 earbuds are now available at a Rs 200 discount and can be purchased at Rs 1,799. The company launched the TWS earbuds model at Rs 1,999.To further add to the summer sale offers, the earbuds will receive an additional discount of Rs. 100 for the first two days of the sale (until 3rd May) taking the price to as low as Rs. 1,699.","Honor X9b 5G is now available at a discounted price of Rs 18,999 on Amazon. The Honor Choice X5 earbuds are now available with a Rs 200 discount and can be purchased at Rs 1,799. The company is also offering deals on its AIOT devices.","https://static.toiimg.com/thumb/msid-109822464,imgsize-89622,width-400,resizemode-4/109822464.jpg"
 Online gaming app scam 'E-Nugget': ED freezes Rs 90 crore in 70 accounts,https://timesofindia.indiatimes.com/technology/tech-news/online-gaming-app-scam-e-nugget-ed-freezes-rs-90-crore-in-70-accounts/articleshow/109752608.cms,"In Kolkata, the Enforcement Directorate (ED) recently carried out a crackdown on a suspected online gaming fraud named "" E-Nugget ."" The application, posing as a gaming platform, purportedly enticed users with the prospect of significant investment gains. The ED claims that the app abruptly halted its operations, leaving users unable to withdraw their funds.The Enforcement Directorate started its investigation in 2022 following the discovery of evidence indicating that some of the acquired funds were invested in digital assets.Approximately 2,500 bank accounts associated with the operation were identified, and searches led to the seizure of around Rs 19 crore.Claims suggest that the E-Nugget app, disguised as a gaming platform, assured users of significant returns on their investments. The Enforcement Directorate (ED) launched its investigation following a police report filed by the Kolkata police concerning suspected illegal activities involving Aamir Khan and his associates. They stand accused of deceiving users of the E-Nuggets app with enticing returns before abruptly terminating the scheme. In the course of the operation, the ED seized ₹2.43 crore from 66 bank accounts under the provisions of the Prevention of Money Laundering Act (PMLA).Aamir Khan, identified as a central figure in the alleged scam, has been arrested and is currently in custody. The ED collaborated with cryptocurrency exchanges Binance, ZebPay, and WazirX, resulting in the freezing of approximately ₹90 crore in funds associated with the operation.“Offering a series of enticing games designed for real-money wagering and promising users hefty commissions, the app painted a picture of a golden investment opportunity. However, this facade quickly fell apart once investments were made, with the app going dark and leaving investors stranded without a way to reclaim their funds,” reads the release.","The Enforcement Directorate (ED) recently carried out a crackdown on a suspected online gaming fraud named E-Nugget. The application, posing as a gaming platform, purportedly enticed users with the prospect of significant investment gains. The ED claims that the app abruptly halted its operations, leaving users unable to withdraw their funds. Aamir Khan, identified as a central figure in the alleged scam, has been arrested.","https://static.toiimg.com/thumb/msid-109752591,imgsize-1768299,width-400,resizemode-4/109752591.jpg"
-"This techie is the world’s richest prisoner, with a net worth of $43 billion",https://timesofindia.indiatimes.com/technology/tech-news/this-techie-is-the-worlds-richest-prisoner-with-a-net-worth-of-43-billion/articleshow/109753350.cms,"The founder and former CEO of the world’s largest
+"This techie is the world’s richest prisoner, with a net worth of $43 billion",https://timesofindia.indiatimes.com/technology/tech-news/this-techie-is-the-worlds-richest-prisoner-with-a-net-worth-of-43-billion/articleshow/109753350.cms,"How Zhao’s sentence is different from Sam Bankman-Fried
 
-cryptocurrency exchange
-
-,
-
-Binance
-
-,
-
-Changpeng Zhao
-
-has been sentenced to four months in prison. According to a report by Bloomberg, he has been sentenced for failing to prevent cybercriminals and terrorist groups from trading freely on Binance.
-
-Last year, Zhao even pleaded guilty to violations of US anti-money laundering and sanctions laws.
-
-With this sentence, Zhao becomes the richest person to be imprisoned (in the US and perhaps even the world), and the second major crypto boss to be sentenced to prison after
-
-FTX
-
-’s
-
-Sam Bankman-Fried
-
-.
-
-The report suggests that, unlike Bankman-Fried, Zhao’s assets worth $43 billion will remain untouched even with the sentence.
-
-Moreover, the ongoing crypto bull run is expected to increase his net worth even more while he is jailed.
-
-In 2023, Zhao stepped down as the CEO of Binance but still retains an estimated 90% stake in the world’s largest crypto exchange. Considering that the board of directors mostly comprises his close friends, Zhao’s influence on the company is still intact, the report noted.
-
-How Zhao’s sentence is different from Sam Bankman-Fried
-
-The sentence imposed by
-
-US District Judge Richard Jones
-
-in Seattle is relatively shorter than the three years requested by the prosecutors.
-
-His sentence was also much below the maximum 1-1/2 years recommended under federal guidelines.
-
-To compare, Zhao’s sentence was also much lighter than the 25 years of captivity that was imposed on Sam Bankman-Fried in March. Bankman-Fried was accused of stealing $8 billion from customers of the FTX crypto exchange which is now bankrupt. However, Bankman-Fried has appealed his conviction and sentence.
-
-Moreover, prosecutors also seemed happy with the sentence which was the outcome of a long investigation spanning years into Binance and Zhao.
-
-The billionaire also lived in the United Arab Emirates which is beyond US reach.
-
-“This was an epic day. Incarceration was critical in this case and we’re pleased with the result,” said US Attorney
-
-Tessa Gorman
-
-, as per news agency Reuters.","Changpeng Zhao has been sentenced to four months in prison for failing to prevent cybercriminals and terrorist groups from trading freely on Binance. Zhao is the richest person to be imprisoned (in the US and perhaps even the world), and the second major crypto boss to be sentenced to prison after Sam Bankman- Fried.","https://static.toiimg.com/thumb/msid-109753365,imgsize-14866,width-400,resizemode-4/109753365.jpg"
+The founder and former CEO of the world’s largest cryptocurrency exchange , Binance , Changpeng Zhao has been sentenced to four months in prison. According to a report by Bloomberg, he has been sentenced for failing to prevent cybercriminals and terrorist groups from trading freely on Binance. Last year, Zhao even pleaded guilty to violations of US anti-money laundering and sanctions laws.With this sentence, Zhao becomes the richest person to be imprisoned (in the US and perhaps even the world), and the second major crypto boss to be sentenced to prison after FTX ’s Sam Bankman-Fried .The report suggests that, unlike Bankman-Fried, Zhao’s assets worth $43 billion will remain untouched even with the sentence. Moreover, the ongoing crypto bull run is expected to increase his net worth even more while he is jailed.In 2023, Zhao stepped down as the CEO of Binance but still retains an estimated 90% stake in the world’s largest crypto exchange. Considering that the board of directors mostly comprises his close friends, Zhao’s influence on the company is still intact, the report noted.The sentence imposed by US District Judge Richard Jones in Seattle is relatively shorter than the three years requested by the prosecutors. His sentence was also much below the maximum 1-1/2 years recommended under federal guidelines.To compare, Zhao’s sentence was also much lighter than the 25 years of captivity that was imposed on Sam Bankman-Fried in March. Bankman-Fried was accused of stealing $8 billion from customers of the FTX crypto exchange which is now bankrupt. However, Bankman-Fried has appealed his conviction and sentence.Moreover, prosecutors also seemed happy with the sentence which was the outcome of a long investigation spanning years into Binance and Zhao. The billionaire also lived in the United Arab Emirates which is beyond US reach.“This was an epic day. Incarceration was critical in this case and we’re pleased with the result,” said US Attorney Tessa Gorman , as per news agency Reuters.","Changpeng Zhao has been sentenced to four months in prison for failing to prevent cybercriminals and terrorist groups from trading freely on Binance. Last year, Zhao even pleaded guilty to violations of US anti-money laundering and sanctions laws. Zhao becomes the richest person to be imprisoned (in the US and perhaps even the world)","https://static.toiimg.com/thumb/msid-109753365,imgsize-14866,width-400,resizemode-4/109753365.jpg"
 "Apple iPhone 15 available at an unbelievable price of Rs 22,725 on Amazon; know how to grab the deal",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-15-available-at-an-unbelievable-price-of-rs-22725-on-amazon-know-how-to-grab-the-deal/articleshow/109776352.cms,"Apple iPhone 15 Amazon discount details
 
 Apple iPhone 15 specifications and features
@@ -2217,179 +2167,11 @@ Is there a limit to how often I can change the WhatsApp group name?
 Also read
 
 In the realm of messaging apps, WhatsApp reigns supreme, connecting people worldwide through its versatile group chat feature. Whether you're organising a family reunion, coordinating with colleagues, or bonding with friends, choosing the perfect group chat name adds a touch of personality and cohesion to your conversations. To help you stand out and spark excitement in your WhatsApp groups, we've curated a collection of the best group chat name ideas that cater to various interests and themes.Choosing the right group chat name can set the tone for your discussions and make your group memorable.The options range from clever puns to thoughtful expressions, offering limitless possibilities. Whether you're seeking inspiration for a fun group of friends or a professional network, these creative group chat names are sure to resonate.Yes, emojis can be used to add a touch of fun and personality to a WhatsApp group name. Simply tap on the emoji icon while entering the group name and choose the emojis you wish to include.Selecting a WhatsApp group name that everyone likes can be challenging, especially with diverse tastes among group members. One approach is to conduct a poll where members vote for their preferred name. Alternatively, aim for a name that resonates with everyone's interests and significance.No, you can change the WhatsApp group name as frequently as desired. However, frequent changes may confuse members and obscure the group's purpose or theme. It's advisable to settle on a name that garners group consensus and maintain it for a reasonable duration.",summarize: Best WhatsApp group chat names that are funny and lighthearted. Worst WhatsApp group names for office/colleagues. Best WhatsApp names for hobby and interest-based groups. Best names for boys' and girls' WhatsApp groups.,"https://static.toiimg.com/thumb/msid-109443060,imgsize-15334,width-400,resizemode-4/109443060.jpg"
-Airtel prepaid and postpaid plans that offer free Netflix subscription,https://timesofindia.indiatimes.com/technology/tech-news/airtel-prepaid-and-postpaid-plans-that-offer-free-netflix-subscription/articleshow/109747755.cms,"Airtel Netflix prepaid and postpaid plans
+"Wordle 1049 Puzzle for May 3, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1049-puzzle-for-may-3-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/109800137.cms,"Wordle 1049 Hints and Clues for May 3, 2024
 
-Airtel Rs 1499 postpaid plan
+Wordle 1049, May 3, 2024: Word of the Day
 
-Airtel Rs 1199 postpaid plan
-
-Airtel Netflix prepaid plan
-
-Postpaid Plan
-
-
-
-Price (Rs)
-
-
-
-Benefits
-
-
-
-Rs 1499
-
-
-
-1499
-
-
-
-- Free Netflix subscription
-
-
-
-
-
-
-
-- Disney+ Hotstar subscription
-
-
-
-
-
-
-
-- Prime Video subscription
-
-
-
-
-
-
-
-- 200GB data with rollover
-
-
-
-
-
-
-
-- Unlimited calling
-
-
-
-
-
-
-
-- 100 SMS per day
-
-
-
-Rs 1199
-
-
-
-1199
-
-
-
-- Netflix subscription
-
-
-
-
-
-
-
-- Amazon Prime Video subscription
-
-
-
-
-
-
-
-- Disney+ Hotstar subscription
-
-
-
-
-
-
-
-- 150GB data with rollover
-
-
-
-
-
-
-
-- Unlimited calling
-
-
-
-Airtel Netflix
-
-
-
-1499
-
-
-
-- Basic Netflix subscription (Rs 199)
-
-
-
-Prepaid Plan
-
-
-
-
-
-- Unlimited calling
-
-
-
-
-
-
-
-- 100 SMS per day
-
-
-
-
-
-
-
-- 3GB daily data
-
-
-
-
-
-
-
-- Unlimited 5G data
-
-
-
-
-
-
-
-- Airtel Thanks benefits
-
-
-
-
-
-Airtel has a range of prepaid and postpaid plans available for its customers. Among them, some come with complimentary OTT subscriptions and a few of them include Netflix as well.Here is a list of all the prepaid and postpaid plans from Airtel that offer Netflix subscriptions for free along with other benefits like calling, SMS, data, etc.Airtel offers three plans that come with a Netflix subscription for free.There are two postpaid plans and one prepaid plan available for customers. Here’s a list.This is the most expensive postpaid plan to offer a free Netflix subscription . Additionally, the plan also includes a Disney+ Hotstar subscription and Prime Video subscription . Other benefits include 200GB of data with data rollover, unlimited calling and 100SMS per day.Airtel Rs 1199 postpaid plan comes with unlimited calling, 150GB data with data rollover, Netflix, Amazon Prime Video and Disney+ Hotstar subscription.Airtel’s Rs 1,499 Netflix prepaid plan comes with a basic subscription which costs Rs 199. Apart from this, the plan also offers unlimited calling, 100SMS per day, 3GB daily data, unlimited 5G data and Airtel Thanks benefits.Do note that the Netflix subscription is included with these plans are Netflix (Basic) plan which costs Rs 199 and it offers single-screen viewing at 720p resolution. It works across devices including TV, smartphones and the web.","Airtel has a range of prepaid and postpaid plans available for its customers. Among them, some come with complimentary OTT subscriptions and a few of them include Netflix as well. Airtel offers three plans that come with a Netflix subscription for free.","https://static.toiimg.com/thumb/msid-109747755,imgsize-38314,width-400,resizemode-4/109747755.jpg"
+Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Since its debut in 2021, the word game has gained popularity among users across the globe. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.Today's Wordle 1049 puzzle presents a relatively straightforward challenge, likely to be decoded by many participants.To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Are you ready for another round of the super fun Wordle puzzle game to test your linguistic skills?There are two vowels in today’s word of the day.Second alphabet of the word is B..Third alphabet in today’s quiz word is a vowel.No alphabets are repeated in the word.The word ends with Y.Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. Drumroll please, as we unveil the answer for Wordle 1049.Today's Wordle 1049 word is EBONY.","Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.","https://static.toiimg.com/thumb/msid-109800134,imgsize-14268,width-400,resizemode-4/109800134.jpg"
 Indian Bike Driving 3D Cheat Codes May 2024: Bike driving cheat codes revealed and know how to use cheat codes,https://timesofindia.indiatimes.com/technology/gaming/indian-bike-driving-3d-cheat-codes-bike-driving-cheat-codes-revealed-and-know-how-to-use-cheat-codes/articleshow/109781848.cms,"Indian Bike Driving 3D cheat codes and rewards
 
 Active Codes
@@ -2736,3 +2518,4 @@ Indian Bike Driving 3D is a mobile game similar to GTA, offering players the fre
 "This lakh rupee Oppo flip phone is selling at 50% discount, here's all you need to know",https://timesofindia.indiatimes.com/technology/mobiles-tabs/this-lakh-rupee-oppo-flip-phone-is-selling-at-50-discount-heres-all-you-need-to-know/articleshow/109752789.cms,"Oppo Find N3 Flip: Specifications, features, and more
 
 Oppo has slashed the price of its flagship flip phone , the Find N3 Flip ( review ), by half. Launched six months ago, in October 2023, at Rs 94,999, the Find N3 Flip is now available on Flipkart for Rs 49,999 and there are no terms and conditions whatsoever.The 256GB storage variant of the Oppo Find N3 Flip , which has a maximum retail price of Rs 99,999, already on a discount of Rs 5,000, selling at price of Rs 94,999 on Flipkart, is now available for Rs 49,999, at a total discount of Rs 50,000 or 50%.There is a Rs 99 Secured Packaging Fee, so the total cart price comes to Rs 50,098.Aside from the discount, Flipkart is also offering a 5% cashback on using a Flipkart Axis Bank Card. Additionally, SBI Credit Card holders can avail a 10% instant discount of up to Rs 1,000. If you prefer EMI transactions, SBI Credit Card EMI offers a 10% instant discount of up to Rs 1,250.The Oppo Find N3 Flip is powered by the high-end MediaTek Dimensity 9200 chipset. It has a 6.8-inch 120Hz AMOLED main screen and a large 3.26-inch external AMOLED display with a peak brightness of 900 nits, making it one of the most impressive flip phones on the market.The Find N3 Flip runs on Android 13 out of the box and recently received the ColorOS 14 update based on Android 14. The phone has 12GB RAM and 256GB storage. It packs a sizable 4,300mAh battery that supports 44W wired charging, although it lacks wireless charging capabilities.The phone has a triple camera setup, comprising a 50MP primary camera, a 48MP ultrawide sensor, and a 32MP telephoto lens with 2x optical zoom. For selfies, there's a 32MP shooter on the internal screen.Oppo Find N3 Flip comes in two colourways – Cream Gold and Sleek Black.","Oppo Find N3 Flip was launched six months ago, in October 2023, at Rs 94,999. It is now available on Flipkart for Rs 49,999 and there are no terms and conditions whatsoever. The phone has a 6.8-inch 120Hz AMOLED main screen and a 3.26-inch external AMOLed display with a peak brightness of 900 nits.","https://static.toiimg.com/thumb/msid-109752760,imgsize-121886,width-400,resizemode-4/109752760.jpg"
+Stellar Blade is now one of the highest-rated games on Sony PS5: Report,https://timesofindia.indiatimes.com/technology/gaming/stellar-blade-is-now-one-of-the-highest-rated-games-on-ps5-report/articleshow/109750085.cms,"Stellar Blade , the game that launched on April 26 on PS5, has already managed to win the hearts of gamers and has become one of top the rating charts on the rating website -- Metacritic, according to GameRant's report.Stellar Blade, an action RPG from developer Shift Up , currently has a user score of 9.1 on the Metacritic website which makes it the third highest-rated game on PlayStation 5 after Resident Evil 4: Separate Ways and Cyberpunk 2077: Ultimate Edition which both sit at 9.2.Here’s everything you need to know about Stellar Blade game.Stellar Blade is a narrative-driven game following the journey of Eve, a warrior aiming to defeat the Naytibas, mysterious enemies that emerged on Earth . Alongside Adam and Lily, Eve battles against the Naytibas, forming alliances with surviving citizens in Xion, the last human city.The game features a semi-open world including the Wasteland and the Great Desert, where players engage in various adventures and aid Xion's residents. Missions involve gathering Hyper Cells to restore Xion's energy, leading to encounters with additional characters. \Throughout the game, players collect items like Exospines and Gears, as well as SP EXP to unlock powerful skills. Various cosmetics, including costumes, accessories, and hairstyles, are also available. The game's soundtrack offers a diverse range of music, immersing players in its world.Additionally, players can customise their characters with a range of cosmetics, including costumes and accessories. The game's soundtrack features diverse compositions, ranging from serene melodies at campsites to evocative tunes reflecting the desolation of ruined cities. Stellar Blade leverages the DualSense controller's capabilities, utilising haptics and adaptive triggers to further immerse players in its world of turmoil and resilience.",Stellar Blade currently has a user score of 9.1 on the Metacritic website. It is the third highest-rated game on PlayStation 5 after Resident Evil 4: Separate Ways and Cyberpunk 2077: Ultimate Edition which both sit at 9.2.,"https://static.toiimg.com/thumb/msid-109750085,imgsize-86746,width-400,resizemode-4/109750085.jpg"
