@@ -1,180 +1,157 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-Google is shutting down this four year old service in June this year,https://timesofindia.indiatimes.com/technology/tech-news/google-is-shutting-down-this-four-year-old-service-in-june-this-year/articleshow/110132692.cms,"Google One users in India need not worry
+Google I/O 2024: Android is getting features to protect phones when they are stolen,https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-android-is-getting-features-to-protect-phones-when-they-are-stolen/articleshow/110157237.cms,"Improved device and data protection to deter theft before it happens
 
-How to remove VPN by Google One from your device
+Security features to strengthen Android device's security against theft:
 
-Open Finder.
+Factory reset upgrade prevents a reset by a thief:
 
-Click Applications in the sidebar.
+Private space to hide sensitive apps:
 
-Drag ""VPN by Google One"" to the Trash.
+More steps for changing sensitive device settings:
 
-Right-click on ""VPN by Google One.""
+Enhanced authentication in case the PIN is known by a thief:
 
-Select Move to Trash.
+Automatic protection when the phone is stolen
 
-If you're asked for a username and password, enter the credentials of an administrator account on your Mac. This can be the name and password you use to log in to your Mac
+Automatic AI-powered screen lock:
 
-Google previously said that it will shut down the Google One VPN service. The tech giant has now announced a date for the same. Google One VPN service will stop working from June 20, 2024.Google introduced the VPN by Google One in October 2020.“Starting June 20, 2024, VPN by Google One will be discontinued,” Google says on a support page. The company also lists steps explaining how users can remove Google One VPN from their device.Google states that Pixel 8 and newer devices offer a built-in VPN as part of their system settings.After VPN by Google One is removed from the Google One app, Pixel 7 users will still be able to continue using VPN functionality when they update their system software. The company will release a system update on June 3, 2024 to enable VPN by Google, a built-in VPN, for Pixel 7, 7 Pro, 7a, and Fold.Google One users in India don’t need to worry as the company never introduced its VPN service in the country in the first place.","Google One VPN service will stop working from June 20, 2024. Google introduced the VPN by Google One in October 2020. Google states that Pixel 8 and newer devices offer a built-in VPN as part of their system settings. Pixel 7 users will still be able to continue using VPN functionality when they update their system software.","https://static.toiimg.com/thumb/msid-110132683,imgsize-386204,width-400,resizemode-4/110132683.jpg"
-"Google I/O 2024: Gemini Nano AI model brings ""Help Me Write"" feature to Chrome",https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-gemini-nano-ai-model-brings-help-me-write-feature-to-chrome/articleshow/110132409.cms,"A gradual rollout awaits
+Offline Device Lock for added protection:
 
-Google Chrome is all set to get Gemini Nano integration. Announced at Google I/O, Gemini Nano will first be used to supercharge the "" Help Me Write "" feature, offering users real-time writing assistance directly within the Chrome browser.For those unaware, ""Help Me Write"" debuted earlier this year, offering basic assistance with drafting emails, social media posts, and other text formats.Now, with Gemini Nano on board, users can expect a more refined and efficient experience. The AI model will analyze your writing in real-time, suggesting improvements, generating creative text formats, and overall streamlining the writing process.A key advantage of Gemini Nano is its ability to run locally on your device. Unlike some cloud-based AI solutions, this ensures your writing prompts and data remain private. Processing happens directly on your computer, eliminating concerns about information being sent to external servers.The integration of Gemini Nano with ""Help Me Write"" is expected to begin with Chrome version 126, currently available in the Canary channel. A wider rollout for all users is likely to follow in the coming months. This phased approach allows Google to gather feedback and ensure a smooth transition for Chrome users.While ""Help Me Write"" is the initial focus, the possibilities extend far beyond. Developers will soon have access to Gemini Nano through high-level APIs, allowing them to integrate features like translation, captioning, and transcription into their web applications.","Google Chrome is set to get Gemini Nano integration. Gemini Nano will first be used to supercharge the "" Help Me Write "" feature. The AI model will analyze your writing in real-time, suggesting improvements. Developers will soon have access to Gemini Nano through high-level APIs.","https://static.toiimg.com/thumb/msid-110132397,imgsize-123572,width-400,resizemode-4/110132397.jpg"
-Google I/O 2024: Android to get smarter with on-device multimodal Gemini Nano and a new kind of assistant,https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-android-to-get-smarter-with-on-device-multimodal-gemini-nano-and-a-new-kind-of-assistant/articleshow/110126940.cms,"Google's I/O showcased AI updates for Android with the Gemini app. This context-aware assistant replaces Google Assistant and offers features like the 'Ask this video' and 'Ask this PDF' buttons. The Gemini Nano model, with Multimodality, will enhance on-device AI capabilities beyond text input.
+Automatic locking of Android device after they are stolen
 
-Gemini Nano is going multimodal
+With Remote Lock feature
 
-Gemini app will be more context-aware
+Google I/O 2024 , the company’s annual developers conference, is underway. On the second day of the event, Google announced several features for Android smartphones, including a new suite of advanced theft protection features that it claims will protect users’ data before, during and after their phone is stolen.Google is bringing a bunch of new features and enhancing some older ones to strengthen an Android device's security against theft.It says that the new and improved protection features “will make thieves think twice about trying.”Usually, when a phone is stolen, thieves quickly reset the device and resell it. Android phones will now be difficult to factory reset with an upgrade to Android’s factory reset protection. If your phone is stolen, thieves won’t be able to factory reset it as it will require device or Google account credentials – rendering the stolen device unsellable.In case a thief gets access to your phone, they may want to extract valuable data and transfer funds from your phone that can be worth much more than the phone itself. Android will now have a ‘Private’ space – a separate area in the phone that can hide and lock with a separate PIN, giving users additional security for apps that may contain sensitive data, like health or financial information.Android phones will now require PIN, password or biometric authentication to disable Find My Device or extend screen timeout, essentially adding an extra layer of security.When enabled, the new enhanced authentication will require biometrics for accessing and changing critical Google account and device settings, like changing your PIN, disabling theft protection or accessing Passkeys, from an untrusted location.Factory reset protection updates and private space will be released as part of Android 15 while enhanced authentication protections will be released to select devices later this year.In case your phone is stolen, Android will soon automatically recognise suspicious signals and proactively protect the data on the device.When your Android phone is snatched, the Theft Detection Lock feature will use Google AI to sense it by detecting common motion associated with theft and quickly locks the screen.If a thief tries to disconnect a stolen Android phone for prolonged periods of time, Offline Device Lock automatically locks the screen to help protect your data even when the device is off the grid. It will also lock the device screen when excessive failed authentication attempts are made.Theft Detection Lock and Offline Device Lock will be available to Android 10+ devices through a Google Play services update later this year.Third is an upgrade to the Find My Device feature that allows users to remotely lock or wipe a lost or stolen phone and mark it as lost for easier tracking., users will be able to lock the screen of their phones with just their phone numbers and a quick security challenge using any device, essentially buying you the time to recover account details and perform full factory reset.","Google I/O 2024, the company’s annual developers conference, is underway. Google announced a new suite of advanced theft protection features that it claims will protect users’ data before, during and after their phone is stolen. Android will now have a ‘Private’ space – a separate area in the phone that can hide and lock with a separate PIN.","https://static.toiimg.com/thumb/msid-110157264,imgsize-10898,width-400,resizemode-4/110157264.jpg"
+7 key numbers Google CEO Sundar Pichai mentioned on stage during Google I/O 2024 keynote,https://timesofindia.indiatimes.com/technology/tech-news/7-key-numbers-google-ceo-sundar-pichai-mentioned-on-stage-during-google-i/o-2024-keynote/articleshow/110157294.cms,"Gemini 1.5 Pro and 1 million tokens
 
-Using AI to make Android more accessible to visually challenged
+All Google products with over 2 billion users use Gemini
 
-AI to help you detect spam calls
+Over 6 billion
 
-Circle to Search will now help students with homework, too
+photos
 
-Google’s I/O this year was all about AI, whether it be search, workspace, or every other app and service of the company is getting lofty of AI features, so how could Android miss out on all the fun? If you have been running Android, it is going to get smarter with the Gemini Nano model, and the Gemini app , what the company calls “a new kind of assistant.” Google says that these updates should change the way people interact with their phones.So, let’s have a look at what’s new with Android, shall we?Android's built-in AI model, Gemini Nano, is also receiving a significant upgrade. The next major update, Gemini Nano with Multimodality, will expand the on-device model's capabilities beyond text input, allowing it to process sights, sounds, and spoken language. The multimodal capabilities should arrive later this year on Pixel phones.Gemini Nano will power new features such as Dynamic Suggestions, which will provide users with relevant suggestions based on the content displayed on their screen.The Gemini app, which is replacing Google Assistant on Android, is set to become more context-aware and integrated with other Google apps. Users will soon be able to access the Gemini overlay while using other apps, allowing them to seamlessly use AI features without switching between apps.If you watch a lot of YouTube, then there’s a new “Ask this video” button, which will bring up the Gemini overlay and help you with questions relevant to the video. There’s also an ""Ask this PDF"" feature, which will be introduced for Gemini Advanced subscribers. As the name implies, the feature will let users get answers from documents without having to go through all the pages.With Gemini, users could not only create AI-generated images but also drag and drop them into Gmail, Google Messages, and other apps.Additionally, Gemini Nano will enhance the TalkBack feature, generating rich descriptions for unlabeled images without requiring an internet connection. This improvement will make Android devices more accessible to users with visual impairments.Google is leveraging Gemini Nano to introduce a new scam detection feature to analyse real-time phone conversations. The AI will alert users if it detects patterns commonly associated with scams, such as requests for personal information or urgent fund transfers. This opt-in feature will operate entirely on-device, ensuring user privacy.Google's Circle to Search feature, which allows users to search for anything on their phone using a simple gesture, has been updated to assist students with homework. Starting today, students can circle a physics or maths problem they're struggling with, and Circle to Search will provide step-by-step instructions to solve it without the need to leave the current app.Later this year, Google's LearnLM initiative will power the feature, which will expand to handle more complex problems involving formulas, diagrams, and graphs.The updated Gemini app , the multimodal Gemini Nano model, and the other features will be rolled out to supported Android phones, which Google says are around hundreds of millions, over the next few months.","Gemini app will be more context-aware and integrated with other Google apps. Users will soon be able to access the Gemini overlay while using other apps, allowing them to seamlessly use AI features without switching between apps. Gemini Nano will power new features such as Dynamic Suggestions, which will provide users with relevant suggestions based on the content displayed on their screen.","https://static.toiimg.com/thumb/msid-110126940,imgsize-450794,width-400,resizemode-4/110126940.jpg"
-Google I/O 2024: Google’s Gemini AI will soon detect spam calls on Android phones,https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-googles-gemini-ai-will-soon-detect-spam-calls-on-android-phones/articleshow/110126493.cms,"Google is putting its artificial intelligence at work to detect and warn users about potential phone scams in real time. The feature will be built into a future version of the Android operating system. It should come out later this year with the upcoming Android 15.The feature uses Gemini Nano , the smallest version of Google's Generative AI that runs entirely on the user's device, ensuring privacy.The AI analyses conversation patterns often associated with scams and alerts users if they suspect they are talking to a scammer.The AI will look for red flags, such as callers pretending to be bank representatives asking for sensitive information like passwords or PINs, requesting gift card payments, or pressuring users to transfer money immediately. When the AI detects these suspicious patterns, it will show a notification on the user's device, allowing them to decide whether to continue or end the call.While the feature could help protect many users from falling for scams, its availability may be limited at first. Considering that Gemini Nano only works on the Google Pixel 8 Pro and Samsung S24 series, the feature should remain limited to these phones and the others getting support in the future.Google says that users will have to choose to turn on the scam detection feature, so the users won’t have to worry much about the AI listening to their calls.The company is still testing this feature and will have more to tell us later this summer, most probably when the Android 15 nears the stable rollout.","The feature will be built into a future version of the Android operating system. It should come out later this year with the upcoming Android 15. The feature uses Gemini Nano, the smallest version of Google's Generative AI that runs entirely on the user's device, ensuring privacy.","https://static.toiimg.com/thumb/msid-110126511,imgsize-458260,width-400,resizemode-4/110126511.jpg"
-"Google I/O 2024: Google Search gets 'personalised' Gemini model, what this means",https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-google-search-gets-custom-gemini-model-heres-what-is-changing/articleshow/110126390.cms,"Google Search
+and
 
-can now research, plan and brainstorm on users’ behalf with
+videos
 
-generative AI
+uploaded everyday
 
-, the company said at its annual Google I/O 2024 conference. Google is infusing a custom
+Support for long context queries
 
-Gemini
+Google announces 6th generation TPUs
 
-AI model that will bring together Gemini’s capabilities — including multi-step reasoning, planning and multimodality — to its Search systems.
+Google’s liquid cooling system capacity is growing
 
-AI Overviews provides quick summaries and relevant links
+The number of times Google said “AI” during the presentation
 
-Search is now offering AI Overviews, a feature that automatically generates concise summaries of topics directly within search results.
+Google's annual developer conference, Google I/O, kicked off today with a keynote address by CEO Sundar Pichai . As expected, AI was a prominent theme, with Pichai highlighting significant advancements in Google's Gemini AI models and the company's growing prowess in the field. Here's a deeper dive into some of the key numbers Pichai shared:Google introduced Gemini 1.5 Pro earlier this year allowing AI models to handle long context.It can run 1 million tokens in production, which it claims is more than any other large-scale foundation model yet.Pichai said that more than 1.5 million developers use Gemini models across the company's tools. He said that Gemini 1.5 Pro is available to all developers globally across 35 languages.“All of our 2-billion user products use Gemini,” Pichai said, adding that over 1 million people have signed up to try Gemini AI in just three months.While talking about Google Photos, Pichai said that the app – which was launched almost nine years ago – sees more than 6 billion photos and videos being uploaded every single day.While discussing multimodality in AI models, Pichai said that Gemini AI models have taken a step further in terms long context, enabling us to bring in even more information: hundreds of pages of text, hours of audio or an hour of video, entire code repos…or, if you want, roughly 96 Cheesecake Factory menus.The top executive announced the company’s 6th generation of TPUs, called Trillium. Trillium is said to be Google’s most performant and most efficient TPU to date, delivering a 4.7x improvement in compute performance per chip over the previous generation, TPU v5e.Pichai said that Google’s total deployed fleet capacity for liquid cooling systems is nearly 1 gigawatt and growing — that’s close to 70 times the capacity of any other fleet.“Underlying this is the sheer scale of our network, which connects our infrastructure globally. Our network spans more than 2 million miles of terrestrial and subsea fiber: over 10 times (!) the reach of the next leading cloud provider,” he added.Among various other jokes, there was a tongue in cheek moment on stage where Google seemed to take a dig at last year’s reports where publications counted how many times did Google executives use the word “AI” over the course of the presentation.Pichai said that Gemini has done the heavy lifting and counted it. All Google executives used “AI” terms over 120 times during the 110-minute presentation.","Google's annual developer conference, Google I/O, kicked off today. CEO Sundar Pichai highlighted significant advancements in Google's Gemini AI models and the company's growing prowess in the field. All Google executives used “AI” terms over 120 times during the 110-minute presentation. Google announced the company’s 6th generation of TPUs, called Trillium.","https://static.toiimg.com/thumb/msid-110157290,imgsize-79592,width-400,resizemode-4/110157290.jpg"
+"Amazon, Flipkart, Google and Facebook agree on government's new rules for online shopping reviews: Here's what they say",https://timesofindia.indiatimes.com/technology/tech-news/amazon-flipkart-google-and-facebook-agree-on-governments-new-rules-for-online-shopping-reviews-heres-what-they-say/articleshow/110157494.cms,"The consumer affairs department held a meeting with major e-commerce companies to discuss tackling the issue of fake reviews . Tht a meeting held here, representatives from Amazon, Flipkart, Google and Meta, among others, endorsed the proposed quality control order to implement the IS 19000:2022 standard on 'online consumer reviews', according to the department.This move comes after a voluntary system failed to significantly reduce fake reviews. Consumer complaints related to e-commerce surged from 95,270 in 2018 to a staggering 4,44,034 in 2023, highlighting the urgency of stricter regulations.The proposed Quality Control Order will enforce the existing IS 19000:2022 standard, which outlines guidelines for both reviewers and platforms. This standard aims to ensure transparency and prevent manipulation by requiring:* Identification of Reviewers: Anonymity for reviewers will be eliminated.* Unedited Reviews: Reviews cannot be altered after submission to prevent tampering with content.* Encouraging All Reviews: Platforms cannot suppress negative reviews.Consumer Affairs Secretary Nidhi Khare emphasized the importance of these standards, stating that online shoppers rely heavily on reviews, especially for products they cannot examine physically. Fake reviews erode trust in online platforms and lead to poor purchasing decisions. While consumer activist Pushpa Girimji, who attended the meeting, welcomed the initiative, she stressed the importance of enforcing these regulations effectively to truly combat the issue of fake reviews.The draft Quality Control Order will be open for public consultation before implementation. This signifies a significant step towards ensuring a more trustworthy online shopping experience for Indian consumers.","The consumer affairs department held a meeting with major e-commerce companies to discuss tackling the issue of fake reviews. Amazon, Flipkart, Google and Meta, among others, endorsed the proposed quality control order to implement the IS 19000:2022 standard on 'online consumer reviews'","https://static.toiimg.com/thumb/msid-110157491,imgsize-33680,width-400,resizemode-4/110157491.jpg"
+Netflix may be getting ready for another big push into live events this Christmas,https://timesofindia.indiatimes.com/technology/tech-news/netflix-may-be-getting-ready-for-another-big-push-into-live-events-this-christmas/articleshow/110156832.cms,"Why NFL
 
-This eliminates the need to gather information from multiple sources. AI Overviews will be rolled out to all users in the US this week, ultimately reaching over a billion users globally by year-end.
+Netflix will reportedly air two National Football League games this Christmas Day. According to a report by Bloomberg, streaming giant Netflix has secured a deal to air two National Football League games on Christmas Day this year, marking a significant push into live events for the company.The three-year agreement, as reported by Bloomberg, will also see Netflix host at least one Christmas Day game in both 2025 and 2026.Executives at Netflix like the idea of a Christmas Day event that could bring millions of viewers to the service all at once. No live event is a bigger draw for viewers or advertisers in the US than the NFL, which accounts for the majority of the most-watched live TV broadcasts in the country every year.""There are no live annual events, sports or otherwise, that compare with the audiences NFL football attracts,"" said Bela Bajaria, Netflix's chief content officer, in a statement to Bloomberg. The agreement marks the first time Netflix has licensed the rights to one of the world’s premiere sports competitions and the first time it will show live football, the most popular sport in the US. The company will pay less than $150 million per game, according to people familiar with the deal who asked not to be identified because the terms are private. Both Netflix and the NFL declined to comment.This deal signifies a first for Netflix: it's the first time they've acquired rights to a major sports league and the first time they'll broadcast live football, the most popular sport in the US. The company will reportedly pay less than $150 million per game, according to sources familiar with the deal cited by Bloomberg.","Netflix has secured a deal to air two National Football League games on Christmas Day this year. The three-year agreement will also see Netflix host at least one Christmas Day game in both 2025 and 2026. The company will pay less than $150 million per game, according to people familiar with the deal.","https://static.toiimg.com/thumb/msid-110156886,imgsize-60072,width-400,resizemode-4/110156886.jpg"
+"Apple’s new accessibility features brings eye-tracking, Music Haptics, and more",https://timesofindia.indiatimes.com/technology/tech-news/apples-new-accessibility-features-brings-eye-tracking-music-haptics-and-more/articleshow/110156757.cms,"Eye Tracking for hands-free control on iPhone and iPad
 
-Google
+Music Haptics and Vocal Shortcuts enhance accessibility
 
-says that links presented within AI Overviews receive more clicks compared to traditional search results.
+AI-powered features reduce motion sickness and improve Speech Recognition
 
-It also highlighted that ads will continue to be clearly labelled and displayed in dedicated sections.
+visionOS and CarPlay receive accessibility upgrades
 
-Soon, users will have the option to customise their AI Overviews, including the ability to simplify the language or expand the details provided. On desktops, users will be able to choose from ""Original,"" ""Simpler,"" and ""Break It Down"" options within the AI Overview section.
+Apple has announced a bunch of new accessibility features for iPhone , iPad , and Vision Pro , which should help users with disabilities interact with their devices better. The new features, including Eye Tracking and Music Haptics , are expected to debut in iOS 18 and VisionOS later this year, harnessing the power of artificial intelligence and machine learning to create a more inclusive user experience.The standout feature is Eye Tracking, which enables users with physical disabilities to navigate their iPhone or iPad using only their eyes. By using the front-facing camera and on-device machine learning, Eye Tracking allows users to select elements on the screen by simply holding their gaze, eliminating the need for touch input. It uses AI to recognize user gestures like swiping and tapping. Apple's Dwell Control feature is already available on Macs, sensing when someone's gaze pauses on an element. The setup process is quick, and it works with third-party apps integrated into the OS, like Assistive Touch.Apple also introduced Music Haptics, a feature designed for users who are deaf or hard of hearing. Using the iPhone's Taptic Engine, Music Haptics translates millions of songs on Apple Music into taps, textures, and vibrations, providing a new way to experience music. Additionally, Vocal Shortcuts allows users to assign custom phrases to launch shortcuts and perform complex tasks hands-free.Vehicle Motion Cues, another notable addition, aims to reduce motion sickness for passengers using their iPhone or iPad in a moving vehicle. By displaying animated dots on the screen's edges that mimic the vehicle's motion, the feature minimises sensory conflict. Furthermore, Listen for Atypical Speech uses machine learning to recognize unique speech patterns, benefiting users with conditions like cerebral palsy, ALS, or stroke.Apple's upcoming visionOS platform will include systemwide Live Captions, aiding users who are deaf or hard of hearing in following along with spoken dialogue. CarPlay will also gain accessibility features like Voice Control, Color Filters, and Sound Recognition, making it easier for users with disabilities to navigate and control apps while driving.","Apple announces new accessibility features for iPhone, iPad, and Vision Pro. Eye Tracking allows users with physical disabilities to navigate using only their eyes. Music Haptics translates millions of songs on Apple Music into taps, textures, and vibrations. Vocal Shortcuts lets users assign custom phrases to launch shortcuts and perform complex tasks hands-free.","https://static.toiimg.com/thumb/msid-110156748,imgsize-1192365,width-400,resizemode-4/110156748.jpg"
+Google I/O 2024: When Google’s Gemini got the camera tips wrong on stage,https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-when-googles-gemini-got-the-camera-tips-wrong-on-stage/articleshow/110156396.cms,"Search in the Gemini era | Google I/O 2024
 
-AI summaries will understand complex questions
+Google is changing internet search as we know it, infusing it with AI and serving up all the information you need on top of the page so you don't have to scroll through the whole internet. Gone are the days when you'd have to type out what you wanted to know or even put a photo. Now, you can just show AI the things you need help with, and it'll have the answer for you.But what if it's not working as it should be, meaning giving the wrong answers, so bad that even a human knows, but AI doesn't?In a video showing "" Search in the Gemini era ,"" Google showed its hot new feature, the video search. What does it do? Video search allows you to search by talking over a video clip.The example they used was a video of a film camera where the lever to advance the film was stuck. They asked Gemini: ""Why is the lever not moving all the way."" Gemini quickly listed solutions, including one that wasn’t right and would ruin the photos for sure.Google’s AI told the person to ""Open the back door and gently remove the film if the camera is jammed."" Doing that to a film camera would ruin all the photos by exposing the film to light.So far, Google has provided no comment on this matter.This isn’t the first time Google has run into issues with its AI on stage. Last year, at I/O, when it was showcasing the Bard (the former name of Gemini), the AI chatbot wrongly claimed that the James Webb Space Telescope took the first pictures of exoplanets when it was the European Very Large Telescope in 2004. This error cost Google about $100 billion, wiping out a huge chunk of its market valuation.Leave the text, but Google’s image AI isn’t that perfect, either. Earlier this year, Gemini also faced criticism for refusing to generate images of white people and producing historically inaccurate content like ""Asian Nazis."" Google apologised for this and had to pause the image-generating capabilities for a few weeks.","Video search allows you to search by talking over a video clip. Google’s AI told the person to ""Open the back door and gently remove the film if the camera is jammed"" This isn’t the first time Google has run into issues with its AI.","https://static.toiimg.com/thumb/msid-110156391,imgsize-9592,width-400,resizemode-4/110156391.jpg"
+Garena Free Fire MAX redeem codes for May 15: Win free in-game rewards daily,https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-may-15-win-free-in-game-rewards-daily/articleshow/110133798.cms,"What Are Free Fire Max Redeem Codes?
 
-The AI Overview in Google Search will be able to handle complex questions with all specific needs and considerations in one go.
+Garena Free Fire Max Redeem Codes Today, May 15
 
-For example, when searching for a yoga studio, users can ask the Search to suggest a place that is popular with locals, have a convenient commute from their location, and offer a new member discount.
+FA5M1F8Z3N7P9B2T
 
-Also, it will soon assist users with planning, starting with meals and vacations. Search will soon categorise AI-generated results pages findings under creative AI-crafted headlines. This feature will initially launch for US users searching for dining and recipe inspiration (English searches).
+FB6Q9R2D5K8X3F4H
 
-Search with videos
+FV7G2X5P9J3C6L1W
 
-Search is also getting advancements in video understanding for visual search. Users can point their smartphone camera at an object or action, and ask a question. Video search functionality will debut in US
+FZ4N1Q8S6R9Y2D5K
 
-Search Labs
+FF3B7M4H8W1T9J6V
 
-(English queries) and expand to additional regions over time.","Google Search is now offering AI Overviews, a feature that automatically generates concise summaries of topics directly within search results. The feature will be rolled out to all users in the US this week, ultimately reaching over a billion users globally by year-end. Users will have the option to customise their AI overviews, including the ability to simplify the language.","https://static.toiimg.com/thumb/msid-110126382,imgsize-9592,width-400,resizemode-4/110126382.jpg"
-Google I/O 2024: Google has an answer to OpenAI’s Sora AI model,https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-google-has-an-answer-to-openais-sora-ai-model/articleshow/110126142.cms,"Google Veo AI-video generator: Availability
+FY9R3V6P1J4L7K5Q
 
+FE2W7F4X9B5M1S3G
 
+FT6K9N3C8L2J4H7R
 
-Google has launched its latest artificial intelligence (AI)-based text-to-video generator model, Veo , that will compete with OpenAI’s Sora . The tech giant claims that the new video generation model can create high-quality 1080p videos from text, images and video prompts. It can capture the details of a user’s instruction in different visual and cinematic styles.With this model, users can ask for videos like aerial shots of a landscape or a timelapse. Users can further edit their videos with additional prompts.Users will be able to access Google’s Veo model in the company’s new experimental tool called VideoFX . This tool will also allow users to explore other features like storyboarding and generating longer scenes.Veo builds upon the company’s multiple video-generating models including -- GQN, Phenaki, Walt, VideoPoet, Lumiere and more. The company claims that it has combined the best of these models to offer improved consistency, quality and output resolution with Veo.During the I/O 2024 event, the company also showed a video of the making of a short film by filmmaker Donald Glover using the Google Veo model.This video showed the filmmaking team using prompts of different shots for making the short film. This project was a collaboration between Google DeepMind , Donald Glover and Gilga.The company confirmed that some of these features will be available to select creators through VideoFX at labs.google over the coming week. The waitlist for the same is now open.","Google has launched its latest artificial intelligence (AI)-based text-to-video generator model, Veo. The tech giant claims that the new video generation model can create high-quality 1080p videos from text, images and video prompts. Veo builds upon the company’s multiple video-generating models including -- GQN, Phenaki, Walt and VideoPoet.","https://static.toiimg.com/thumb/msid-110126130,imgsize-665919,width-400,resizemode-4/110126130.jpg"
-Google I/O 2024: Imagen-3 is Google’s answer to ChatGPT-maker OpenAI’s Dall-E 3,https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-imagen-3-is-googles-answer-to-chatgpt-maker-openais-dall-e-3/articleshow/110126032.cms,"Google pauses image-generation in Gemini chatbot
+FU4D8F1Q7Z3V5P6M
 
-Google launches Veo: Its text-to-video AI model
+FH2J5Y8R1W4G6X9N
 
-Google has announced Imagen-3 , an upgrade to its text-to-image creation model, at Google I/O 2024 . It will compete against ChatGPT-maker OpenAI 's Dall-E 3 model – a tool that is also being used to generate images in Microsoft’s Copilot.Google claims Imagen 3 produces the highest quality images yet from its systems. These images boast an impressive level of detail, achieving a photorealistic and lifelike quality with minimal artefacts or distorted images.Google highlights improvements in Imagen 3's text processing capabilities, allowing for better understanding of user instructions. Additionally, Imagen 3 is claimed to demonstrate increased proficiency in managing details extracted from complex or lengthy prompts.Earlier this year, Google paused the image generation capabilities in the Gemini AI chatbot after it generated factually incorrect images. Recently, Google CEO Sundar Pichai also said that the company is developing the feature from the ground up and fixing the issues.It is yet to be seen how good Imagen 3 is, especially when its performance in terms of handling text prompts and results is compared to competitor Dall-E 3.Apart from the updated text-to-image AI model, the company also announced Veo – a text-to-video AI model that can generate videos based on text prompts – just like OpenAI’s Sora.Veo can produce “high-quality” 1080p videos with “an advanced understanding of natural language and visual semantics.” The AI generated videos can last “beyond a minute” and the model is said to be capable of understanding cinematic and visual techniques, such as timelapse.Google has partnered with Donald Glover and Gilga, his creative studio, for the model's capabilities. Google is also working with artists like Wyclef Jean and Bjorn to test out its Music AI Sandbox – a bunch of tools that can help users produce songs and beats.","Google announces Imagen-3, an upgrade to its text-to-image creation model. Will compete against ChatGPT-maker OpenAI's Dall-E 3 model. Google also announces Veo – a text- to-video AI model that can generate videos based on text prompts.","https://static.toiimg.com/thumb/msid-110126025,imgsize-18810,width-400,resizemode-4/110126025.jpg"
-"Garena Free Fire MAX redeem codes for May 14, 2024: Win free diamonds and gun skins today",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-may-14-2024-win-free-diamonds-and-gun-skins-today/articleshow/110102085.cms,"What are Free Fire Max redeem codes?
+FL7S3C9V6T2X4W8R
 
-Garena Free Fire Max redeem codes today, May 14
+FP1X4Y7R2G5Q9N3F
 
-FU7N3Q1I2E9KD5O6
+FM9T6W3V8C2B4Y7S
 
-FX3V6M5C7AD9Y2H8
+FC5N8F2J7H4Q1X6L
 
-FW7K3B6Z5DO9J2R1
+FD2R5W7M3V6K9B8T
 
-FG4I2L9DN6T1F8E7
+FX1V6S4J9Q5G8P3D
 
-FHYE56RGTYE56448
+FG8W3D6J2Z5F1R9L
 
-FJ2U8G3E6YF1X7Z5
+FS4N9V1X7K3T6C2P
 
-FQ1B5A4YP9W8V3M6
+FQ5M2Z8D1C4B7F3N
 
-FL4TY3N6C7H8K1S2
+How To Redeem Free Fire Codes
 
-FZ5R3O9JY7Q1X4I6
+To reach the Rewards Redemption website, go to https://reward.ff.garena.com/en.
 
-FGERT5TG6YE546V7
+Sign in using your credentials from platforms like Facebook, X, Apple ID, Google, VK ID, or Huawei ID.
 
-FHYTR56YHR67RHC1
+After logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
 
-FYHBRE56GYR56548
+Once the code is successfully redeemed, you can collect your Free Fire rewards by launching the game on your device.
 
-FO7Y4XQ1M6C9A2P3
+Important Tips
 
-FS2W8J3N6T7HD4I9
+After successfully redeeming the code, you can collect your rewards from the in-game mail section.
 
-FF1L6A2U8Z5RD3Q7
+Keep in mind that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
 
-FC4V9P5D8G3FD2B1
-
-FE2W1U7VY9F4D5G3
-
-FY2P7H4M6NY9T8S3
-
-FB1G4K7L6J2YC8A9
-
-FD5V9Q1XY3R6O4M2
-
-FH6T8F3W7E2Q59L4
-
-FETGERT5G56GJ7N6
-
-F5YH456HYT6HGR53
-
-FA4I7Y55U6O2Q8E3
-
-How to redeem Free Fire Codes
-
-Visit the Rewards Redemption website at https://reward.ff.garena.com/en
-
-Log in using your credentials from platforms such as Facebook, X, Apple ID, Google, VK ID, or Huawei ID
-
-Enter the redeem code into the visible text box on the screen and finalise the redemption process by selecting 'Confirm'
-
-Following a successful redemption, access your Free Fire rewards by launching the Free Fire game on your device
-
-Some important tips
-
-After successfully redeeming the code, players can collect their rewards from the in-game mail section.
-
-It's important to highlight that these codes are not valid for guest accounts; you must link your account to Facebook, X, Apple, Google, VK, or Huawei to be eligible for the rewards.
-
-Please be patient and allow for a 24-hour processing period for the rewards to be credited.
+Please allow up to 24 hours for the rewards to be credited to your account.
 
 Also read
 
-Garena Free Fire MAX has swiftly emerged as a leading battle royale game in India, carving out its place in the gaming world, especially after its predecessor, Garena Free Fire, was banned. With captivating graphics and engaging gameplay, this sensation has won the hearts of enthusiasts nationwide.The addition of redemption codes in Garena Free Fire MAX introduces a new layer of excitement to the gaming experience.It's important to note that these codes have a limited validity period, typically ranging from 12 to 18 hours. This time-sensitive aspect adds urgency and anticipation, heightening the thrill for players.Following developers' guidelines, the 12-character alphanumeric Garena FF redemption codes offer a coveted daily opportunity for up to 500 registered gamers. This daily claiming system ensures fairness, providing equal chances for enthusiasts to enhance their in-game experience.Garena Free Fire MAX distinguishes itself not only with its time-sensitive rewards but also with captivating graphics, innovative features, and immersive gameplay. The vibrant community of passionate gamers continues to grow, drawn to the thrilling universe that Garena Free Fire MAX has meticulously crafted.As the premier battle royale game in India, Garena Free Fire MAX remains at the forefront of reshaping the gaming landscape. Players are invited to immerse themselves in a world of intense battles, strategic gameplay, and exclusive rewards, promising an unparalleled gaming experience within the captivating realm of Garena Free Fire MAX.Enhance your gaming journey with Garena Free Fire Max redemption codes, unlocking exclusive in-game items and rewards. Whether you're an experienced player or new to the virtual battleground, these codes offer a unique opportunity to elevate your gameplay, strategize effectively, and enjoy a more rewarding experience. These 12-character alphanumeric combinations, featuring a mix of capital letters and numbers, play a crucial role in enhancing the overall gaming experience for enthusiasts. Upon successful redemption, players gain access to a diverse range of exciting rewards that add flair and strategic advantages to the virtual battleground. The coveted in-game items, including powerful weapons and unique skins, contribute to a more immersive and personalised gaming experience.","Garena Free Fire Max redeem codes today, May 14. 12-character alphanumeric Garena FF redemption codes offer a coveted daily opportunity for up to 500 registered gamers. These codes have a limited validity period, typically ranging from 12 to 18 hours.","https://static.toiimg.com/thumb/msid-110102091,imgsize-41174,width-400,resizemode-4/110102091.jpg"
+Garena Free Fire Max is an enhanced version of the popular Garena Free Fire game, which gained significant traction in India after its predecessor was banned. Known for its stunning visuals and captivating gameplay, this game has garnered widespread acclaim across the country.One notable feature of Garena Free Fire Max is its daily redemption codes, which add excitement and urgency to the player experience.These time-limited codes are active for 12 to 18 hours, enhancing anticipation and engagement among users.Following developer guidelines, the 12-character alphanumeric redemption codes of Garena Free Fire Max provide daily rewards to a maximum of 500 registered players, ensuring fairness and equal opportunities for progression.With its time-sensitive rewards, impressive graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately crafted universe promises an exhilarating adventure for players, solidifying its position in India's battle royale gaming scene.Enhance your gaming journey with specialised redemption codes designed for Garena Free Fire Max, providing access to a range of in-game perks and rewards. Whether you're a seasoned player or new to the virtual battlefield, these codes offer a unique opportunity to elevate your gaming adventure, strategize effectively, and dive deeper into the excitement of the game.Featuring 12-character alphanumeric sequences that combine uppercase letters and numbers, these codes greatly enrich the overall gaming experience. Upon successful redemption, players unlock a variety of thrilling rewards that not only enhance the gaming atmosphere but also offer strategic advantages on the digital battleground.Take advantage of this chance to enrich your gaming experience with thoughtfully curated redemption codes tailored for Garena Free Fire Max. These codes unlock coveted weapons, unique skins, and other in-game items, enhancing immersion and delivering a personalised gaming experience that is unmatched.","Garena Free Fire Max is an enhanced version of the popular Free Fire game. Known for its stunning visuals and captivating gameplay, this game has garnered widespread acclaim across the country. Daily redemption codes add excitement and urgency to the player experience.","https://static.toiimg.com/thumb/msid-110133798,imgsize-43402,width-400,resizemode-4/110133798.jpg"
 "Wordle 1060 Puzzle for May 14, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1060-puzzle-for-may-14-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/110099664.cms,"Wordle 1060 Hints and Clues for May 14, 2024
 
 Wordle 1060, May 14, 2024: Word of the Day
 
 The World 1060 puzzle is now live. The daily word puzzle game allows users to solve and guess a five-letter word. Originally created by Josh Wardle, a Brooklyn-based software engineer, the word game has gained popularity among users across the globe.Users are faced with a new word puzzle everyday that can easily be cracked using elimination hints. It is worth mentioning here that each player gets only six chances to solve the puzzle.Today's Wordle 1060 puzzle presents a relatively straightforward challenge, likely to be decoded by many participants.To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Are you ready for another round of the super fun Wordle puzzle game to test your linguistic skills?Today’s word of the day starts with A.There are two vowels in today’s word of the day.Two letters are repeated in today’s word.The word for today ends with S.Gather, collect, assemble are some of the synonyms of today’s letter.Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. In case some of you still want to give another try to solve the Wordle 1060 puzzle, we just don't scroll any further.Drumroll please, as we unveil the answer for Wordle 1060.Today's Wordle 1060 word is AMASS.","The daily word puzzle game allows users to solve and guess a five-letter word. Originally created by Josh Wardle, a Brooklyn-based software engineer, the word game has gained popularity among users across the globe. Each player gets only six chances to solve the puzzle.","https://static.toiimg.com/thumb/msid-110099643,imgsize-27918,width-400,resizemode-4/110099643.jpg"
-"ChatGPT users are getting GPT-4'o' free: What are new features, availability and more",https://timesofindia.indiatimes.com/technology/tech-tips/chatgpt-users-are-getting-gpt-4o-free-what-are-new-features-availability-and-more/articleshow/110094756.cms,"
+Google accidentally 'deletes' $125 billion account holding pension funds from Cloud; CEO says sorry,https://timesofindia.indiatimes.com/technology/tech-news/google-accidentally-deletes-125-billion-account-holding-pension-funds-from-cloud-ceo-says-sorry/articleshow/110135841.cms,"Here's the joint statement:
 
+UniSuper and Google Cloud understand the disruption to services experienced by members has been extremely frustrating and disappointing. We extend our sincere apologies to all members.
 
+While supporting UniSuper to bring its systems back online, Google Cloud has been conducting a root cause analysis.
 
-What is 'o' in GPT-4o
+Google Cloud CEO, Thomas Kurian has confirmed that the disruption arose from an unprecedented sequence of events whereby an inadvertent misconfiguration during provisioning of UniSuper’s Private Cloud services ultimately resulted in the deletion of UniSuper’s Private Cloud subscription.
 
-GPT-4o pricing and availability
+This is an isolated, ‘one-of-a-kind occurrence’ that has never before occurred with any of Google Cloud’s clients globally. This should not have happened. Google Cloud has identified the events that led to this disruption and taken measures to ensure this does not happen again.
 
-GPT-4o's key capabilities
+Why did the outage last so long?
 
-How GPT-4o is ""more human than ever""
+UniSuper had duplication in two geographies as a protection against outages and loss. However, when the deletion of UniSuper’s Private Cloud subscription occurred, it caused deletion across both of these geographies.
 
-OpenAI has announced a significant update to its popular ChatGPT platform. This update introduces GPT-4o , a powerful new AI model that brings ""GPT-4-class chat"" to the app. Chief Technology Officer Mira Murati and OpenAI employees showcased their newest flagship model, capable of real-time verbal conversations with a friendly AI chatbot that can speak like a human.OpenAI’s announcement comes just a day before the Google's annual developers conference -- Google I/O.“GPT-4o provides GPT-4 level intelligence but is much faster,” Murati said on stage. “We think GPT-4o is really shifting that paradigm into the future of collaboration, where this interaction becomes much more natural and far easier.”In GPT-4o — the ""o"" stands for omni -- combines voice, text and vision into a single model, allowing it to be faster than its predecessor. The company said that the new model is two times faster and significantly more efficient.OpenAI CTO Mira Murati said in a livestream announcement on Monday. It’ll be free for all users, and paid users will continue to “have up to five times the capacity limits” of free users, Murati added at the launch event in San Francisco. The update brings a number of features to free users that so far have been limited to those with a paid subscription to ChatGPT. These include the ability to search the web for answers to queries, speak to the chatbot and hear responses in various voices, and command it to store details that the chatbot can recall in the future. OpenAI is beginning to roll out GPT-4o’s new text and image capabilities to some paying ChatGPT Plus and Team users today, and is offering those capabilities to enterprise users soon. The company will make the new version of its “voice mode” assistant available to ChatGPT Plus users in the coming weeks.GPT-4o goes beyond traditional text-based communication and can now ""see"" the world around it through vision capabilities. These capabilities include:* Desktop screenshots: GPT-4o can analyse screenshots taken directly on your Mac.* Mobile app integration: An iPhone app (with a Windows app coming soon) allows uploading videos and screenshots for GPT-4o to process.The OpenAI demo mainly featured the company's employees asking questions to the voiced ChatGPT, which responded with jokes and human-like banter.* Real-time interaction: Unlike previous models, GPT-4o allows for back-and-forth conversation without waiting for the model to finish its statement.* Harmonised speech synthesis: GPT-4o can generate different voices and even harmonise them for a more natural dialogue experience.* Sophisticated conversations: GPT-4o offers ""normal"" conversational interactions, translations, and more, all with the sophistication expected from GPT-4 level technology.","GPT-4o combines voice, text and vision into a single model. The company said that the new model is two times faster and significantly more efficient. The update brings a number of features to free users that so far have been limited to those with a paid subscription to ChatGPT.","https://static.toiimg.com/thumb/msid-110094754,imgsize-29558,width-400,resizemode-4/110094754.jpg"
+Restoring UniSuper’s Private Cloud instance has called for an incredible amount of focus, effort, and partnership between our teams to enable an extensive recovery of all the core systems. The dedication and collaboration between UniSuper and Google Cloud has led to an extensive recovery of our Private Cloud which includes hundreds of virtual machines, databases and applications.
+
+UniSuper had backups in place with an additional service provider. These backups have minimised data loss, and significantly improved the ability of UniSuper and Google Cloud to complete the restoration.
+
+What’s next?
+
+UniSuper and Google Cloud have been working around the clock on a resolution. The completion of the restoration swiftly, safely and securely remains Google Cloud and UniSuper’s top priority.
+
+Australian pension fund UniSuper members faced a week-long outage due to an accidental deletion of their private cloud account by Google Cloud . This impacted over half a million people who couldn't access their superannuation accounts.Service restoration began on Thursday, but it might take some time for investment balances to reflect current figures.UniSuper assured members they're working on a swift update.UniSuper CEO, Peter Chun, reached out to members via email on Wednesday. He clarified that the incident wasn't a cyberattack and there was no data breach. Chun pinpointed a Google Cloud configuration error as the culprit behind the outage.The outage reportedly lasted for an extended period of time as the subscription was deleted, taking with it UniSuper's two geographies that were intended to provide protection against outages and loss. Fortunately, UniSuper had backups in place with a different service provider. UniSuper is said to have moved a large amount of its workloads to Google Cloud Platform in 2023, having previously split them between Azure and two of its own data centers.In a rare move, UniSuper and Google Cloud issued a joint apology. In a joint statement with UniSuper CEO Peter Chun , Google CEO Thomas Kurian admitted that an ""inadvertent misconfiguration"" during the provisioning of UniSuper's Private Cloud services resulted in the deletion of the data.","Australian pension fund UniSuper members faced a week-long outage due to an accidental deletion of their private cloud account by Google Cloud. This impacted over half a million people who couldn't access their superannuation accounts. UniSuper CEO, Peter Chun, reached out to members via email on Wednesday. He clarified that the incident wasn't a cyberattack and there was no data breach.","https://static.toiimg.com/thumb/msid-110135981,imgsize-386204,width-400,resizemode-4/110135981.jpg"
 "Google I/O 2024: AI, Android 15 and possibly more Pixel phones",https://timesofindia.indiatimes.com/technology/tech-news/what-to-expect-at-google-i/o-2024-ai-android-15-and-possibly-more-pixel-phones/articleshow/110060666.cms,"Google’s I/O keynote is going to be mostly about AI,
 
 Gemini
@@ -196,10 +173,34 @@ Expanding the Google ecosystem
 What's in for the developers
 
 Google's annual developer conference, Google I/O 2024 , will kick off on May 14 with a keynote address that promises to showcase the tech giant's latest advancements in artificial intelligence (AI), Android updates, and some new hardware.Building upon last year's AI-centric event, Google is expected to double down on its AI initiatives, focusing strongly on its Gemini platform.Gemini, Google's answer to OpenAI's ChatGPT , will likely take centre stage as the company demonstrates new features and capabilities that could further enhance the AI chatbot we know today.While AI steals the spotlight, Google won't forget its roots in mobile technology. Attendees can expect a deep dive into Android 15, the latest version of Google's mobile operating system. With the first Android 15 beta already in the hands of developers, Google is poised to unveil a host of new user-facing features designed to enhance productivity, privacy, and security. Android 15 promises to deliver a more polished and efficient mobile experience, from improved notification management to a more refined user interface.Although Google I/O is primarily a software-focused event, the company has been known to surprise audiences with hardware announcements in the past. This year, the Pixel 8a has already been unveiled ahead of the conference, but that doesn't mean Google is out of tricks. Whispers of a potential Pixel Fold 2 or even a teaser for the upcoming Pixel 9 series have been circulating, leaving tech enthusiasts eager to see what Google has up its sleeve.We might also see some new Nest hardware make it to the main stage. A new chromecast, possibly a ‘Pro’ one.In addition to the headline-grabbing announcements, Google I/O 2024 is expected to showcase updates and improvements across the company's vast ecosystem of products and services. From enhancements to Google Maps and Google Workspace to advancements in WearOS and smart home technology - we could hear about the new upgrades coming to them. But, at the end of the day, it’s going to be all about AI.The keynote is what most normal people focus on, but the I/O is a developer galore. Developers can look forward to a wealth of sessions, workshops, and resources designed to help them leverage the latest technologies and best practices in their projects. Whether it's harnessing the power of AI, optimising for Android 15, or integrating with Google's ever-expanding suite of tools, developers are in for new technologies to play with.With AI poised to take centre stage and Android 15 promising a new era of mobile innovation, Google seems ready to set the tone for the coming year at the I/O 2024.","Google's annual developer conference, Google I/O 2024, will kick off on May 14. The keynote address will showcase the tech giant's latest advancements in artificial intelligence (AI), Android updates, and some new hardware. Building upon last year's AI-centric event, Google is expected to double down on its Gemini platform.","https://static.toiimg.com/thumb/msid-110060665,imgsize-390780,width-400,resizemode-4/110060665.jpg"
-Why Zomato has written down this Rs 39 crore investment,https://timesofindia.indiatimes.com/technology/tech-news/why-zomato-has-written-down-this-rs-39-crore-investment/articleshow/110094774.cms,"What Zomato said on exiting payment aggregator business
+Buying a second-hand phone? Key factors to keep in mind before making a purchase,https://timesofindia.indiatimes.com/technology/tech-tips/buying-a-second-hand-phone-key-factors-to-keep-in-mind-before-making-a-purchase/articleshow/110144525.cms,"Buy second-hand phone: Key factors to consider before purchasing
 
-Food delivery platforms Zomato has announced that it's abandoning its plans to enter the payments space. In a recent stock exchange filing, the company said it's surrendering its payment aggregator (PA) license obtained from the Reserve Bank of India (RBI) in January 2024.The Gurgaon-headquartered startup Zomato also withdrew its application for a mobile wallet license.This decision resulted in a write-down of Rs 39 crore invested in its payments subsidiary, Zomato Payments. “The payments landscape in India has evolved meaningfully over the past couple of years since the time we applied for these licences,” the company said in its exchange filings. “At Zomato, we do not see ourselves having a significant competitive advantage against the incumbents in the payments space and hence we don’t foresee a business in payments space as commercially viable for us, at this stage.”The move comes as a surprise considering Zomato just received the PA license a few months ago. The company cited a more competitive landscape and a lack of foreseen commercial advantage as reasons for the exit. Zomato believes established players already have a strong foothold in the payments market.Zomato further explained that the challenges of entering the payments business became clearer as they planned operational structures. This decision coincides with the RBI proposing stricter KYC norms for payment aggregators.Zomato was one of the few new entrants seeking a PA license, unlike most existing players who secured final approval. With established companies like Razorpay and Cashfree dominating the market, Zomato felt it wouldn't be commercially viable to compete.","Zomato has announced that it's abandoning its plans to enter the payments space. The company cited a more competitive landscape and a lack of foreseen commercial advantage as reasons for the exit. Zomato was one of the few new entrants seeking a PA license, unlike most existing players who secured final approval.","https://static.toiimg.com/thumb/msid-110094770,imgsize-40272,width-400,resizemode-4/110094770.jpg"
+Phone condition: Assess the physical condition of the phone. Look for scratches, dents, or other signs of wear. Check the screen for cracks and ensure all buttons and ports function correctly.
+
+Age of the phone: Determine how old the phone is and consider its release date. Older models may lack software updates and compatibility with newer apps.
+
+Battery health: Battery life is crucial for a smooth user experience. Inquire about the battery health and ask for details on its capacity and degradation over time.
+
+Software updates: Ensure the phone is compatible with the latest software updates from the manufacturer. Older devices may not receive updates, which can impact security and functionality.
+
+Network compatibility: Confirm that the phone is unlocked or compatible with your network carrier. Some phones are locked to specific carriers, limiting your options.
+
+IMEI check: Verify the phone's IMEI number to ensure it's not stolen or blacklisted. This step helps prevent buying a phone with legal issues or unpaid bills.
+
+Performance testing: Test the phone's performance by running apps, browsing the internet, and checking the camera quality. Look for lagging or freezing issues.
+
+Storage capacity: Determine the phone's storage capacity and assess whether it meets your needs for storing photos, videos, and apps.
+
+Price comparison: Research the market value of the phone model you're interested in. Compare prices from different sellers to ensure you're getting a fair deal.
+
+Seller reputation: Buy from reputable sellers with positive reviews or ratings. Avoid transactions with unknown individuals or suspicious online platforms.
+
+Also read
+
+In today's rapidly evolving smartphone market, purchasing a second-hand phone has become an attractive option for consumers seeking cost-effective alternatives to brand-new devices. Whether you're looking to save money, obtain a discontinued model, or experiment with a different phone without breaking the bank, buying a pre-owned phone can be a practical choice.However, navigating the world of used smartphones requires careful consideration to ensure you're making a smart investment.Before finalising your decision to purchase a second-hand phone, it's essential to weigh several key factors that can influence your overall experience and satisfaction with the device. From assessing the phone's condition to evaluating its performance and compatibility, each factor plays a critical role in determining whether a used phone is the right choice for you.This comprehensive guide will explore the important factors to consider before buying a second-hand phone, empowering you to make an informed decision and find a reliable device that meets your needs and expectations.","Buying a pre-owned phone can be a practical choice. But navigating the world of used smartphones requires careful consideration. From assessing the phone's condition to evaluating its performance and compatibility, each factor plays a critical role in determining whether a used phone is the right choice for you.","https://static.toiimg.com/thumb/msid-110144730,imgsize-13298,width-400,resizemode-4/110144730.jpg"
 "Apple iPhone 15 deal: How to buy it at Rs 42,900",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-15-deal-how-to-buy-it-at-rs-42900/articleshow/110111990.cms,"How to buy Apple iPhone 15 for Rs 42,900
+
+
 
 Apple iPhone 15 is up for grabs with exciting offers and discounts on India iStore. So much so that you can buy the device for as low as Rs 42,900 (base variant). India iStore is running an Upgrader Fest from May 10 to May 26 that offers exchange discounts and bank discounts on purchase of Apple iPhone 15 series. If you have been looking to upgrade your old iPhone to the latest iPhone, then now is the time.Apple iPhone 15 carries a price tag of Rs 79,900 for the 128GB variant. As part of the ongoing offer, India iStore is giving an instant store discount of Rs 5,000 which brings down the price to Rs 74,900. Additionally, there is an instant cashback of Rs 4,000 on credit cards of ICICI Bank and SBI.Further, there is a discount of Rs 20,000 if you exchange your old iPhone while purchasing the new iPhone 15. Do note that the said Rs 20,000 discount is calculated on exchange value of the 64GB model of iPhone 12. India iStore is also giving an exchange bonus of Rs 8,000.All these discounts cumulatively bring down the effective price of iPhone 15 to Rs 42,900.As mentioned above, the website is also giving discounts on other iPhone 15 series - iPhone 15 Plus, iPhone 15 Pro and iPhone 15 Pro Max. You can purchase the iPhone 15 Plus at an effective price of Rs 52,900 during the fest. Apple iPhone 15 Pro and iPhone 15 Pro Max, on the other hand, can be purchased at an effective price of Rs 1,03,900 and Rs 1,28,900, respectively.In addition, there is an offer of up to Rs 14,000 on Apple iPhone 13.","Apple iPhone 15 carries a price tag of Rs 79,900 for the 128GB variant. India iStore is running an Upgrader Fest from May 10 to May 26. There is an instant cashback of Rs 4,000 on credit cards of ICICI Bank and SBI.","https://static.toiimg.com/thumb/msid-110112066,imgsize-14318,width-400,resizemode-4/110112066.jpg"
 30 free Poki Games online you need to play right now; explore the list,https://timesofindia.indiatimes.com/technology/gaming/30-free-poki-games-online-you-need-to-play-right-now-explore-the-list/articleshow/109980364.cms,"Free Poki Games online to play anytime, anywhere
@@ -521,43 +522,7 @@ Press the spacebar to jump over holes and obstacles as you navigate towards the 
 Also read
 
 Poki Games is a popular online gaming platform that boasts a staggering monthly player base of over 50 million individuals. This website hosts an extensive collection of games, ranging from timeless classics to contemporary favourites like Subway Surfer, Temple Run, and Candy Crush Saga. Whether you're seeking a quick diversion or immersive entertainment, Poki Games offers a diverse selection of titles suitable for play on any device, whether it's a smartphone, laptop, or PC.If you're looking to engage in casual gaming experiences that can be enjoyed effortlessly through your preferred device, Poki Games stands out as an accessible and entertaining destination.With its broad spectrum of offerings, there's something here for everyone, making it an ideal choice for those seeking to unwind and have fun online.Subway Surfers is a popular endless runner game designed initially for mobile phones, optimised for portrait screens. Within the game, players assume the role of Jake, the default character, and embark on an exhilarating escape from a pursuing police officer and his dog. The objective is to navigate through a vibrant urban landscape while avoiding oncoming trains, trams, and various obstacles that obstruct your path. Along the way, players have the opportunity to collect coins, power-ups, and special gears to enhance their gameplay experience.Candy Crush Saga is a widely popular tile-matching puzzle game that has captured the attention of both younger players and adults alike. The objective of the game is to match candies of the same colour to clear them from the board and progress through levels.Angry Birds was a highly successful game that even inspired its own movie based on its beloved characters. In this game, players take control of various birds, notably the red angry bird, with the mission of protecting their eggs from green-coloured pigs. The objective is to launch these birds from a slingshot towards the pigs to stop them from devouring the eggs.To play, use your mouse or touchpad cursor:While the original Super Mario game wasn't available on Poki, we discovered a similar clone titled ""Super Mario and Sonic"" on Poki.co.in. This game allows you to play as either Super Mario or Sonic, both featuring gameplay mechanics inspired by the Mario series. Your objective is to run, jump, and attack enemies while collecting coins, aiming to reach the flagpole at the end of each level.Chess is a widely recognized game, and I chose this version for its appealing graphics. You have the option to play against another player or challenge the CPU. Each player is allotted 10 seconds to make a move, adding intensity to the gameplay.In this game, you'll ride a bike, manage its speed, and perform daring stunts to reach the finish line. The game is reminiscent of Bike Race Pro, available on Android and iOS platforms.This game is a puzzle challenge where you slide tiles with matching numbers to combine them and create new tiles, earning points in the process. The goal is to continue this strategy until you reach the elusive 2048 tile.Among various pool games I've tried, I particularly enjoy the single-player mode of this game. Here, you challenge yourself against the clock rather than competing against another player. The objective is to pocket all the balls before the timer runs out, with a total of 60 seconds given. Additionally, sinking balls into the pockets grants you time bonuses, extending your gameplay.Here's a description of another popular endless racing game where you take on the role of an explorer sprinting with a valuable relic. Your goal is to continuously run, collecting coins and power-ups, while navigating around obstacles and avoiding pursuit by monkeys. It's essential to stay on the path and avoid falling off.In this game, your objective is to strike the ball back and forth over the net. The game concludes when a player fails to return the ball or hits it out of bounds.y:In this game, your objective is to score goals by hitting the ball with your head or legs. Positioning and timing are crucial to make successful shots while ensuring your goal remains protected from the opponent.Experience a car racing game set in a cyberpunk environment featuring physics-defying stunts. Keep your vehicle accelerating while maintaining control to avoid falling off the track and colliding with obstacles. Collect green power-ups to increase your speed along the way.Put your knowledge to the test with this game offering three exciting modes:In this game, your goal is to aim and shoot bubbles at groups of the same coloured bubbles to make them burst and clear the screen.In this game, your objective is to use a hook to propel yourself across the finish line by adjusting your angle, speed, and direction effectively.This game is reminiscent of Minecraft, where you gather and collect items to construct various objects.In this game, you'll navigate using a jetpack to shoot down enemy scientists, avoid obstacles, and gather points in an endless race. Along the way, you'll encounter giant mechanical dragons, birds, powerful weapons, stylish outfits, and other surprises.This is a first-person shooter game where you eliminate enemies while avoiding being killed by opponents. Strategically aim, shoot, and take cover as needed. You'll be part of a team within a 10-member server room, and you can also engage in Deathmatch and other game modes.In this game, your task is to swiftly swipe and slice fruits before they hit the ground. Aim accurately and avoid hitting any bombs that may pass by. Exercise precision similar to that of a ninja as you slice various fruits like pears, apples, jackfruit, coconuts, and bananas. The goal is to never miss a fruit and definitely avoid hitting any bombs.In this game, you control a small robot stranded on a tiny island. Your objective is to solve puzzle blocks to create paths to reach the stars scattered across different areas of the island. Gather all the stars to advance to the next round and explore new maps.In this game, your goal is to aim and release the golf ball into the cup. Adjust the direction and speed of the ball to guide it closer to the cup while avoiding obstacles and staying within the course boundaries.Roll the dice and navigate your pawn around the board in this nostalgic journey through Ludo Hero. Relive the joy of playing this classic board game with family and friends, now available online. Enjoy either single-player mode against a bot or challenge an online player in multiplayer mode.In this game, you take on the role of a monkey managing a banana mart. Your tasks include setting up the farm, stalls, and cash counter, harvesting bananas, stocking the stall for sales, and handling customer transactions. As you progress, you'll expand your business with new workstations, staff members, and products. You can also train your staff to improve efficiency and ensure smooth operations.Experience the classic arcade game brought back with all its timeless fun. Your objective is to strategically arrange falling blocks to completely fill rows. Once a row is completely filled, it will clear, earning you points. The game's vibrant neon colours add to its special appeal.Explore another classic game where you use a paddle to bounce a ball and break blocks. Your goal is to control the paddle to keep the ball in play, breaking blocks along the way and collecting power-ups.Sword Masters is an engaging online adventure game where your character's mission is to defend the village by defeating enemies. Begin with just your bare hands, but soon acquire swords, gear, and coins. Along the way, encounter eggs that hatch into pets to aid you. Each battle earns you experience points, with the ultimate goal of becoming the most skilled warrior.Blumgi Soccer is a captivating and easy-to-play arcade football game where your objective is to shoot the ball into the goalpost. Navigate through obstacles and avoid pitfalls while ensuring the ball doesn't bounce back and hit you, which could push you into a rift.In this game, you control a tank and engage in battles against enemies while also maintaining balance to prevent the tank from toppling over. As you progress and level up, you can unlock various upgrades including tanks, mechs, robots, mines, force shields, and rocket strikes.Tribals offers a high-definition survival experience similar to Minecraft. Begin by waking up on an island where you must gather plants, chop down trees for wood, and use these resources to construct a base. Craft tools, hunt and cook chicken, and be prepared to fend off bear attacks while exploring the island and striving to survive.In this game, your goal is to swiftly reach and enter a door while avoiding sudden holes that may appear, posing a danger of falling and losing the game. Stay alert and agile to jump over these holes, especially when dealing with multiple holes or expanding ones.","summarize: Free Poki Games online to play anytime, anywhere. Subway Surfers: Use the Arrow Up key to make Jake jump over obstacles. Chess: Follow the standard rules of chess; you cannot move pieces arbitrarily but must adhere to the established rules of the game.","https://static.toiimg.com/thumb/msid-109980845,imgsize-85414,width-400,resizemode-4/109980845.jpg"
-Top 5 walking apps that pay you for walking; explore the list,https://timesofindia.indiatimes.com/technology/tech-tips/top-5-walking-apps-that-pay-you-for-walking-explore-the-list/articleshow/110060656.cms,"Best apps that help you earn for walking
-
-StepSetGo
-
-Fitbit
-
-Sweatcoin
-
-Achievement
-
-Bitwalking
-
-Runtopia
-
-PK Rewards
-
-Stepbet
-
-Lifecoin
-
-Winwalk
-
-Best walking apps 2024: How points or coins work in these apps
-
-Frequently asked questions (FAQ’s)
-
-How much can you earn with walking reward apps?
-
-Are there any costs associated with using walking reward apps?
-
-Are there globally available apps that pay you for walking?
-
-Can you use multiple walking reward apps simultaneously?
-
-Also read
-
-Walking not only helps maintain physical fitness and overall health but can also be a source of income! Several apps offer real monetary rewards for walking. These apps track your steps and compensate you with cryptocurrency, redeemable points, or even tangible products.Imagine earning extra money simply by walking to work or enjoying a leisurely stroll in the park! In this article, we delve into the top 9 apps that pay you for walking in 2024.We'll explore how these apps operate, the rewards they provide, and their advantages and disadvantages. Let's begin and discover how you can transform your daily steps into cash.Discover the best apps that pay you to walk and earn rewards, including Paytm cash, for your daily steps:StepSetGo is a popular Indian app that incentivizes users with coins for each step taken. These coins can be exchanged for products and services offered by the app’s partner brands. StepSetGo stands out with its interactive challenge feature, allowing users to compete with friends and family for added motivation.Fitbit is a well-known fitness tracker app that monitors steps, distance covered, and calories burned, complete with built-in GPS for outdoor activity tracking. Users can earn badges upon reaching specific milestones and participate in leaderboard competitions.The app syncs seamlessly with Fitbit devices and integrates with other health apps like MyFitnessPal. However, a potential drawback is the requirement of owning a Fitbit device to access all functionalities, which can be costly.Sweatcoin is a distinctive app that compensates users with Sweatcoins for engaging in outdoor walking or running. These Sweatcoins can be redeemed for a variety of products, services, or charitable donations.Moreover, Sweatcoin hosts a marketplace where users can shop using their accumulated Sweatcoins. One limitation is that Sweatcoin is limited to tracking outdoor activities and may not be as precise as other fitness apps.Achievement is a comprehensive health and wellness app that compensates users for engaging in healthy activities, such as walking, exercising, and meditating. It syncs with various fitness apps and offers points that can be exchanged for cash via PayPal or direct deposit.Additionally, users can participate in surveys and studies for extra points. However, accumulating enough points for redemption may require patience.Bitwalking is a distinct app that awards users with Bitwalking dollars (BW$) based on their walking activity. These BW$ can be exchanged for products and services available in the app's marketplace. Bitwalking also fosters social connections among users through its networking feature.A drawback of Bitwalking is its limited availability, as it is not accessible in all countries.Runtopia is an app that rewards users with points for completing walking and running challenges and achieving fitness milestones. These points can be exchanged for various products and services offered in the app’s marketplace.Moreover, Runtopia offers personalised training plans to assist users in reaching their fitness objectives. However, certain premium features may require a subscription to access.PK Rewards is an app designed for walking and running that incentivizes users with coins upon completing challenges and achieving set goals. These earned coins can be exchanged for various products and services offered within the app’s marketplace. The app fosters social engagement by enabling users to challenge friends to meet fitness milestones.However, it's important to note that PK Rewards is currently exclusive to users in China.Stepbet is a distinctive fitness app that rewards users with cash for accomplishing their fitness objectives. Users participate by placing bets on themselves to meet specific goals, and successful achievers receive a portion of the collective pot. The app tailors personalised goals and challenges based on the individual's previous activity level.One drawback of Stepbet is the requirement for users to place upfront bets, which may not be suitable for everyone.Lifecoin is an innovative app that grants users Lifecoins upon completion of fitness challenges. These Lifecoins can subsequently be redeemed for various products and services accessible within the app's marketplace. Additionally, the app offers a donation feature where users can contribute Lifecoins to charity.Lifecoin synchronises with multiple fitness-tracking apps and includes a competitive leaderboard. However, it is limited in its ability to track specific activities like walking, running, and cycling, and may not provide as precise metrics as other fitness-tracking apps.Winwalk is a walking app that rewards users with coins for every step taken. These coins can be redeemed for products and services offered by the app's partner brands. Users can participate in challenges with friends and family to maintain motivation.Furthermore, Winwalk monitors calories burned and distance covered and features a leaderboard for friendly competition. Please be aware that Winwalk is currently accessible only in select countries.Apps that compensate you for walking use a blend of GPS technology and motion sensors to monitor your steps. Upon installing the app, you'll be prompted to set up an account and grant permission for the app to access your device's sensors.Certain apps require you to carry your phone at all times to track steps, whereas others allow synchronisation with external devices like fitness trackers. Typically, these apps establish a daily step target that you must reach to earn rewards.Upon reaching your target, the app will credit your account with points or coins that can be redeemed for various rewards. Regarding rewards, the options vary across different apps. Some apps provide cryptocurrency rewards such as Bitcoin, while others offer redeemable points for purchasing products or services. Additionally, certain apps offer cash rewards that can be transferred to your PayPal account or Paytm wallet.The earnings potential from apps that pay you for walking varies depending on the specific app. Some apps provide rewards in the form of real money, while others offer gift cards, discounts, or products. Compensation rates may range from a few cents per mile to accumulating rewards over time for larger payouts.Most walking reward apps are free to download and use, although some may have premium features or subscription options that involve fees. It's essential to review the terms and conditions before using any app to understand potential charges. Additionally, certain apps may require connection to specific devices like fitness trackers or smartwatches, which could involve additional costs.Many walking reward apps are accessible worldwide, though some may have restrictions based on country or region. Prior to downloading an app, check the app store listings to confirm availability in your location. If an app isn't available in your region, consider exploring alternative options or reaching out to the app developer to request expansion into your area.Yes, you can use multiple walking reward apps concurrently to maximise your earnings and rewards. However, it's important to monitor your progress on each app to avoid duplicating steps or rewards. You can prioritise apps based on rewards offered or features that align best with your fitness objectives.","Discover the best apps that pay you to walk and earn rewards, including PayTM cash, for your daily steps. StepSetGo is a popular Indian app that incentivizes users with coins for each step taken.Sweatcoin is a distinctive app that compensates users with Sweatcoins for engaging in outdoor walking or running.","https://static.toiimg.com/thumb/msid-110060733,imgsize-11292,width-400,resizemode-4/110060733.jpg"
+Mark Zuckerberg: Facebook CEO shares these pictures of his birthday celebration with Bill Gates as ‘special guest’,https://timesofindia.indiatimes.com/technology/social/facebook-ceo-mark-zuckerberg-shares-pictures-of-his-40th-birthday-celebrations-with-bill-gates-as-special-guest/articleshow/110141247.cms,"Meta CEO Mark Zuckerberg turned 40 on May 14. Like everyone else, the Meta CEO celebrated the day with his friends, family and a ‘special guest’. Sharing a glimpse of the celebrations, Zuckerberg posted pictures of his birthday party on Instagram.In the Instagram post, Zuckerberg reveals how his wife Priscilla recreated a bunch of places he lived in during his early days.These included his childhood bedroom where he learnt coding, Harvard dorm where he launched Facebook, his first apartment with just a mattress on the floor and one of his earlier office spaces.Here’s the link to Mark’s Instagram post with the viral pics:Now what is remarkable about these pictures is that in one of the photos he is seen posing with a ‘special guest’, Microsoft’s former CEO – Bill Gates . Interestingly, both Zuckerberg and Gates dropped out of Harvard to build today’s largest tech companies – Meta (formerly Facebook) and Microsoft , respectively.In another picture, Zuckerberg clicked pictures at a recreated Pinocchio's Pizzeria where he says that he ‘basically lived in college’. In one of the pictures, he can be seen with his daughters showing them the room he grew up in.Sharing another picture, Zuckerberg says that he is grateful that people traveled from all around the world to celebrate his birthday with him.Zuckerberg’s wife Priscilla Chan has also shared an Instagram post wishing him on his birthday. She wrote ""Mark doesn't usually let me go big for his birthday, but for his 40th, I was allowed to throw a bash as long as our friends and family also roasted him. We all had a blast! Let’s just say that no one suffered from a lack of material!""."," Meta CEO Mark Zuckerberg turned 40 on May 14. Like everyone else, the Meta CEO celebrated the day with his friends, family and a ‘special guest’ In one of the photos he is seen posing with Microsoft’s former CEO – Bill Gates. Both Zuckerberg and Gates dropped out of Harvard to build today's largest tech companies.","https://static.toiimg.com/thumb/msid-110141449,imgsize-34906,width-400,resizemode-4/110141449.jpg"
 Apple iPhone 16 Pro Max: 4 new camera features Apple may add to iPhone 16 Pro models,https://timesofindia.indiatimes.com/technology/mobiles-tabs/4-new-camera-features-apple-may-add-to-iphone-16-pro-models/articleshow/110057298.cms,"Upgraded ultra-wide cameras
 
 
@@ -625,349 +590,17 @@ Create a feature account
 Also read
 
 In today's digital age, Instagram has emerged as a powerhouse social media platform with over one billion active monthly users worldwide. With such a vast and engaged audience, Instagram offers unparalleled opportunities for individuals to leverage their creativity and influence into profitable ventures. Whether you're seeking a supplementary income or aiming to transform Instagram into your primary source of revenue, monetizing your account can be both rewarding and lucrative.Here are 10 effective ways to kickstart your journey towards making money on Instagram.Instagram influencers collaborate with brands to promote products through various content formats such as posts, stories, and live streams. To attract brand partnerships, it's essential to build a substantial following and maintain a high engagement rate with your audience.Instagram incentivizes top creators by offering bonuses when they achieve specific milestones, such as reaching follower targets or achieving high engagement rates on their posts. This program encourages creators to consistently produce engaging content.Use Instagram as a platform to sell products by setting up an online shop. Create a dedicated business account to showcase your products, and leverage features like Instagram Shopping to facilitate seamless transactions directly through the app.Engage in affiliate marketing by partnering with brands to promote their products or services. You don't necessarily need a large following; instead, focus on building connections and leveraging your ability to engage customers and influencers to drive sales.Leverage Instagram to drive traffic to your website if you specialise in SEO or content marketing. Use Instagram stories and posts to share valuable content and promote your website, similar to how influencers endorse brands.If you excel in content creation, copywriting, or caption writing, leverage Instagram as a platform to offer marketing services to brands. Write compelling marketing content and captions for brands' Instagram posts to generate significant revenue.Monetize your creative talents by selling designs, photographs, or videos on Instagram. Showcase your creations to attract potential buyers and earn revenue through sales or commissioned projects.Provide exclusive content, such as courses or insider tips, to your followers for a fee. Exclusive content offerings can ensure a steady revenue stream and enhance your relationship with dedicated followers.Start a dropshipping business on Instagram without owning inventory. Source products from suppliers, set your prices, and engage with customers to facilitate sales. Leverage Instagram's reach to market your products effectively.Establish a niche-specific Instagram page with high engagement and followers. Offer other creators a platform to showcase their work on your page for a fee. For example, create a page dedicated to car and bike photography and charge creators to feature their content.","Instagram incentivizes top creators by offering bonuses when they achieve specific milestones, such as reaching follower targets or achieving high engagement rates on their posts. Use Instagram to drive traffic to your website if you specialise in SEO or content marketing. Establish a niche-specific Instagram page with high engagement and followers.","https://static.toiimg.com/thumb/msid-110082903,imgsize-26978,width-400,resizemode-4/110082903.jpg"
-Indian Bike Driving 3D Cheat Codes May 2024: Bike driving cheat codes revealed and know how to use cheat codes,https://timesofindia.indiatimes.com/technology/gaming/indian-bike-driving-3d-cheat-codes-bike-driving-cheat-codes-revealed-and-know-how-to-use-cheat-codes/articleshow/109781848.cms,"Indian Bike Driving 3D cheat codes and rewards
+"Android 15 rolling out today: How to download, features and more",https://timesofindia.indiatimes.com/technology/mobiles-tabs/android-15-rolling-out-today-how-to-download-features-and-more/articleshow/110141163.cms,"What's New in
 
-Active Codes
+Android 15 Beta 2
 
-Rewards
+?
 
-3001 (NEW)
+These might include:
 
-Boat
+How to download Android 15 Beta 2
 
-9191 (NEW)
-
-Thar
-
-50 (NEW)
-
-Velociraptor
-
-51 (NEW)
-
-T-rex
-
-52 (NEW)
-
-Spino
-
-53 (NEW)
-
-Brachiosaurus
-
-9
-
-Night Mode
-
-54321
-
-More Traffic Car
-
-330
-
-Jet Pack Mini
-
-6677
-
-JCB
-
-333
-
-Bolero
-
-8880
-
-Hummer
-
-4050
-
-Apache
-
-2222
-
-ATV
-
-500
-
-Audi
-
-200
-
-Bag
-
-666
-
-Banneli tnt
-
-4444
-
-Bugatti Chiron
-
-800
-
-Bugatti v2
-
-1111
-
-Cycle
-
-5050
-
-Dino
-
-600
-
-Dog
-
-777
-
-Ducati Diavel
-
-8888
-
-Duke 1290
-
-7777
-
-Duke 200
-
-4215
-
-Duke
-
-2020
-
-Endeavour
-
-8811
-
-Ferrari
-
-606
-
-Fire Truck
-
-1000
-
-Fortuner
-
-00
-
-Fuel Tank
-
-0
-
-Gas Tank
-
-5555
-
-Ghost Raider Bike
-
-7000
-
-Hayabhusa
-
-8000
-
-Helicopter
-
-0000
-
-Hero Pleasure
-
-200
-
-Horse
-
-9129
-
-Infinity Health
-
-3000
-
-Kawasaki Ninja H2r
-
-900
-
-Koeigness
-
-1210
-
-KTM
-
-3333
-
-Lamborghini
-
-700
-
-Lamborghini v2
-
-1001
-
-Legendar
-
-0 + Car cheat codes
-
-Monster Truck
-
-7112
-
-Moon gravity
-
-12345
-
-MoreNpc
-
-8123
-
-Mustang
-
-1190
-
-New KTM
-
-555
-
-Plane
-
-4000
-
-Porsche
-
-1211
-
-Pulsar
-
-5000
-
-Pulsar Rs200
-
-6666
-
-Range Rover
-
-2000
-
-Rolls Royce
-
-9999
-
-Royal Enfield Bullet
-
-333
-
-Scorpio classic
-
-444
-
-Scorpio s11
-
-1120
-
-Skyfall
-
-1112
-
-Slow motion
-
-9000
-
-Splendor
-
-1215
-
-Super jump
-
-6021
-
-Super Splendor
-
-2244
-
-Supra
-
-4040
-
-Tank
-
-300
-
-Tarzen
-
-002
-
-Tattoo Skin
-
-9090
-
-Thar
-
-6000
-
-Tron Bike
-
-1212
-
-Truck
-
-01212
-
-Truck with trailer
-
-1216
-
-Ultra Super jump
-
-888
-
-Yamaha FZ10
-
-0015
-
-Yamaha R15
-
-999
-
-Yamaha vmax
-
-2030
-
-Zombie
-
-400
-
-Zx10r bike
-
-
-
-Indian Bike Driving 3D: How to use cheat codes
-
-Launch the Game : Start the Indian Bike Driving 3D game on your device.
-
-
-
-: Start the Indian Bike Driving 3D game on your device. Access the Phone Menu : Locate the button with a phone icon, usually positioned at the bottom left corner of the game screen, and click on it to open the phone menu.
-
-
-
-: Locate the button with a phone icon, usually positioned at the bottom left corner of the game screen, and click on it to open the phone menu. Navigate to the Handset Icon : Within the phone menu, identify the handset icon, usually located in the middle and colored green. Click on this icon to proceed.
-
-
-
-: Within the phone menu, identify the handset icon, usually located in the middle and colored green. Click on this icon to proceed. Open the Number Entry Interface : Upon clicking the handset icon, a contact list will appear on the screen. Look for an icon with nine orange circles at the bottom left corner of this screen and click on it to access the number entry interface.
-
-
-
-: Upon clicking the handset icon, a contact list will appear on the screen. Look for an icon with nine orange circles at the bottom left corner of this screen and click on it to access the number entry interface. Enter the Cheat Code : In the number entry interface, use your device's keypad to enter one of the cheat codes provided. Each cheat code corresponds to a specific reward mentioned in the description.
-
-
-
-: In the number entry interface, use your device's keypad to enter one of the cheat codes provided. Each cheat code corresponds to a specific reward mentioned in the description. Redeem the Reward: After entering the cheat code, press the confirm or enter button on your device's keypad. This action will instantly reward you with the corresponding benefit mentioned for that cheat code.
-
-Also read
-
-Indian Bike Driving 3D is a mobile game similar to GTA, offering players the freedom to engage in various activities. By using cheat codes, players can enhance their enjoyment and versatility within the game. This guide presents a comprehensive list of all Indian Bike Driving 3D cheat codes, allowing players to unlock numerous benefits. With these codes, players can access a range of features, from spawning zombies to driving impressive and large vehicles.Currently, the game features a wide selection of over 50 cheat codes available for players to use.While these cheat codes won't grant new weapons, they do allow gamers to summon various cars that can assist in overcoming enemies and challenges within the game. Below is a detailed list of all the available cheat codes along with the rewards and benefits they provide:Redeeming cheat codes in the game is a quick and straightforward process. Follow these steps to use the cheat codes effectively:That's all there is to it! Players can enjoy the benefits of these cheat codes at any time during the game. Remember, cheat codes have unlimited uses, allowing fans to use them whenever they desire.","Start the Indian Bike Driving 3D game on your device. Navigate to the Handset Icon: Within the phone menu, identify the handset icon, usually located in the middle and colored green. Click on this icon to access the number entry interface. Each cheat code corresponds to a specific reward mentioned in the description.","https://static.toiimg.com/thumb/msid-109782352,imgsize-95830,width-400,resizemode-4/109782352.jpg"
+Google started rolling out the second beta version of Android 15 today (May 15), offering a glimpse into the upcoming major update for the world's most popular mobile operating system. This beta brings a wave of new features and improvements, along with the chance for early adopters to test and provide feedback.While Google remained tight-lipped about all the specifics at Google I/O 2024, some exciting features hinted at during the keynote are expected to be included in Beta 2.* Enhanced In-App Camera Controls: Granular control over camera settings directly within apps, offering more flexibility for photography enthusiasts.* Partial Screen Sharing: Share specific portions of your screen while keeping other areas private, ideal for presentations or tutorials.* Improved Loudness Equalization: Fine-tune audio levels across different apps, ensuring a consistent listening experience.* Privacy and Security Updates: As always, Google is likely to include further improvements to user privacy and security within the Android system.It's important to remember that Beta software is still under development and may contain bugs or instabilities. If you're a developer or an adventurous user willing to experience potential glitches in exchange for early access to new features, here's how to download:* Eligibility Check: Only certain Google Pixel devices are compatible with the Android 15 Beta program. Visit the official Android Beta website (https://developer.android.com/about/versions/15) to confirm your device's eligibility.* Enrollment Process: If your device qualifies, head over to the Android Beta website and enroll your Pixel in the program.* Software Update: Once enrolled, keep an eye out for a software update notification on your device. Download and install the update following the on-screen instructions.","Google started rolling out the second beta version of Android 15 today (May 15) This beta brings a wave of new features and improvements, along with the chance for early adopters to test and provide feedback. It's important to remember that Beta software is still under development and may contain bugs or instabilities.","https://static.toiimg.com/thumb/msid-110141129,imgsize-293140,width-400,resizemode-4/110141129.jpg"
 Smart tips to reduce your summer electricity bill,https://timesofindia.indiatimes.com/technology/tech-tips/smart-tips-to-reduce-your-summer-electricity-bill/articleshow/110008806.cms,"Reduce electricity bills with smart tips
 
 Purchase electrical appliances with a 5-star BEE rating
