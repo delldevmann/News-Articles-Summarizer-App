@@ -37,5 +37,5 @@ The News Article Summarizer and Categorizer is a project aimed at addressing the
 
 
 
-
+Deployed version on Streamlit cloud: https://2minutenews.streamlit.app/
 
