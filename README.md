@@ -1,10 +1,10 @@
-# News Article Summarizer and Categorizer
+# News Article Summarizer Web-App
 
 ## Overview
 The News Article Summarizer and Categorizer is a project aimed at addressing the information overload experienced by users in today's fast-paced world. This project provides a streamlined platform for accessing and summarizing news articles across five main domains: India, World, Business, Technology, and Sports. Additionally, it offers the functionality to convert summarized news articles into audio format, enhancing accessibility and convenience for users who prefer auditory consumption of information.
 
 ## Features and working
-- **News article scraping**: Collects news articles from [Times](https://timesofindia.indiatimes.com/) across various domains.
+- **News article scraping**: Collects news articles from [Times of India website](https://timesofindia.indiatimes.com/) across various domains.
 - **Text Summarization**: Provides concise summaries of news articles using advanced NLP techniques.
 - **Text-to-Audio Conversion**: Converts summarized news articles into audio format for auditory consumption.
 
