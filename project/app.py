@@ -66,8 +66,8 @@ for i in range(min(50, len(df))):
                     os.remove(audio_filename)
                     print(article_title, "- Audio file deleted")
             st.write("")
-            st.write("")        
+            st.write("")       
     else:
         print("One or more required fields are empty or invalid. Skipping article display.")
 
-st.markdown("<p style='font-size: small; color: grey; text-align: center;'>A NLP project. Disclaimer: This project is intended for educational purposes only. Web scraping without proper authorization is not encouraged or endorsed.</p>", unsafe_allow_html=True)    
+st.markdown("<p style='font-size: small; color: grey; text-align: center;'>A NLP project. <a href='https://github.com/akanksha1131/News-Articles-Summarizer-App'>GitHub Link</a> . Disclaimer: This project is intended for educational purposes only. Web scraping without proper authorization is not encouraged or endorsed.</p>", unsafe_allow_html=True)    
