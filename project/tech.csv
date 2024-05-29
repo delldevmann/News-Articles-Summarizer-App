@@ -1,97 +1,119 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-"Google Play Store now makes app account deletion easier, here’s how",https://timesofindia.indiatimes.com/technology/tech-news/google-play-store-now-makes-app-account-deletion-easier-heres-how/articleshow/110481105.cms,"The
+Android’s find my device app to soon get this privacy feature,https://timesofindia.indiatimes.com/technology/tech-news/androids-find-my-device-app-to-soon-get-this-privacy-feature/articleshow/110517863.cms,"Remote lock feature
 
-account deletion
+also coming to Find my device app
 
-badge
+Google 's Find My Device app which helps in locating lost or stolen smartphones, may soon get a new privacy feature . As reported by XDA Developers the app may soon get biometric unlocking functionality.Presently, the Find My Device app requires you to enter your Google account password whenever you open it. This can be cumbersome, especially in situations where time is of the essence. However, recent findings by XDA Developers suggest that Google is testing a new feature: biometric login.This update will enable users to unlock the Find My Device app with their fingerprint or facial recognition (depending on their device's capabilities). This eliminates the need to remember and type in a password.The inclusion of biometric unlocking would be a welcome addition for many Android users. It streamlines the process of accessing the Find My Device app, potentially increasing its effectiveness in locating lost phones.Another online report by Android Authority reveals that the find my device app will also get a remote lock feature. This upcoming feature will enable users to lock their device using just their phone number and quick security challenge.The report also adds that the remote lock functionality will be available on devices running Android 10 and above. The feature is expected to roll out by the end of this year.","Google's Find My Device app which helps in locating lost or stolen smartphones, may soon get a new privacy feature. As reported by XDA Developers the app may soonget biometric unlocking functionality. This eliminates the need to remember and type in a password. Remote lock feature also coming to Find my device app.","https://static.toiimg.com/thumb/msid-110517841,imgsize-18040,width-400,resizemode-4/110517841.jpg"
+"Facebook parent Meta's chief AI scientist: ""AI is not some sort of ...""",https://timesofindia.indiatimes.com/technology/tech-news/facebook-parent-metas-chief-ai-scientist-ai-is-not-some-sort-of-/articleshow/110504004.cms,"Chief AI Scientist at Meta Yann Le Cun takes part in a debate at the Vivatech technology startups and innovation fair, at the Porte de Versailles exhibition center in Paris, on May 22, 2024. (Photo by JULIEN DE ROSA / AFP)
 
-Google has begun rolling out a new feature in the Play Store that makes it easier than ever to identify apps that allow you to delete your account.The new feature highlights apps with a “account deletion available"" badge on their store listing. This badge indicates that the app adheres to Google's data deletion policy, which mandates that apps allowing user account creation must also offer a clear and functional way to delete that account.Prior to this update, users often had to navigate an app's settings or search online resources to determine if account deletion was even possible. The new badge offers a straightforward solution, letting users know upfront if an app respects their right to data privacy .“Google Play’s data deletion badge give users a new set of transparency and controls over their user data while providing developers a way to showcase how they treat user data responsibly. If your app allows users to create an account from within your app, our User data policy requires that it must also allow users to request for their account to be deleted,” said the company.This feature rollout comes on the heels of Google's policy announcement from April 2023. Back then, Google mandated that all apps with user accounts have a functional account deletion option by May 31, 2024.","Google has begun rolling out a new feature in the Play Store that makes it easier than ever to identify apps that allow you to delete your account. The new feature highlights apps with a “account deletion available"" badge on their store listing. This badge indicates that the app adheres to Google's data deletion policy.","https://static.toiimg.com/thumb/msid-110481097,imgsize-15608,width-400,resizemode-4/110481097.jpg"
-SEBI is banning apps that offer these virtual trading services,https://timesofindia.indiatimes.com/technology/tech-news/sebi-is-banning-apps-that-offer-these-virtual-trading-services/articleshow/110476097.cms,"Why the Crackdown on virtual trading gaming apps
+What Meta's AI scietist have to say on AI regulation
 
-The Securities and Exchange Board of India (SEBI) is clamping down on the growing trend of virtual stock gaming apps . These apps, which have become increasingly popular due to the surge in retail investor interest, allow users to create virtual portfolios and compete based on real-time stock prices . India's stock market regulator SEBI is not too pleases with such apps. SEBI is concerned about potential risks associated with these games, particularly when they involve real-money rewards.SEBI's primary concern centers around activities that resemble "" dabba trading ,"" a banned practice where orders are placed through unauthorized channels. By restricting access to real-time data for these gaming apps, SEBI aims to prevent users from potentially developing unrealistic expectations about the stock market or engaging in risky behavior based on virtual wins.SEBI has directed stock exchanges and depositories to stop sharing real-time price data with third-party apps. This move effectively cuts off the data feed that fuels these virtual stock games. It's important to note that this action is specifically targeted at apps offering financial rewards or gamifying real-time stock movements. Educational or entertainment-focused apps utilizing historical data or delayed feeds are likely not to be impacted.What it means for gamers and developersThe future of virtual stock games in India is uncertain. Developers will likely need to adapt their apps to comply with SEBI's regulations. This could involve switching to non-real-time data or focusing on educational elements instead of competition. Users who enjoyed these games for entertainment purposes may need to find alternatives, while those seeking financial rewards will be out of luck.SEBI's crack down highlights the evolving regulatory landscape surrounding financial apps and gamification. While virtual stock games can be a way to learn about the market, SEBI is prioritizing investor protection. This crackdown might encourage developers to create more educational and responsible financial gaming experiences in the future.","The Securities and Exchange Board of India is clamping down on the growing trend of virtual stock gaming apps. These apps allow users to create virtual portfolios and compete based on real-time stock prices. SEBI is concerned about potential risks associated with these games, particularly when they involve real-money rewards.","https://static.toiimg.com/thumb/msid-110476095,imgsize-28906,width-400,resizemode-4/110476095.jpg"
-"First four months of 2024 see 7,000 online complaints per day: Investment scams, sextortion and other frauds that Indians lost Rs 1,750 crore to",https://timesofindia.indiatimes.com/technology/tech-news/first-four-months-of-2024-see-7000-online-fraud-complaints-per-day-investment-fraud-sextortion-and-other-scams-that-indians-lost-rs-1750-crore-to/articleshow/110476085.cms,"Investment frauds most common
+The question is similar for AI:
 
-Crackdown on scam SMSes
+""Do we think there exists at least one design of an AI system that is simultaneously safe/controllable, and can fulfill objectives in more intelligent ways than humans ?""
 
-Rs 1,750 crore and counting is the amount that Indians lost to cyber frauds in the first four months of the year 2024. Over 7 lakh 40 thousand cybercrime complaints have been registered on the National Cybercrime Reporting Portal run by the ministry of home affairs between January to April 2024. According to Indian Cyber Crime Coordination Centre (I4C), on an average 7,000 cybercrime complaints were registered per day in May 2024, a jump of 113.7% between 2021-2023 and 60.9% from 2022-2023. I4C is a body established by the ministry of home affairs (MHA) to provide a framework for law enforcement agencies to deal with cybercrime.Financial online frauds seem to be the most dangerous one with over 85% cases being that of financial scams. Most victims were targeted using online investment fraud , gaming apps, algorithm manipulations, illegal lending apps, sextortion , and OTP forwards among others. According to I4C data, over 1 lakh investment scam cases were reported in the year 2023. In cases of digital arrests, Indians lost Rs 1.2 billion in 4,599 cases in the first four months of 2024. Trading scams accounted for 20,043 cases in which Rs 14.2 bn were lost to cyber criminals during the same period.Similarly, Rs 2.22 billion was lost in 62,687 complaints of investment scams, and dating apps caused a loss of Rs 132.3 million in 1,725 complaints, states the I4C data. The total amount lost to cyber criminals by Indians between January to April 2024 stood at Rs 17.6 billion.The I4C said that it is continuously working with RBI, DFS, Banks, FIU, DoT, DIU, Fintech Companies on use of mule accounts and abuse of telecom infrastructure by cybercriminals. It is further monitoring and blocking cybercrime infrastructure such as Skype accounts, Google and Meta advertisements, SMS headers, SIM cards, and bank accounts.In a major crackdown on SMS scammers, the government has blacklisted eight 'principal entities' behind SMS headers that were used for sending over 10,000 fraudulent messages over the past three months, according to an official release. The Department of Telecom (DoT), in collaboration with the Ministry of Home Affairs (MHA), has taken decisive action to protect citizens from potential SMS fraud through the Sanchar Saathi initiative.It was noted that more than 10,000 fraudulent messages were sent using these eight headers in the past three months. The eight principal entities which were the owners of these eight SMS headers have been blacklisted.""All the 8 PEs along with the 73 SMS Headers and 1522 SMS content templates owned by them have been blacklisted. None of these Principal Entities, SMS Headers or templates can now be used to send SMS by any telecom operator. The DoT has prevented further potential victimization of citizens by blacklisting these entities,"" the release said.","Over 7 lakh 40 thousand cybercrime complaints have been registered on the National Cybercrime Reporting Portal run by the ministry of home affairs between January to April 2024. Most victims were targeted using online investment fraud, gaming apps, algorithm manipulations, illegal lending apps, sextortion and OTP forwards.","https://static.toiimg.com/thumb/msid-110476081,imgsize-41522,width-400,resizemode-4/110476081.jpg"
-"Google Play makes it easier to identify apps that allow deleting account data, here’s how",https://timesofindia.indiatimes.com/technology/tech-news/google-play-makes-it-easier-to-identify-apps-that-allow-deleting-account-data-heres-how/articleshow/110474266.cms,"What is Google’s data deletion policy
+If the answer is yes, we'll be fine.
+
+If the answer is no, we won't build it.
+
+Right now, we don't even have a hint of a design of a human-level intelligent system.
+
+So it's too early to worry about it.
+
+And it's way too early to regulate it to prevent ""existential risk.""
+
+LeCun says AI will not be smarter than humans
 
 
 
-Google has started adding a new “Account deletion available” to some apps on the Play Store. Last year, Google introduced a new Play Store policy where developers of any app that allows users to create an account also need to provide the option to delete it (both in-app and online).The company announced that these data deletion practices would appear in Play Store listings early this year.According to a report by Android Authority, this new badge has already started showing the Data Safety section of some app listings for a few testers.Apps that will include this new badge will allow users to submit a request to the developer to delete the account and the data associated with the same.Google has been asking developers to include information about app account deletion in their Play Store listings since December 2023. The company has also announced that developers need to comply with the new policy by May 31 or face penalties like app removal.The company’s data deletion policy mandates that developers offer data and account deletion options both within their apps and online. This will ensure that users don’t have to reinstall an app to delete their data or account.Developers also need to disclose if they need to retain certain data for legitimate reasons, such as regulatory compliance.As the enforcement deadline approaches and data deletion badges start showing for some apps, developers should not expect any further extensions.Meanwhile, for the first time in over eight years, Google has increased the maximum price of an app in the Play Store. Announced at Google I/O 2024, developers can now price their apps up to $999.99. However, it is unlikely that many apps will reach this new price ceiling.",Google has started adding a new “Account deletion available” to some apps on the Play Store. Apps that will include this new badge will allow users to submit a request to the developer to delete the account and the data associated with the same. Google has been asking developers to include information about app account deletion in their Play Store listings since December 2023.,"https://static.toiimg.com/thumb/msid-110474248,imgsize-15608,width-400,resizemode-4/110474248.jpg"
-How Google may improve Find My Device app experience on Android,https://timesofindia.indiatimes.com/technology/tech-news/how-google-may-improve-find-my-device-app-experience-on-android/articleshow/110473691.cms,"How Google is planning to make Find My Device app more user-friendly
+At a time when there has been fears of AI taking jobs and becoming dangerous, Meta 's chief AI scientist Yann LeCun has said that the technology is not a natural phenomenon that it will become dangerous to pose ""existential risk"" to humans. Known as one of the three "" Godfathers of AI "", LeCun has been pointing out that AI will not have human-level intelligence in the near future.""AI is not some sort of natural phenomenon that will just emerge and become dangerous. *WE* design it and *WE* build it,"" he said in a post on X.LeCun drew parallels of the AI technology's development with turbojets.""I can imagine thousands of scenarios where a turbojet goes terribly wrong. Yet we managed to make turbojets insanely reliable before deploying them widely,"" he said.In a separate post, he said that the ""fact that a $30 gadget can beat you at chess doesn't mean it is smarter than you.""Previously, LeCun rejected claims by Elon Musk that Ai “will probably be smarter than any single human next year.”“No. If it were the case, we would have AI systems that could teach themselves to drive a car in 20 hours of practice, like any 17 year-old,” LeCun said on X.","Yann LeCun, Meta's chief AI scientist, says AI is not a natural phenomenon that will become dangerous to humans. He says it's too early to regulate it to prevent ""existential risk"" He also rejected claims by Elon Musk that Ai “will probably be smarter than any single human next year""","https://static.toiimg.com/thumb/msid-110504005,imgsize-70032,width-400,resizemode-4/110504005.jpg"
+Apple loses bid to block antitrust lawsuit over App Store prices,https://timesofindia.indiatimes.com/technology/tech-news/apple-loses-bid-to-block-antitrust-lawsuit-over-app-store-prices/articleshow/110507678.cms,"Why Apple says that the lawsuit needs to be thrown out
 
+Apple's attempt to block a class-action lawsuit accusing the company of monopolizing the iPhone app market has been denied by the 9th US Circuit Court of Appeals . This lawsuit, filed in 2011, alleges Apple violated antitrust laws by restricting how users download apps and potentially inflating prices for tens of millions of customers.The lawsuit, certified in February by U.S. District Judge Yvonne Gonzalez Rogers, allows consumers who spent $10 or more on the App Store since 2008 to join the case and potentially seek billions in damages.Apple argued against the certification, claiming it unfairly includes at least 10 million App Store accounts without sufficient evidence of harm. However, the appeals court denied Apple's request for a pretrial appeal without a hearing, siding with lawyers for the plaintiffs who believe Judge Rogers' decision was fair.This ruling follows a similar class-action lawsuit against Google, which the 9th Circuit initially agreed to review before the trial judge reversed his decision to approve the class. Apple attempted to draw parallels between the two cases, but it was ultimately unsuccessful.The plaintiffs have expressed frustration with delays caused by what they call Apple's ""scorched-earth"" litigation tactics. Both parties have suggested a possible trial date sometime in 2026.It's important to note that this lawsuit is separate from the one filed by the U.S. Department of Justice in March, which accuses Apple of monopolizing the entire smartphone market. Apple has denied all allegations and plans to fight both lawsuits.",Apple's attempt to block a class-action lawsuit has been denied by the 9th US Circuit Court of Appeals. This lawsuit alleges Apple violated antitrust laws by restricting how users download apps. The lawsuit allows consumers who spent $10 or more on the App Store since 2008 to join the case and potentially seek billions in damages.,"https://static.toiimg.com/thumb/msid-110507641,imgsize-127566,width-400,resizemode-4/110507641.jpg"
+Bengaluru school girl’s AI-generated nude photos surface online,https://timesofindia.indiatimes.com/technology/tech-news/bengaluru-school-girls-ai-generated-nude-photos-surface-online/articleshow/110507375.cms,"Bengaluru school’s AI-generated nude images incident details
 
+Response from authorities
 
-Google ’s Find My Device app on Android is set to get updated with a new feature that will help users to login to the app more easily. The tech giant has already started rolling out the upgraded version of the Find My Device network for some Android users. Android trackers that will use this network and compete with Apple’s AirTags which users will be able to manage through the app are also expected to arrive soon.Currently, the Find My Device app needs users to enter their account password every time they open it. However, this frequent account password requirements slows down the Find My Device app’s sign-in process which may become annoying for some users. Google is reportedly exploring other ways of making the process easier, and biometric unlocks may help the company solve the issue.According to a report by Android Authority, a tipster named Assemble Debug managed to enable a biometric login option for the updated Find My Device app. The report also noted that the tipster was also able to enable the remote lock functionality within the latest Google Play Services .Find My Device has allowed users to lock and erase their phones for years now. However, the new Remote Lock functionality will allow users to lock their device with just their phone number and a quick security challenge using any device. The report noted that even though the feature was activated it didn’t work, as the rollout of the same is expected in the coming says. Yet, the report shared a screenshot of the feature.The new Remote Lock feature is expected to reduce people’s worries when they lose their device and realise that they do not immediately remember their account details. Remote Lock will be available to Android 10 and above devices through a Google Play Services update later in the year, the report noted.As per the report, both these feature are currently live within the app as Google is testing them and may release them for the public sometime soon.",Find My Device app on Android is set to get updated with a new feature that will help users to login to the app more easily. The tech giant has already started rolling out the upgraded version of the Find My Device network for some Android users. Android trackers that will use this network and compete with Apple’s AirTags are also expected to arrive soon.,"https://static.toiimg.com/thumb/msid-110473785,imgsize-14312,width-400,resizemode-4/110473785.jpg"
-Microsoft may be having bigger ‘AI plans’ for LinkedIn ‘Copilot’,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-may-be-having-bigger-ai-plans-for-linkedin-copilot/articleshow/110471779.cms,"AI features available on LinkedIn
-
-Microsoft-owned LinkedIn already has a user as well as recruiter-facing AI assistant but if a report is to be believed, the company is planning to pour more AI computing resources for “LinkedIn Copilot”. Copilot is the term that Microsoft has been using to denote its AI chatbot available at various services like Microsoft 365 and Github.Citing an internal document, a report by Business Insider says that Microsoft has listed LinkedIn among existing Copilots, including GitHub, Security, and Azure.While it is unclear what the reference to LinkedIn Copilot means but the AI computing resources planned for LinkedIn Copilot in the document suggest that the company may be looking to expand the use of AI on the platform by bringing in more AI tools, a person familiar with the planning told the publication.In February, LinkedIn introduced AI-powered features aimed to improve the networking experience on its platform. Among these is the ability to use AI to write texts to start conversations.LinkedIn introduced the feature for Premium subscribers who can use AI to help draft a message that pulls in information from both their profile and the person they are looking to chat with.For recruiters, LinkedIn announced AI-powered features that will allow them to find right candidates for jobs by asking questions in natural language. The company also said that the AI features will also enable marketing professionals to quickly create ad campaigns.Currently, recruiters rely on filters, keywords and search techniques to find potential candidates within LinkedIn's vast database. While most of LinkedIn's over 950 million members are free users, the platform generates revenue by charging recruiters and sales professionals for access to its data and advanced search functionalities.","Microsoft-owned LinkedIn already has a user as well as recruiter-facing AI assistant but if a report is to be believed, the company is planning to pour more AI computing resources for ‘LinkedIn Copilot’ Copilot is the term that Microsoft has been using to denote its AI chatbot available at various services like Microsoft 365 and Github.","https://static.toiimg.com/thumb/msid-110471747,imgsize-6600,width-400,resizemode-4/110471747.jpg"
-"Garena Free Fire MAX codes for May 27, 2024: Earn free rewards and exciting prizes like gold, diamond, and more",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-codes-for-may-27-2024-earn-free-rewards-and-exciting-prizes-like-gold-diamond-and-more/articleshow/110452264.cms,"What are Free Fire Max redeem codes?
-
-Garena Free Fire Max redeem codes today, May 27
-
-4XJ9T7K2YEGUDRFA
-
-ZL5WYBQXJ6R1ME9G
-
-8A3QWZP4H7N6TJYB
-
-V2UMN9C4X5EKP7HR
-
-L8IKQ2W3GFSH1VCP
-
-7YOJXG2ZQVTDW9N1
-
-5U2B8ZAF6H1WJ3TD
-
-R7K5X3QJ2P9ZU8IB
-
-G9L1N2W8XJZKY3QC
-
-6U4F5V3D9M7H2Y1N
-
-X7R8E5QD2Y9W6J1L
-
-N3VJ1ZM8L5X2Q6CK
-
-F6S7R4J5P1YH8X9T
-
-2K7C5B4J6X8Z9G3F
-
-D9F3G2H4J5K7L1M6
-
-W3J5B1D9G7F6H2K4
-
-H1K7J2L6M4N9D8B3
-
-Y8J7K6L9M4N2B1D5
-
-Q2R4T6Y8U1I5O7P3
-
-E6R8T3Y5U7I1O9P2
-
-How to redeem Free Fire Codes
-
-Navigate to the Rewards Redemption website at https://reward.ff.garena.com/en
-
-Sign in using your credentials from platforms such as Facebook, X, Apple ID, Google, VK ID, or Huawei ID
-
-Enter the redeem code into the visible text box on the screen and finalise the redemption process by clicking 'Confirm'
-
-Following a successful redemption, retrieve your Free Fire rewards by launching the Free Fire game on your device
-
-Important tips
-
-After successfully redeeming the code, players can collect their rewards from the in-game mail section
-
-It's important to highlight that these codes are not valid for guest accounts; you must link your account to Facebook, X, Apple, Google, VK, or Huawei to be eligible for the rewards
-
-Please be patient and allow for a 24-hour processing period for the rewards to be credited
+Expert insight
 
 Also read
 
-Garena Free Fire MAX has swiftly become a premier battle royale game in India, especially after the government banned its predecessor, Garena Free Fire. Since its debut, the game has enthralled gamers nationwide with its vibrant graphics and immersive gameplay.The introduction of redemption codes in Garena Free Fire MAX adds an extra layer of excitement. These codes are valid for a limited period, usually between 12 to 18 hours. Once expired, they become inactive, creating a sense of urgency and anticipation among players.According to developer guidelines, the 12-character alphanumeric Garena FF redemption codes can be claimed daily by up to 500 registered players. This system ensures fairness and equal opportunities for enthusiasts to enhance their in-game experience.Garena Free Fire MAX is renowned not only for its timely rewards but also for its captivating visuals, innovative features, and immersive gameplay. Join the vibrant community of passionate gamers and dive into the thrilling world of Garena Free Fire MAX, where excitement is always around the corner.As the top battle royale game in India, Garena Free Fire MAX continues to redefine the gaming landscape. Immerse yourself in a world of intense battles, strategic gameplay, and exclusive rewards within the captivating realm of Garena Free Fire MAX.Embark on an exhilarating gaming journey with exclusive redemption codes from Garena Free Fire MAX. These codes allow players to acquire coveted in-game items such as weapons, diamonds, skins, and other valuable rewards. Each code is a 12-character alphanumeric combination of capital letters and numbers, essential for enhancing the overall gaming experience.Upon successful redemption, players can unlock a variety of exciting rewards, including the Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and the Fire Head Hunting Parachute. These rewards not only enrich the gaming experience but also provide strategic advantages on the virtual battlefield.","Garena Free Fire Max redeem codes available today, May 27. The codes are valid for a limited period, usually between 12 to 18 hours. Once expired, they become inactive, creating a sense of urgency and anticipation among players. The 12-character alphanumeric Garena FF redemption codes can be claimed daily by up to 500 registered players.","https://static.toiimg.com/thumb/msid-110452325,imgsize-65250,width-400,resizemode-4/110452325.jpg"
+A parent of a class 9 student enrolled in a prestigious CBSE school in the city has taken a significant step by filing a complaint with the police cyber cell. The complaint alleges the circulation of artificial intelligence (AI)-generated nude photos of her daughter on various social media platforms. Concurrently, another student from the same class had their images morphed, although no formal complaint has been lodged on their behalf.The photos first surfaced within a group chat on Instagram, which included approximately 20 classmates of the affected student. Although the student herself was not part of this particular group, she was alerted to the distressing situation by her peers.The affected student, in contemplating the origins of this violation, suspects the involvement of an acquaintance, given that the images were sourced from her private Instagram account. She perceives this as a potential ""inside job,"" with a friend possibly responsible for the reprehensible act.An anonymous Instagram handle served as the conduit for disseminating the manipulated photos. However, when queried about their identity by other students, the account holder promptly went offline, abstaining from further activity.In response to these distressing events, the affected student expressed relief that a formal complaint has been filed, anticipating tangible consequences. Meanwhile, the school administration has assured its full support, characterising the incident as a disciplinary matter. The principal reiterated the importance of appropriate action, particularly considering the school's closure for vacation.Dr. Manoj Sharma, a distinguished professor at Nimhans specialising in clinical psychology and head of the SHUT clinic, emphasised the under-reported nature of such incidents. He advised caution regarding personal information sharing, stressing the inherent risks even when exercising vigilance on social media platforms.",A parent of a class 9 student enrolled in a prestigious CBSE school in Bengaluru has filed a complaint with the police cyber cell. The complaint alleges the circulation of artificial intelligence (AI)-generated nude photos of her daughter on various social media platforms.,"https://static.toiimg.com/thumb/msid-110507380,imgsize-79884,width-400,resizemode-4/110507380.jpg"
+"WWDC 2024: Apple shares details of its developers conference; AI focus, iPhone, iPad software updates and more",https://timesofindia.indiatimes.com/technology/tech-news/wwdc-2024-apple-shares-details-of-its-developers-conference-ai-focus-iphone-ipad-software-updates-and-more/articleshow/110507089.cms,"AI Focus:
+
+Apple iOS 18:
+
+iPadOS 18:
+
+macOS 15:
+
+watchOS 11:
+
+visionOS 2:
+
+Developer Assistance and Resources:
+
+Platforms State of the Union:
+
+With WWDC 2024 kicking off in less than two weeks on June 10, Apple has finally revealed more details about its biggest developers event of the year. The company has shared what developers and tech enthusiasts can expect from WWDC 2024. The opening keynote on June 10 at 10:00 AM PDT (10.30 pm IST) will be the main event, streamed live across various platforms including Apple's website, the Apple Developer app, the Apple TV app, and the Apple YouTube channel. Here's what's expected to be unveiled:This year's WWDC is heavily rumored to be centered around Artificial Intelligence. We can expect Apple to unveil a host of new AI-powered features across its various software platforms, potentially including smarter Siri integration, improved image and speech recognition, and more personalized user experiences.The latest iteration of Apple's mobile operating system is likely to bring significant improvements and new features for iPhone users.Expect updates specifically tailored to enhance the iPad experience, potentially including improved multitasking capabilities and a more desktop-like interface.The next version of Apple's desktop operating system is expected to bring performance enhancements, security updates, and potentially new features for Mac users.The Apple Watch is also due for an upgrade, with watchOS 11 possibly introducing new health and fitness tracking features, along with improvements to the watch interface.The software powering Apple's AR/VR headset is also rumored to get a refresh, with potential updates for developers building augmented reality experiences.Throughout the WWDC week, developers will have access to Apple experts who can help them integrate the latest features and technologies into their apps. Additionally, session videos will be released daily for those who can't attend live.Following the keynote on June 10th at 1:00 PM PDT, there will be a Platforms State of the Union session streamed live on the Apple Developer app and website. This session will likely provide a deeper dive into the upcoming software updates and their functionalities.","WWDC 2024 kicks off in less than two weeks on June 10. The opening keynote will be streamed live on Apple's website, the Apple Developer app, and the Apple TV app. This year's event is heavily rumored to be centered around Artificial Intelligence. We can expect Apple to unveil a host of new AI-powered features.","https://static.toiimg.com/thumb/msid-110507076,imgsize-16330,width-400,resizemode-4/110507076.jpg"
+"HP, Canva partner to offer designing and printing solutions",https://timesofindia.indiatimes.com/technology/tech-news/hp-canva-partner-to-offer-designing-and-printing-solutions/articleshow/110503744.cms,HP and Canva have partnered to provide design-to-print services for over 185 million monthly Canva users., HP and Canva have partnered to provide design-to-print services for over 185 million monthly Canva users. HP will provide the services to Canva's more than 200 million monthly users. The two companies will work together to develop new products and services.,"https://static.toiimg.com/thumb/msid-110503744,imgsize-58912,width-400,resizemode-4/110503744.jpg"
+"Garena Free Fire MAX redeem codes for May 28: Win skins, weapons, and more",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-may-28-win-skins-weapons-and-more/articleshow/110483170.cms,"What Are Free Fire Max Redeem Codes?
+
+Garena Free Fire Max Redeem Codes Today, May 28
+
+G8H7J3K9L0M2N4P6
+
+Q5W2E4R8T0Y9U1I3
+
+O7P4A6S8D2F0G5H9
+
+J6K3L5Z9X1C2V4B7
+
+N0M2Q4W6E8R1T3Y5
+
+U7I9O1P3A5S7D9F2
+
+G4H6J8K0L3Z1X5C7
+
+V9B2N4M6Q8W0E3R5
+
+T7Y9U1I3O5P7A9S2
+
+D4F6G8H0J2K5L7Z9
+
+C1V3B5N7M9Q2W4E6
+
+R8T0Y2U4I6O9P1A3
+
+S5D7F9G2H4J6K8L0
+
+Z3X5C7V9B1N4M6Q8
+
+W0E2R4T6Y8U1I3O5
+
+P7A9S2D4F6G8H0J2
+
+How To Redeem Free Fire Codes
+
+To reach the Rewards Redemption website, go to https://reward.ff.garena.com/en.
+
+Sign in using your credentials from platforms like Facebook, X, Apple ID, Google, VK ID, or Huawei ID.
+
+After logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
+
+Once the code is successfully redeemed, you can collect your Free Fire rewards by launching the game on your device.
+
+Important Tips
+
+After successfully redeeming the code, you can collect your rewards from the in-game mail section.
+
+Keep in mind that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
+
+Please allow up to 24 hours for the rewards to be credited to your account.
+
+Also read
+
+Garena Free Fire Max is an enhanced version of the popular battle royale game Garena Free Fire, which rose to fame in India following the ban of the original. Renowned for its captivating visuals and immersive gameplay, it has captured the interest of gamers across the country.A key aspect of the game is the daily redemption of codes, which adds excitement and urgency. These codes are available for a limited period, typically between 12 to 18 hours, increasing anticipation and engagement among players.According to the developers' guidelines, the 12-character alphanumeric redemption codes of Garena Free Fire Max provide daily rewards to up to 500 registered players, ensuring fairness and equal opportunities for advancement in the game.With its time-sensitive rewards, impressive graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately crafted universe offers an exhilarating adventure for players.As the leading battle royale game in India, Garena Free Fire Max maintains its dominance in the gaming landscape. Players are encouraged to participate in intense battles, strategic gameplay, and exclusive rewards, ensuring an unparalleled gaming experience in the dynamic world of Garena Free Fire Max.Elevate your gaming experience with exclusive redemption codes for Garena Free Fire Max, unlocking a plethora of in-game perks and rewards. Whether you’re a seasoned player or new to the battlefield, these codes offer a unique chance to enhance your gameplay, strategize more effectively, and immerse yourself deeper into the excitement of the game.These 12-character alphanumeric codes, featuring a mix of uppercase letters and numbers, significantly enrich the overall gaming experience. Upon redemption, players gain access to a variety of thrilling rewards that enhance the gaming atmosphere and provide strategic advantages in the digital arena.Seize the opportunity to enhance your gaming journey with carefully crafted redemption codes for Garena Free Fire Max. These codes unlock coveted weapons, unique skins, and other in-game items, offering a more immersive and personalized gaming experience like no other.","Garena Free Fire Max is an enhanced version of the popular battle royale game. Redeem codes to unlock coveted weapons, unique skins, and other in-game items. These codes are available for a limited period, typically between 12 to 18 hours.","https://static.toiimg.com/thumb/msid-110483175,imgsize-79084,width-400,resizemode-4/110483175.jpg"
 "Wordle 1073 Puzzle for May 27, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1073-puzzle-for-may-27-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/110449572.cms,"Wordle 1073 Hints and Clues for May 27, 2024
 
 Today’s word of the day starts with S.
