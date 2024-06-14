@@ -1,92 +1,240 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-"Elon Musk told HR: “I don’t care — fire them,” claims lawsuit filed by former SpaceX employees alleging sexual harassment",https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-told-hr-i-dont-care-fire-them-claims-harassment-lawsuit-filed-by-former-spacex-employees/articleshow/110948685.cms,"What the lawsuit against Elon Musk claims
+"What is MLow, the technology that improves audio quality of WhatsApp calls",https://timesofindia.indiatimes.com/technology/tech-news/what-is-mlow-the-technology-that-improves-audio-quality-of-whatsapp-calls/articleshow/110977920.cms,"What is MLow and what it does
 
-What the open letter against Elon Musk said
+How MLow improve audio quality during WhatsApp calls
 
-SpaceX and Elon Musk on the lawsuit
+WhatsApp has announced multiple updates in audio and video calling across all platforms. It said that the users of the instant messaging app can now share audio while screen sharing. The app’s parent company also talked about Meta Low Bitrate ( MLow ) codec to improve call quality.MLow codec offers two-times-better quality with computational complexity than Opus – the open source codec Meta deployed across its instant calling products like Instagram and Messenger .“We are proud to announce Meta Low Bitrate audio codec, aka MLow, which achieves two-times-better quality than Opus. Even more importantly, we are able to achieve this great quality while keeping MLow’s computational complexity 10 percent lower than that of Opus,” the company said.The company said it first deployed MLow to all Instagram and Messenger calls and are now rolling it out on WhatsApp. Meta claimed that it has “already seen incredible improvement in user engagement driven by better audio quality.”Meta shared multiple examples in the form of short audio clips offering a difference between the audio quality. They can be accessed here and the company recommends using a pair of headphones.The technology first divides the raw audio into low and high-frequency bands for separate encoding, which utilises shared information between the bands for improved compression.First, the individual bands are encoded, and then a range encoder further compresses the data for transmission. The decoder then reverses the process to recreate the audio signal from the compressed payload.“MLow has greatly enhanced audio quality on low-end devices while still ensuring calls are end-to-end encrypted. We are really excited about what we have accomplished in just the last two years—from developing a new codec to successfully shipping it to billions of users around the globe,” the company said, adding that it will continue to improve audio quality during calls.",WhatsApp has announced multiple updates in audio and video calling across all platforms. It said that the users of the instant messaging app can now share audio while screen sharing. The app’s parent company also talked about Meta Low Bitrate ( MLow ) codec to improve call quality.,"https://static.toiimg.com/thumb/msid-110977940,imgsize-48762,width-400,resizemode-4/110977940.jpg"
+"Japan passes law to check Apple, Google's app dominance: What tech giants have to say",https://timesofindia.indiatimes.com/technology/tech-news/japan-passes-law-to-check-apple-googles-app-dominance-what-tech-giants-have-to-say/articleshow/110977919.cms,"What Apple and Google have to say
 
-Lawsuit comes a day after WSJ's report claiming 'sexual misconduct'
+Japan passed a law that will prevent Apple and Google from restricting developers from selling apps on their respective app stores (App Store and Google Play Store), offering users more choices and potentially increasing competition.The Japan Fair Trade Commission (JFTC), which stated that the law has been approved by the National Diet after submission in April 2024, noted that the law aims to create a competitive environment where innovation flourishes and users can choose from a variety of services.""The bill aims to develop a competitive environment in which innovation by various entities is activated through competition and consumers can select and enjoy various services created by innovation, while ensuring security, etc. with respect to software particularly necessary for the use of smartphones (mobile operating systems (OS), application stores, browsers, and search engines, collectively referred to as ""Specified Software""),"" the Japanese regulator added.While Apple is concerned about the law's impact on its users' privacy and security experience with iPhones, Google said it will continue to work with the government throughout the legal process.“We will continue our engagement with the Japan Fair Trade Commission during the implementation period. It added that it remains “concerned about how the law will impact Japanese consumers and the secure and private iPhone experience our users have come to expect,” Apple told Japanese news agency Kyodo News.“We have proactively engaged with the government to explain our practices in and contributions to this dynamic and highly competitive sector. We will continue to collaborate with the government and industry stakeholders throughout this process,” Google spokesperson said.Meanwhile, Fortnite-maker Epic Games said that it’s a big win for gamers and developers.“A big win for mobile gamers and developers: the Japanese government and the Diet have passed a new law to open up mobile app stores! The Epic Games Store & Fortnite will be coming to iOS in Japan in late 2025,” it said in a post.",Japan passed a law that will prevent Apple and Google from restricting developers from selling apps on their respective app stores. The law aims to create a competitive environment where innovation flourishes and users can choose from a variety of services. Apple is concerned about the law's impact on its users' privacy and security experience with iPhones.,"https://static.toiimg.com/thumb/msid-110977921,imgsize-22476,width-400,resizemode-4/110977921.jpg"
+Tesla shareholders: What Elon Musk is doing is like CEO of Coca-Cola CEO starting a rival soda company and sending ingredients to it,https://timesofindia.indiatimes.com/technology/tech-news/tesla-shareholders-what-elon-musk-is-doing-is-like-ceo-of-coca-cola-ceo-starting-a-rival-soda-company-and-sending-ingredients-to-it/articleshow/110977569.cms,"What Tesla shareholders' lawsuit against Elon Musk claims
 
-There may be some trouble for SpaceX CEO Elon Musk . Eight former SpaceX engineers have reportedly filed a lawsuit against Musk on Wednesday (June 12), accusing the CEO of sexual harassment and retaliation. The same group of fired employees are said to have also filed complaints with the US National Labor Relations Board (NLRB) about SpaceX’s alleged retaliation. Bloomberg first reported on the lawsuit. The eight employees reportedly include four women and four men. The complaint targets both Musk and SpaceX.“Musk knowingly and purposefully created an unwelcome hostile work environment based upon his conduct of interjecting into the workplace vile sexual photographs, memes, and commentary that demeaned women and/or the LGBTQ+ community,” the eight former employees wrote in the filing. “It was also common for engineers to apply crude and demeaning names to products in an attempt at humor, often at the expense of women and LGBTQ+ individuals. For example, the name ‘Upskirt Camera’ was used for a camera on the first stage of the Falcon rocket that views the bottom of the second stage,” the filing further adds.According to a Bloomberg report, the filing further claims that the former SpaceX engineers that Musk made the decision to fire them in retaliation for the open letter that they wrote in 2022, highlighting Musk's ""problematic behavior"". The complaint claims that when a SpaceX HR official suggested that the company conduct a formal investigation before taking any decisive action, Musk replied, “I don’t care — fire them.”The open letter against Elon Musk is said to have been shared in an internal SpaceX Microsoft Teams channel with more than 2,600 employees. “Elon’s behavior in the public sphere is a frequent source of distraction and embarrassment for us, particularly in recent weeks,” the letter stated. “As our CEO and most prominent spokesperson, Elon is seen as the face of SpaceX — every Tweet that Elon sends is a de facto public statement by the company. It is critical to make clear to our teams and to our potential talent pool that his messaging does not reflect our work, our mission, or our values,” it further added.SpaceX and Elon Musk did not immediately respond to requests for comment on the lawsuit. SpaceX has previously denied wrongdoing and said that the fired employees violated policies. It also said Musk was not involved in their terminations.The lawsuit comes just a day after the Wall Street Journal reported allegations that Musk made sexual advances to women at SpaceX, including a former intern he had sex with. SpaceX President Gwynne Shotwell was quoted in the story accusing the Journal of presenting “untruths, mischaracterizations, and revisionist history,” and saying “Elon is one of the best humans I know.”",Eight former SpaceX engineers have reportedly filed a lawsuit against Elon Musk. They are accusing the CEO of sexual harassment and retaliation. The same group of fired employees are said to have also filed complaints with the US National Labor Relations Board (NLRB) about SpaceX’s alleged retaliation.,"https://static.toiimg.com/thumb/msid-110948682,imgsize-28262,width-400,resizemode-4/110948682.jpg"
-"Pakistan installs 'China-like internet firewall' to regulate Facebook, WhatsApp, YouTube and other social media platforms",https://timesofindia.indiatimes.com/technology/tech-news/pakistan-installs-china-like-internet-firewall-to-regulate-facebook-whatsapp-youtube-and-other-social-media-platforms/articleshow/110948337.cms,"What is internet firewall in Pakistan aims to do
+Some Tesla shareholders are upset with CEO Elon Musk. According to a report by TechCrunch, Tesla shareholders are suing CEO Elon Musk and the company's board of directors over a controversial move: Musk's creation of xAI, a new artificial intelligence company. The lawsuit alleges that xAI directly competes with Tesla and accuses Musk of diverting resources and talent from Tesla to fuel his new venture.The lawsuit, filed in Delaware Chancery Court by the Cleveland Bakers and Teamsters Pension Fund, along with Daniel Hazen and Micahel Giampietro on behalf of Tesla, alleges that Musk and the board breached their fiduciary duties to shareholders. They argue that allowing Musk to launch a competing business directly enriches him at the expense of Tesla.“The notion that the CEO of a major, publicly-traded Delaware corporation could — with the evident approval of his board — start a competing company, and then divert talent and resources from his corporation to the startup, is preposterous,” reads the lawsuit filed. It compares Musk’s actions to a hypothetical situation involving the CEO of Coca-Cola starting a rival soft-drink company and sending ingredients to it. By highlighting this absurdity, the lawsuit aims to emphasize the alleged breach of trust by Musk and the board.This lawsuit is a significant challenge to Musk's decision to launch xAI, especially considering his past threats to develop AI elsewhere if he wasn't granted more control over Tesla. Tesla's stock valuation relies heavily on Musk's claims that the company is more than just an electric vehicle manufacturer, but an industry leader in AI as well. This claim is a key factor behind Tesla's stock price rivaling tech giants and surpassing the combined value of the top four automakers.The plaintiffs further claim that Musk violated Tesla's code of ethics by creating and leading xAI, with the board failing to take any action. They seek a court order forcing Musk to relinquish his stake in xAI and transfer it to Tesla.The lawsuit strongly criticizes the situation, comparing it to a hypothetical scenario where the CEO of Coca-Cola starts a rival soda company and diverts resources to it.","Tesla shareholders are suing CEO Elon Musk and the company's board of directors over a controversial move: Musk's creation of xAI, a new artificial intelligence company. The lawsuit alleges that xAI directly competes with Tesla and accuses Musk of diverting resources and talent from Tesla to fuel his new venture. The plaintiffs further claim that Musk violated Tesla's code of ethics by creating and leading xAI.","https://static.toiimg.com/thumb/msid-110977567,imgsize-17768,width-400,resizemode-4/110977567.jpg"
+Read former employee's note on all that was 'wrong with Alexa' and how Amazon 'fumbled big time' with its voice assistant,https://timesofindia.indiatimes.com/technology/tech-news/read-former-employees-note-on-all-that-was-wrong-with-alexa-and-how-amazon-fumbled-big-time-with-its-voice-assistant/articleshow/110977545.cms,"Here's the long X post, titled 'How Alexa dropped the ball on being the top conversational system on the planet' written by Mihail Eric:
 
-Pakistan is implementing a nationwide internet firewall system to monitor and regulate content on social media platforms like Facebook, YouTube, WhatsApp, and X (formerly Twitter), according to sources reported to be close to the development. Some say the internet firewall is akin to something that China has to monitor internet content in the country. This move follows the temporary blocking of X in Pakistan earlier this year. The stated goal is said to be to curb the spread of ""undesirable content,"" which includes propaganda and content deemed offensive by the Pakistani government.Pakistan's justification for blocking X centered on the platform's non-compliance with Pakistani laws and its alleged failure to register within the country. The government maintains that these actions do not violate fundamental rights.* Identify Propaganda: The firewall will reportedly use Deep Packet Inspection (DPI) technology to examine data packets and identify sources of propaganda material. DPI can inspect data up to the application layer, allowing for a more granular analysis of content.* Keyword Filtering: A key feature of the system is Keyword filtering is a key feature of the system. This aims to identify and block content deemed undesirable by the government, potentially including blasphemy, hate speech, or content critical of the state.* Limit VPN Use: The Pakistani government is also looking to regulate the use of Virtual Private Networks (VPNs) which some users have employed to bypass restrictions on X. Initial attempts to restrict VPNs faced resistance from businesses, leading to a temporary suspension of those efforts.The temporary blocking of X in Pakistan has significantly reduced its user base in the country. The number of users dropped from 4.5 million to 2.4 million. This suggests that the government's actions can be effective in limiting access to certain platforms. Additionally, X's management appears to be more responsive to Pakistani government requests to take down content deemed problematic.","Pakistan is implementing a nationwide internet firewall system to monitor and regulate content on social media platforms. The stated goal is said to be to curb the spread of ""undesirable content,"" which includes propaganda and content deemed offensive by the Pakistani government. This move follows the temporary blocking of X in Pakistan earlier this year.","https://static.toiimg.com/thumb/msid-110948329,imgsize-12520,width-400,resizemode-4/110948329.jpg"
-What the CEO of Microsoft-owned GitHub has to say on the company laying off 80% of its employees in India,https://timesofindia.indiatimes.com/technology/tech-news/what-the-ceo-of-microsoft-owned-github-has-to-say-on-the-company-laying-off-80-of-its-employees-in-india/articleshow/110948134.cms,"How AI will help Indian IT companies grow
+A few weeks ago OpenAI released GPT-4o ushering in a new standard for multimodal, conversational experiences with sophisticated reasoning capabilities.
 
-Microsoft-owned developer platform GitHub has onboarded an additional 2.2 million developers in India, bringing the total number of Indian developers to 15.4 million. GitHub CEO Thomas Dohmke who is in India spoke about a range of issues including the company's decision to terminate 80% of its workforce in India in 2023 as part of a reorganisation process.Dohmke told Economic Times that it was a challenging decision for the company due to economic circumstances, which affected certain segments of its team in India. ""We didn't make that decision lightly; it was based on the product areas these employees were working on, not because of India. Fortunately, the majority of these employees, originally from Microsoft, possessed skills that allowed Microsoft to rehire them, despite the process not being ideal. Nonetheless, we remain excited about India,"" Dohmke said.Nonetheless, GitHub remains enthusiastic about the opportunities in India, he added.Responding to the wide-ranging apprehension that Artificial Intelligence (AI) will pose challenges to Indian IT giants as businesses automate tasks that Indian companies have traditionally performed. Dohmke said that AI would lift Indian IT companies to the next level instead of disrupting them. ""We're dealing with an ever-growing amount of software in the system. No company I've encountered deletes more code than they write each day; the complexity keeps increasing,"" he said.""We're constantly maintaining and updating software, adapting to the latest technology. With AI systems , we're entering a new level of complexity, requiring even more software developers, especially in India,"" he said. The developer community in India on GitHub is projected to surpass that of the United States, which currently stands at 21 million, by 2027.“About 200,000 computer science graduates are coming out of engineering degrees, and that creates a convergence. India could be the leader, not only in software but also in AI. Children and adults alike will learn to code in their native language, leading to a prolonged groundswell of developers,” said Dohmke in an interview to TOI.",Microsoft-owned developer platform GitHub has onboarded an additional 2.2 million developers in India. GitHub CEO Thomas Dohmke who is in India spoke about a range of issues including the company's decision to terminate 80% of its workforce in India in 2023.,"https://static.toiimg.com/thumb/msid-110948128,imgsize-30792,width-400,resizemode-4/110948128.jpg"
-"Google Meet on Android will now allow users to access third-party apps, here's how",https://timesofindia.indiatimes.com/technology/tech-news/google-meet-on-android-will-now-allow-users-to-access-third-party-apps/articleshow/110947995.cms,"Google Meet add-ons on Android: Availability
+Several days later, my good friends at PolyAI announced their Series C fundraising round after tremendous growth in the usage of their enterprise voice assistant.
 
+Amid this news, a former Alexa colleague messaged me: You’d think voice assistants would have been our forte at Alexa.
 
+For context, I joined Alexa AI as a research scientist in early 2019. By this time, the Alexa consumer device had existed for 5 years and was already in 100M+ homes throughout the world.
 
-Google Meet add-ons on Android: How it will work
+In 2019, Alexa was experiencing a period of hypergrowth. Dozens of new teams sprouted every quarter, huge financial resources were invested, and senior leadership made it clear that Alexa was going to be one of Amazon’s big bets moving forward.
 
+My team was born amidst all this with a simple charter: bring the latest and greatest in AI research into the Alexa product and ecosystem. I’ve often described our group (later dubbed the Conversational Modeling team) as
 
+Google
 
-Google has announced that Meet add-ons will now be available on Android phones and tablets. The tech giant added this feature to the web version of the video conferencing platform which will allow users to install and use third and first-party apps directly from within the Meet app.In a blog post, the company confirmed that Google Meet add-ons on Android will be available to all Google Workspace customers .However, it will take up to two weeks to reach all users the company noted. Moreover, Google also said that “Scheduled Release domains” won’t get this feature until June 24-27.Android users will be able to find Meet add-ons in the Activities panel . This feature can be found along with features like polls and Q&A. However, it's important to note that desktop add-ons that won’t be available on mobile will be categorised as “Unavailable.”Google said that the visibility of all add-ons will be controlled by a dedicated setting, which will have separate toggles for the visibility of first-party and featured third-party add-ons.The company also confirmed that admins will be able to review their configuration by heading to Settings> Google Workspace>Apps in Google Meet’s video settings.It’s also important to note that the setting will handle add-on availability for both the desktop and Android apps. This means that the configured setting will determine what types of add-ons users will see.However, the end user won’t have to do anything while admins need to configure the settings for varied experiences. This setting will determine which add-ons in Google Meet will open on the user's Android device.",Google has announced that Meet add-ons will now be available on Android phones and tablets. The tech giant added this feature to the web version of the video conferencing platform. Users will be able to install and use third and first- party apps directly from within the Meet app.,"https://static.toiimg.com/thumb/msid-110948000,imgsize-13964,width-400,resizemode-4/110948000.jpg"
-Apple has launched this new app that may be 'terrible news' for LastPass and others,https://timesofindia.indiatimes.com/technology/tech-news/apple-has-launched-this-new-app-that-may-be-terrible-news-for-lastpass-and-others/articleshow/110947747.cms,"Here's all that Apple has said about the Passwords app:
+Brain meets Alexa AI-SWAT team.
 
-What makes the Apple Password app important
+Over the course of the 2.5 years I was there, we grew from 2 to ~20 and tackled every part of the conversational systems stack.
 
-The rumors turned out to be true. Apple is finally launching a dedicated password manager app called Passwords. This app will be integrated across various Apple operating systems, including: iOS 18, MacOS Sequoia (the next major macOS version) and iPadOS (specific version not mentioned).Interestingly, the Passwords app will also be accessible on Windows through iCloud, allowing users to manage their passwords even on non-Apple devices. This is a significant move for Apple, considering the current reliance on third-party password managers like LastPass and 1Password . The new Passwords app will directly compete with established password management services like LastPass and 1Password.* Built on iCloud Keychain: The app leverages the existing iCloud Keychain technology, which already stores passwords on Apple devices.* Organization and Categorization: Passwords will be listed and categorized based on service type (e.g., banking, social media) for easier management.* Security and Convenience: The app will support secure logins through Face ID, Touch ID, and autofill features, eliminating the need to manually type passwords.While Apple offered password storage within Settings, it wasn't a dedicated app and lacked the features likely present in Passwords. This app seems particularly appealing for users heavily invested in the Apple ecosystem.Apple hasn't revealed if the Passwords app will be free or require a subscription. Overall, Apple's Passwords app presents a strong alternative to existing password managers, especially for Apple users. With its integration across various platforms and potential ease of use, Passwords could become a popular choice for managing login credentials securely.","Apple is launching a dedicated password manager app called Passwords. This app will be integrated across various Apple operating systems, including: iOS 18, MacOS Sequoia and iPadOS. The Passwords app will also be accessible on Windows through iCloud, allowing users to manage their passwords even on non-Apple devices.","https://static.toiimg.com/thumb/msid-110947742,imgsize-1535388,width-400,resizemode-4/110947742.jpg"
-Igniting your resolve in challenging roles as a woman leader,https://timesofindia.indiatimes.com/technology/tech-news/igniting-your-resolve-in-challenging-roles-as-a-woman-leader/articleshow/110947461.cms,"Lead with
+We built the first LLMs for the organization (though back then we didn’t call them LLMs), we built knowledge grounded response generators (though we didn’t call it RAG), and we pioneered prototypes for what it would mean to make Alexa a multimodal agent in your home.
 
-confidence
+We had all the resources, talent, and momentum to become the unequivocal market leader in conversational AI. But most of that tech never saw the light of day and never received any noteworthy press.
 
-and authenticity
+Why?
 
-Leverage the power of learning and feedback
+The reality is Alexa AI was riddled with technical and bureaucratic problems.
 
-Construct a personal ‘board of directors’
+Bad Technical Process
 
-Reflecting on my path as a woman leader , resilience and tenacity stand out as guiding principles, especially when navigating what I term as ‘mountains’ — formidable challenges where the ascent is arduous and obstacles numerous. Yet, it's the innate capacity for optimism and resilience that sets women apart, enabling us to break through boundaries across diverse industries and geographies.While we’ve come a long way in breaking down stereotypes and biases, there’s still more to be done to ensure women thrive in leadership positions. Here are some of my learnings from accepting challenging roles and dealing with tough situations.Navigating challenging roles requires confidence, particularly as women ascend towards leadership. Confidence is cultivated gradually, amidst the twists and turns of a long journey, where unexpected hurdles may arise, and success isn't always immediately apparent. Women leaders must grant themselves the flexibility to forge their unique path, pausing to reflect and re-calibrate as needed, while steering clear of comparisons to stay on course.Authenticity also plays a pivotal role in bolstering confidence. By staying true to ourselves, we not only enhance trust in our own judgments and capabilities but also foster greater trust among team members.Learning plays an important part in owning challenging roles. Learning turns into growth, which turns into experiences, and experiences help create confidence. However, an important prerequisite to learning is curiosity. Curiosity is an attribute that can be useful in so many ways, particularly in terms of becoming informed and educated on aspects that we may not understand. These interactions not only broaden your knowledge and capabilities, but also expand your network of mentors and experts.Being open to feedback along the way facilitates a clear assessment of when to stand your ground and when to pivot; input from mentors and experts offers a fresh perspective for making necessary course corrections and charting the path to success.While learning and feedback are two sides of the same coin, owning your own perspective is critical. It is your confidence that allows you to choose the feedback that is relevant to your project or path. While experiences are shared, choose the learnings to take from them; it’s important not to compare your situation with someone else’s chapter.It's vital to remember that the path to effective leadership is not an individual one; it's a collaborative effort by everyone we work with and trust to help us progress. As a result, we must invest in curating a personal 'board of directors', which entails establishing and developing meaningful relationships with mentors who have diverse skills and abilities, as well as those who can pull us up from the top, cheer from the sidelines, or provide a boost when needed.By leading with confidence, embracing learning and feedback, and forming a network of trusted mentors, we empower ourselves to thrive in leadership roles and inspire others to do the same. Together, let us continue to inspire, strengthen, and uplift each other, forging a path of progress that knows no bounds. With every step forward, we redefine what it means to lead with grace, strength, and unwavering conviction.","Navigating challenging roles requires confidence, particularly as women ascend towards leadership. Authenticity also plays a pivotal role in bolstering confidence. By leading with confidence, embracing learning and feedback, and forming a network of trusted mentors, we empower ourselves to thrive in leadership roles.","https://static.toiimg.com/thumb/msid-110947479,imgsize-581064,width-400,resizemode-4/110947479.jpg"
-"Apple beats Microsoft, becomes world’s most valuable company",https://timesofindia.indiatimes.com/technology/tech-news/apple-beats-microsoft-becomes-worlds-most-valuable-company/articleshow/110946373.cms,"Microsoft edged past Apple earlier this year
+–
 
-How Microsoft may become a beneficiary of Apple Intelligence announcement
+Alexa put a huge emphasis on protecting customer data with guardrails in place to prevent leakage and access. Definitely a crucial practice, but one consequence was that the internal infrastructure for developers was agonizingly painful to work with.
 
-Apple , once again, has become the world's most valuable company, surpassing Microsoft as the competition for the top spot intensifies in the tech industry. The development follows the iPhone maker's announcement of AI features during its annual developer event, Worldwide Developers Conference (WWDC), earlier this week.Apple's market capitalisation reached $3.3 trillion by mid-morning on Wednesday (July 12), edging past Microsoft's $3.2 trillion. A positive reaction from the investors to Apple's extensive plans for AI integration across its devices pushed shares up over 7% to a record high on Tuesday (July 11).Apple announced plans to integrate generative AI technology across its built-in apps and new devices, offering features like writing assistance and AI-generated emoji, while keeping security as well as privacy at core.Microsoft captured the top spot and has held the title of most valuable company since early 2024. Additionally, Nvidia briefly surpassed Apple to become the second most valuable publicly traded US company.Meanwhile, a report by Kantar said that Apple has reached another milestone by becoming the first $1 trillion global brand. It is followed by Google and Microsoft in second and third spots, respectively.Earlier this year, Alphabet-owned Google also breached the $2 trillion market value mark for the first time since November 2021 after it announced Gemini aI features during its annual Google I/O 2024 conference.While this is good news for Apple, Microsoft may benefit from Apple's AI push. Apple announced the inclusion of OpenAI's large language models in its offerings, with plans for future models. Microsoft is a major investor in OpenAI and may see continued growth in its Azure cloud services due to increased use of OpenAI models.","Apple's market capitalisation reached $3.3 trillion by mid-morning on Wednesday (July 12) Apple is followed by Google and Microsoft in second and third spots, respectively. Microsoft captured the top spot and has held the title of most valuable company since early 2024.","https://static.toiimg.com/thumb/msid-110946363,imgsize-267709,width-400,resizemode-4/110946363.jpg"
-Garena Free Fire MAX redeem codes for June 12: Know how to win in-game goodies and redeem codes,https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-june-12-know-how-to-win-in-game-goodies-and-redeem-codes/articleshow/110926160.cms,"What Are Free Fire Max Redeem Codes?
+It would take weeks to get access to any internal data for analysis or experiments. Data was poorly annotated. Documentation was either nonexistent or stale.
 
-Garena Free Fire Max Redeem Codes Today, June 12
+Experiments had to be run in resource-limited compute environments. Imagine trying to train a transformer model when all you can get a hold of is CPUs. Unacceptable for a company sitting on one of the largest collections of accelerated hardware in the world.
 
-Q2S4K6N7T3X1Y86U
+I remember on one occasion our team did an analysis demonstrating that the annotation scheme for some subset of utterance data was completely wrong, leading to incorrect data labels.
 
-L8B6C69F1Z2V3G5H
+That meant for months our internal annotation team had been mislabeling thousands of data points every single day. When we attempted to get the team to change their annotation taxonomy, we discovered it would require a herculean effort to get even the smallest thing modified.
 
-J0N5R4T6Q7W3X68Y
+We had to get the team’s PM onboard, then their manager’s buy-in, then submit a preliminary change request, then get that approved (a multi-month-long process end-to-end).
 
-G3I2H1L86M5N4P7O
+And most importantly, there was no immediate story for the team’s PM to make a promotion case through fixing this issue other than “it’s scientifically the right thing to do and could lead to better models for some other team.” No incentive meant no action taken.
 
-A0S7F63K9J4D1V8B
+Since that wasn’t our responsibility and the lift from our side wasn’t worth the effort, we closed that chapter and moved on.
 
-C6M2P8L7N4T69R5W
+For all I know, they could still be mislabeling those utterances to this day.
 
-H9Y3O1T8Q46S5G6B
+Fragmented Org Structures
 
-V8Z7N6M9X1B60R5F
+—
 
-T3K4Q2J6H76L5M1N
+Alexa’s org structure was decentralized by design meaning there were multiple small teams working on sometimes identical problems across geographic locales.
 
-Y6Z8B9X2N5A0F4R7
+This introduced an almost Darwinian flavor to org dynamics where teams scrambled to get their work done to avoid getting reorged and subsumed into a competing team.
 
-P3C1D9M53Y2L8W7T
+The consequence was an organization plagued by antagonistic mid-managers that had little interest in collaborating for the greater good of Alexa and only wanted to preserve their own fiefdoms.
 
-E2K7J30V5G3I4H9Q
+My group by design was intended to span projects, whereby we found teams that aligned with our research/product interests and urged them to collaborate on ambitious efforts. The resistance and lack of action we encountered was soul-crushing.
 
-U1R6O8S7F4T3J72M
+I remember on one occasion we were coordinating a project to scale out the large transformers model training I had been leading. This was an ambitious effort which, if done correctly, could have been the genesis of an Amazon ChatGPT (well before ChatGPT was released).
 
-X5G7K74H76L3V8P9
+Our Alexa team met with an internal cloud team which independently was initiating similar undertakings. While the goal was to find a way to collaborate on this training infrastructure, over the course of several weeks there were many half-baked promises made which never came to fruition.
 
-S2M4R7W3L1Q07C6T
+At the end of it, our team did our own thing and the sister team did their own thing. Duplicated efforts due to no shared common ground. With no data, infrastructure, or lesson sharing, this inevitably hurt the quality of produced models.
 
-D9H71J5N3B2X4Z8V
+As another example, the Alexa skills ecosystem was Alexa’s attempt to apply Amazonian decentralization to the dialogue problem. Have individual teams own individual skills.
 
-F4P7T5L6S2R00Q3W
+But dialogue is not conducive to that degree of separation of concerns. How can you seamlessly hand off conversational context between skills? This means endowing the system with multi-turn memory (a long-standing dream of dialogue research).
 
-I3U07A6K2Y4O9N8M
+The internal design of the skills ecosystem made achieving this infeasible because each skill acted like its own independent bot. It was conversational AI by an opinionated bot committee each with its own agenda.
 
-B5V9J1C28R3H0G6L
+Product-Science Misalignment
 
-W7O56M6R2J8D3N1P
+—
+
+Alexa was viciously customer-focused which I believe is admirable and a principle every company should practice. Within Alexa, this meant that every engineering and science effort had to be aligned to some downstream product.
+
+That did introduce tension for our team because we were supposed to be taking experimental bets for the platform’s future. These bets couldn’t be baked into product without hacks or shortcuts in the typical quarter as was the expectation.
+
+So we had to constantly justify our existence to senior leadership and massage our projects with metrics that could be seen as more customer-facing.
+
+For example, in one of our projects to build an open-domain chat system, the success metric (i.e. a single integer value representing overall conversational quality) imposed by senior leadership had no scientific grounding and was borderline impossible to achieve.
+
+This introduced product/science conflict in every weekly meeting to track the project’s progress leading to manager churn every few months and an eventual sunsetting of the effort.
+
+—
+
+As we look forward, in the battle for the future of the conversational AI market, I still believe it’s anyone’s game.
+
+Today Alexa has sold 500M+ devices, which is a mind-boggling user data moat. But that alone is not enough.
+
+Here’s how I would organize a dialogue systems effort from the ground-up:
+
+Invest in robust developer infrastructure especially around access to compute, data quality assurance, and streamlined data collection processes. Data and compute are the lifeblood of modern ML systems so proactively setting up this foundation is imperative.
+
+Make LLMs the fundamental building block of the dialogue flows. In retrospect, the Alexa skills ecosystem was a premature initiative for the abilities of conversational systems at the time. I liken it to when Leap Motion created and released a developer SDK before the underlying hardware device was stable.
+
+But with the power of modern LLMs, I’m optimistic about redesigning a developer conversational toolkit with LLMs as their primitives.
+
+Ensure product timelines don’t dictate science research time frames. Because things are moving so fast in the AI world, it’s hard not to feel the pressure of shipping quickly. But there are still so many unsolved problems that will take time to solve.
+
+Of course you should conduct research aggressively, but don’t have delivery cycles measured in quarters, as this will produce inferior systems to meet deadlines.
+
+—
+
+If you’re thinking about the future of multimodal conversational systems and interfaces, I would love to hear from you. We’ve got work to do!
+
+An ex employee has slammed ecommerce giant Amazon for missing big chance with its voice assistant Alexa. Mihail Eric , a former senior machine learning scientist at Alexa AI, wrote in a long post on X, formerly Twitter, on how Amazon missed its opportunity to turn Alexa into a leading product as competitors make headway with their own AI-infused voice assistants. ""We had all the resources, talent, and momentum to become the unequivocal market leader in conversational AI,"" Eric lamented in the post.According to LinkedIn, Eric left Amazon in the year 2021. He wrote that Amazon may have fumbled its chance to dominate the conversational AI space due to a ""bad technical process,"" ""fragmented org,"" and ""product-science misalignment.""",Mihail Eric was a research scientist at Amazon's Alexa voice assistant. He says Alexa was riddled with technical and bureaucratic problems. Eric: The organization was plagued by antagonistic mid-managers who only wanted to preserve their own fiefdoms.,"https://static.toiimg.com/thumb/msid-110977552,imgsize-81804,width-400,resizemode-4/110977552.jpg"
+"GameStop's shareholder meeting disrupted by technical glitch, as website crashes",https://timesofindia.indiatimes.com/technology/tech-news/gamestops-shareholder-meeting-disrupted-by-technical-glitch-as-website-crashes/articleshow/110977533.cms,"GameStop Corp, the US-based video game retailer in the center of the meme-stock frenzy, postponed its annual shareholder meeting on Thursday, June 13, due to a technical overload with the livestream . The company's investor website, which was supposed to host the event, was overwhelmed by the influx of viewers.Tens of thousands of retail investors, many of whom are active on platforms like Twitch, YouTube and chat rooms, flocked to these channels to follow the meeting after the official website crashed. The surge in attendance highlights the continued interest in GameStop by individual investors who have turned the stock into a social media phenomenon.This comes on the heels of a rough financial quarter for GameStop. Last week, the company reported a wider-than-expected loss and a significant decline in sales. To add to that, they announced a large stock offering, raising over $2 billion earlier this week, which some analysts believe was fueled by the continued interest from meme-stock traders like Keith Gill (known online as Roaring Kitty). Despite the company's recent struggles, the stock price continued to rise, up over 4% at midday in New York.GameStop's popularity among retail investors during the pandemic helped coin the idea of meme stocks - those that gain popularity through sites like Reddit. At the end of its fiscal first quarter, GameStop reportedly had about $1 billion in cash, bringing its total cash pile to about $4 billion following its most recent share sale.","GameStop Corp. postponed its annual shareholder meeting on Thursday, June 13, due to a technical overload with the livestream. The company's investor website, which was supposed to host the event, was overwhelmed by the influx of viewers. Last week, the company reported a wider-than-expected loss and a significant decline in sales.","https://static.toiimg.com/thumb/msid-110977525,imgsize-36810,width-400,resizemode-4/110977525.jpg"
+WhatsApp announces these updates to calling feature across devices,https://timesofindia.indiatimes.com/technology/tech-news/whatsapp-announces-these-updates-to-video-calling-across-devices/articleshow/110974977.cms,"Three updates coming to WhatsApp on iPhones, Android, web and PCs
+
+Screen sharing
+
+with audio:
+
+More participants in a video call:
+
+Speaker spotlight:
+
+WhatsApp getting MLow codec
+
+WhatsApp is bringing three major updates to its platforms across devices. These updates are aimed at making calls “even bigger and better” and will be rolled out over the next few weeks.“Since we brought Calling to WhatsApp back in 2015, we’ve continued to improve it with the introduction of group calls, video calls, and multi-platform support. Today we have several updates, rolling out over the next few weeks,” the company said.The feature is ideal for watching videos with friends and family, and now users can share audio too when sharing screen.WhatsApp said that users can now have up to 32 people on a video call across all their devices.The third update is easily figuring out who is talking. When you have a large number of participants in a video call, it can sometimes become a problem to follow who is speaking at a certain point of time. The upcoming update will automatically highlight the speaker and appear first on screen“We’ll continue making improvements to calling on WhatsApp so you can make the best quality, private calls wherever you are in the world,” the company added.In order to improve the audio and video call quality as well as call reliability, WhatsApp-parent Meta recently launched MLow codec . The codec makes calls made on mobile devices clearer by improved noise and echo cancellation.“Audio is crisper overall, even if you have poor network connectivity or are using an older device,” the company said, adding that video calls have higher resolution for those with faster connections.",WhatsApp is bringing three major updates to its platforms across devices. These updates are aimed at making calls “even bigger and better” and will be rolled out over the next few weeks. Users can now have up to 32 people on a video call across all their devices.,"https://static.toiimg.com/thumb/msid-110974963,imgsize-35304,width-400,resizemode-4/110974963.jpg"
+How iOS 18 may solve one of the 'biggest problem' that users have with social media apps,https://timesofindia.indiatimes.com/technology/tech-news/how-ios-18-may-solve-one-of-the-biggest-problem-that-users-have-with-social-media-apps/articleshow/110974583.cms,"What is changing
+
+How its will work
+
+Apple 's upcoming iOS 18 update will introduce stricter controls on how apps access user contact information . The move essentially targets social networking apps that often request contact access to connect users with friends or suggest who to follow.Currently, social media apps receive the permission to access all or no contacts via a single prompt. If tapped 'allow', the apps get a broad access to the entire contact list. iOS 18 changes this with a two-step permission process revealed during the recently-held Apple's Worldwide Developers Conference.""Control how you share contacts with apps,"" the pop-up will read.""Decide which contacts to share with an app, rather than giving it access to all your contacts. Or give the app access only to those you message and call most,"" it adds.In the first prompt, users will encounter a familiar prompt to allow or deny access to their entire contact list. If the permission is granted, a second prompt emerges, allowing users to choose to share specific contacts with the app, rather than the entire list. If the access is denied, the second pop-up won't emerge.According to Apple, this change is to curb the access provided to future contacts. Once granted permission, the social media apps can access not only existing contacts but also any new ones added over time. The two-stage process aims to give users more granular control over which contacts are shared with specific apps.It's worth noting that some app developers have misused the existing single-permission system. They may have blocked users who declined contact access from using the app entirely. While iOS 18 doesn't directly address this practice, the increased user control over contact sharing may indirectly impact such app behaviour.","Apple's upcoming iOS 18 update will introduce stricter controls on how apps access user contact information. The move essentially targets social networking apps that often request contact access to connect users with friends or suggest who to follow.Currently, social media apps receive the permission to access all or no contacts via a single prompt. iOS 18 changes this with a two-step permission process.","https://static.toiimg.com/thumb/msid-110974561,imgsize-15700,width-400,resizemode-4/110974561.jpg"
+"Garena Free Fire MAX redeem codes for June 13: Win free diamonds, weapons, skins, and more",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-june-13-win-free-diamonds-weapons-skins-and-more/articleshow/110955036.cms,"What Are Free Fire Max Redeem Codes?
+
+Garena Free Fire Max Redeem Codes Today, June 13
+
+7RG8K3HYB2JN9XDP
+
+D7F3T8Z9M2B0N4XC
+
+4H5Y1G3B9C6N7J8X
+
+P9S3R6W4T2X8B1G7
+
+X3Z9T6J8C7V5B4N2
+
+1G7K9V3H5B6X4N2C
+
+M8Z1H5G6B2C7V9N3
+
+3X2B7N8M4H5G1C6V
+
+9G5H1B6C4V3N2X7M
+
+W6V4PQ2TNF0ZS8C9
+
+L5R9W1H3D7G2M6VX
+
+Y0N4T9KD6ZP1X3CR
+
+F8N5D9ZYB2R1X7TW
+
+Q2B6F3N0T9Z8L1X7
+
+5J4H7P3G2T1D8R6C
+
+Z8T3B1H5G9C2V7JX
+
+V2C9B6G4H7Z1J5XN
+
+6X9M2H3G1K8R4N0B
+
+T3B6H1G4C2V8N7X9
+
+2V9N8C4G7B3X5H1M
+
+Working Redeem Codes
+
+V0E8Z2U4Y6C9W7B3
+
+J6I4M1F3P7H5O9L2
+
+R8S6A1K7N9X3D2T5
+
+7N3A9XK2G5DT8R6S
+
+8Z2U4Y6C9W7B3Q2V
+
+F3P7H5O9L2J6I4M1
+
+D2T5R8S6A1K7N9X3
+
+2G5D1T8R6S7N3A9X
+
+Y4C6W9B7Q2V0E8ZU
+
+M1F3P7H5O9L2J6I4
+
+K7N9X3D2T5R8S6A1
+
+6C9W7B3Q2V0E8Z2U
+
+O9L2J6I4M1F3P7H5
+
+XK2G5D1T8R6S7N3A
+
+H5O9L2J6I4M1F3P7
+
+5R8S6A1K7N9X3D2T
+
+E8Z2U4Y6C9W7B3Q2
+
+4Y6C9W7B3Q2V0E8Z
+
+T5R8S6A1K7N9X3D2
+
+FHJRT6Y7U6R7HYM8: 3x Weapon Royale Voucher
+
+FFK5L1M6N2O8P4Q9: Diamond Royale Voucher
+
+FFU3V9W5X1Y6Z2A7: Free Fire Diamonds
+
+FFD8E2F7G3H9J4K1: Paloma Character
+
+FHYBRYTHR6YH65D5: Justice Fighter and Vandals Rebellion Weapons Loot Crate
+
+FIKJHR65HYR56G53: 50,000 diamond codes
 
 How To Redeem Free Fire Codes
 
@@ -108,27 +256,77 @@ Please allow up to 24 hours for the rewards to be credited to your account.
 
 Also read
 
-Garena Free Fire Max is an enhanced version of the popular Garena Free Fire, which became highly sought after in India following the ban of its predecessor. Known for its stunning visuals and engaging gameplay, this game has captured the attention of gamers across the country.A standout feature of Garena Free Fire Max is its daily redemption codes, adding excitement and urgency for players. These codes are available for a limited time, typically between 12 to 18 hours, creating anticipation and boosting engagement among users.According to developer guidelines, the 12-character alphanumeric redemption codes for Garena Free Fire Max offer daily rewards to the first 500 registered players, ensuring fairness and equal chances for progression in the game.With time-sensitive rewards, remarkable graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately designed universe offers an exhilarating adventure for players.As India's leading battle royale game , Garena Free Fire Max maintains its top position in the gaming landscape, encouraging players to engage in intense battles, strategic gameplay, and exclusive rewards for an unmatched gaming experience.Enhance your gaming adventure with exclusive redemption codes for Garena Free Fire Max, granting access to a variety of in-game perks and rewards. Whether you're a seasoned player or new to the virtual battlefield, these codes provide a unique opportunity to elevate your experience, strategize more effectively, and delve deeper into the excitement of the game.Each code is a 12-character alphanumeric sequence, including a mix of uppercase letters and numbers, significantly enriching the overall gaming experience. Upon successful redemption, players unlock a range of exciting rewards that not only enhance the gaming atmosphere but also offer strategic advantages on the digital battleground.Make the most of these meticulously crafted redemption codes for Garena Free Fire Max. Unlock coveted weapons, distinctive skins, and other in-game items, boosting immersion and delivering a personalized gaming experience like no other.","Garena Free Fire Max is India's leading battle royale game. Daily redemption codes are available for a limited time, typically between 12 to 18 hours. codes offer daily rewards to the first 500 registered players, ensuring fairness and equal chances for progression in the game.","https://static.toiimg.com/thumb/msid-110926236,imgsize-30538,width-400,resizemode-4/110926236.jpg"
-"Wordle 1088 Puzzle for June 11, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/tech-news/wordle-1088-puzzle-for-june-11-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/110888385.cms,"Wordle 1088 Hints and Clues for June 11, 2024
+Garena Free Fire Max , an enhanced edition of Garena Free Fire, has quickly become one of India's most celebrated battle royale games, especially following the ban of its predecessor. Known for its stunning visuals and immersive gameplay, the game has captivated gamers nationwide.A unique feature of the game is the daily redemption of codes, which adds excitement and urgency. These codes, available for a limited duration of 12 to 18 hours, heighten anticipation among players.According to the developers, the 12-character alphanumeric redemption codes for Garena Free Fire Max offer daily rewards for up to 500 registered players. This system ensures fairness, giving every player an equal opportunity to enhance their in-game progression.Garena Free Fire Max is renowned for its time-sensitive rewards, captivating graphics, innovative features, and engaging gameplay, continuing to enthrall the gaming community. Its intricately crafted universe promises an irresistible adventure for players.As the premier battle royale game in India, Garena Free Fire Max maintains its leadership in the gaming industry. Players are encouraged to engage in intense battles, strategic gameplay, and exclusive rewards, ensuring an unparalleled gaming experience within the dynamic realm of Garena Free Fire Max.Enhance your gaming adventure with exclusive redemption codes for Garena Free Fire Max, offering access to a variety of in-game perks and rewards. Whether you're a seasoned player or new to the virtual battlefield, these codes provide a unique opportunity to elevate your gaming experience, strategize effectively, and dive deeper into the excitement of the game.These 12-character alphanumeric codes, featuring a mix of uppercase letters and numbers, significantly enrich the overall gaming experience. Upon successful redemption, players unlock a range of thrilling rewards that not only enhance the gaming atmosphere but also provide strategic advantages on the digital battleground.Make the most of your gaming journey with meticulously crafted redemption codes designed for Garena Free Fire Max. These codes unlock sought-after weapons, distinctive skins, and other in-game items, enhancing immersion and delivering a personalized gaming experience like no other.","Garena Free Fire Max Redeem Codes Today, June 13. Redeem codes using your credentials from like Facebook, Google, Apple, Huawei, or Huawei ID. Keep in mind that guest accounts are ineligible for these codes. Free Fire rewards can be redeemed by launching the game on your device.","https://static.toiimg.com/thumb/msid-110955112,imgsize-95208,width-400,resizemode-4/110955112.jpg"
+"Wordle 1090 Puzzle for June 13, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1090-puzzle-for-june-13-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/110953190.cms,"Wordle 1090 Hints and Clues for June 13, 2024
 
-Today’s word of the day starts with the alphabet S.
+Today’s word of the day starts with a vowel.
 
 There is only one vowel in today’s word of the day.
 
 No alphabet is repeated in today’s word.
 
-Today’s word of the day has alphabets N and G.
+Today’s word of the day has the alphabet G.
 
-It ends with the alphabet G.
+It ends with the alphabet T.
 
-Wordle 1088, June 11, 2024: Word of the Day
+Wordle 1090, June 13, 2024: Word of the Day
 
-Wordle, the addictive word-guessing game that has taken the world by storm, continues to challenge players with its cryptic puzzles. Whether you’re a seasoned Wordle aficionado or a newbie trying to crack the code, we’ve got you covered. Let’s dive into today’s hints and uncover the elusive answer!Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Since its debut in 2021, the word game has gained popularity among users across the globe. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.Today’s Wordle 1088 promises a puzzle that tests your linguistic skills, likely to be decoded by many participants. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Are you ready for another round of the super fun Wordle puzzle game?Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. Drumroll please, as we unveil the answer for Wordle 1088.Today's Wordle 1088 word is SWUNG.","Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.","https://static.toiimg.com/thumb/msid-110888367,imgsize-14268,width-400,resizemode-4/110888367.jpg"
-Microsoft Layoffs: Microsoft job cuts: Company may have laid off 1000 jobs in these two units,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-job-cuts-company-may-have-laid-off-1000-jobs-in-these-two-units/articleshow/110712600.cms,"Microsoft job cuts at Azure cloud division
+Wordle, the popular word-guessing game that has taken the world by storm, continues to challenge players with its cryptic puzzles. Whether you’re a seasoned Wordle aficionado or a newbie trying to crack the code, we’ve got you covered. Let’s dive into today’s hints and uncover the elusive answer!Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Since its debut in 2021, the word game has gained popularity among users across the globe. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.Today’s Wordle 1090 promises a puzzle that tests your linguistic skills, likely to be decoded by many participants. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Are you ready for another round of the super fun Wordle puzzle game?Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. Drumroll please, as we unveil the answer for Wordle 1090.Today's Wordle 1090 word is ANGST.","Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.","https://static.toiimg.com/thumb/msid-110953175,imgsize-27918,width-400,resizemode-4/110953175.jpg"
+Is your mobile phone hacked? Know warning signs and immediate actions to take,https://timesofindia.indiatimes.com/technology/tech-tips/is-your-mobile-phone-hacked-know-warning-signs-and-immediate-actions-to-take/articleshow/110961426.cms,"Mobile hacked warning signs
 
-Microsoft job cuts at mixed reality division
+Unusual battery drain: A sudden and significant decrease in battery life can indicate that malicious software is running in the background, consuming power.
 
-Microsoft is reportedly laying off more than 1,000 employees across different businesses, a report has said. The cuts come after significant rounds of layoffs at Microsoft, when the company announced it will cut 10,000 roles throughout 2023.Citing people familiar with the situation, The Information reported that “most of the job cuts are within the company’s Strategic Missions and Technologies org, which aims to sell Microsoft’s cloud software and server rentals for businesses with highly specified needs such as telecom firms and space companies.”Microsoft is also cutting jobs in its mixed reality unit but said that it will continue to support the HoloLens 2 augmented reality device.The company said that the cuts “are a necessary and regular part of managing our business” as Microsoft focuses on hiring “in strategic growth areas.”“Earlier today we announced a restructuring of the Microsoft’s Mixed Reality organisation. We remain fully committed to the Department of Defense’s IVAS program and will continue to deliver cutting edge technology to support our soldiers. In addition, we will continue to invest in W365 to reach the broader Mixed Reality hardware ecosystem. We will continue to sell HoloLens 2 while supporting existing HoloLens 2 customers and partners,” a spokesperson said in an email sent to CNBC.Microsoft also reaffirmed its commitment to Mesh, a feature allowing headset wearers to join 3D video calls in Teams alongside colleagues on any device. During last year’s Microsoft Ignite conference in November, company CEO Satya Nadella said that the company's focus is on ""reimagining how employees connect and collaborate,"" regardless of their device (PC, HoloLens, Meta headset, etc.).","Microsoft reportedly laying off more than 1,000 employees across different businesses. Cuts come after significant rounds of layoffs at Microsoft, when the company announced it will cut 10,000 roles throughout 2023. Microsoft said that the cuts “are a necessary and regular part of managing our business”","https://static.toiimg.com/thumb/msid-110712600,imgsize-62402,width-400,resizemode-4/110712600.jpg"
+Overheating: While some heating is normal during heavy usage, consistent overheating can be a sign of malware or spyware running on your device.
+
+Increased data usage: Unexpected spikes in data usage may indicate that your phone is sending information to a third party without your knowledge.
+
+Strange activity: If you notice unusual activities such as apps opening on their own, text messages you didn't send, or calls you didn't make, your phone might be compromised.
+
+Pop-ups and ads: An influx of pop-up ads, especially when not using a browser, can be a sign of adware infection.
+
+Unrecognised apps: If you find apps installed that you don't remember downloading, it could be a sign of unauthorised access.
+
+Slow performance: A sudden drop in your phone's performance speed can be a result of malware hogging resources.
+
+Unusual charges on your bill: Unexpected charges for premium services or international calls might indicate that a hacker is exploiting your phone.
+
+Immediate actions to take if your phone is hacked
+
+Disconnect from the internet: The first step is to disconnect your phone from the internet to stop any data transfer. Turn off Wi-Fi and mobile data immediately.
+
+Enable aeroplane mode: Switch your phone to aeroplane mode to cut off all communication signals, preventing further access by the hacker.
+
+Check and remove suspicious apps: Go through your installed apps and delete any that seem suspicious or that you don’t remember installing.
+
+Change passwords: Using another device, change the passwords for all your important accounts, including email, social media, and banking apps. Ensure that the new passwords are strong and unique.
+
+Install and run security software: Install reputable mobile security software and run a full scan to detect and remove any malware or spyware.
+
+Update your phone’s OS and apps: Ensure your phone’s operating system and apps are up-to-date. Updates often include security patches that fix vulnerabilities.
+
+Factory reset: If the problem persists, consider performing a factory reset. This will erase all data and settings, returning your phone to its original state. Make sure to back up important data before doing this.
+
+Contact your service provider: Inform your mobile service provider about the issue. They can provide assistance and may have additional security measures to help protect your account.
+
+Monitor your accounts: Keep a close eye on your bank and other important accounts for any suspicious activity and report it immediately.
+
+Preventative measures
+
+Use strong, unique passwords: Ensure all your accounts are protected with strong, unique passwords. Consider using a password manager.
+
+Enable two-factor authentication (2FA): Add an extra layer of security by enabling two-factor authentication on your accounts.
+
+Be cautious with downloads: Only download apps from reputable sources like the official app stores and avoid clicking on suspicious links.
+
+Regularly update your device: Keep your phone’s operating system and apps updated to protect against known vulnerabilities.
+
+Install security software: Use mobile security software to protect against malware, spyware, and other threats.
+
+Avoid public Wi-Fi: Public Wi-Fi networks can be insecure. Use a VPN if you need to access sensitive information over public Wi-Fi.
+
+Also read
+
+In today's digital age, mobile phones are integral to our daily lives, serving not only as communication devices but also as repositories for vast amounts of personal and sensitive information. We rely on our smartphones for everything from banking and shopping to storing photos and accessing email, making them attractive targets for hackers. With the rise in mobile usage, the threat of hacking has also increased, posing significant risks to our data and privacy. Being able to identify the signs of a hacked mobile phone, such as unusual battery drain, increased data usage, and the appearance of unfamiliar apps, is crucial.Additionally, knowing the immediate actions to take, like disconnecting from the internet, running a security scan, and changing passwords, can help mitigate damage and secure your information. Taking these proactive steps can help safeguard your mobile phone and ensure your personal data remains protected.Recognizing the warning signs of a hacked mobile phone is crucial for protecting your personal information and privacy. Here are some key indicators that your device may be compromised.If you suspect your phone has been hacked, taking immediate action is crucial to protect your data and privacy. Here are the essential steps you should follow to secure your device and mitigate any potential damage.Taking preventative measures is essential to safeguard your mobile phone from being hacked. Implement these strategies to enhance your device's security and protect your personal information.By staying vigilant and taking these proactive steps, you can significantly reduce the risk of your mobile phone being hacked and ensure your personal information remains secure.","Mobile phones are attractive targets for hackers, making them vulnerable to hacking. Mobile phones are integral to our daily lives, serving as repositories for vast amounts of personal and sensitive information. Being able to identify the signs of a hacked mobile phone, such as unusual battery drain, increased data usage and the appearance of unfamiliar apps, is crucial.","https://static.toiimg.com/thumb/msid-110961814,imgsize-32828,width-400,resizemode-4/110961814.jpg"
 "Apple iPhone 15 Pro Max is available for just Rs 91,105 on Flipkart; know how to grab the deal",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-15-pro-max-is-available-for-just-rs-91105-on-flipkart-know-how-to-grab-the-deal/articleshow/110860836.cms,"iPhone 15 Pro Max
 
 for just Rs 91,105
@@ -153,12 +351,16 @@ Connectivity options and sensors: The iPhone 15 Pro Max supports 5G, 4G, Wi-Fi, 
 
 Also read
 
-Are you in the market for the latest smartphone technology at an unbeatable price? Look no further! Flipkart is offering the, making it the ideal time to upgrade your device. Here, you can explore the iPhone 15 Pro Max specifications and learn about the exchange offer that allows you to purchase it at an incredible price on Flipkart.Originally priced at Rs 1,59,900, the iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. With a notable, the. This significant price drop makes the iPhone 15 Pro Max an appealing choice for those seeking advanced technology while aiming for affordability, highlighting the opportunity for a great deal on this high-end model.The iPhone 15 Pro Max represents the peak of smartphone technology, featuring state-of-the-art components and unmatched performance. This device combines a sleek design, advanced camera capabilities, and the powerful A-series chip to offer an outstanding user experience. Here are some of the key features and specifications of the iPhone 15 Pro Max:","The iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. The phone's triple-camera system includes a 48 MP main camera with an f/1.78 aperture, a 12 MP ultra-wide-angle camera with a f/2.2 aperture, and a 12MP telephoto camera. The 6.7-inch display has a resolution of 2796x1290 pixels and a pixel density of 460 ppi.","https://static.toiimg.com/thumb/msid-110860921,imgsize-21180,width-400,resizemode-4/110860921.jpg"
-Elon Musk has shared this meme from a Tamil movie to trash iPhone-ChatGPT deal,https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-has-shared-this-meme-from-a-tamil-movie-to-trash-iphone-chatgpt-deal/articleshow/110907458.cms,"The meme is said to be from the 2017 Tamil movie 'Thappattam'.
+Are you in the market for the latest smartphone technology at an unbeatable price? Look no further! Flipkart is offering the, making it the ideal time to upgrade your device. Here, you can explore the iPhone 15 Pro Max specifications and learn about the exchange offer that allows you to purchase it at an incredible price on Flipkart.Originally priced at Rs 1,59,900, the iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. With a notable, the. This significant price drop makes the Apple iPhone 15 Pro Max an appealing choice for those seeking advanced technology while aiming for affordability, highlighting the opportunity for a great deal on this high-end model.The iPhone 15 Pro Max represents the peak of smartphone technology, featuring state-of-the-art components and unmatched performance. This device combines a sleek design, advanced camera capabilities, and the powerful A-series chip to offer an outstanding user experience. Here are some of the key features and specifications of the iPhone 15 Pro Max:","The iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. The phone's triple-camera system includes a 48 MP main camera with an f/1.78 aperture, a 12 MP ultra-wide-angle camera with a f/2.2 aperture, and a 12MP telephoto camera. The 6.7-inch display has a resolution of 2796x1290 pixels and a pixel density of 460 ppi.","https://static.toiimg.com/thumb/msid-110860921,imgsize-21180,width-400,resizemode-4/110860921.jpg"
+"Elon Musk told HR: “I don’t care — fire them,” claims lawsuit filed by former SpaceX employees alleging sexual harassment",https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-told-hr-i-dont-care-fire-them-claims-harassment-lawsuit-filed-by-former-spacex-employees/articleshow/110948685.cms,"What the lawsuit against Elon Musk claims
 
-Threatened to ban Apple devices at Tesla
+What the open letter against Elon Musk said
 
-Tesla CEO Elon Musk appears to be quite upset with Apple's partnership with ChatGPT maker OpenAI . In a series of posts on X, formerly known as Twitter, Musk slammed the partnership, terming it ""unacceptable security violation"". He even threatened to ban Apple devices at Tesla, Starlink, SpaceX and his other companies.In one of the posts criticising Apple-OpenAI deal, Musk has shared an Indian meme. The Desi meme has been shared with the header of the photo that reads, ""How intelligence works"".As to what the meme shows, it has a man and woman sharing coconut water. The photo apparently aims to show how Apple sharing data with ChatGPT makr OpenAI could lead to privacy issues.Musk said that it is absurd that Apple cannot makes its own AI and has to depend on OpenAI. ""It’s patently absurd that Apple isn’t smart enough to make their own AI, yet is somehow capable of ensuring that OpenAI will protect your security & privacy! Apple has no clue what’s actually going on once they hand your data over to OpenAI. They’re selling you down the river.""Threatening to ban Apple devices at Tesla, Musk wrote, ""If Apple integrates OpenAI at the OS level, then Apple devices will be banned at my companies. That is an unacceptable security violation.""""And visitors will have to check their Apple devices at the door, where they will be stored in a Faraday cage,"" he further added.For those unaware, Apple announced collaboration with OpenAI to bring its ChatGPT chatbot to its devices. Starting later this year, iPhone, iPad and Mac users will be able to access ChatGPT for free within iOS 18, iPadOS18 and macOS Sequoia, without needing a separate account.","Tesla CEO Elon Musk appears to be quite upset with Apple's partnership with ChatGPT maker OpenAI. In a series of posts on X, formerly known as Twitter, Musk slammed the partnership. He even threatened to ban Apple devices at Tesla, Starlink, SpaceX and his other companies.","https://static.toiimg.com/thumb/msid-110907816,imgsize-10828,width-400,resizemode-4/110907816.jpg"
+SpaceX and Elon Musk on the lawsuit
+
+Lawsuit comes a day after WSJ's report claiming 'sexual misconduct'
+
+There may be some trouble for SpaceX CEO Elon Musk . Eight former SpaceX engineers have reportedly filed a lawsuit against Musk on Wednesday (June 12), accusing the CEO of sexual harassment and retaliation. The same group of fired employees are said to have also filed complaints with the US National Labor Relations Board (NLRB) about SpaceX’s alleged retaliation. Bloomberg first reported on the lawsuit. The eight employees reportedly include four women and four men. The complaint targets both Musk and SpaceX.“Musk knowingly and purposefully created an unwelcome hostile work environment based upon his conduct of interjecting into the workplace vile sexual photographs, memes, and commentary that demeaned women and/or the LGBTQ+ community,” the eight former employees wrote in the filing. “It was also common for engineers to apply crude and demeaning names to products in an attempt at humor, often at the expense of women and LGBTQ+ individuals. For example, the name ‘Upskirt Camera’ was used for a camera on the first stage of the Falcon rocket that views the bottom of the second stage,” the filing further adds.According to a Bloomberg report, the filing further claims that the former SpaceX engineers that Musk made the decision to fire them in retaliation for the open letter that they wrote in 2022, highlighting Musk's ""problematic behavior"". The complaint claims that when a SpaceX HR official suggested that the company conduct a formal investigation before taking any decisive action, Musk replied, “I don’t care — fire them.”The open letter against Elon Musk is said to have been shared in an internal SpaceX Microsoft Teams channel with more than 2,600 employees. “Elon’s behavior in the public sphere is a frequent source of distraction and embarrassment for us, particularly in recent weeks,” the letter stated. “As our CEO and most prominent spokesperson, Elon is seen as the face of SpaceX — every Tweet that Elon sends is a de facto public statement by the company. It is critical to make clear to our teams and to our potential talent pool that his messaging does not reflect our work, our mission, or our values,” it further added.SpaceX and Elon Musk did not immediately respond to requests for comment on the lawsuit. SpaceX has previously denied wrongdoing and said that the fired employees violated policies. It also said Musk was not involved in their terminations.The lawsuit comes just a day after the Wall Street Journal reported allegations that Musk made sexual advances to women at SpaceX, including a former intern he had sex with. SpaceX President Gwynne Shotwell was quoted in the story accusing the Journal of presenting “untruths, mischaracterizations, and revisionist history,” and saying “Elon is one of the best humans I know.”",Eight former SpaceX engineers have reportedly filed a lawsuit against Elon Musk. They are accusing the CEO of sexual harassment and retaliation. The same group of fired employees are said to have also filed complaints with the US National Labor Relations Board (NLRB) about SpaceX’s alleged retaliation.,"https://static.toiimg.com/thumb/msid-110948682,imgsize-28262,width-400,resizemode-4/110948682.jpg"
 Samsung Galaxy Z Fold 6 and Flip 6 may come in these colour variants,https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-z-fold-6-and-flip-6-may-come-in-these-colour-variants/articleshow/110901606.cms,"Samsung Galaxy Z Fold 6 and Flip 6 alleged colour variants
 
 Samsung Galaxy Flip 6 to have peach colour
@@ -195,35 +397,15 @@ Google Layoffs: Google has cut jobs in one of its fastest-growing businesses,htt
 
 
 Google is reportedly cutting jobs in one of its fastest-growing businesses globally. According to a report in CNBC, Google parent Alphabet is laying off employees from several teams in Google’s cloud unit, one of its fastest-growing businesses.The company is said to have informed employees last week of the cuts in the Cloud team. As per an internal note viewed by CNBC, the roles being eliminated are in sales, consulting, “go-to-market” strategy, operations and engineering. At least 100 positions were cut, said people reportedly familiar with the matter and asked not to be named.A Google spokesperson told CNBC that the cuts are incremental across teams to better align its go-to-market organization. “As we’ve shared before, we continue to evolve our business to meet our customers’ priorities and the significant opportunity ahead,” the spokesperson said. “We maintain our commitment to investing in areas that are critical to our business and ensure our long-term success.”The report further added that some of those who lost their jobs had worked on the company’s annual Google Cloud Next that took place in mid-April.Google first announced job cuts in January 2023, since then the company has announced numerous round of layoffs. Last month, Google cut at least 200 employees from its “Core” organization, which included key teams and engineering talent. CEO Sundar Pichai told employees that the company would have fewer layoffs in the second half of 2024.Google Cloud business reported $40 billion annual revenue as the company overall delivered strong first quarter results. Google parent Alphabet reported first quarter revenue of $80.54 billion, up 15% from a year ago. Gogle CEO Sundar Pichai said first quarter results were driven by strength in search, YouTube and Google Cloud. ""We are well under way with our Gemini era and there’s great momentum across the company. Our leadership in AI research and infrastructure, and our global product footprint, position us well for the next wave of AI innovation.""","Google Cloud business reported $40 billion annual revenue as the company overall delivered strong first quarter results. Google parent Alphabet reported first quarter revenue of $80.54 billion, up 15% from a year ago. CEO Sundar Pichai told employees that the company would have fewer layoffs in the second half of 2024.","https://static.toiimg.com/thumb/msid-110727021,imgsize-33196,width-400,resizemode-4/110727021.jpg"
-"Tech layoffs 2024 touch 89,000: Google, Microsoft, TikTok, Tesla and these companies cut hundreds of jobs in May",https://timesofindia.indiatimes.com/technology/tech-news/tech-layoffs-2024-touch-89000-google-microsoft-tiktok-tesla-and-these-companies-cut-hundreds-of-jobs-in-may/articleshow/110657671.cms,"Google cut jobs in core teams
+"Whatsapp Ban: China, North Korea and 4 other countries that have banned WhatsApp and why",https://timesofindia.indiatimes.com/technology/tech-news/china-north-korea-and-4-other-countries-that-have-banned-whatsapp-and-why/articleshow/110970233.cms,"
 
+Countries where WhatsApp is banned
 
+Why these countries have banned WhatsApp?
 
-Indeed fired 1,000 employees
+WhatsApp bans 80 lakh accounts in India in March 2024
 
-
-
-Toshiba laid off 4,000 employees
-
-
-
-TikTok fired 1,000 operation and marketing employees globally
-
-
-
-Walmart announced job cuts and staff relocation
-
-
-
-Microsoft cuts jobs in gaming division
-
-
-
-Tesla trims down workforce
-
-
-
-While the tech industry experienced layoffs throughout 2024, May saw a notable decrease compared to previous months. According to layoffs.fyi, a website tracking global job cuts , 39 companies laid off a total of 9,742 employees in May. This represents a significant drop from April's reported 21,473 layoffs across 50 companies.Google fired around 200 employees from its Core teams. These job cuts have reportedly impacted engineering positions in Sunnyvale, California. The layoffs are reportedly part of the downsizing effort that began last year when Alphabet announced plans to reduce its workforce by about 6%.The job-searching website Indeed nearly fired 8% of its workforce in May, 2024. The layoff primarily impacted the US employees of the company. The second round of layoffs affected employees in the research and development units, as well as other teams responsible for delivering products to customers.Toshiba announced 4,000 job cuts domestically as part of company’s restructuring efforts. The job cuts represent 6% of Toshiba’s local workforce. Along with this job cuts, the company is also planning to move some office functions from central Tokyo to Kawasaki, a city west of the capital.Popular short-video platform, TikTok fired 1,000 employees globally. The layoff impacted employees from the operations and marketing teams. Although TikTok has given limited official reasons for the layoffs, industry analysts speculate on several potential factors. Some suggest it may be a cost-cutting measure, particularly in response to the constantly changing regulatory environment affecting social media giants.Walmart is reportedly cutting jobs and asking employees at various tech hubs to relocate. These layoffs are expected to impact the company’s corporate employees, as the largest retailer has been trying to reduce its workforce for some time. The exact number of employees being laid off or asked to relocate is not yet known.The month of May witnessed job cuts in the gaming division of Microsoft. The tech giant reportedly closed multiple developers including the including Redfall developer Arkane Austin, Hi-Fi Rush developer Tango Gameworks, Alpha Dog Studios and more. A report by IGN claims that some of the affected employees will be relocated and others will have to depart. It is not clear whether the latest layoffs are a part of the job cuts announced by the company earlier this year.Elon Musk-owned Tesla fired employees from software, service and engineering departments. As per a report, the company laid off more than 6,700 employees in multiple locations including Texas, California and more.","39 companies laid off a total of 9,742 employees in May. This represents a significant drop from April's reported 21,473 layoffs across 50 companies. Google fired around 200 employees from its Core teams. Indeed nearly fired 8% of its workforce in May, 2024.","https://static.toiimg.com/thumb/msid-110657622,imgsize-182866,width-400,resizemode-4/110657622.jpg"
+Apple removed Meta ’s WhatsApp from its App Store in China last month. The company then complied with China’s internet regulator’s – Cyberspace Administration order. In April this year, WhatsApp filed a plea with the Delhi high court to challenge India's 2021 IT rules for social media intermediaries, ‘threatening’ to leave the country if asked to break end-to-end-encryption.However, it is not only China where WhatsApp faces restrictions. Despite over 2 billion users worldwide, the social media app is banned in many countries. Although there are some workarounds like using VPN and other tools to overcome these restrictions, but not everyone is willing to take this extra step.Coming back to the number of countries where WhatsApp is banned or faces restrictions, there are 6 in total. These are China, North Korea, Iran, Qatar, Syria and United Arab Emirates (UAE).China has barred the use of foreign messaging apps like WhatsApp for years due to the “Great Wall”' restrictions. This has resulted in other messaging platforms like WeChat and Weibo dominating the Chinese market. Similarly, North Korea, which has one of the most restrictive national policies, does not allow its citizens to use WhatsApp or any other major messaging app used globally.Other countries that have banned WhatsApp include Iran, Syria, Qatar and United Arab Emirates (UAE). Syria and Iran have banned WhatsApp to regulate the information flow in the war-torn country. The UAE, on the other hand, has blocked WhatsApp voice and video calls to promote local telecommunication companies. Qatar too has blocked WhatsApp calls, but allows its citizens to send text messages over the app.In another news, WhatsApp said that it has banned more than 7.9 million accounts in India between March 1 to March 31, 2024. Releasing its latest monthly report, the platform said that 1,430,000of these accounts were proactively banned, before any reports from users.The report was published under the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.","Despite over 2 billion users worldwide, the social media app is banned in many countries. There are 6 countries where WhatsApp is banned or faces restrictions. These are China, North Korea, Iran, Qatar, Syria and United Arab Emirates (UAE)","https://static.toiimg.com/thumb/msid-110970207,imgsize-2404494,width-400,resizemode-4/110970207.jpg"
 Samsung Galaxy F54 gets second price cut: Here’s how much the smartphone costs,https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-f54-gets-second-price-cut-heres-how-much-the-smartphone-costs/articleshow/110593679.cms,"New price
 
 Samsung Galaxy F54 specifications
