@@ -1,103 +1,102 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-"Apple to slow-roll AI features on iPhones, iPads and Mac PCs: 4 reasons why it may be beneficial for the company",https://timesofindia.indiatimes.com/technology/tech-news/apple-to-slow-roll-ai-features-on-iphones-ipads-and-mac-pcs-4-reasons-why-it-may-be-beneficial-for-the-company/articleshow/111043110.cms,"Dodging the staffing constraints
+Apple is shutting down this payment service,https://timesofindia.indiatimes.com/technology/tech-news/apple-is-shutting-down-this-payment-service/articleshow/111072592.cms,"Here’s what Apple said
 
-Language prioritisation
+Apple is shutting down its Pay Later service, reports 9to5Mac. It's been less than a year since the service was officially launched, and Apple has already announced its discontinuation.To recall, Apple Pay Later was officially rolled out in the US in October last year. Applicable on purchases made between $75 and $100, the service allowed Apple users to break down a purchase into four equal payments.As per an Apple support document, the company has stopped offering new loans under the Pay Later service. However, the existing Apple Pay Later loans remain unaffected.Starting later this year, users across the globe will be able to access installment loans offered through credit and debit cards, as well as lenders, when checking out with Apple Pay. With the introduction of this new global installment loan offering, we will no longer offer Apple Pay Later in the U.S. Our focus continues to be on providing our users with access to easy, secure and private payment options with Apple Pay, and this solution will enable us to bring flexible payments to more users, in more places across the globe, in collaboration with Apple Pay enabled banks and lenders.Apple users in India will not be affected by this development. This is because Apple Pay Later service was only available in the US. It never made its way to other global markets including the Indian market.In other news, Apple is rumored to be working on a slimmer version of iPhone, possibly in the iPhone 17 series. Bloomberg’s Mark Gurman suggests that the company may introduce its slimmest-ever iPhone in 2025.","Apple Pay Later was officially rolled out in the US in October last year. The service allowed Apple users to break down a purchase into four equal payments. Starting later this year, users across the globe will be able to access installment loans offered through credit and debit cards, as well as lenders.","https://static.toiimg.com/thumb/msid-111072589,imgsize-1561179,width-400,resizemode-4/111072589.jpg"
+watchOS 11 brings automatic nap detection feature to Apple Watch,https://timesofindia.indiatimes.com/technology/tech-news/watchos-11-brings-automatic-nap-detection-feature-to-apple-watch/articleshow/111072213.cms,"Apple recently showcased the latest version of its watchOS operating system — watchOS 11 at WWDC 2024 . Apple claims that the new watchOS 11 comes with features built on the company's sensor technology, advanced algorithms, and science-based approach. Now a new online report suggests that Apple has finally introduced the automatic nap detection feature with watchOS 11.
 
-Scalability and stability
+As reported by MacRumours, the watchOS 11 update eliminates the need to manually activate sleep mode. Previously, Apple Watch sleep tracking only functioned when users enabled sleep mode. This meant afternoon naps often went unrecorded, leaving users with an incomplete picture of their overall sleep health. The new automatic nap detection in watchOS 11 aims to bridge this gap.
 
-Mitigating misinformation
+As per the report, watchOS 11 leverages the watch's built-in motion sensors and sleep detection algorithms to identify naps. This allows users to see their nap duration and quality within the Health app 's sleep section, providing valuable insights into their overall sleep patterns.
 
-Apple launched several AI-powered features under the Apple Intelligence system at last week’s Worldwide Developers Conference (WWDC). These features will be coming in late 2024 and the first half of 2025 – marking a shift in rollout strategy for the company.According to Bloomberg’s Mark Gurman, Apple not following a strict timeline when it comes to rolling out AI features to users has several benefits for the Cupertino-based tech giant. Gurman, however, noted that Apple Intelligence's initial rollout with iOS 18 will include several functionalities such as leveraging AI to prioritise notifications, provide summaries of alerts and text messages as well as new writing tools, image generation and custom AI-generated emoji (Genmoji)..These capabilities are said to come at a later stage, and won't be available in the first beta version of iOS 18. Apple typically releases the new iOS version publicly in September, coinciding with iPhone sales launches. Since iPhones require manufacturing and operating system installation weeks in advance, features need to be finalised by mid-August.This time around a portion of the AI services will be delayed until next year due to these time constraints. Gurman has also listed out a bunch of reasons why this slow-roll of AI feature is the right choice for the company.A phased rollout of AI features will help Apple prevent staffing bottlenecks, allowing engineers to focus on specific features, release them and then move on to others. This strategy will help the company avoid overwhelming developers and past issues with rushed launches.Launching AI features with American English first allows more time to train AI models for other languages – which is a complex task. Global availability will take time but this will also help the company to better test its, which in turn provide better functionality from the beginning.Recently, a report said that Apple is training its model on Google’s TPUs as it does not have a large and sophisticated infrastructure like Google or Microsoft. Apple is building its cloud infrastructure to handle Apple Intelligence features. A gradual rollout reduces the risk of network crashes from a sudden surge in users. This approach also benefits OpenAI, which partners with Apple and utilises Microsoft servers for its chatbot.One of the main problems with AI-generated responses is misinformation. Starting with a smaller user base will allow Apple for better monitoring and quicker fixes for potential AI-generated misinformation (like OpenAI's ChatGPT). This limits the spread of inaccurate information.","Apple launched several AI-powered features under the Apple Intelligence system at last week’s Worldwide Developers Conference (WWDC) These features will be coming in late 2024 and the first half of 2025 – marking a shift in rollout strategy for the company. A phased rollout of AI features will help Apple prevent staffing bottlenecks, allowing engineers to focus on specific features and then move on to others.","https://static.toiimg.com/thumb/msid-111043108,imgsize-14944,width-400,resizemode-4/111043108.jpg"
-Infosys faces setback in Tangedco electricity bill case: What is the dispute and what it may mean for other IT companies,https://timesofindia.indiatimes.com/technology/tech-news/infosys-faces-setback-in-tangedco-electricity-bill-case-what-is-the-dispute-and-what-it-means-for-other-it-companies/articleshow/111042974.cms,"What is the
+While details are still emerging, automatic nap detection appears to function seamlessly. Users don't need to take any specific actions – simply take your nap, and the watch will handle the rest. This passive approach makes it incredibly user-friendly and aligns with the Apple Watch's focus on convenience.
 
-Infosys vs Tangedco dispute
+The Cupertino-based tech giant has also confirmed that watchOS 11 will be available this fall as a free software update for Apple Watch Series 6 or later paired with iPhone Xs or later, running iOS 18 .
 
-about
+","WatchOS 11 update eliminates the need to manually activate sleep mode. Users don't need to take any specific actions – simply take your nap, and the watch will handle the rest. This allows users to see their nap duration and quality within the Health app's sleep section.","https://static.toiimg.com/thumb/msid-111072194,imgsize-37216,width-400,resizemode-4/111072194.jpg"
+"Google’s AI model can generate music, dialogues for videos: How it works",https://timesofindia.indiatimes.com/technology/tech-news/googles-ai-model-can-generate-music-dialogues-for-videos-how-it-works/articleshow/111066778.cms,"How Google’s V2A AI model works
 
-Infosys' Arguments and Counter-Arguments by Tangedco
+Limitations of the AI model
 
-Infosys faces a partial setback in its dispute with Tamil Nadu Generation and Distribution Corporation (Tangedco) over electricity bill payment. The Madras High Court declined to stay a single judge's order directing Infosys to pay R 6.72 crore to Tangedco, and has asked the software giant to make an interim payment of Rs 2.5 crore within two weeks.The Madras High Court bench, comprising Acting Chief Justice R Mahadevan and Justice Mohammed Shaffiq, sided with Tangedco's arguments on the applicability of tariffs. While the full case is yet to be decided, the court direction to Infosys to make an interim payment of Rs 2.5 crore within two weeks puts pressure on Infosys and indicates that the court may lean towards upholding TNERC's tariff classifications.The final verdict will likely determine the total amount Infosys owes Tangedco and may set a precedent for similar disputes regarding electricity tariffs for IT companies with mixed use campuses.The crux of the dispute lies in the applicable electricity tariff for Infosys' unit at Mahindra World City near Chengalpet, in Chennai. Infosys argues that their unit should be classified under industrial tariff, which offers lower rates. However, Tangedco maintains that a portion of the electricity consumption falls under different categories due to the presence of BPO activities and commercial establishments on the campus.Infosys reportedly admitted to having BPO operations on its campus. Tangedco claims that for these activities, a higher ""Tariff III"" fixed by the Tamil Nadu Electricity Regulatory Commission (TNERC) should apply for the period 2009-2010.Tangedco argues that the presence of commercial establishments like food courts, banks, and clubs operating under separate trade names within the Infosys campus disqualifies them from industrial tariff benefits. TNERC's 2017 tariff regulations supposedly prohibit this.Infosys, represented by senior advocate Vijay Narayan, challenged the claims. They argued that:Tangedco's dues are barred by Section 56(2) of the Electricity Act, meaning the charges for BPO usage cannot be recovered.The amenities mentioned (food courts etc.) are meant for employee welfare and hence should qualify for concessional industrial tariff.Tangedco's senior counsel, P Wilson, countered these arguments stating:* TNERC has the statutory authority to fix electricity tariffs, and these rates are legally binding.* The limitation period for recovering dues is two years from the time they are recorded, which applies in this case.","Infosys faces a partial setback in its dispute with Tamil Nadu Generation and Distribution Corporation (Tangedco) over electricity bill payment. The Madras High Court declined to stay a single judge's order directing Infosys to pay R 6.72 crore to Tangedco, and has asked the software giant to make an interim payment of Rs 2.5 crore within two weeks.","https://static.toiimg.com/thumb/msid-111042969,imgsize-24044,width-400,resizemode-4/111042969.jpg"
-Tesla CEO Elon Musk gave huge shout out to Donald Trump at the company's shareholders meet,https://timesofindia.indiatimes.com/technology/tech-news/tesla-ceo-elon-musk-gave-huge-shout-out-to-donald-trump-at-the-companys-shareholders-meet/articleshow/111042609.cms,Elon Musk praises Donald Trump's admiration for Tesla's Cybertruck in front of shareholders at the annual meeting.,Elon Musk praises Donald Trump's admiration for Tesla's Cybertruck in front of shareholders at the annual meeting. Musk: 'I think it's a great idea. It's going to be a big success for us. I'm very proud of it',"https://static.toiimg.com/thumb/msid-111042605,imgsize-1265211,width-400,resizemode-4/111042605.jpg"
-Olympus partners HCLTech to set up an R&D centre for medical tech in India,https://timesofindia.indiatimes.com/technology/tech-news/olympus-partners-hcltech-to-set-up-an-rd-centre-for-medical-tech-in-india/articleshow/111040233.cms,"How this partnership will improve medical tech in India
+Google DeepMind researchers have developed an AI-powered model, called video-to-audio (V2A), that can generate audio and dialogues for videos. This development is a significant step towards creating fully audiovisual experiences using AI.The video-to-audio (V2A) AI tech can work well with videos that are generated by AI models, such as Google’s Veo that was announced at Google I/O 2024. The V2A technology works by combining video information with text prompts.Users can provide additional instructions to guide the V2A system towards specific sounds they want to create for a video, thus, allowing for creative control over the generated soundtrack.“Today, we're sharing progress on our video-to-audio (V2A) technology, which makes synchronised audiovisual generation possible. V2A combines video pixels with natural language text prompts to generate rich soundscapes for the on-screen action,” the company said.“Our V2A technology is pairable with video generation models like Veo to create shots with a dramatic score, realistic sound effects or dialogue that matches the characters and tone of a video,” it added.V2A first encodes the video and then uses a diffusion model to refine random noise into realistic audio that matches the video and any text prompts provided. Finally, the audio is decoded and combined with the video data.Some of the use cases include generating soundtracks for silent videos or traditional footage, including archival materials and silent films.“To generate higher quality audio and add the ability to guide the model towards generating specific sounds, we added more information to the training process, including AI-generated annotations with detailed descriptions of sound and transcripts of spoken dialogue,” Google DeepMind said.The AI model is trained on video, audio and the additional annotations which is said to help it associate specific audio events with various visual scenes, at the same time, responding to the information provided in transcripts.As per the researchers, the quality of the generated audio depends on the quality of the video input and lip movements in videos generated by other models might not perfectly match the soundtrack created by V2A.","Google DeepMind researchers have developed an AI-powered model, called video-to- audio (V2A), that can generate audio and dialogues for videos. The V2A technology works by combining video information with text prompts. It can work well with videos that are generated by AI models, such as Google’s Veo.","https://static.toiimg.com/thumb/msid-111066774,imgsize-43104,width-400,resizemode-4/111066774.jpg"
+Government has a warning for Microsoft's Chrome rival,https://timesofindia.indiatimes.com/technology/tech-news/government-has-a-warning-for-microsofts-chrome-rival/articleshow/111066322.cms,"The Indian Computer Emergency Response Team ( CERT-In ) has issued a crucial warning for users of Microsoft Edge (Chromium-based), urging them to update their browsers to the latest version. This advisory highlights multiple vulnerabilities that could potentially allow attackers to compromise targeted systems.CERT-In, operating under the Ministry of Electronics & Information Technology, emphasised that these vulnerabilities affect Microsoft Edge Stable versions prior to 126.0.2592.56. The agency strongly recommends users update their browsers to mitigate these risks.The vulnerabilities stem from several issues within the browser, including use-after-free flaws in PDFium, Audio, Browser UI, V8, and Dawn components; heap buffer overflows in the Tab Strip and Tab Groups; inappropriate implementations in Downloads, Memory Allocator, DevTools, and Dawn; a policy bypass in CORS; and type confusion in V8. Attackers could exploit these weaknesses by persuading users to visit maliciously crafted webpages, leading to potential system compromises.CERT-In's advisory explains that successful exploitation of these vulnerabilities could allow attackers to gain control of the targeted system, posing significant security threats. The agency advises users to apply the latest security updates provided by Microsoft to protect their systems from these potential attacks.This warning from CERT-In comes shortly after similar advisories were issued regarding vulnerabilities in other widely used platforms, including Android and Google Chrome for Desktop. The vulnerabilities in these platforms could also lead to severe security breaches, including unauthorized access to sensitive information, elevated privileges, and denial-of-service (DoS) conditions.",The Indian Computer Emergency Response Team ( CERT-In ) has issued a crucial warning for users of Microsoft Edge (Chromium-based) This advisory highlights multiple vulnerabilities that could potentially allow attackers to compromise targeted systems. The agency strongly recommends users update their browsers to mitigate these risks.,"https://static.toiimg.com/thumb/msid-111066322,imgsize-62402,width-400,resizemode-4/111066322.jpg"
+"Elon Musk says this portable product for Starlink ""will change the world""",https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-says-this-portable-product-for-starlink-will-change-the-world/articleshow/111064520.cms,"SpaceX receives FCC clearance for “wireless module”
 
+Elon Musk-owned SpaceX subsidy Starlink may soon expand its hardware portfolio with what is known as “Starlink Mini” – a portable dish that works in sync with the internet beaming through Starlink satellites and helps people stay connected in the wild.“I’ve been really wanting a super portable starlink dish for a long time. This is exciting,” said Oleg Kutkov, an engineer, on X. He also shared a few photos of the product.Musk responded to his post, saying that this product can be carried along and will change the world.“I just set it up right now and am writing this post through space,” Musk said.“Took less than 5 mins. Easily carried in a backpack. This product will change the world,” he added.In a separate post, Musk shared an image which purportedly shows the speed of the internet.“About half the price of the standard dish to buy and monthly subscription, but you can still watch multiple 4k video streams simultaneously! 23ms latency,” he said.While responding to other posts, Musk said that it has “better ping than many cable Internet connections” and that the product will soon be available in a few months.“Rolls out to select areas in a few months. Also, Mini can be a great low-cost option for a good backup Internet connection if your landline goes out,” he said.Last week, SpaceX received FCC clearance to operate a “wireless module” device, which uses the 2.4GHz and 5GHz Wi-Fi radio bands. A document in SpaceX’s filing suggested that it features antennas along with Wi-Fi chips.It said that the device has a codename ""UTW-231,"" supports IEEE 802.11b/g/n/ax for Wi-Fi 6 speeds up to 1,300Mbps. An image in the documents suggested the router is small and can fit in a person’s open hand.","Starlink Mini is a portable dish that works in sync with the internet beaming through Starlink satellites and helps people stay connected in the wild. Last week, SpaceX received FCC clearance to operate a “wireless module” device, which uses the 2.4GHz and 5GHz Wi-Fi radio bands.","https://static.toiimg.com/thumb/msid-111064505,imgsize-22742,width-400,resizemode-4/111064505.jpg"
+Apple co-founder Steve Jobs on how his father helped him develop the skill he is known most for,https://timesofindia.indiatimes.com/technology/tech-news/apple-co-founder-steve-jobs-on-how-his-father-helped-him-develop-the-skill-he-is-known-most-for/articleshow/111064483.cms,"Steve Jobs' attention to details while launching first iPhone
 
+Apple co-founder Steve Jobs is known for a relentless pursuit of quality. Jobs' meticulous attention to detail -- which is also a hallmark of Apple products -- can be traced back to a lesson from his father. According to Walter Isaacson -- who wrote Jobs' biography -- the former CEO of Apple learned this lesson while building a fence.“You’ve got to make the back of the fence, that nobody will see, just as good looking as the front of the fence,” Walter Isaacson recounted Paul (Steve Jobs father) telling him, “Even though nobody will see it, you will know, and that will show that you’re dedicated to making something perfect.”Jobs told Walter Isaacson about his father, “He loved doing things right.”According to Isaacson, Steve Jobs' meticulous attention to detail extended to even the unseen aspects of Apple products. Isaacson highlights Jobs' insistence on the aesthetics of microchip interiors and the use of ""expensive plating"" on every screw.“When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall,"" Steve Jobs said on what he learnt from his father.Jobs' dedication to detail was evident in the launch of the first iPhone . While competitors largely focused on features, Jobs oversaw every aspect of the user experience and talked about how the rounded corners of the iPhone was the result of months of refinement to feel comfortable in the hand.He also highlighted that the user interface underwent countless iterations to ensure a clean and intuitive layout. The launch presentation itself was designed so well that Jobs demonstrated features with ease. The result was a product that was not only feature-rich but one that felt well-designed and pleasure to use.","Steve Jobs' meticulous attention to detail can be traced back to a lesson from his father. The former CEO of Apple learned this lesson while building a fence. Walter Isaacson highlights Jobs' insistence on the aesthetics of microchip interiors and the use of ""expensive plating"" on every screw.","https://static.toiimg.com/thumb/msid-111064472,imgsize-144515,width-400,resizemode-4/111064472.jpg"
+3 apps that Pakistani spies used to hack into the laptop of Brahmos Aerospace's missile engineer Nishant Agrawal,https://timesofindia.indiatimes.com/technology/tech-news/3-apps-that-pakistani-spies-used-to-hack-into-the-laptop-of-brahmos-aerospaces-missile-engineer-nishant-agrawal/articleshow/111063736.cms,"Names of the three apps that Pakistani spies used
 
-What Telangana minister said about this initiative
+These apps were: Qwhisper, Chat to Hire and X-trust.
 
+How missile engineer Nishant was arrested
 
+Former BrahMos scientist Nishant Agrawal was sentenced to life by a sessions court earlier this for leaking military secrets to Pakistan. Nishant worked in the missile assembly unit at Nagpur. An award-winning missile engineer, Nishant was convicted by the sessions court under Section 235 of Criminal Procedure Code. He was found guilty of offences punishable under Section 66(f) of the IT Act and various sections of the Official Secrets Act (OSA) for leaking critical information about armaments to foreign powers.Pankaj Awasthi, UP-ATS investigation officer, said in his deposition during Nishant trial that one 'Sejal' had set up a Facebook account from Pakistan. Using this, she chatted with Pakistani operatives and her Indian targets.The chats showed she was part of a group that shared data and tips on deceiving Indian defence staffers. Awasthi told the court that on Sejal's directions, Agrawal had clicked on links sent by her and installed three apps on his personal laptop in 2017.These three apps were malware that stole data from Nishant's laptop, which contained classified information. Investigations claim that crucial documents related to the BrahMos missile were found on his personal computers, violating BAPL’s security norms.Nishant is said to have chatted with Sejal on Linked-in too, where she reportedly showed interest in hiring him, posing as a recruiter in UK's Hays Aviation.Nisnant was arrested in October 2018 through a joint operation by Military Intelligence (MI) and the Anti-Terrorism Squad (ATS) of Uttar Pradesh and Maharashtra. He was employed in the technical research section of BAPL, an Indo-Russian joint venture that manufactures BrahMos missiles.BrahMos Aerospace is a collaborative venture between the Defence Research and Development Organisation (DRDO) and the military Industrial Consortium (NPO Mashinostroyenia) of Russia.",Former BrahMos scientist Nishant Agrawal was sentenced to life by a sessions court earlier this for leaking military secrets to Pakistan. Nishant worked in the missile assembly unit at Nagpur. He was found guilty of offences punishable under Section 66(f) of the IT Act.,"https://static.toiimg.com/thumb/msid-111063742,imgsize-1129563,width-400,resizemode-4/111063742.jpg"
+"Garena Free Fire MAX codes for June 17, 2024: Win free diamonds and weapons",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-codes-for-june-17-2024-win-free-diamonds-and-weapons/articleshow/111048856.cms,"What are Free Fire Max redeem codes?
 
-""We are thrilled that Olympus Corporation, one of the world's largest medical devices companies, has chosen Hyderabad for its first investment in India with an R&D centre, marking a significant milestone for our city's medical devices ecosystem. With Hyderabad's robust infrastructure, strategic location, and thriving community of innovative healthcare companies, this investment is poised to be a game-changer for the medical devices sector in India.
+Garena Free Fire Max redeem codes today, June 17
 
-I met them during BioAsia 2024 and assured them of the government’s full support. It is heartening to see that they have chosen Telangana to enter India and we are confident that Olympus' advanced technologies and expertise will significantly contribute to our vision of becoming a global hub for medical device innovation and manufacturing. I welcome Olympus Corporation to our ecosystem.""
+P3H9E2X8K6L1R4D
 
-Global medical technology company Olympus Corporation has partnered with HCL Tech to establish a Research & Development (R&D) Offshore Development Center (ODC) in Hyderabad. The company says that this centre will not only boost the medical technology landscape in India but will also help expand Olympus' activities towards new tech globally.The announcement was made during a meeting between D. Sridhar Babu, Minister of Information Technology, Electronics & Communications (ITE&C) and Industries & Commerce (I&C) of the Government of Telangana, Komatireddy Venkat Reddy , Minister for Roads and Buildings and Cinematography of the Government of Telangana and Syed Naveed , Global Senior Vice President, Research & Development, Olympus Corporation in the USA.The meeting also saw the virtual participation of Andre Roggan, Chief Innovation Officer at Olympus Corporation, joining from Tokyo, Japan. Special Chief Secretary Jayesh Ranjan IAS , Consul General of India in New York Binaya Srikanta Pradhan and other senior state officials were also present as a part of the visiting delegation.Establishing this R&D centre will allow Olympus to use its global talents and resources to drive advancements in medical technology. The company said that Hyderabad will also provide the ideal environment for its talent with infrastructure for research and development activities necessary for Olympus' expansion efforts.Olympus is also preparing for the establishment of an in-house R&D centre in India in the coming years, adding to its existing R&D centres in Japan, the US and Europe.In addition to the creation of the ODC, Olympus will collaborate with AIG Hospitals, Hyderabad, on joint research projects. This partnership aims to leverage clinical expertise and insights from one of India's major healthcare institutions to drive the development of innovative medical solutions that address the evolving needs of patients worldwide.Since establishing Olympus Medical Systems India Private Limited in 2009, the company has continually expanded its operations in India, achieving major growth with the support of its stakeholders.With these initiatives, Olympus wants to advance medical technology but also strengthen its global footprint and enhance its ability to deliver important healthcare solutions.Babu is also leading a delegation in the US to attract investments to the state of Telangana. The government of Telangana had earlier hosted senior leadership of Olympus Corporation during BioAsia 2024.Minister Babu expressed his enthusiasm, stating,",Olympus has partnered with HCL Tech to establish a Research & Development (R&D) Offshore Development Center (ODC) in Hyderabad. The company says that this centre will not only boost the medical technology landscape in India but will also help expand Olympus' activities towards new tech globally.,"https://static.toiimg.com/thumb/msid-111040225,imgsize-74534,width-400,resizemode-4/111040225.jpg"
-Nothing’s Carl Pei teases Nothing OS 3.0: Here’s what it will offer,https://timesofindia.indiatimes.com/technology/tech-news/nothings-carl-pei-teases-nothing-os-3-0-heres-what-it-will-offer/articleshow/111038467.cms,"Nothing co-founder Carl Pei teases first look of Nothing OS 3.0 software with lock screen customization options. Nothing Phone 3 to feature AI capabilities, integrating hardware and AI interactions.","Nothing co-founder Carl Pei teases first look of Nothing OS 3.0 software with lock screen customization options. Nothing Phone 3 to feature AI capabilities, integrating hardware and AI interactions. Nothing phone will be available in the U.S. by the end of 2014.","https://static.toiimg.com/thumb/msid-111038467,imgsize-41978,width-400,resizemode-4/111038467.jpg"
-Most Indians believe technology will boost economic growth: Report,https://timesofindia.indiatimes.com/technology/tech-news/most-indians-believe-technology-will-boost-economic-growth-report/articleshow/111037635.cms,"HP LIFE programme for AI training
+V7U0M4Q2L5F8G3Y
 
-A global study by HP found that 89% of Indians believe that technology , including artificial intelligence ( AI ), is a crucial tool for integrating traditionally excluded populations into the economy. This figure is significantly higher than the global average of 76%, the study said.The HP study was released alongside the company's 2023 Sustainable Impact Report, which details progress towards its environmental and social goals.“Everyone deserves an opportunity to access the tools needed to thrive in the digital economy,” said Michele Malejki, HP global head of social impact and director, HP Foundation.“We know technology can be a great equaliser and a powerful tool to drive progress. Yet, to truly narrow the digital divide in our rapidly evolving world, we must also equip individuals with the skills to use technology,” Malejki added.HP also said it will soon integrate AI training into its HP LIFE programme to promote the responsible and effective use of AI. These AI trainings will be offered free of cost under the Digital Business Skills initiative globally, including in India.HP will also introduce next-gen AI PCs in India, a new category of powerful PCs for work and creation.The company announced HP’s OmniBook X AI PC and HP EliteBook Ultra G1q AI PC with Snapdragon X Elite are slim and sleek designs. These laptops will feature long battery life and AI-powered productivity tools, such as real-time transcription and meeting summaries.These PCs come with a 5MP web camera with automatic framing and eye focus supported by Poly Studio’s crystal-clear audio for enhanced virtual interactions.","89% of Indians believe that technology, including artificial intelligence ( AI ), is a crucial tool for integrating traditionally excluded populations into the economy. This figure is significantly higher than the global average of 76%. HP will soon integrate AI training into its HP LIFE programme to promote the responsible and effective use of AI.","https://static.toiimg.com/thumb/msid-111037620,imgsize-64314,width-400,resizemode-4/111037620.jpg"
-Garena Free Fire MAX redeem codes for June 14: Win free rewards and gifts,https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-june-14-win-free-rewards-and-gifts/articleshow/110983745.cms,"What Are Free Fire Max Redeem Codes?
+M9Q5L8F2G0Y4V7U
 
-Garena Free Fire Max Redeem Codes Today, June 14
+B6C4T1W2A3Z8O9S
 
-Y0N4T9KD6ZP1X3CR
+E5X1K9L7R4D2P0H
 
-F8N5D9ZYB2R1X7TW
+U2M5Q8L3F7G6Y4V
 
-Q2B6F3N0T9Z8L1X7
+O9B6C2T0W4A8Z3S
 
-5J4H7P3G2T1D8R6
+H1E7X3K5L4R6D9P
 
-CZ8T3B1H5G9C2V7JX
+G0U4M2Q5L9F3Y7V
 
-V2C9B6G4H7Z1J5XN
+Z8O6B1C4T7W2A5S
 
-6X9M2H3G1K8R4N0B
+S9Z6O1B4C7T2W5A
 
-D7F3T8Z9M2B0N4XC
+D2P5H9E1X6K4L7R
 
-4H5Y1G3B9C6N7J8X
+Y4V8U6M0Q3L5F7G
 
-P9S3R6W4T2X8B1G7
+R6D0P4H2E5X1K9L
 
-X3Z9T6J8C7V5B4N2
+F7Y3V5U9M2Q4L8G
 
-1G7K9V3H5B6X4N2C
+W2A6Z3S9O1B5C8T
 
-M8Z1H5G6B2C7V9N3
+L4R8D6P0H3E7X5K
 
-3X2B7N8M4H5G1C6V
+G6Y2V0U4M7Q5L9F
 
-9G5H1B6C4V3N2X7M
+A3Z7S1O5B8C6T9W
 
-T3B6H1G4C2V8N7X9
+X3E9K6J7R2D8P5H1
 
-2V9N8C4G7B3X5H1M
+How to redeem Free Fire Codes
 
-E2K7J30V5G3I4H9Q
+Navigate to the Rewards Redemption website at https://reward.ff.garena.com/en
 
-A0S7F63K9J4D1V8B
+Sign in using your credentials from platforms such as Facebook, X, Apple ID, Google, VK ID, or Huawei ID
 
-How To Redeem Free Fire Codes
+Enter the redeem code into the visible text box on the screen and finalise the redemption process by clicking 'Confirm'
 
-To utilise the Rewards Redemption website, navigate to https://reward.ff.garena.com/en.
+Following a successful redemption, retrieve your Free Fire rewards by launching the Free Fire game on your device
 
-Sign in using your credentials from platforms like Facebook, X, Apple ID, Google, VK ID, or Huawei ID.
+Important tips
 
-Upon logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
+After successfully redeeming the code, players can collect their rewards from the in-game mail section
 
-Once the code is successfully redeemed, access your Free Fire rewards by launching the game on your device.
+It's important to highlight that these codes are not valid for guest accounts; you must link your account to Facebook, X, Apple, Google, VK, or Huawei to be eligible for the rewards
 
-Important Things To Remember
-
-After successfully redeeming the code, you can claim your rewards from the in-game mail section.
-
-Please note that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
-
-Allow up to 24 hours for the rewards to be credited to your account.
+Please be patient and allow for a 24-hour processing period for the rewards to be credited
 
 Also read
 
-Embark on an extraordinary gaming adventure with Garena Free Fire MAX! This dynamic battle royale sensation has rapidly become a favourite among India's gaming enthusiasts, especially after the ban of its predecessor, Garena Free Fire. With stunning graphics and immersive gameplay, Garena Free Fire MAX has captured the hearts of gamers nationwide.The introduction of redemption codes in Garena Free Fire MAX adds an exciting element to the gaming experience. Available for a limited period of 12 to 18 hours, these codes create a thrilling sense of urgency and anticipation, enhancing the overall gameplay.Following developer guidelines, the 12-character alphanumeric Garena FF redemption codes provide a coveted daily opportunity for up to 500 registered players. This daily claiming system ensures fairness, offering all enthusiasts equal chances to enhance their in-game journey.Garena Free Fire MAX is celebrated not only for its time-sensitive rewards but also for its stunning visuals, innovative features, and captivating gameplay. The dedicated gaming community continues to expand, drawn to the intricately crafted and exhilarating universe of Garena Free Fire MAX.As the premier battle royale title in India, Garena Free Fire MAX remains at the forefront of shaping the gaming landscape. Players are invited to immerse themselves in a world of intense battles, strategic gameplay, and exclusive rewards, promising an unmatched gaming experience within the electrifying realm of Garena Free Fire MAX.Consisting of 12-character alphanumeric combinations with uppercase letters and numbers, these codes are essential for enhancing the gaming experience. Upon successful redemption, players unlock a variety of exciting rewards that not only enrich the gaming environment but also provide strategic advantages on the virtual battlefield.From coveted weapons to unique skins, these in-game items significantly boost immersion and offer a personalized gaming journey. Take advantage of these exclusive redemption codes to elevate your gameplay in Garena Free Fire Max, making your gaming adventure even more thrilling and immersive.","Garena Free Fire Max Redeem Codes are available for a limited period of 12 to 18 hours. 12-character alphanumeric codes provide a coveted daily opportunity for up to 500 registered players. The codes create a thrilling sense of urgency and anticipation, enhancing overall gameplay.","https://static.toiimg.com/thumb/msid-110983780,imgsize-92264,width-400,resizemode-4/110983780.jpg"
+Garena Free Fire MAX has quickly become a leading battle royale game in India, especially following the government's ban on its predecessor, Garena Free Fire. Since its launch, the game has captured the attention of gaming enthusiasts nationwide with its vibrant graphics and immersive gameplay.One of the most exciting features of Garena Free Fire MAX is the introduction of redemption codes. These codes are available for a limited time, typically between 12 to 18 hours, creating urgency and anticipation among players. Once expired, the codes become inactive, adding to the thrill of the game.According to developer guidelines, the 12-character alphanumeric Garena FF redemption codes can be claimed daily by up to 500 registered gamers. This system ensures fairness, providing equal opportunities for players to enhance their in-game experience.Garena Free Fire MAX is celebrated not only for its time-sensitive rewards but also for its stunning visuals, innovative features, and engaging gameplay. Players are invited to join a dynamic community of passionate gamers and explore the exhilarating universe of Garena Free Fire MAX, where new levels of excitement await.As India's leading battle royale game, Garena Free Fire MAX continues to reshape the gaming landscape. Dive into a world of intense battles, strategic gameplay, and exclusive rewards within the captivating realm of Garena Free Fire MAX, and experience the ultimate in gaming thrills.Embark on an exhilarating gaming adventure with exclusive redemption codes from Garena Free Fire MAX. These codes allow players to acquire coveted in-game items such as weapons, diamonds, skins, and other valuable rewards. Each code is a unique 12-character alphanumeric combination of capital letters and numbers, enhancing the overall gaming experience for enthusiasts.Upon successful redemption, players can unlock a variety of exciting rewards, including the Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and the Fire Head Hunting Parachute. These rewards not only elevate the gaming experience but also provide strategic advantages on the virtual battlefield.","Garena Free Fire MAX is India's leading battle royale game. It is celebrated for its stunning visuals, innovative features, and engaging gameplay. One of the most exciting features of the game is the introduction of redemption codes. These codes are available for a limited time, typically between 12 to 18 hours, creating urgency and anticipation among players.","https://static.toiimg.com/thumb/msid-111048926,imgsize-47030,width-400,resizemode-4/111048926.jpg"
 "Samsung Galaxy S24 Ultra 5G is available for Rs 71,249 on Flipkart; know how to grab the deal",https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-s24-ultra-5g-is-available-for-rs-71249-on-flipkart-know-how-to-grab-the-deal/articleshow/110990935.cms,"Samsung Galaxy S24 Ultra 5G Flipkart exchange deal and bank offer
 
 Samsung Galaxy S24 Ultra 5G specifications
@@ -122,24 +121,20 @@ It is equipped with a 5000mAh battery and supports 45W fast charging, 15W fast w
 
 Also read
 
-The latest Samsung Galaxy S24 Ultra 5G smartphone is now available at a substantial discount on Flipkart, making it an enticing choice for tech enthusiasts. Originally priced at Rs 1,34,999, the smartphone is now offered at a 3% discount, bringing the price down to Rs 1,29,999. But the savings don't stop there! You can save even more on the Samsung Galaxy S24 Ultra 5G (12GB RAM + 256GB internal storage) in Titanium Gray.The Samsung smartphone is available on Flipkart for Rs 1,29,999 for the 12GB + 128GB storage variant after discount. However, you can save Rs 43,000 on the Samsung Galaxy S24 Ultra 5G by exchanging it for an iPhone 14 Plus, bringing the price down to Rs 86,999.To make the deal even better, you can get a Rs 9,750 discount with the Flipkart Axis credit card, further reducing the price to Rs 77,249. Additionally, you get an extra discount of Rs 6,000, making the effective price Rs 71,249.","The Samsung Galaxy S24 Ultra 5G is now available at a substantial discount on Flipkart. Originally priced at Rs 1,34,999, the smartphone is now offered at a 3% discount. You can save Rs 43,000 by exchanging it for an iPhone 14 Plus, bringing the price down to Rs 86,999.","https://static.toiimg.com/thumb/msid-110990978,imgsize-13816,width-400,resizemode-4/110990978.jpg"
-"Wordle 1093 Puzzle for June 16, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1093-puzzle-for-june-16-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/111031314.cms,"
+Samsung Galaxy S24 Ultra 5G smartphone is selling at a substantial discount on Flipkart, making it an enticing choice for tech enthusiasts. Originally priced at Rs 1,34,999, the smartphone is now offered at a 3% discount, bringing the price down to Rs 1,29,999. But the savings don't stop there! You can save even more on the Samsung Galaxy S24 Ultra 5G (12GB RAM + 256GB internal storage) in Titanium Gray.The Samsung smartphone is available on Flipkart for Rs 1,29,999 for the 12GB + 128GB storage variant after discount. However, you can save Rs 43,000 on the Samsung Galaxy S24 Ultra 5G by exchanging it for an iPhone 14 Plus, bringing the price down to Rs 86,999.To make the deal even better, you can get a Rs 9,750 discount with the Flipkart Axis credit card, further reducing the price to Rs 77,249. Additionally, you get an extra discount of Rs 6,000, making the effective price Rs 71,249.","The Samsung Galaxy S24 Ultra 5G is available on Flipkart for Rs 1,29,999 for the 12GB + 128GB storage variant after discount. You can save Rs 43,000 by exchanging it for an iPhone 14 Plus, bringing the price down to Rs 86,999.","https://static.toiimg.com/thumb/msid-110990978,imgsize-13816,width-400,resizemode-4/110990978.jpg"
+"Wordle 1094 Puzzle for June 17, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1094-puzzle-for-june-17-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/111047512.cms,"Wordle 1094 Hints and Clues for June 17, 2024
 
-Wordle 1093 Hints and Clues for June 16, 2024
+Today’s word of the day starts with the alphabet P.
 
-Today’s word of the day starts with the alphabet G.
+There are two vowels in today’s word of the day.
 
-starts with the alphabet G. There is only one vowel in today’s word of the day.
+One alphabet is repeated in today’s word.
 
-No alphabet is repeated in today’s word.
+Today’s word of the day ends with the alphabet R.
 
-Today’s word of the day has the alphabet R.
+Wordle 1094, June 17, 2024: Word of the Day
 
-It ends with the alphabet D.
-
-Wordle 1093, June 16, 2024: Word of the Day
-
-Wordle, the popular word-guessing game that has taken the world by storm, continues to challenge players with its cryptic puzzles. Whether you’re a seasoned Wordle aficionado or a newbie trying to crack the code, we’ve got you covered. Let’s dive into today’s hints and uncover the elusive answer!Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Since its debut in 2021, the word game has gained popularity among users across the globe. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.Today’s Wordle 1093 promises a puzzle that tests your linguistic skills, likely to be decoded by many participants. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Are you ready for another round of the super fun Wordle puzzle game?Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. Drumroll please, as we unveil the answer for Wordle 1093.Today's Wordle 1093 word is GRIND.","Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.","https://static.toiimg.com/thumb/msid-111031313,imgsize-14288,width-400,resizemode-4/111031313.jpg"
+Wordle, the popular word-guessing game that has taken the world by storm, continues to challenge players with its cryptic puzzles. Whether you’re a seasoned Wordle aficionado or a newbie trying to crack the code, we’ve got you covered. Let’s dive into today’s hints and uncover the elusive answer!Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Since its debut in 2021, the word game has gained popularity among users across the globe. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.Today’s Wordle 1094 promises a puzzle that tests your linguistic skills, likely to be decoded by many participants. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Are you ready for another round of the super fun Wordle puzzle game?Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. Drumroll please, as we unveil the answer for Wordle 1094.Today's Wordle 1094 word is PRIOR.","Wordle is a daily word game created by Josh Wardle, a Brooklyn-based software engineer. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.","https://static.toiimg.com/thumb/msid-111047507,imgsize-14268,width-400,resizemode-4/111047507.jpg"
 Is your mobile phone hacked? Know warning signs and immediate actions to take,https://timesofindia.indiatimes.com/technology/tech-tips/is-your-mobile-phone-hacked-know-warning-signs-and-immediate-actions-to-take/articleshow/110961426.cms,"Mobile hacked warning signs
 
 Unusual battery drain: A sudden and significant decrease in battery life can indicate that malicious software is running in the background, consuming power.
@@ -204,7 +199,7 @@ price reduction of Rs 68,795
 
 current retail price is Rs 91,105
 
-Apple iPhone 15 Pro Max (256GB, Black Titanium) Price Breakdown on Flipkart
+Apple iPhone 15 Pro Max (256GB, Black Titanium) Flipkart offer
 
 Apple iPhone 15 Pro Max specifications (256GB, Black Titanium)
 
@@ -220,80 +215,296 @@ Connectivity options and sensors: The iPhone 15 Pro Max supports 5G, 4G, Wi-Fi, 
 
 Also read
 
-Are you in the market for the latest smartphone technology at an unbeatable price? Look no further! Flipkart is offering the, making it the ideal time to upgrade your device. Here, you can explore the iPhone 15 Pro Max specifications and learn about the exchange offer that allows you to purchase it at an incredible price on Flipkart.Originally priced at Rs 1,59,900, the iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. With a notable, the. This significant price drop makes the Apple iPhone 15 Pro Max an appealing choice for those seeking advanced technology while aiming for affordability, highlighting the opportunity for a great deal on this high-end model.The iPhone 15 Pro Max represents the peak of smartphone technology, featuring state-of-the-art components and unmatched performance. This device combines a sleek design, advanced camera capabilities, and the powerful A-series chip to offer an outstanding user experience. Here are some of the key features and specifications of the iPhone 15 Pro Max:","The iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. The phone's triple-camera system includes a 48 MP main camera with an f/1.78 aperture, a 12 MP ultra-wide-angle camera with a f/2.2 aperture, and a 12MP telephoto camera. The 6.7-inch display has a resolution of 2796x1290 pixels and a pixel density of 460 ppi.","https://static.toiimg.com/thumb/msid-110860921,imgsize-21180,width-400,resizemode-4/110860921.jpg"
+Are you in the market for the latest smartphone technology at an unbeatable price? Look no further! Flipkart is offering the, making it the ideal time to upgrade your device. Here, you can explore the iPhone 15 Pro Max specifications and learn about the exchange offer that allows you to purchase it at an incredible price on Flipkart.Originally priced at Rs 1,59,900, the iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. With a notable, the. This significant price drop makes the Apple iPhone 15 Pro Max an appealing choice for those seeking advanced technology while aiming for affordability, highlighting the opportunity for a great deal on this high-end model.The iPhone 15 Pro Max represents the peak of smartphone technology, featuring state-of-the-art components and unmatched performance. This device combines a sleek design, advanced camera capabilities, and the powerful A-series chip to offer an outstanding user experience. Here are some of the key features and specifications of the iPhone 15 Pro Max:","The iPhone 15 Pro Max (256GB, Black Titanium), released in 2023, is now available at a substantial discount. Flipkart is offering the, making it the ideal time to upgrade your device. The phone's triple-camera system includes a 48 MP main camera with an f/1.78 aperture. It also includes a 12 MP ultra-wide- angle camera with a f/2.2 aperture.","https://static.toiimg.com/thumb/msid-110860921,imgsize-21180,width-400,resizemode-4/110860921.jpg"
 Apple iOS 18 update release date: This is when the next-generation iPhone operating system will arrive,https://timesofindia.indiatimes.com/technology/tech-news/apple-ios-18-update-release-date-this-is-when-the-next-generation-iphone-operating-system-will-arrive/articleshow/110663140.cms,"iOS 18 release date, live streaming and more
 
 What’s new coming to Apple ecosystem
 
 Apple Apple’s Worldwide Developers Conference (WWDC) event month is here and next week, the company will unwrap the next-generation operating systems for Apple iPhone, iPad, Mac, Watch, TV and others.The event’s agenda is expected to revolve around the AI push where the company is speculated to announce several new AI-powered features into core apps and features including Photos, Messages, Notes and Safari browser.Mark Gurman , in his latest Power On newsletter, has revealed multiple new insights including new AI features, and changes Apple is set to announce at the WWDC event .Apple’s five-day developer's conference is scheduled for next week. The keynote will start on June 10 at 10:30 pm IST. This is an in-person event, but Apple will also livestream it on its website and official YouTube channel.Gurman has highlighted that Apple will make the AI push into its ecosystem with the next-generation operating systems.The newsletter mentions that Apple is preparing to integrate AI into core apps like Photos, Messages, Notes, and Safari. The AI will handle tasks such as voice memo transcriptions, recaps of meetings, text messages, emails, and articles. It will also create AI-generated emojis.Siri will be overhauled with large language models. The new system will allow Siri to control individual features within applications without user setup. Siri will analyse user activities and auto-enable assistance. Examples include deleting or forwarding emails, editing photos, summarising meetings, and moving notes within apps. This feature will expand to handle multiple commands at once, such as writing and sending an email.The Settings app will have a revamped interface, better organisation, and improved search.Control Center is also expected to receive a new music widget and enhancements for smart home appliance control. The Messages app will introduce new icons for Tapbacks and effects for individual words. The Photos app will get an updated interface, and Mail will see various improvements.In watchOS 11, the updates include an updated interface for Siri and upgrades to the Fitness app. Vision Pro headset users will receive visionOS 2.0, which will introduce dedicated versions of Apple’s apps instead of using iPad versions.","Apple’s five-day developer's conference is scheduled for next week. The keynote will start on June 10 at 10:30 pm IST. Apple will also livestream it on its website and official YouTube channel. The newsletter mentions that Apple is preparing to integrate AI into core apps like Photos, Messages, Notes, and Safari.","https://static.toiimg.com/thumb/msid-110663140,imgsize-46846,width-400,resizemode-4/110663140.jpg"
-Here's how much Apple has earned by selling iPhones in its lifetime,https://timesofindia.indiatimes.com/technology/mobiles-tabs/heres-how-much-apple-has-earned-by-selling-iphones-in-its-lifetime/articleshow/110769730.cms,"Apple’s iPhone sales over the years
+Indian Bike Driving 3D Cheat Codes June 2024: Check out the list and know how to use cheat codes,https://timesofindia.indiatimes.com/technology/gaming/indian-bike-driving-3d-cheat-codes-june-2024-check-out-the-list-and-know-how-to-use-cheat-codes/articleshow/111057404.cms,"Indian Bike Driving 3D Cheat Codes June 2024
+
+Rickshaw - 8370
+
+GTR - 3005
+
+Boat - 3001
+
+Thar - 9191
+
+Velociraptor - 50
+
+T-rex - 51
+
+Spino - 52
+
+Brachiosaurus - 53
+
+List of Active Indian Bike Driving 3D Bikes Cheat Codes
+
+Action
+
+Cheat Code
+
+TVS Apache
+
+4050
+
+Yamaha VMAX
+
+999
+
+Yamaha FZ10
+
+888
+
+Tron Bike
+
+6000
+
+Kawasaki Ninja ZX-10R
+
+400
+
+Duke 1290
+
+8888
+
+Duke 200
+
+7777
+
+Yamaha R15
+
+15
+
+Hero Pleasure
+
+0
+
+Kawasaki Ninja H2R
+
+3000
+
+Pulsar RS 200
+
+5000
+
+Suzuki Hayabusa
+
+7000
+
+Hero Splendor
+
+9000
+
+Royal Enfield Bullet
+
+9999
+
+ATV
+
+2222
+
+New KTM
+
+1190
+
+KTM Duke
+
+4215
+
+KTM
+
+1210
+
+Pulsar
+
+1211
+
+Hero Super Splendor
+
+6021
+
+Ghost Raider Bike
+
+5555
+
+Ducati Diavel
+
+777
+
+Benelli TNT
+
+666
 
 
 
-How Apple is trying to regain its position in China
+List of Active Indian Bike Driving 3D Car Cheat Codes
+
+Action
+
+Cheat Code
+
+Mahindra Thar
+
+9191
+
+JCB
+
+6677
+
+Hummer Car
+
+8880
+
+Mahindra Bolero
+
+3100
+
+Toyota Supra
+
+2244
+
+Ford Mustang
+
+8123
+
+Ferrari
+
+8811
+
+Tank
+
+4040
+
+Ford Endeavour
+
+2020
+
+Truck
+
+1212
+
+Truck with trailer
+
+1212
+
+Fire Truck
+
+606
+
+Toyota Legendar
+
+1001
+
+Tarzen
+
+300
+
+Monster Truck
+
+0 + Car cheat codes
+
+Porsche
+
+4000
+
+Scorpio Classic
+
+333
+
+Scorpio S11
+
+444
+
+Toyota Fortuner
+
+1000
+
+Rolls Royce
+
+2000
+
+Range Rover
+
+6666
+
+Bugatti Chiron
+
+4444
+
+Bugatti v2
+
+800
+
+Koenigsegg
+
+900
+
+Audi
+
+500
+
+Lamborghini
+
+3333
+
+Lamborghini v2
+
+700
+
+Thar Modified
+
+9090
+
+GTR
+
+3005
 
 
 
-Apple has achieved a new milestone in iPhone sales. As per data from Stocklytics.com (seen by Patently Apple), the Cupertino-based tech giant has about to reach the $2 trillion mark in iPhone's lifetime sales. This achievement comes after a recent decline in market share due to competition from Chinese brands like Xiaomi and Huawei.Since its introduction in 2007, this has been Apple’s most successful product as the company keeps updating its smartphones with new models and features.As per Statista data, Apple grossed $78.7 billion from iPhone sales within five years after releasing the first mode. Two years later, in FY 2014, this figure jumped to $101.9 billion and continued rising.The tech giant experienced several challenging years, especially in 2019 and 2020 when consumers worldwide reduced their spending budgets amid the pandemic. The report alsoclaims that iPhone sales have doubled and hit record highs in 2022 and 2023.During those two years, Apple grossed over $405 billion from selling iPhones, the highest figures in its history. Despite the revenue figures dropping slightly in the second quarter of FY 2024, iPhone sales remain strong. Statistics show Apple grossed $115.6 billion from iPhone sales in H1 FY 2024, pushing its lifetime revenue to a whopping $1.95 trillion.In Q1 FY 2009, Apple’s iPhone sales also accounted for about a quarter of Apple’s total revenue. Since then, this figure has more than doubled and hit 50.64% in Q1 2024.China is one of the biggest iPhone markets for Apple. According to a report by Counterpoint, Apple’s iPhone sales declined by more than 19% as Huawei saw 70% year-on-year growth in its smartphone sales in the country.To increase iPhone sales in China, Apple reportedly launched an aggressive discounting campaign on its official Tmall website in China in May. With these discounts, the company aims to fight off growing competition from local brands like Huawei. The latest discounts were steeper than those offered earlier this year.","Apple grossed $115.6 billion from iPhone sales in H1 FY 2024, pushing its lifetime revenue to a whopping $1.95 trillion. This achievement comes after a recent decline in market share due to competition from Chinese brands like Xiaomi and Huawei. China is one of the biggest iPhone markets for Apple.","https://static.toiimg.com/thumb/msid-110769717,imgsize-1446000,width-400,resizemode-4/110769717.jpg"
-Shark Tank judge Aman Gupta shares pictures from PM Narendra Modi’s oath-taking ceremony,https://timesofindia.indiatimes.com/technology/tech-news/shark-tank-judge-aman-gupta-shares-pictures-from-pm-narendra-modis-oath-ceremony/articleshow/110867734.cms,"Here’s what Aman Gupta wrote in X post
+Steps to use Indian Bike Driving 3D Cheat Codes
 
-PM Modi oath ceremony lasted three hours
+Begin by starting the Indian Bike Driving 3D game on your device.
 
-Shark Tank judge and Boat CEO Aman Gupta attended the oath ceremony of Narendra Modi as he took charge as the country’s Prime Minister for the third consecutive term. Sharing pictures from the ceremony held at the Rashtrapati Bhavan via an X (formerly Twitter) post, Gupta said that the day marks “biggest celebration of the largest democracy in the world”.In the post, he congratulated PM Modi on this third term.He said, “This election term has helped create a government that is ready to follow your visionary path, and build for the common good of India, a viksit Bharat.”“India continues to march forward. Today is the Biggest celebration of the largest democracy in the world and I am humbled to be a part of it. Heartiest congratulations to@narendramodi ji on his third term. This election term has helped create a government that is ready to follow your visionary path, and build for the common good of India, a viksit Bharat.”“We are confident in your developmental policies to make Indian economy strengthen further, foster our start up ecosystem, and help us make the brand India shine brighter on global stage. Ready to build under your vision.”PM Modi took oath with his council of ministers in an over 3-hour-long ceremony at the Rashtrapati Bhavan. According to reports, the new Cabinet is scheduled to hold its first meeting on Monday evening at the Prime Minister's Lok Kalyan Marg residence. There are 33 first-timers in the ranks. Seven first-time ministers in the Modi government belong to the allies: TDP's K Rammohan Naidu and Chandrasekhar Pemmasani; JDU's Lalan Singh and Ram Nath Thakur, RLD's Jayant Chaudhary, LJP's Chirag Paswan and HD Kumaraswamy of the JD(S).","Shark Tank judge and Boat CEO Aman Gupta attended the oath ceremony of Narendra Modi as he took charge as the country’s Prime Minister for the third consecutive term. Sharing pictures from the ceremony held at the Rashtrapati Bhavan via an X (formerly Twitter) post, Gupta said that the day marks “biggest celebration of the largest democracy in the world”","https://static.toiimg.com/thumb/msid-110867709,imgsize-41126,width-400,resizemode-4/110867709.jpg"
-Google Layoffs: Google has cut jobs in one of its fastest-growing businesses,https://timesofindia.indiatimes.com/technology/tech-news/google-has-cut-jobs-in-one-of-its-fastest-growing-businesses/articleshow/110727040.cms,"Google on job cuts at Google Cloud
+Look for the button featuring a phone icon, typically located at the bottom left corner of the game screen. Click on this icon to open the phone menu.
 
+Within the phone menu, find the handset icon, usually coloured green and positioned in the middle. Click on this icon to proceed.
 
+Upon clicking the handset icon, a contact list will appear on the screen. Look for an icon featuring nine orange circles at the bottom left corner of this screen. Click on it to access the number entry interface.
 
-Google is reportedly cutting jobs in one of its fastest-growing businesses globally. According to a report in CNBC, Google parent Alphabet is laying off employees from several teams in Google’s cloud unit, one of its fastest-growing businesses.The company is said to have informed employees last week of the cuts in the Cloud team. As per an internal note viewed by CNBC, the roles being eliminated are in sales, consulting, “go-to-market” strategy, operations and engineering. At least 100 positions were cut, said people reportedly familiar with the matter and asked not to be named.A Google spokesperson told CNBC that the cuts are incremental across teams to better align its go-to-market organization. “As we’ve shared before, we continue to evolve our business to meet our customers’ priorities and the significant opportunity ahead,” the spokesperson said. “We maintain our commitment to investing in areas that are critical to our business and ensure our long-term success.”The report further added that some of those who lost their jobs had worked on the company’s annual Google Cloud Next that took place in mid-April.Google first announced job cuts in January 2023, since then the company has announced numerous round of layoffs. Last month, Google cut at least 200 employees from its “Core” organization, which included key teams and engineering talent. CEO Sundar Pichai told employees that the company would have fewer layoffs in the second half of 2024.Google Cloud business reported $40 billion annual revenue as the company overall delivered strong first quarter results. Google parent Alphabet reported first quarter revenue of $80.54 billion, up 15% from a year ago. Gogle CEO Sundar Pichai said first quarter results were driven by strength in search, YouTube and Google Cloud. ""We are well under way with our Gemini era and there’s great momentum across the company. Our leadership in AI research and infrastructure, and our global product footprint, position us well for the next wave of AI innovation.""","Google Cloud business reported $40 billion annual revenue as the company overall delivered strong first quarter results. Google parent Alphabet reported first quarter revenue of $80.54 billion, up 15% from a year ago. CEO Sundar Pichai told employees that the company would have fewer layoffs in the second half of 2024.","https://static.toiimg.com/thumb/msid-110727021,imgsize-33196,width-400,resizemode-4/110727021.jpg"
-"Whatsapp Ban: China, North Korea and 4 other countries that have banned WhatsApp and why",https://timesofindia.indiatimes.com/technology/tech-news/china-north-korea-and-4-other-countries-that-have-banned-whatsapp-and-why/articleshow/110970233.cms,"
-
-Countries where WhatsApp is banned
-
-Why these countries have banned WhatsApp?
-
-WhatsApp bans 80 lakh accounts in India in March 2024
-
-Apple removed Meta ’s WhatsApp from its App Store in China last month. The company then complied with China’s internet regulator’s – Cyberspace Administration order. In April this year, WhatsApp filed a plea with the Delhi high court to challenge India's 2021 IT rules for social media intermediaries, ‘threatening’ to leave the country if asked to break end-to-end-encryption.However, it is not only China where WhatsApp faces restrictions. Despite over 2 billion users worldwide, the social media app is banned in many countries. Although there are some workarounds like using VPN and other tools to overcome these restrictions, but not everyone is willing to take this extra step.Coming back to the number of countries where WhatsApp is banned or faces restrictions, there are 6 in total. These are China, North Korea, Iran, Qatar, Syria and United Arab Emirates (UAE).China has barred the use of foreign messaging apps like WhatsApp for years due to the “Great Wall”' restrictions. This has resulted in other messaging platforms like WeChat and Weibo dominating the Chinese market. Similarly, North Korea, which has one of the most restrictive national policies, does not allow its citizens to use WhatsApp or any other major messaging app used globally.Other countries that have banned WhatsApp include Iran, Syria, Qatar and United Arab Emirates (UAE). Syria and Iran have banned WhatsApp to regulate the information flow in the war-torn country. The UAE, on the other hand, has blocked WhatsApp voice and video calls to promote local telecommunication companies. Qatar too has blocked WhatsApp calls, but allows its citizens to send text messages over the app.In another news, WhatsApp said that it has banned more than 7.9 million accounts in India between March 1 to March 31, 2024. Releasing its latest monthly report, the platform said that 1,430,000of these accounts were proactively banned, before any reports from users.The report was published under the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.","Despite over 2 billion users worldwide, the social media app is banned in many countries. There are 6 countries where WhatsApp is banned or faces restrictions. These are China, North Korea, Iran, Qatar, Syria and United Arab Emirates (UAE)","https://static.toiimg.com/thumb/msid-110970207,imgsize-2404494,width-400,resizemode-4/110970207.jpg"
-Samsung Galaxy F54 gets second price cut: Here’s how much the smartphone costs,https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-f54-gets-second-price-cut-heres-how-much-the-smartphone-costs/articleshow/110593679.cms,"New price
-
-Samsung Galaxy F54 specifications
-
-Samsung recently launched the all-new Galaxy F55 smartphone in India. It is the first Galaxy F-series smartphone of the company to come with a vegan leather back panel design. Soon, after the launch, the South Korean smartphone maker slashed the price of Samsung Galaxy F54 .Launched in June 2023, the Samsung Galaxy F54 has received a second price cut. The smartphone witnessed the first price drop in February 2024. The mid-range smartphone of the company has now received a price cut of Rs 5,000 earlier this year. After the price drop the Galaxy F54 smartphone was selling at Rs 24,999. Now the company has further slashed the price of the smartphone by Rs 2,000.After the second price cut of Rs 2,000, customers can purchase the Samsung Galaxy F54 at Rs 22,999. The smartphone comes in Stardust Silver and Meteor Blue colour options.The Samsung Galaxy F54 5G features a 6.7-inch Super AMOLED display with a 120Hz refresh rate. It is powered by an octa-core Exynos 1380 chipset, reaching a maximum clock speed of 2.4GHz. Equipped with 8GB of RAM and 256GB of storage, the device also offers RAM Plus technology, allowing for virtual RAM expansion of up to 8GB.The phone's standout feature is its camera setup. It includes a triple-rear camera system with a 108MP primary shooter featuring Optical Image Stabilization (OIS), an 8MP ultra-wide sensor, and a 2MP macro lens. For selfies, it has a 32MP front camera.Samsung has integrated several flagship-like features into this device. Nightography enables detailed low-light photography using nona-binning technology, complemented by a dedicated Night Mode and Auto Night Mode.The No Shake Cam feature ensures stable video recording in various lighting conditions through the combination of OIS and VDIS, with the primary camera offering a 1.5-degree corrective angle for enhanced shake reduction. The smartphone is backed by a 6000mAh battery with 25W fast charging support.","The Samsung Galaxy F54 has received a second price cut. The smartphone witnessed the first price drop in February 2024. It is powered by an octa-core Exynos 1380 chipset, reaching a maximum clock speed of 2.4GHz. It includes a triple-rear camera system with a 108MP primary shooter.","https://static.toiimg.com/thumb/msid-110593662,imgsize-29854,width-400,resizemode-4/110593662.jpg"
-Smart tips to reduce your summer electricity bill,https://timesofindia.indiatimes.com/technology/tech-tips/smart-tips-to-reduce-your-summer-electricity-bill/articleshow/110008806.cms,"Reduce electricity bills with smart tips
-
-Purchase electrical appliances with a 5-star BEE rating
-
-Switch to LED Lights
-
-Transition to smart appliances for remote control and enhanced efficiency
-
-Switch to BLDC fans
-
-Utilise solar energy with solar panels
-
-Set AC temperature at 24 degrees Celsius
-
-Enable energy metering with smart Wi-Fi
-
-Regularly servicing and maintaining home appliances to ensure peak performance
-
-Utilise power strips for connecting multiple devices
-
-Turn off electrical appliances when not in use
-
-Alternative sources for reducing home electricity bills
-
-Solar Energy: Solar power is a readily available and environmentally friendly energy source. You can choose solar water heating systems or photovoltaic solar panels. These can be installed on rooftops or in open areas to generate electricity for various household needs.
-
-Wind Energy: Living in windy regions? Consider a small-scale wind turbine as an effective alternative energy source. These turbines harness wind power and convert it into electricity.
-
-Biomass Energy: Biomass energy involves utilising organic materials such as wood pellets, agricultural waste, or animal waste to produce heat or electricity. Biomass stoves or boilers can efficiently provide heating or hot water while reducing reliance on conventional electricity sources.
+In the number entry interface, use your device's keypad to input one of the provided cheat codes. Each cheat code corresponds to a specific reward mentioned in the description.
 
 Also read
 
-During summer months, many households experience a significant increase in electricity consumption due to higher cooling needs. While staying comfortable during hot weather is essential, it doesn't have to come at the cost of soaring electricity bills. By implementing strategic energy-saving practices, you can reduce your summer electricity expenses without sacrificing comfort.Here you can explore several effective ways to save on summer electricity bills, offering practical tips and strategies that can help you minimise energy consumption and lower your utility costs during the warmer months. From optimising your cooling system to adopting energy-efficient habits, these recommendations are designed to make a noticeable impact on your electricity expenses while keeping your home cool and comfortable.Let's delve into these actionable tips that can help you save money and energy throughout the summer season.The Bureau of Energy Efficiency (BEE) issues BEE Star Labels as a voluntary method for manufacturers to indicate an appliance's energy efficiency. The label uses stars to indicate the efficiency of a product, with more stars indicating higher efficiency. Simply put, the higher the energy efficiency rating of the appliance, the lower its energy consumption. To effectively reduce your home's energy costs, opt for appliances with a 5-star BEE rating. Not only does this positively impact the environment, but it also helps lower your electricity bills. Explore Crompton's wide range of 5-star rated ceiling fans to learn more about BEE Rating Appliances.If your home still uses CFLs and incandescent bulbs, it's time to replace them with LED bulbs. LED bulbs are not just a trendy choice; they are recognized for their energy efficiency and superior illumination. If you're wondering how to reduce your electricity bill at home, switching to LED bulbs is the solution for you.Upgrading to smart appliances is a highly effective method to decrease electricity consumption at home. These devices allow you to automate tasks and manage energy usage efficiently. Consider installing energy-efficient ceiling fans to further reduce electricity consumption. Smart appliances typically come equipped with remote control capabilities, allowing you to schedule operations and conserve power. Crompton offers remote-controlled fans designed for enhanced energy savings and lower power consumption.These energy-efficient fans are gaining popularity due to their brushless direct current motors (BLDC), which operate on direct current electricity. They can help save up to 60% on electricity compared to normal induction motor-based fans. Additionally, they offer convenient features like remote control for turning the fan on and off, timer functionality, and compatibility with voice assistants. To learn more about the differences between BLDC fans and normal fans and how they can help reduce electricity bills, explore further information on BLDC fans versus conventional fans.Implementing a full solar power system for your home can be a substantial investment. However, there are more accessible and cost-effective ways to leverage solar energy. Installing outdoor solar lights in your balcony and garden, along with solar fans, can notably reduce your energy expenses at a modest cost. Additionally, using solar pumps for daily tasks can contribute to electricity savings. It's beneficial to understand the distinction between an electric geyser and a solar geyser to make an informed choice for your energy needs.Maintain your air conditioner at 24 degrees Celsius to optimise cooling and conserve energy during the summer months, effectively lowering electricity costs. Additionally, using a timer to automate AC operation and upgrading to a 5-star BEE-rated model can further enhance energy efficiency and reduce expenses associated with cooling your space.Numerous advanced smart energy metres are currently offered in the market. These metres typically use Wi-Fi connectivity to monitor overall power usage within a home and provide real-time analysis of consumption patterns. Additionally, they can detect power leaks and identify high-energy-consuming appliances. Wi-Fi LED bulbs represent an excellent choice for reducing electricity usage.Regularly servicing and maintaining your home appliances is essential for optimal functionality and efficiency. Appliances that are not properly maintained are known to consume excessive energy, so routine maintenance can prolong their lifespan and reduce energy consumption. Learn more about the importance of cleaning exhaust fans.Install a power strip if you have several electronic devices or appliances that need to be plugged into a single electrical outlet. This allows you to easily turn off all devices at once when they are not in use, preventing unnecessary energy consumption often referred to as ""phantom"" energy loss.One of the simplest and most effective methods to lower electricity costs is by turning off electrical devices such as lights, fans, and air conditioners when they are not in use.","During summer months, many households experience a significant increase in electricity consumption due to higher cooling needs. By implementing strategic energy-saving practices, you can reduce your summer electricity expenses without sacrificing comfort. From optimising your cooling system to adopting energy- efficient habits, these recommendations are designed to make a noticeable impact on your electricity expenses.","https://static.toiimg.com/thumb/msid-110009110,imgsize-28832,width-400,resizemode-4/110009110.jpg"
-"Anupam Mittal, Shark Tank judge on Lok Sabha election results: Picture abhi baaki hai",https://timesofindia.indiatimes.com/technology/tech-news/anupam-mittal-shark-tank-judge-on-lok-sabha-election-results-picture-abhi-baaki-hai/articleshow/110730033.cms,"Here’s what Anupam Mittal's post reads
+Indian Bikes Driving 3D, a popular Android game inspired by the GTA franchise, captures the essence of open-world games akin to GTA San Andreas and GTA Vice City. Despite its engaging gameplay, some challenges may arise, prompting the developers to incorporate cheat codes to aid players. These cheat codes unlock various benefits, such as new vehicles and unique features, enhancing the overall gaming experience. In this article, we'll provide a comprehensive list of cheat codes for Indian Bikes Driving 3D to elevate your gameplay. Let's dive in!The developers of Indian Bikes Driving 3D frequently release new cheat codes. Here are the latest cheat codes for the game:To fully enjoy Indian Bike Driving 3D, using these cheat codes is essential. Here is the complete list of bike cheat codes you can use while playing this popular mobile game.From the Bugatti Chiron to the Mahindra Thar, these cheat codes will unlock immediate access to a variety of cars in the game:Using cheat codes in the game is a simple and swift process. Follow these steps to effectively utilise the cheat codes:","Indian Bikes Driving 3D, a popular Android game inspired by the GTA franchise, captures the essence of open-world games akin to GTA San Andreas and GTA Vice City. Despite its engaging gameplay, some challenges may arise, prompting the developers to incorporate cheat codes to aid players. These cheat codes unlock various benefits, such as new vehicles and unique gaming experience.","https://static.toiimg.com/thumb/msid-111057528,imgsize-87702,width-400,resizemode-4/111057528.jpg"
+Google rolls out Pixel Camera 9.4 update with Pro lens selection and improved HDR+,https://timesofindia.indiatimes.com/technology/mobiles-tabs/google-rolls-out-pixel-camera-9-4-update-with-pro-lens-selection-and-improved-hdr/articleshow/111060782.cms,"Google has begun releasing a significant update to its Pixel Camera app, bringing new features and enhancements to several Pixel smartphone models . Version 9.4 of the app, which is currently rolling out via the Google Play Store, adds a Pro Lens selection mode and improves the HDR+ functionality on supported Pixel phones like the Pixel 6 Pro, Pixel 7 Pro, Pixel 8 Pro and Pixel Fold.One of the key additions in Pixel Camera 9.4 is the new Pro Lens selection feature. This allows users to manually choose between the ultra-wide, wide, and telephoto lenses on their device when taking a photo, rather than relying on the camera app to automatically select the appropriate lens. The Pro Lens option can be found under a new ""Pro"" tab in the camera settings.The update also brings improvements to HDR+ ( High Dynamic Range Plus ), Google's computational photography technology that combines multiple exposures to create images with better detail and dynamic range. Pixel Camera 9.4 enhances HDR+ with smarter automatic frame selection, favouring shots where subjects have their eyes open and are smiling.Additionally, the placement of the RAW/JPEG toggle has been moved from an obscure location in the settings to the more easily accessible Pro tab. However, unlike the Pixel 8 Pro, there is no option to adjust the image resolution.While the new version of Pixel Camera is currently available for download, users may not see the new features immediately after installing the update. The additional functionality is expected to be enabled via a server-side update from Google or with the release of the June Pixel Feature Drop .","Google has begun rolling out version 9.4 of its Pixel Camera app. It adds a Pro Lens selection mode and improves the HDR+ functionality on supported Pixel phones. The update is currently rolling out via the Google Play Store, but may not be available immediately.","https://static.toiimg.com/thumb/msid-111060740,imgsize-158274,width-400,resizemode-4/111060740.jpg"
+"Rajeev Chandrasekhar: Former IT minister on LLMs: Garbage in, Garbage out is an old adage in programming especially if...",https://timesofindia.indiatimes.com/technology/tech-news/former-it-minister-on-llms-garbage-in-garbage-out-is-an-old-adage-in-programming-especially-if-/articleshow/111060506.cms,"What are LLMs and how
 
-Ashneer Grover on Lok Shabha Elections 2024 results
+AI chatbots
 
-Shark Tank Judge and CEO of Shaadi.com Anupam Mittal has shared his views on the Lok Shabha Elections 2024 results. Expressing his views on the election results, Mittal wrote ""Wow, what a mandate - especially UP” followed by “Never underestimate the power of the common man’ in a post on X (formerly Twitter).In the recent Lok Sabha election results declared on June 4th, 2024, the National Democratic Alliance has been granted the mandate to establish the central government. The NDA secured 293 seats, with the Bhartiya Janta Party clinching 240 seats. The Congress party secured victory in 99 seats.Mittal’s post also mentions “Wow, what a mandate - especially UP.” For those unaware, the Samajwadi Party secured 37 seats, while BJP secured 33 seats in UP.“Wow, what a mandate - especially UP. That’s why they say ‘never underestimate the power of the common man’ 🇮🇳 Now all eyes on BJP internal power dynamics & NDA politics. Picture abhi baaki hai”.Ashneer Grover, former MD and co-founder of BharatPe has also shared his views on the 2024 Lok Sabha results via a post on X.Grover said that ""junta"" (public) has showed everyone that they are ""smarter than all politicians/pollsters. Respect”.“For me the result reinforces one thing - India mein parliamentary democracy hai. Sab MP chun rahe - not PM. So better MP candidate selection at micro constituency level made all the difference between perception and reality”, he further added.","Anupam Mittal has shared his views on the Lok Shabha Elections 2024 results. Mittal wrote ‘Wow, what a mandate - especially UP’ in a post on X (formerly Twitter) Ashneer Grover, former MD and co-founder of BharatPe has also shared his view.","https://static.toiimg.com/thumb/msid-110730033,imgsize-23260,width-400,resizemode-4/110730033.jpg"
+work
+
+Former IT minister Rajeev Chandrasekhar expressed concerns about the integrity of datasets used in training most artificial intelligence (AI) models, highlighting that their low quality compromise the quality of the resulting applications.He noted that the subpar design of these datasets is the reason why large language models’ ( LLMs ) return ""bullshit content"".“LLMs ‘bullshit content’ comes from most models being trained on content/datasets that are – to politely use the phrase - NOT quality assured. That’s why you have the embarrassing sight of billion dollar Gemini/ChatGPT many occasions spewing nonsense,” said Chandrasekhar.“Garbage in, Garbage out is an old adage in programming espclly if ur depending on scraping the internet,” he added.Chandrasekhar was reacting to Ethan Mollick, Associate Professor at the Wharton School of the University of Pennsylvania in the US, who posted that the idea that “LLMs bullshit - produce content without regard to truth - is not new”.“But I don't think it is that helpful a framework, since, in the end, LLMs may be more accurate than humans in many tasks,” the professor noted.Large language models, often abbreviated as LLMs, are the underlying technology that give AI chatbots their conversational abilities.LLMs are trained on huge amounts of text data, like books, articles and even code. This data can be vast, containing trillions of words – far more than any human may ever read. LLMs analyse this data and understand how language works, including the relationships between words and how they're used in different contexts.They rely on complex algorithms called neural networks – brains of AI models – mimicking how the human brain processes information. By making connections between different pieces of text data, the LLM learns to identify patterns and predict what words are likely to come next. They are then infused in interfaces called chatbots.Read Also | Bill Gates podcast with Nikhil Kamath: India’s ‘contribution’ to Microsoft’s success, CEO Satya Nadella and more","Former IT minister Rajeev Chandrasekhar expressed concerns about the integrity of datasets used in training most artificial intelligence (AI) models. He noted that the subpar design of these datasets is the reason why large language models’ ( LLMs ) return ""bullshit content""","https://static.toiimg.com/thumb/msid-111060473,imgsize-58690,width-400,resizemode-4/111060473.jpg"
+"Bill Gates podcast with Nikhil Kamath: India’s ‘contribution’ to Microsoft’s success, CEO Satya Nadella and more",https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-podcast-with-nikhil-kamath-indias-contribution-to-microsofts-success-ceo-satya-nadella-and-more/articleshow/111061639.cms,"Gates on India’s contribution to Microsoft’s success
+
+Bill Gates on India’s strengths and challenges
+
+Nikhil Kamath x Bill Gates | People by WTF | Ep. #1
+
+In a podcast with Zerodha co-founder Nikhil Kamath , Microsoft co-founder Bill Gates recalls his early relationship with, sharing his thoughts on India's tech talent, and discussing India’s strengths and challenges. Gates reflected on his long-standing relationship with India and the country's significant contributions to Microsoft's success.""I've had a fabulous relationship with India starting with the Microsoft experience where we hired some very smart IT graduates, and brought them to Seattle,"" Gates said.Gates emphasized the significant impact of the Indian workforce on Microsoft's achievements, stating, ""Of course, a lot of the amazing people I worked with in Microsoft were hired from India."" He recalled how these talented individuals later returned to India and established development centers for Microsoft, which now employ around 25,000 people across four locations.Microsoft co-founder specifically praised Satya Nadella , saying, ""On the top of that list is Satya, who now is doing a great job as the CEO. In my first digital career, the connection with India was fun and made a huge difference in what the company was able to achieve.""During the podcast, Gates also touched upon the stark contrasts in India, acknowledging the country's strengths while recognizing the challenges of poverty and other issues. He noted, ""It was during that time that I was kind of learning, “Oh wow, India is such a study in contrast, first class in so many ways, but still a lot of poverty and challenges.""Gates further delved into the differences between the legal systems in India and the United States. He pointed out that legal practices in the US might not be directly applicable in India. However, he envisioned the potential for technology to significantly enhance productivity in the legal system , which could lead to improved access to justice by addressing the current backlog of cases.","Gates emphasized the significant impact of the Indian workforce on Microsoft's achievements. He recalled how these talented individuals later returned to India and established development centers for Microsoft, which now employ around 25,000 people across four locations. Gates also touched upon the stark contrasts in India, acknowledging the country's strengths while recognizing the challenges of poverty and other issues.","https://static.toiimg.com/thumb/msid-111061636,imgsize-1201987,width-400,resizemode-4/111061636.jpg"
+"TCS fined Rs 1,600 crore by the US court on complaint of this US-based company, here's the company's BSE filing",https://timesofindia.indiatimes.com/technology/tech-news/tcs-fined-rs-16000-crore-by-the-us-court-on-complaint-of-this-us-based-company-heres-the-companys-bse-filing/articleshow/111036958.cms,"Details from TCS' BSE filing
+
+What is the trade secret case against TCS
+
+Read Also |
+
+A US District Court has fined Tata Consultancy Services (TCS) a total of $194.2 million (about Rs 1,600 crore) on charges of alleged misappropriation of trade secrets. The order against TCS has been passed in a case filed by Computer Sciences Corporation (CSC), which has merged with DXC Technology Company (DXC), alleging misappropriation of its trade secrets before United States district court.TCS informed the court order to the Stock Exchange Board of India (SEBI) in a BSE filing. It added it will appeal against the court order and file a review petition. ""Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has received an adverse judgement passed by United States District Court, Northern District of Texas, Dallas Division, details of which are provided in Annexure A.""Giving details about the lawsuit filed by CSC, the BSE filing says, ""In a suit filed by Computer Sciences Corporation (CSC)/DXC Technology Company (DXC) against the Company, alleging misappropriation of its trade secrets:* The Court ordered that the Company is liable to CSC for $56,151,583 in compensatory damages and $ 112,303,166 in exemplary damages.• The Court also assessed that the Company is liable for $25,773,576.60 in prejudgment interest through June 13, 2024.• The Court also passed certain injunctions and other reliefs against the Company.“The court ordered that the company is liable to CSC for $56,151,583 in compensatory damages and $112,303,166 in exemplary damages,” the Mumbai-basedsoftware services company said in a regulatory filing.Responding to the court ruling, the Tata group company said that the judgement won’t have any major adverse impact on its financials and operations. TCS asserted that it has strong arguments on the matter and intends to defend its position through a review petition/appeal to the appropriate court. ""The Company believes that it has strong arguments against the Judgement and is taking necessary steps to protect its interest through review/appeal. The Company believes that the Judgement has no major adverse impact on its financials and operations,"" the BSE filing said.In 2019, CSC, which later became part of DXC, sued TCS for allegedly misusing its software after licensing it to a Transamerica subsidiary. TCS had secured a $2 billion contract with Transamerica the previous year. The suit accused TCS of exploiting the software access granted to 2,200 Transamerica employees, who were transferred to TCS, to learn about CSC’s software internals and create a rival insurance platform. The court found that TCS had improperly accessed and used confidential data from DXC’s insurance management software, resulting in a $70 million penalty for trade secret misappropriation and an additional $140 million for deliberate infringement.Furthermore, Transamerica terminated its decade-long agreement with TCS prematurely in June 2023. Following a legal defeat and claim from Epic Systems, TCS accounted for a $125 million provision in the December quarter.","A US District Court has fined Tata Consultancy Services (TCS) a total of $194.2 million (about Rs 1,600 crore) The order against TCS has been passed in a case filed by Computer Sciences Corporation (CSC), which has merged with DXC Technology Company (DXC) TCS said it will appeal against the court order and file a review petition.","https://static.toiimg.com/thumb/msid-111036946,imgsize-47576,width-400,resizemode-4/111036946.jpg"
+Steven Spielberg startled by Apple Watch’s false alarm: Here’s what happened,https://timesofindia.indiatimes.com/technology/tech-news/steven-spielberg-startled-by-apple-watchs-false-alarm-heres-what-happened/articleshow/111052524.cms,"What exactly happened
+
+What is Apple Watch’s fall detection feature
+
+Legendary director Steven Spielberg had a moment of onstage surprise during a recent Tribeca Film Festival talk. According to a report by Variety, his Apple Watch abruptly displayed a warning about a potential hard fall, causing a brief disruption.The incident occurred while Spielberg was discussing his early films. The Apple Watch's fall detection feature, designed to initiate emergency services after a tumble, mistakenly interpreted a movement as a fall. Spielberg, likely startled by the unexpected alert, reportedly removed the watch from his wrist.Unfortunately, this reaction triggered another failsafe. With no response from Spielberg to the on-screen prompt, the Apple Watch initiated an audible countdown before attempting an emergency call. However, Spielberg realised the situation and quickly silenced the alert before any unnecessary dispatch of emergency personnel.While such false alarms are uncommon with Apple Watches, they can occur at inconvenient times. The episode highlights the potential for these safety features to cause momentary confusion, especially when users are unaware of the proper response protocol.In this case, a simple press of the ""X"" on the watch screen would have dismissed the fall warning.Apple Watch's fall detection feature is designed to identify when you've taken a hard fall and potentially connect you with emergency services.“If Apple Watch SE, Apple Watch Series 4 or later, or Apple Watch Ultra or later detects a hard fall while you’re wearing your watch, it will tap you on the wrist, sound an alarm and display an alert. You can choose to contact the emergency services, or dismiss the alert by pressing the Digital Crown, tapping Close in the top left-hand corner or tapping “I'm OK”, said the company.","Apple Watch's fall detection feature is designed to identify when you've taken a hard fall and potentially connect you with emergency services. Spielberg, likely startled by the unexpected alert, reportedly removed the watch from his wrist. With no response from Spielberg to the on-screen prompt, the Apple Watch initiated an audible countdown before attempting an emergency call.","https://static.toiimg.com/thumb/msid-111052497,imgsize-21454,width-400,resizemode-4/111052497.jpg"
+Apple iPhone 17 likely to go ‘slim’ in 2025 here’s what we know so far,https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-17-likely-to-go-slim-in-2025-heres-what-we-know-so-far/articleshow/111055378.cms,"What all will change with iPhone 17 slim
+
+It’s a long-running rumour about Apple working on a slimmer version of the iPhone. The rumours earlier suggest that the iPhone - Slim could happen with the iPhone 16 series. However, new reports claim that it will arrive in 2025 with the iPhone 17 series.Mark Gurman , in its latest Power On newsletter, has revealed that Apple will be making an iPhone 17 with a slimmer overall chassis and this will be the thinnest-ever iPhone along with a slimmer version of MacBook Pro and Apple Watch.Apple plans to go “Slim” in 2025Based on the report, Apple is reportedly planning to go slim with almost every product it offers. An iPhone 17 Slim , MacBook Pro Slim, Apple Watch Slim and so on. While these names are just for reference, it will be worth the wait to see what nomenclature Apple choose for the upcoming devices with the thinner form factor.We also don’t know whether Apple will make an additional device alongside the regular iPhone, the Plus, Pro and Pro Max or it will give the slim treatment to just the Pro models like it has done with the new iPhone Pro devices.Apart from the usual upgrades like a new chipset, better display, batter and camera improvements, the major highlight will likely be the slimmer design of the iPhone 17. Additionally, we expect the phone to include existing and new AI features that the company announced atthe recently concluded Worldwide Developers Conference ( WWDC ), earlier this month.","Apple is reportedly planning to go slim with almost every product it offers. An iPhone 17 Slim, MacBook Pro Slim, Apple Watch Slim and so on. We also don't know whether Apple will make an additional device alongside the regular iPhone, the Plus, Pro and Pro Max or it will give the slim treatment to just the Pro models.","https://static.toiimg.com/thumb/msid-111055378,imgsize-18052,width-400,resizemode-4/111055378.jpg"
