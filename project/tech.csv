@@ -1,41 +1,477 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-"TCS' 80,000 skills gap; world's largest 'AI-ready workforce' and more",https://timesofindia.indiatimes.com/technology/tech-news/tcs-80000-skills-gap-worlds-largest-ai-ready-workforce-and-more/articleshow/111176332.cms,"""TCS has the world’s largest AI-ready workforce""
+GitHub CEO: Students should not give up on learning programming languages as coding by humans …,https://timesofindia.indiatimes.com/technology/tech-news/github-ceo-students-should-not-give-up-on-learning-programming-languages-as-coding-by-humans-/articleshow/111196133.cms,"Programming languages vs human languages
 
-TCS sees headcount fall first time in 19 years
+Upskilling for the AI age
 
-India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. During a town hall earlier this month, the global operations head of TCS ' resource management group (RMG) Amar Shetye revealed that the company currently has thousands of open positions that it is not able to fill due to the skills gap.Shetye put the number at 80,000. For those unaware, the RMG team at TCS is responsible for allocation of available resources to various projects across the company and in case of any shortfall, fill such requirements through contractors. These contractors are on the roles of the hiring agencies and may or may not be hired as permanent staff by the company.The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.An employee who attended the townhall anonymously told TOI, ""We were told that either skillsets or employee aspirations are not matching project requirements. However, at TCS, no associate is forced to take on a project if they are not comfortable with it."" Another employee on the bench added, ""He told us that we should consider ourselves fortunate that the firm is not laying off employees for not being mapped to any project unlike other firms."" The company’s recent annual report revealed that 33% of job requirements are currently being met by grooming existing talent.Post the announcement of fourth quarter results, TCS CEO K Krithivasan said that the company has built one of the largest artificial-intelligence-ready workforces in the world. ""TCS is currently working over 200 engagements in GenAI with our clients and foresees a promising pipeline of future work across all industries,"" he wrote.TCS posted strong performance in the fourth quarter of the fiscal year 2024-25. ""This is a quarter of strong deals and execution for us. Continuous focus on operational excellence helped us achieve a 26% operating margin."" The management also said that deal wins were ""across markets, industries and geographies.""The Mumbai-headquartered company said that it had signed new deals totalling $13.2 billion in the fourth quarter, which is one of the highest ever for the company even as it signalled a cautious turnaround for the industry. The company added that the pain may be bottoming out and FY25 will be better than FY24.TCS's Gen-AI deal pipeline is said to have touched $900 million. “Our Generative Artificial Intelligence (AI) pipeline has surged to $900 million, marking a doubling in value. The Total Contract Value (TCV) of the deal comprises primarily standard-sized deals, with the exception of a significant win secured in Q3,"" the company said in its earnings report.TCS' full year headcount fell for the first time in 19 years. The company reported a quarter-on-quarter decline of 1,759 in its headcount for the fourth quarter of FY2024-25. TCS concluded the fourth quarter with a workforce totaling 601,546 employees, with women comprising 35.6% of the total.",India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.,"https://static.toiimg.com/thumb/msid-111176331,imgsize-47576,width-400,resizemode-4/111176331.jpg"
-Infosys rings opening bell on New York Exchange: What India's second-largest IT company said on the occasion,https://timesofindia.indiatimes.com/technology/tech-news/infosys-completes-25-years-on-nyse-heres-what-indias-second-largest-it-company-has-to-say/articleshow/111175727.cms,"What company CEO said
+GitHub CEO Thomas Dohmke strongly advises students to continue learning programming languages , even as AI systems become increasingly proficient in coding . In an interaction with Times of India during his recent visit to India, Dohmke addressed the debate over whether programming language education remains relevant in the age of AI.""Keep learning those languages,"" Dohmke unequivocally told TOI. He emphasised that understanding programming languages is crucial for developers, as code is fundamentally different from human language.Dohmke explained that while human language can be ambiguous, with the same sentence potentially having different meanings, programming languages are deterministic. ""The same line of code will do the same thing every single time,"" he said, highlighting the importance of mastering both human and programming languages.The GitHub CEO acknowledged that AI-powered tools like GitHub's Co-pilot are changing how developers work. These tools allow programmers to generate code by describing what they want to accomplish in plain language. However, Dohmke stressed that this doesn't diminish the value of understanding programming languages.To make the most of AI in coding, Dohmke recommends that developers upskill in prompt engineering . This involves learning how to refine queries to get desired outputs from AI models. He noted that AI models are ""probability machines"" that predict the next word or code, so understanding how to use them effectively is key.Dohmke also introduced Co-pilot Workspace, a new product featuring three AI agents to assist developers throughout the coding process. These agents help refine project ideas, determine necessary files, and implement tasks.While AI is transforming software development, Dohmke's message is clear: a strong foundation in programming languages remains essential for aspiring developers. By combining traditional coding skills with AI literacy, students can prepare themselves for the evolving landscape of software development.","GitHub CEO Thomas Dohmke strongly advises students to continue learning programming languages. This is even as AI systems become increasingly proficient in coding. He emphasised that understanding programming languages is crucial for developers, as code is fundamentally different from human language. He also introduced Co-pilot Workspace, a new product featuring three AI agents.","https://static.toiimg.com/thumb/msid-111196128,imgsize-139256,width-400,resizemode-4/111196128.jpg"
+"How CEO Satya Nadella may have been the key in solving Nvidia, Microsoft ‘AI chip feud’",https://timesofindia.indiatimes.com/technology/tech-news/how-ceo-satya-nadella-may-have-been-the-key-in-solving-nvidia-microsoft-ai-chip-feud/articleshow/111195779.cms,"Why alleged tensions brewed between Microsoft, Nvidia
 
-Infosys’s history
+How this is a problem for Microsoft
 
-Infosys has rung the Opening Bell at the New York Stock Exchange ( NYSE ), marking the IT major’s 25 years of being listed in the US. To mark this milestone CEO Salil Parekh and CFO Jayesh Sanghrajka , along with other key leaders from the company, were present on the podium at the largest stock exchange in the world by market capitalisation.“It was an honor to be invited to ring The Opening Bell at @NYSE this morning. This commemorates Infosys’ 25 years of being listed in the US,” the company said in a post on X (formerly Twitter).“We thank all our clients, employees, investors, and other stakeholders who’ve contributed to our continued success. #NavigateYourNext,” the company added.“The NYSE welcomes @Infosys to the podium to ring the Opening Bell! $INFY,” NYSE said in a separate post.Parekh highlighted Infosys' long history of partnering with American businesses on digital transformation projects.“We are delighted to be invited to ring The Opening Bell® at the NYSE and to celebrate 25 years of listing in the US. For over 4 decades we have partnered with American businesses as they digitally transform to navigate their next. Today, we are enabling new pathways to move them forward – with expanded growth opportunities and enhanced productivity – into an AI-first future,” said Parekh.Founded in July 1981, Infosys is the second IT services provider in India and has its headquarters in Bengaluru. The company’s shares were listed on the Nasdaq stock exchange in 1999 and it also became the first Indian company to be listed on Nasdaq.“We have delivered 25 years of strong performance since our US listing in 1999 with 22% revenue CAGR and 15% market cap CAGR. Today, we are thrilled to celebrate the achievements of our work in the US and would like to thank all clients, employees, investors, and other stakeholders who have contributed to the company's success over the years,” said CFO Sanghrajka.Infosys was recently recognised by Kantar BrandZ as one of the world's leading brands and the fastest-growing IT services brand over the past five years (Brand Finance). Infosys was the only Indian company featured in TIME Magazine's 2023 list of the World's Best Companies.","Infosys has rung the Opening Bell at the New York Stock Exchange ( NYSE ), marking the IT major’s 25 years of being listed in the US. CEO Salil Parekh and CFO Jayesh Sanghrajka, along with other key leaders from the company, were present on the podium.","https://static.toiimg.com/thumb/msid-111175722,imgsize-59992,width-400,resizemode-4/111175722.jpg"
-Why laid-off Paytm employees have filed complaints with labour ministry,https://timesofindia.indiatimes.com/technology/tech-news/why-laid-off-paytm-employees-have-filed-complaints-with-labour-ministry/articleshow/111175333.cms,"What laid-off employees have to say
-
-
-
-Paytm founder Vijay Shekhar Sharma’s job cuts warning
+Microsoft and Nvidia , beyond vying for the world's most valuable company title, have reportedly been clashing over AI chip design for months. The dispute eventually reached Microsoft CEO Satya Nadella , who intervened to resolve it.According to a report by The Information, Nvidia CEO Jensen Huang has tight control over how chips are allocated and installed by its clients, which include Microsoft.While the Nvidia CEO previously explained that the company dictates how chips are allocated to prevent companies from stockpiling them during periods of limited supply, this control reportedly caused a disagreement with Microsoft. Reportedly, these tensions have been building for some months behind the scenesAccording to a report, Nvidia's efforts to manage chip allocation extended beyond simply deciding who received the chips. The company reportedly attempted to dictate how these chips were installed within data centres, specifically focusing on the server rack configuration.This additional control over how Microsoft utilised the purchased hardware is what allegedly led to a feud between the two tech giants.The report further details that the disagreement escalated into a feud when Nvidia tried to convince Microsoft to adopt its next flagship chip, the GB200, within the server rack design specified by Nvidia.Installing the chips the way Nvidia wanted may reportedly have hindered Microsoft's ability to switch to different AI chips . Citing , citing people involved, the report said that when the dispute over server racks did not resolve for several weeks, it reached Microsoft CEO Satya Nadella's desk, the report said.Microsoft eventually won out as Nvidia backed down and agreed to the Big Tech company ’s demands, The Information reported.Reportedly, Nvidia CEO is worried whether companies like Microsoft and Amazon Web Services are going to run out of data centre space, which means a dearth of space will lead to less sales of AI chips.","Microsoft and Nvidia have reportedly been clashing over AI chip design for months. The dispute eventually reached Microsoft CEO Satya Nadella, who intervened to resolve it. According to a report, Nvidia CEO Jensen Huang has tight control over how chips are allocated and installed by its clients.","https://static.toiimg.com/thumb/msid-111195768,imgsize-2071527,width-400,resizemode-4/111195768.jpg"
+How these activists used AI to ‘change’ the landmarks on Google Maps,https://timesofindia.indiatimes.com/technology/tech-news/how-these-activists-used-ai-to-change-the-landmarks-on-google-maps/articleshow/111196540.cms,"What Google said about the images
 
 
 
-Several Paytm employees who have been laid off have reportedly filed complaints with the ministry of labour and employment alleging that the fintech company has made ""unlawful termination"" without proper compensation. The complaints, filed between June 1 and June 12, seek reinstatement.Moneycontrol said that it accessed a copy of the filed complaint on the ministry's Samandhan portal and the same has been also verified by an official.The complaints claim that the Paytm management conducted unfair and unethical termination practices. Employees have also included supporting documents, including emails and official records with the complaints. While the report hasn’t revealed the exact number of complaints, some claim that it could be around 50.While some ex-employees said that they are waiting for a response from the ministry, a few others said that they were forced to resign.“We are awaiting a response from the Ministry and hope the case will be taken up by them. If not satisfactory, will take the court route,” said one of the employees, who claimed to have been terminated by Paytm without compensation or justification.Some employees have alleged being forced to ""voluntarily resign"".“My HRBP reached out to me yesterday (June 20) saying if I don’t resign by 12pm today (June 21), I will be terminated. I will take up the legal route as soon as possible. A few others are planning to do the same while some are already in the process,” another one said.In a letter to its shareholders last month, Paytm founder Vijay Shekhar Sharma acknowledged the company's first-ever sales decline. As per Sharma, the company is implementing cost-cutting measures targeting employee expenses, aiming to save Rs 400-500 crore annually.""One97 Communications Limited (OCL) is providing outplacement support to employees which have resigned as a part of the restructuring efforts by the company,” the company previously said.“As we harness AI capabilities and enhance governance structures, we are fully committed towards building our business according to regulatory compliances,” the Paytm letter added.Sharma also noted that the company will move forward with a “leaner organisation structure.” Apart from suggesting job cuts, Paytm also said that it will trim its non-core assets.","Several Paytm employees who have been laid off have reportedly filed complaints with the ministry of labour and employment. The complaints, filed between June 1 and June 12, seek reinstatement. Some ex-employees said that they are waiting for a response from the ministry.","https://static.toiimg.com/thumb/msid-111175319,imgsize-22890,width-400,resizemode-4/111175319.jpg"
-Navigating intellectual property challenges in India’s electronic gaming industry,https://timesofindia.indiatimes.com/technology/tech-news/navigating-intellectual-property-challenges-in-indias-electronic-gaming-industry/articleshow/111174454.cms,"By: Dr. Abhimanyu Chopra (Partner) and Mr. Kushagra Jain (Associate) of AZB and Partners.
-
-The Indian gaming industry , valued at $3.49 billion, has witnessed remarkable growth, drawing in start-ups and over 900 MSMEs. In the Indian context, the games have evolved from a simple game of dice, which is most fondly remembered in the tale of Mahabharata, to more nuanced skill and transparency-based features. To illustrate by example, some operators have come up with Patented processes to ensure trust and transparency.Despite India's burgeoning gaming market and the surge in developers, a key challenge lies in the perception battle, where skill-based real money games are often mistaken for gambling, hindering their protection. Legal differentiation hinges on skill's impact on outcomes, affirmed by the Supreme Court in cases like State of Andhra Pradesh v K. Satyanarayana & Ors., State of Bombay v R.M.D. Chamarbaugwala and K.R. Lakshmanan v. State of Tamil Nadu. Such games are exempt from gambling laws (Public Gambling Act) and recognized as legitimate business activities under Article 19(1)(g) of the Indian Constitution.The Indian jurisprudence is pretty well-established concerning games of skill vis-à-vis games of chance, whether played online or offline. However, this article is limited to the aspects of intellectual property concerning these games.The present Indian landscape lacks direct intellectual property protections concerning electronic/video games, being complex compositions of various artistic and technical elements such as character designs, backgrounds, soundtracks, narratives, game codes etc, which not only take years of development and planning, but humongous resources and capital to develop and distribute. It may be noted that the electronic/video games industry faces not only challenges in the realm of creating original narratives/content but also in the absence of codified/specific legislation encompassing the intricacies of the elements of the games, face a myriad of challenges such as game cloning and digital piracy, which lead to unauthorized distribution and replication/reverse engineering of popular games and infringement of their intellectual property. The skill-based games are centred around unique elements which call upon its users to exercise their mental skill, superior learning and adroitness, and these features require sweat and hard work of the author and creator.In India, the absence of specific regulations for the gaming industry leaves video games uncategorized under intellectual property law. While trademark law can protect the name, characters’ unique identity, symbol etc. of the game, it still leaves a wide array of intellectual property elements unshielded. The software industry has tackled this challenge of infringement by replacing serial numbers and keys with login credentials, thereby, making the gaming software the service, however, with limited success, especially in the context of electronic/video games given the aspect of jail-breaking, side-loading, pirated version with ease, which in the view of the authors are currently protected in a very curtailed and limited manner in the copyright regime.The courts in India have underscored the necessity of comprehensive copyright protection for all elements of a game, including the musical works, characters and storylines within the games, and the requirement of sound and proper licensing agreements. Yet, there are only a handful of cases such as NS Bedi vs NHAI, where the audio-visual element comprising of the unique user interface in a traffic simulation game was conferred copyright protection by the court, or the widely-quoted case of Sony Computer Entertainment Europe Ltd vs. Harmeet Singh where the Delhi High Court issued an interim injunction against defendants for copyright infringement for modifying PlayStation systems to enable pirated games and selling pirated games without a license.In Mattel Inc. and Ors. v. Jayant Agarwalla, the Delhi High Court set a high threshold for copyright infringement, requiring originality beyond mere arrangement or colour changes of tiles. Citing Eastern Book Company & Ors. v. D.B. Modak & Anr., the Court emphasized the need for judgment and ability in creative works. It discussed the merger concept, highlighting that protecting one expression of an idea could constrain freedom of expression if limited possibilities exist.In conclusion, the ongoing development of copyright and intellectual property laws is crucial for sustaining the growth and innovation of electronic and video games. This can be best achieved through specialized legislation that integrates patents, copyrights, and trademarks in a tailored approach. This would address current needs, ensuring novelty, originality, and advancement, while also encouraging investment.","In India, the absence of specific regulations for the gaming industry leaves video games uncategorized under intellectual property law. While trademark law can protect the name, characters’ unique identity, symbol etc. of the game, it still leaves a wide array of intellectual property elements unshielded.","https://static.toiimg.com/thumb/msid-111174406,imgsize-12592,width-400,resizemode-4/111174406.jpg"
-Vodafone Idea has an update on 5G rollout for its subscribers,https://timesofindia.indiatimes.com/technology/tech-news/vodafone-idea-has-an-update-on-5g-rollout-for-its-subscribers/articleshow/111173799.cms,"Vi is late in 5G rollout
-
-Vi is losing customers
-
-Vodafone Idea ( Vi ) has announced that it has completed the minimum rollout obligation (MRO) for all 5G circles. All telecom companies must meet the Department of Telecom's ( DoT ) minimum 5G rollout obligations by a specific deadline, or they risk losing their allocated spectrum.“Vodafone Idea has completed its Minimum Rollout Obligation (MRO) across all Vi 5G circles on both spectrum bands,” the company said in a statement.Vi lags behind in the 5G rollout commercially as it suffered cash crunch while its competitors Reliance Jio and bharti Airtel have already rolled out 5G. The joint venture – formed by Aditya Birla Group and UK’s Vodafone Group Plc – raised investment by participating in an Rs 18,000 crore follow-on public offer (FPO), contributing Rs 2,075 crore themselves.The third-largest telecom player in India said that these funds will be directed towards network expansion and the crucial rollout of 5G services. The company sees the delay in adoption of 5G as an opportunity to deploy the technology in a cost-efficient manner.Vi has also been losing customers as it is unable to offer 5G to users. Meanwhile, the 4G subscriber base of the telecom giant increased to 12.63 crore from 12.26 crore on YoY basis. The average data consumed by 4G subscribers grew by 2.3% to 15.44 GB.“We have shut down 3G completely in 6 circles with Kerala getting added to the list of 5 other circles; namely Maharashtra, Gujarat, Andhra Pradesh, Mumbai and Kolkata where 3G spectrum is completely refarmed to 4G,” the company said.“Our 4G network covers over 1 billion Indians. We have completed minimum rollout obligations for 5G in 4 circles of Maharashtra, Delhi, Tamil Nadu, and Punjab,” the statement added. A report said that Vi has focussed investment towards 17 priority circles as they account for around 98% of its total revenues.","Vodafone Idea ( Vi ) has announced that it has completed the minimum rollout obligation (MRO) for all 5G circles. All telecom companies must meet the Department of Telecom's ( DoT ) minimum 5G rollout obligations by a specific deadline, or they risk losing their allocated spectrum. Vi lags behind in 5G commercially as it suffered cash crunch while its competitors Reliance Jio and bharti Airtel have already rolled out 5G.","https://static.toiimg.com/thumb/msid-111173762,imgsize-23144,width-400,resizemode-4/111173762.jpg"
-Amazon may make this Alexa feature paid,https://timesofindia.indiatimes.com/technology/tech-news/amazon-may-make-this-alexa-feature-paid/articleshow/111173278.cms,"When “Remarkable Alexa” will be launched
-
-Amazon is planning a significant overhaul for Alexa by including generative AI capabilities into the voice assistant, a report has said, adding that the company may introduce a two-tiered structure to use the service. While the e-commerce giant hasn’t said anything about the pricing, the report claims that the company may introduce a subscription for $5.Citing sources familiar with the project, news agency Reuters reports that Amazon may charge a monthly subscription fee of around $5 for access to a more advanced version of the AI. This premium tier would likely offer enhanced capabilities compared to the current, free version of Alexa.This may mean that the new Alexa won't be bundled with the popular Prime membership. Amazon is also reported to be calling the new voice assistant “Remarkable Alexa”.Amazon is also said to be working to replace “Classic Alexa,” which is the current version available to user for free, with an AI-powered one for which people may have to pay at least $5 per month to access. Some of the people also told the Reuters that Amazon has also considered a $10-per-month price.Three sources told the news agency that Amazon has given employees a deadline of August to prepare the newest version of Alexa and CEO Andy Jassy is said to be overlooking the developments. In an April letter to shareholders, Jassy talked about a “more intelligent and capable Alexa.” However, Amazon’s plans for Alexa including pricing and release dates could be altered or cancelled.“We have already integrated generative AI into different components of Alexa, and are working hard on implementation at scale—in the over half a billion ambient, Alexa-enabled devices already in homes around the world—to enable even more proactive, personal, and trusted assistance for our customers,” an Amazon spokeswoman was quoted as saying.Sources familiar with the company's plans say senior management has emphasised the potential of Alexa with conversational AI capabilities to generate meaningful sales for Amazon.Amazon has been looking to keep up with rivals – Google, Microsoft and ChatGPT maker OpenAI – in the generative AI space. Meanwhile, Apple too has jumped on the AI bandwagon and is updating its Siri voice assistant.","Report claims Amazon may introduce a subscription for $5 per month. This premium tier would likely offer enhanced capabilities compared to the current, free version of Alexa. Amazon is also reported to be calling the new voice assistant ‘Remarkable Alexa’","https://static.toiimg.com/thumb/msid-111173272,imgsize-81804,width-400,resizemode-4/111173272.jpg"
-Google is pausing this app expansion plan in India and some other countries,https://timesofindia.indiatimes.com/technology/tech-news/google-is-pausing-this-app-experiment-in-india-other-countries/articleshow/111172880.cms,"What are real-money game apps and Google’s experiment
+What the activists said about Google
 
 
 
+Google has reportedly deleted dozens of images of Austrian landmarks from its popular maps service. According to a report by the news agency AFP, these altered pictures were uploaded on Google Maps by environmental activists from the country to highlight the potential impact of climate change.The report claims that the activists used artificial intelligence ( AI ) to change these images. The AI-generated pictures reportedly showed the river Danube and Austrian lakes dried up and snowless Alpine peaks as though the images were taken in the year 2070.These images were uploaded on Google Maps by the Austrian activist group Letzte Generation (Last Generation), the report added.Google said it removed the photos as they misrepresents a location.“Our policies clearly prohibit content that is not based on real experience or does not accurately represent a location. We are removing the policy-violating photos in question,” a Google spokesperson said in a statement to AFP.The group said that it was ""not very surprised"" by the company’s action.“They are ignoring the climate catastrophe, just like authorities and big companies in general,” Letzte Generation spokespersonMarina Hagen-Canaval said while talking about Google.The group also noted that this is not their first stunt. Earlier, it posted these pictures on Google Maps to alert tourists. With the stunt, the activists wanted to warn tourists who use the service to prepare for their holidays about the risks of rising temperatures caused by climate change.As per the report, Letzte Generation has staged other protest stunts. This includes blocking highways and has also promised to take more actions, including some on the internet.Apart from this, Google Maps is reportedly planning to remove its ""Followed Places"" feature next year. After 2o25, users will no longer be able to see or follow places within the app. This feature helped users to stay updated about their favourite local businesses and receive notifications about them. These updates include changes in business hours, special offers, or new menu items.","Google has reportedly deleted dozens of images of Austrian landmarks from its maps service. These altered pictures were uploaded on Google Maps by environmental activists from the country. Google said it removed the photos as they misrepresents a location. The group said that it was ""not very surprised"" by the company’s action.","https://static.toiimg.com/thumb/msid-111196431,imgsize-17958,width-400,resizemode-4/111196431.jpg"
+"Mobile plans with free Netflix from Airtel, Jio compared",https://timesofindia.indiatimes.com/technology/tech-news/mobile-plans-with-free-netflix-from-airtel-jio-compared/articleshow/111194720.cms,"Airtel plans with Netflix subscription
+
+Netflix Basic subscription
 
 
-Google has announced its decision to globally pause its plans of expanding its support of real money gaming apps in markets without a central licensing framework citing that it needs more time to get it right for developer partners and safety of its usersReal money game apps offer players opportunities to win actual cash by playing various types of fun games. These games can be played on iPhones or Android devices and are available on platforms like the App Store or Google Play Store . Some popular examples include -- Bingo Cash, Solitaire Cash, Mistplay and more.Earlier, in January, Google announced its intention to allow real-money apps more widely. The company also said that it is working on a new service fee structure for these types of games and will take more time to finalise the details.At that time, Google also said that these expansion plans would start in June in India, Brazil, and Mexico. It's important to note that in India, the company has been running a pilot program for fantasy sports and Rummy apps since 2022. Meanwhile, in Mexico, Google initiated its pilot program in November 2023Despite the pause, Google clarified that the apps already part of the pilot program will continue operating on the Play Store in India, the report noted. The company also remains reportedly committed to supporting real-money gaming apps. Google is also carefully navigating the complexities of doing so without a clear central licensing framework.",Google has announced its decision to globally pause its plans of expanding its support of real money gaming apps in markets without a central licensing framework. The company said that it needs more time to get it right for developer partners and safety of its users. Google clarified that the apps already part of the pilot program will continue operating on the Play Store in India.,"https://static.toiimg.com/thumb/msid-111172835,imgsize-20590,width-400,resizemode-4/111172835.jpg"
+
+Amazon Prime membership
+
+
+
+Disney+ Hotstar subscription
+
+
+
+Unlimited calls
+
+
+
+100 SMS per day
+
+
+
+150GB data
+
+
+
+Unlimited 5G data
+
+
+
+Netflix Basic subscription
+
+
+
+Amazon Prime membership
+
+
+
+Disney+ Hotstar subscription
+
+
+
+Unlimited calls
+
+
+
+100 SMS per day
+
+
+
+200GB data
+
+
+
+Unlimited 5G data
+
+
+
+Netflix Basic subscription
+
+
+
+Unlimited calls
+
+
+
+100 SMS per day
+
+
+
+3GB daily data
+
+
+
+Unlimited 5G data
+
+
+
+Airtel Thanks benefits
+
+
+
+Reliance Jio plans with Netflix subscription
+
+Netflix Basic subscription
+
+
+
+Amazon Prime membership
+
+
+
+Unlimited calls
+
+
+
+100GB data
+
+
+
+3 additional SIM connections with 5GB data each
+
+
+
+Netflix Mobile subscription
+
+
+
+Amazon Prime membership
+
+
+
+Unlimited calls
+
+
+
+100 SMS per day
+
+
+
+300GB data
+
+
+
+Up to 500GB data rollover
+
+
+
+Netflix Mobile subscription
+
+
+
+Unlimited calls
+
+
+
+100 SMS per day
+
+
+
+2GB daily data
+
+
+
+Unlimited 5G data
+
+
+
+Netflix Basic subscription
+
+
+
+Unlimited calls
+
+
+
+100 SMS per day
+
+
+
+3GB daily data
+
+
+
+Unlimited 5G data
+
+
+
+Comparison table
+
+Plan
+
+
+
+Type
+
+
+
+Price (Rs)
+
+
+
+Data allowance
+
+
+
+Calls
+
+
+
+SMS
+
+
+
+Netflix subscription
+
+
+
+Additional perks
+
+
+
+Airtel
+
+
+
+Postpaid
+
+
+
+1,199
+
+
+
+150GB
+
+
+
+Unlimited
+
+
+
+100/day
+
+
+
+Basic
+
+
+
+Amazon Prime, Disney+ Hotstar, 5G data
+
+
+
+Airtel
+
+
+
+Postpaid
+
+
+
+1,499
+
+
+
+200GB
+
+
+
+Unlimited
+
+
+
+100/day
+
+
+
+Basic
+
+
+
+Amazon Prime, Disney+ Hotstar, 5G data
+
+
+
+Airtel
+
+
+
+Prepaid
+
+
+
+1,499
+
+
+
+3GB/day
+
+
+
+Unlimited
+
+
+
+100/day
+
+
+
+Basic
+
+
+
+Airtel Thanks, 5G data
+
+
+
+Reliance Jio
+
+
+
+Postpaid
+
+
+
+699
+
+
+
+100GB
+
+
+
+Unlimited
+
+
+
+100/day
+
+
+
+Basic
+
+
+
+Amazon Prime, 3 extra SIMs (5GB each)
+
+
+
+Reliance Jio
+
+
+
+Postpaid
+
+
+
+1,499
+
+
+
+300GB (500GB rollover)
+
+
+
+Unlimited
+
+
+
+100/day
+
+
+
+Mobile
+
+
+
+Amazon Prime
+
+
+
+Reliance Jio
+
+
+
+Prepaid
+
+
+
+1,099
+
+
+
+2GB/day
+
+
+
+Unlimited
+
+
+
+100/day
+
+
+
+Mobile
+
+
+
+5G data
+
+
+
+Reliance Jio
+
+
+
+Prepaid
+
+
+
+1,499
+
+
+
+3GB/day
+
+
+
+Unlimited
+
+
+
+100/day
+
+
+
+Basic
+
+
+
+5G data
+
+
+
+
+
+In a competitive move to attract more subscribers, both Airtel and Reliance Jio have introduced mobile plans that come bundled with a Netflix subscription. These plans cater to both prepaid and postpaid users, providing additional perks like unlimited calling, high-speed data, and other streaming service subscriptions. Here, we compare the offerings from Airtel and Reliance Jio.1. Airtel Rs 1,199 postpaid plan This postpaid plan includes:2. Airtel Rs 1,499 postpaid plan The most premium postpaid plan from Airtel offers:3. Airtel Rs 1,499 prepaid plan Airtel's only prepaid plan with Netflix includes:1. Reliance Jio Rs 699 postpaid plan This affordable postpaid plan includes:2. Reliance Jio Rs 1,499 postpaid plan Jio’s premium postpaid plan provides:3. Reliance Jio Rs 1,099 prepaid plan The most affordable prepaid plan with Netflix:4. Reliance Jio Rs 1,499 prepaid plan Jio's high-end prepaid plan includes:Both Airtel and Reliance Jio offer competitive plans with Netflix subscriptions, catering to diverse user needs and preferences. Whether you prioritize data, additional streaming services, or affordability, there’s a plan to suit your requirements.","Both Airtel and Reliance Jio have introduced mobile plans that come bundled with a Netflix subscription. These plans cater to both prepaid and postpaid users, providing additional perks like unlimited calling, high-speed data, and other streaming service subscriptions.","https://static.toiimg.com/thumb/msid-111194720,imgsize-975816,width-400,resizemode-4/111194720.jpg"
+"SoftBank CEO says this tech will make AI 10,000 times smarter than any human",https://timesofindia.indiatimes.com/technology/tech-news/softbank-ceo-says-this-tech-will-make-ai-10000-times-smarter-than-any-human/articleshow/111193244.cms,"What is ASI
+
+While tech giants like Google and Microsoft-backed OpenAI are talking about artificial general intelligence (AGI) – an AI technology that is (at least) as smart as than humans, Softbank CEO Masayoshi Son says artificial super intelligence ( ASI ) will be 10,000 times smarter than humans and will be here in 10 years.In a rare public appearance, Son said that AGI is likely to be one that will be 10 times smarter than humans and will arrive in the next three-to-five years.But if AGI is not much smarter than humans, “then we don’t need to change the way of living, we don’t need to change the structure of human lifestyle,” Son said, as per CNBC.“But when it comes to ASI it’s a totally different story. [With] ASI, you will see a big improvement,” he added.According to Son, ASI is a higher degree of intelligence and in future various ASI models will interact with each other, like neurons in a human brain. This will lead to AI that is 10,000 times smarter than any human genius, Son added.“SoftBank Group has done many things until now that have all been a warm up for my great dream to realise artificial super intelligence,” Son told shareholders at the group's annual general meeting.This year, the company announced that it will step up its investments in AI companies.“From now on, we want to step up investments in AI companies,” said SoftBank chief financial officer Yoshimitsu Goto in May.“The reason we’ve been keeping our balance sheet at a very safe level is because we would like to be prepared, and we would like to be flexible if there is anything that we would like to move on,” he added.","Softbank CEO Masayoshi Son says artificial super intelligence ( ASI) will be 10,000 times smarter than humans and will be here in 10 years. ASI is a higher degree of intelligence and in future various ASI models will interact with each other, like neurons in a human brain.","https://static.toiimg.com/thumb/msid-111193231,imgsize-873688,width-400,resizemode-4/111193231.jpg"
+Google Meet update adds translated captions in over 50 languages,https://timesofindia.indiatimes.com/technology/tech-news/google-meet-update-adds-translated-captions-in-over-50-languages/articleshow/111192253.cms,"Google is making communication easier with the latest update to Google Meet . The popular video conferencing platform now boasts translated captions in over 50 languages, significantly boosting accessibility and inclusivity for global teams.
+
+Previously, Google Meet offered translated captions for a limited number of languages. Now, with support for over 50 languages, meeting participants who don't share a common spoken language can still follow the conversation through real-time captions translated into their preferred language.
+
+By eliminating language barriers, Google Meet fosters a more inclusive environment and ensures everyone can actively participate in meetings, regardless of their native tongue. The update seamlessly integrates with the existing Google Meet interface. Users can easily enable and choose their preferred language for translated captions within the meeting settings. This intuitive design ensures a smooth user experience for participants seeking the benefits of real-time translation.
+
+This update aligns with the growing need for inclusive video conferencing solutions in today's diverse and interconnected world.
+
+","Previously, Google Meet offered translated captions for a limited number of languages. Now, with support for over 50 languages, meeting participants can still follow the conversation through real-time captions translated into their preferred language. This update aligns with the growing need for inclusive video conferencing solutions.","https://static.toiimg.com/thumb/msid-111192246,imgsize-13218,width-400,resizemode-4/111192246.jpg"
+Indigo flyers can now book tickets on WhatsApp: How to use this service,https://timesofindia.indiatimes.com/technology/tech-news/indigo-flyers-can-now-book-tickets-on-whatsapp-how-to-use-this-service/articleshow/111191454.cms,"IndiGo booking assistant 6Eskai on WhatsApp: How to use this service
+
+
+
+What the Indigo and Google said
+
+
+
+""We are delighted to announce the launch of our AI-powered travel booking assistant, 6Eskai, on WhatsApp. As India's preferred airline, IndiGo is committed to delivering superior digital services by harnessing cutting-edge technology. This new feature underscores our dedication to technological innovation and the enhancement of customer experience. It is designed to provide immediate, personalised support to our valued customers, reflecting IndiGo's unwavering commitment to progress and customer satisfaction.""
+
+“We're excited to join forces with IndiGo, a brand celebrated for its exceptional customer experiences and cutting-edge solutions in the aviation industry. By utilising Google Cloud’s leading AI technologies, IndiGo will provide new customer experiences that tackle complex challenges, accelerate innovation, and ultimately deliver more value to users.”
+
+Domestic airline service IndiGo has launched its AI conversational booking assistant , 6Eskai , on WhatsApp . With this addition to IndiGo’s digital ecosystem, the airline company aims to provide seamless travel solutions to its customers. Built on the generative AI assistant platform developed by Riafy , a Google partner, this service will allow customers to book tickets, check in, generate boarding passes, check their flight status and ask their queries on WhatsApp.Powered by this technology, this service will address customer queries received via text and voice messages in English, Hindi and Tamil languages initially. The flight operator also shared emails to its customers to announce the WhatsApp service.To use this service, customers can initiate a WhatsApp by sending a text to this number - +91 7065145858. For this WhatsApp service, 6Eskai leverages Google Cloud ’s Large Language Models. This service offers conversational interactions, responds to emotions, and even infuses humour into responses, ensuring a more engaging experience for customers.The extension of this service on WhatsApp aims to enhance the hassle-free travel booking services available to customers through IndiGo’s digital channels. IndiGo’s 6Eskai boasts 1.7 trillion parameters, allowing it to answer a diverse range of commonly asked questions. It is capable of performing a wide range of tasks, including booking tickets, applying promotional discounts, booking addons, performing web check-ins, helping in seat selection, planning trips, answering FAQs, and connecting customers with an agent.Neetan Chopra, Chief Digital & Information Officer, IndiGo said:Commenting on the announcement, Bikram Singh Bedi, Vice President and Country MD, of Google Cloud India added:","Indian airline service IndiGo has launched its AI conversational booking assistant, 6Eskai, on WhatsApp. Built on the generative AI assistant platform developed by Riafy, a Google partner, this service will allow customers to book tickets, check in, generate boarding passes, ask their queries on WhatsApp and more.","https://static.toiimg.com/thumb/msid-111191423,imgsize-28072,width-400,resizemode-4/111191423.jpg"
 Garena Free Fire MAX redeem codes for June 21: Win free rewards and gifts,https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-june-21-win-free-rewards-and-gifts/articleshow/111156132.cms,"What Are Free Fire Max Redeem Codes?
 
 Garena Free Fire Max Redeem Codes Today, June 21
@@ -158,6 +594,15 @@ It is equipped with a 5000mAh battery and supports 45W fast charging, 15W fast w
 Also read
 
 Samsung Galaxy S24 Ultra 5G smartphone is selling at a substantial discount on Flipkart, making it an enticing choice for tech enthusiasts. Originally priced at Rs 1,34,999, the smartphone is now offered at a 3% discount, bringing the price down to Rs 1,29,999. But the savings don't stop there! You can save even more on the Samsung Galaxy S24 Ultra 5G (12GB RAM + 256GB internal storage) in Titanium Gray.The Samsung smartphone is available on Flipkart for Rs 1,29,999 for the 12GB + 128GB storage variant after discount. However, you can, bringing the price down to Rs 86,999.To make the deal even better, you can get a, further reducing the price to. Additionally, you get an, making the effective price","The Samsung Galaxy S24 Ultra 5G has a 6.8-inch flat display with narrow bezels, 2600 nits of peak brightness, and is protected by Gorilla Glass Armour. The smartphone is available on Flipkart for Rs 1,29,999 for the 12GB + 128GB storage variant after discount.","https://static.toiimg.com/thumb/msid-110990978,imgsize-13816,width-400,resizemode-4/110990978.jpg"
+Why laid-off Paytm employees have filed complaints with labour ministry,https://timesofindia.indiatimes.com/technology/tech-news/why-laid-off-paytm-employees-have-filed-complaints-with-labour-ministry/articleshow/111175333.cms,"What laid-off employees have to say
+
+
+
+Paytm founder Vijay Shekhar Sharma’s job cuts warning
+
+
+
+Several Paytm employees who have been laid off have reportedly filed complaints with the ministry of labour and employment alleging that the fintech company has made ""unlawful termination"" without proper compensation. The complaints, filed between June 1 and June 12, seek reinstatement.Moneycontrol said that it accessed a copy of the filed complaint on the ministry's Samandhan portal and the same has been also verified by an official.The complaints claim that the Paytm management conducted unfair and unethical termination practices. Employees have also included supporting documents, including emails and official records with the complaints. While the report hasn’t revealed the exact number of complaints, some claim that it could be around 50.While some ex-employees said that they are waiting for a response from the ministry, a few others said that they were forced to resign.“We are awaiting a response from the Ministry and hope the case will be taken up by them. If not satisfactory, will take the court route,” said one of the employees, who claimed to have been terminated by Paytm without compensation or justification.Some employees have alleged being forced to ""voluntarily resign"".“My HRBP reached out to me yesterday (June 20) saying if I don’t resign by 12pm today (June 21), I will be terminated. I will take up the legal route as soon as possible. A few others are planning to do the same while some are already in the process,” another one said.In a letter to its shareholders last month, Paytm founder Vijay Shekhar Sharma acknowledged the company's first-ever sales decline. As per Sharma, the company is implementing cost-cutting measures targeting employee expenses, aiming to save Rs 400-500 crore annually.""One97 Communications Limited (OCL) is providing outplacement support to employees which have resigned as a part of the restructuring efforts by the company,” the company previously said.“As we harness AI capabilities and enhance governance structures, we are fully committed towards building our business according to regulatory compliances,” the Paytm letter added.Sharma also noted that the company will move forward with a “leaner organisation structure.” Apart from suggesting job cuts, Paytm also said that it will trim its non-core assets.","Several Paytm employees who have been laid off have reportedly filed complaints with the ministry of labour and employment. The complaints, filed between June 1 and June 12, seek reinstatement. Some ex-employees said that they are waiting for a response from the ministry.","https://static.toiimg.com/thumb/msid-111175319,imgsize-22890,width-400,resizemode-4/111175319.jpg"
 US government bans sale of this antivirus software citing security risks,https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-sale-of-kaspersky-antivirus-software-citing-security-risks/articleshow/111155531.cms,"What did the US government say?
 
 Kaspersky ban in US comes into effect in July
@@ -447,19 +892,20 @@ Ban on OpenAI’s ChatGPT in China
 Private Cloud Compute
 
 Apple has announced Apple Intelligence , a suite of AI features that will run on iPhones, iPads and Mac PCs. The AI features will be available later this year to users globally, including China – one the most critical markets for the company. However, the company’s big AI push may face some challenges in China as regulators have in place strict rules around the technology amid tough competition.The three challenges that the company may face in China are (via CNBC):China’s AI market is tightly regulated and all companies launching AI models must have approval from the regulators for the commercial use of LLMs. The country has also made it mandatory for Generative AI providers to take down “illegal” content.Since some of the features of Apple Intelligence are developed by the company itself, Apple will likely need to get its AI model approved by authorities under Chinese rules.China has also banned OpenAI’s ChatGPT. Some of Apple’s voice assistant Siri’s capabilities are dependent on ChatGPT. This could mean that Apple may have to find a local AI company that provides the same level of capabilities as ChatGPT. Baidu and Alibaba are among China’s technology giants that have their own LLMs and voice assistants.Apple's AI launch highlighted a focus on user privacy. Their new system, Private Cloud Compute, processes user data on Apple-owned servers, with the company claiming the data itself is not stored.However, in China, Apple's iCloud data is stored on servers located locally and operated by a third party. This may raise concerns about whether Apple can maintain complete control over its AI computing servers in the country.This means that Apple must have a similar partnership for its AI servers in the region to keep user data private.","Apple has announced Apple Intelligence, a suite of AI features that will run on iPhones, iPads and Mac PCs. The AI features will be available later this year to users globally, including China. However, the company’s big AI push may face some challenges in China as regulators have in place strict rules around the technology.","https://static.toiimg.com/thumb/msid-111147910,imgsize-14944,width-400,resizemode-4/111147910.jpg"
+"TCS' 80,000 skills gap; world's largest 'AI-ready workforce' and more",https://timesofindia.indiatimes.com/technology/tech-news/tcs-80000-skills-gap-worlds-largest-ai-ready-workforce-and-more/articleshow/111176332.cms,"""TCS has the world’s largest AI-ready workforce""
+
+TCS sees headcount fall first time in 19 years
+
+India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. During a town hall earlier this month, the global operations head of TCS ' resource management group (RMG) Amar Shetye revealed that the company currently has thousands of open positions that it is not able to fill due to the skills gap.Shetye put the number at 80,000. For those unaware, the RMG team at TCS is responsible for allocation of available resources to various projects across the company and in case of any shortfall, fill such requirements through contractors. These contractors are on the roles of the hiring agencies and may or may not be hired as permanent staff by the company.The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.An employee who attended the townhall anonymously told TOI, ""We were told that either skillsets or employee aspirations are not matching project requirements. However, at TCS, no associate is forced to take on a project if they are not comfortable with it."" Another employee on the bench added, ""He told us that we should consider ourselves fortunate that the firm is not laying off employees for not being mapped to any project unlike other firms."" The company’s recent annual report revealed that 33% of job requirements are currently being met by grooming existing talent.Post the announcement of fourth quarter results, TCS CEO K Krithivasan said that the company has built one of the largest artificial-intelligence-ready workforces in the world. ""TCS is currently working over 200 engagements in GenAI with our clients and foresees a promising pipeline of future work across all industries,"" he wrote.TCS posted strong performance in the fourth quarter of the fiscal year 2024-25. ""This is a quarter of strong deals and execution for us. Continuous focus on operational excellence helped us achieve a 26% operating margin."" The management also said that deal wins were ""across markets, industries and geographies.""The Mumbai-headquartered company said that it had signed new deals totalling $13.2 billion in the fourth quarter, which is one of the highest ever for the company even as it signalled a cautious turnaround for the industry. The company added that the pain may be bottoming out and FY25 will be better than FY24.TCS's Gen-AI deal pipeline is said to have touched $900 million. “Our Generative Artificial Intelligence (AI) pipeline has surged to $900 million, marking a doubling in value. The Total Contract Value (TCV) of the deal comprises primarily standard-sized deals, with the exception of a significant win secured in Q3,"" the company said in its earnings report.TCS' full year headcount fell for the first time in 19 years. The company reported a quarter-on-quarter decline of 1,759 in its headcount for the fourth quarter of FY2024-25. TCS concluded the fourth quarter with a workforce totaling 601,546 employees, with women comprising 35.6% of the total.",India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.,"https://static.toiimg.com/thumb/msid-111176331,imgsize-47576,width-400,resizemode-4/111176331.jpg"
 "HDFC Bank users, this 'UPI change' is coming starting June 25",https://timesofindia.indiatimes.com/technology/tech-news/hdfc-bank-users-this-upi-change-is-coming-starting-june-25/articleshow/111136811.cms,"Why HDFC Bank is making this change
 
-
-
-What is UPI Lite and why bank are pushing it
-
-
+What is UPI Lite and why banks are pushing it
 
 How to register for email to receive all the UPI transaction alerts
 
 
 
-Starting June 25, HDFC Bank will stop sending text alerts for low-value UPI transactions. This means that HDFC Bank customers will receive SMS alerts for UPI transactions exceeding Rs 100 when sending money and similar notification for when received is above Rs 500. However, the bank will continue to send email alerts for all transactions with no absolutely change.In a mail as well as SMS alert sent to its customers, HDFC Bank said: “Starting from 25th June, 2024: Email Alerts: Continue to receive email alerts for all UPI transactions. SMS Notifications: Now only for transactions above Rs 100 (money sent/paid) and Rs 500 (money received).”This change aligns with banking norms, which require text messages for transactions over Rs 5,000. Despite this, many banks send alerts for lower-value debits as well. HDFC Bank stated that feedback indicated alerts for low-value transactions were deemed 'not useful,' as there is often duplication of notifications from UPI payment apps.Bankers noted that bulk text messages cost between Rs 0.01-0.03 each. With UPI transactions averaging around 40 crores per day, banks collectively spend several crores daily on text message alerts.Banks are also promoting the use of UPI Lite for transactions up to Rs 500. UPI Lite allows a small amount of money to be set aside by the app, facilitating quick payments without the need for second-factor authentication.By reducing the frequency of low-value transaction alerts, HDFC Bank and others aim to streamline notifications for customers while also cutting costs. This shift is expected to enhance the user experience and encourage the adoption of UPI Lite for smaller transactions.However, users can register their email with HDFC bank to receive messages of all the UPI transactionsStep 1: Click on https://instaservices.hdfcbank.com/?journey=107&source_type=103Step 2: Enter the registered mobile numberStep 3: Identify using DoB or PAN or Customer ID and click on Get OTP.","HDFC Bank will stop sending text alerts for low-value UPI transactions. Customers will receive SMS alerts for transactions exceeding Rs 100. However, the bank will continue to send email alerts for all transactions. This change aligns with banking norms, which require texts for transactions over Rs 5,000.","https://static.toiimg.com/thumb/msid-111136818,imgsize-28532,width-400,resizemode-4/111136818.jpg"
+Starting June 25, HDFC Bank will stop sending text alerts for low-value UPI transactions. This means that HDFC Bank customers will receive SMS alerts for UPI transactions exceeding Rs 100 when sending money and similar notification for when received is above Rs 500. However, the bank will continue to send email alerts for all transactions with no absolutely change.In a mail as well as SMS alert sent to its customers, HDFC Bank said: “Starting from 25th June, 2024: Email Alerts: Continue to receive email alerts for all UPI transactions. SMS Notifications: Now only for transactions above Rs 100 (money sent/paid) and Rs 500 (money received).”This change aligns with banking norms, which require text messages for transactions over Rs 5,000. Despite this, many banks send alerts for lower-value debits as well. HDFC Bank stated that feedback indicated alerts for low-value transactions were deemed 'not useful,' as there is often duplication of notifications from UPI payment apps.Bankers noted that bulk text messages cost between Rs 0.01-0.03 each. With UPI transactions averaging around 40 crores per day, banks collectively spend several crores daily on text message alerts.Banks are also promoting the use of UPI Lite for transactions up to Rs 500. UPI Lite allows a small amount of money to be set aside by the app, facilitating quick payments without the need for second-factor authentication.By reducing the frequency of low-value transaction alerts, HDFC Bank and others aim to streamline notifications for customers while also cutting costs. This shift is expected to enhance the user experience and encourage the adoption of UPI Lite for smaller transactions. However, users can register their email with HDFC bank to receive messages of all the UPI transactionsStep 1: Click on https://instaservices.hdfcbank.com/?journey=107&source_type=103Step 2: Enter the registered mobile numberStep 3: Identify using DoB or PAN or Customer ID and click on Get OTP.","HDFC Bank will stop sending text alerts for low-value UPI transactions. Customers will receive SMS alerts for transactions exceeding Rs 100. However, the bank will continue to send email alerts for all transactions. This change aligns with banking norms for transactions over Rs 5,000.","https://static.toiimg.com/thumb/msid-111136818,imgsize-28532,width-400,resizemode-4/111136818.jpg"
 "Apple iPhone 14 is available for just Rs 13,510 on Amazon; know how to grab the deal",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-14-is-available-for-just-rs-13510-on-amazon-know-how-to-grab-the-deal/articleshow/111136473.cms,"Apple iPhone 14 Amazon offer
 
 Apple iPhone 14 deal: Amazon Pay ICICI Bank Credit Card discount
