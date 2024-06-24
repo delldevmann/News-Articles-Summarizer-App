@@ -1,238 +1,62 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-GitHub CEO: Students should not give up on learning programming languages as coding by humans …,https://timesofindia.indiatimes.com/technology/tech-news/github-ceo-students-should-not-give-up-on-learning-programming-languages-as-coding-by-humans-/articleshow/111196133.cms,"Programming languages vs human languages
+"Google, Microsoft and 4 tech giants other than Nvidia that are making their own AI chips",https://timesofindia.indiatimes.com/technology/tech-news/google-microsoft-and-4-tech-giants-other-than-nvidia-that-are-making-their-own-ai-chips/articleshow/111212747.cms,"Google's TPU line of chips
 
-Upskilling for the AI age
+Microsoft's Azure Maia 100
 
-GitHub CEO Thomas Dohmke strongly advises students to continue learning programming languages , even as AI systems become increasingly proficient in coding . In an interaction with Times of India during his recent visit to India, Dohmke addressed the debate over whether programming language education remains relevant in the age of AI.""Keep learning those languages,"" Dohmke unequivocally told TOI. He emphasised that understanding programming languages is crucial for developers, as code is fundamentally different from human language.Dohmke explained that while human language can be ambiguous, with the same sentence potentially having different meanings, programming languages are deterministic. ""The same line of code will do the same thing every single time,"" he said, highlighting the importance of mastering both human and programming languages.The GitHub CEO acknowledged that AI-powered tools like GitHub's Co-pilot are changing how developers work. These tools allow programmers to generate code by describing what they want to accomplish in plain language. However, Dohmke stressed that this doesn't diminish the value of understanding programming languages.To make the most of AI in coding, Dohmke recommends that developers upskill in prompt engineering . This involves learning how to refine queries to get desired outputs from AI models. He noted that AI models are ""probability machines"" that predict the next word or code, so understanding how to use them effectively is key.Dohmke also introduced Co-pilot Workspace, a new product featuring three AI agents to assist developers throughout the coding process. These agents help refine project ideas, determine necessary files, and implement tasks.While AI is transforming software development, Dohmke's message is clear: a strong foundation in programming languages remains essential for aspiring developers. By combining traditional coding skills with AI literacy, students can prepare themselves for the evolving landscape of software development.","GitHub CEO Thomas Dohmke strongly advises students to continue learning programming languages. This is even as AI systems become increasingly proficient in coding. He emphasised that understanding programming languages is crucial for developers, as code is fundamentally different from human language. He also introduced Co-pilot Workspace, a new product featuring three AI agents.","https://static.toiimg.com/thumb/msid-111196128,imgsize-139256,width-400,resizemode-4/111196128.jpg"
-"How CEO Satya Nadella may have been the key in solving Nvidia, Microsoft ‘AI chip feud’",https://timesofindia.indiatimes.com/technology/tech-news/how-ceo-satya-nadella-may-have-been-the-key-in-solving-nvidia-microsoft-ai-chip-feud/articleshow/111195779.cms,"Why alleged tensions brewed between Microsoft, Nvidia
+Amazon's Trainium chips
 
-How this is a problem for Microsoft
+Meta's Project Artemis
 
-Microsoft and Nvidia , beyond vying for the world's most valuable company title, have reportedly been clashing over AI chip design for months. The dispute eventually reached Microsoft CEO Satya Nadella , who intervened to resolve it.According to a report by The Information, Nvidia CEO Jensen Huang has tight control over how chips are allocated and installed by its clients, which include Microsoft.While the Nvidia CEO previously explained that the company dictates how chips are allocated to prevent companies from stockpiling them during periods of limited supply, this control reportedly caused a disagreement with Microsoft. Reportedly, these tensions have been building for some months behind the scenesAccording to a report, Nvidia's efforts to manage chip allocation extended beyond simply deciding who received the chips. The company reportedly attempted to dictate how these chips were installed within data centres, specifically focusing on the server rack configuration.This additional control over how Microsoft utilised the purchased hardware is what allegedly led to a feud between the two tech giants.The report further details that the disagreement escalated into a feud when Nvidia tried to convince Microsoft to adopt its next flagship chip, the GB200, within the server rack design specified by Nvidia.Installing the chips the way Nvidia wanted may reportedly have hindered Microsoft's ability to switch to different AI chips . Citing , citing people involved, the report said that when the dispute over server racks did not resolve for several weeks, it reached Microsoft CEO Satya Nadella's desk, the report said.Microsoft eventually won out as Nvidia backed down and agreed to the Big Tech company ’s demands, The Information reported.Reportedly, Nvidia CEO is worried whether companies like Microsoft and Amazon Web Services are going to run out of data centre space, which means a dearth of space will lead to less sales of AI chips.","Microsoft and Nvidia have reportedly been clashing over AI chip design for months. The dispute eventually reached Microsoft CEO Satya Nadella, who intervened to resolve it. According to a report, Nvidia CEO Jensen Huang has tight control over how chips are allocated and installed by its clients.","https://static.toiimg.com/thumb/msid-111195768,imgsize-2071527,width-400,resizemode-4/111195768.jpg"
-How these activists used AI to ‘change’ the landmarks on Google Maps,https://timesofindia.indiatimes.com/technology/tech-news/how-these-activists-used-ai-to-change-the-landmarks-on-google-maps/articleshow/111196540.cms,"What Google said about the images
+AMD M series processors
 
+Intel Gaudi AI chips
 
 
-What the activists said about Google
 
+Nvidia's rise to the top of the tech industry is attributed to the explosion of Artificial Intelligence (AI) technology. While known for their graphics processing units (GPUs) for gaming, Nvidia has cleverly positioned themselves for the future as their GPUs turned out to be perfect for the complex calculations needed in AI tasks like training large learning models.Companies like Google , Microsoft , Amazon and Meta are all heavily reliant on Nvidia's H100 AI chips , which are specifically designed for AI applications, offering significant performance boosts compared to traditional CPUs.However, with high demand and limited supply, some tech giants have either already announced or are looking to launch their own AI chips to have an edge. Here’s a list of companies that have their own AI chips or are working on bringing them in the near future to reduce the dependency on Nvidia.Google has been making and relying on custom-designed tensor processing units (TPUs) to power its AI models. Their latest chip, Trillium , announced at Google I/O event in May, boasts a claimed five times the performance of its predecessor, TPU v5e. Companies like Assembly AI, Hugging Face, and Anthropic utilise Google's TPUs.Microsoft announced the Azure Maia 100 AI chip last year and it is designed to run cloud-based AI workloads. Currently in testing with Bing AI chatbot, GitHub Copilot, and OpenAI's GPT-3.5-Turbo language model, Microsoft is already developing a successor.AWS Trainium is the machine learning (ML) chip that AWS purpose built for deep learning (DL) training. Last year, the company unveiled Trainium2 which is claimed to deliver up to 4x faster training performance and 3x more memory capacity compared to first generation Trainium chips. Anthropic, with a $4 billion investment from Amazon in March, plans to leverage the tech giant's AI chips.Facebook-parent Meta is focusing on AI and in April, it revealed plans for “Artemis,” a second-generation AI chip surpassing their initial Meta Training and Inference Accelerator (MTIA) product launched last year.“This chip’s architecture is fundamentally focused on providing the right balance of compute, memory bandwidth, and memory capacity for serving ranking and recommendation models,” the company said in a blog post.Advanced Micro Devices (AMD) unveiled its latest AI processors earlier this month at Computex. AMD CEO Lisa Su introduced the MI325X accelerator, which is set to be made available in the fourth quarter of 2024. AMD also introduced an upcoming series of chips titled MI350 – expected to be available in 2025 – are aimed at performing 35 times better in inference - the process of computing generative AI responses. AMD revealed the MI400 series, which will arrive in 2026.Intel has also introduced the first-generation Intel Gaudi AI deep learning processor. The company says that the architecture of the chip has been designed for deep learning performance and efficiency. It is also claimed to offer flexible system scaling.","Google, Microsoft, Amazon and Meta are all heavily reliant on Nvidia's H100 AI chips. With high demand and limited supply, some tech giants have either already announced or are looking to launch their own AI chips to have an edge. Google has been making and relying on custom-designed tensor processing units (TPU) to power its AI models.","https://static.toiimg.com/thumb/msid-111212744,imgsize-49676,width-400,resizemode-4/111212744.jpg"
+Airtel Rs 9 Plan vs Vodafone Idea Rs 24 plan: How the two unlimited data plans compare,https://timesofindia.indiatimes.com/technology/tech-news/airtel-rs-9-plan-vs-vodafone-idea-rs-24-plan-how-the-two-unlimited-data-plans-compare/articleshow/111212262.cms,"Bharti Airtel Rs 9 plan
 
-
-Google has reportedly deleted dozens of images of Austrian landmarks from its popular maps service. According to a report by the news agency AFP, these altered pictures were uploaded on Google Maps by environmental activists from the country to highlight the potential impact of climate change.The report claims that the activists used artificial intelligence ( AI ) to change these images. The AI-generated pictures reportedly showed the river Danube and Austrian lakes dried up and snowless Alpine peaks as though the images were taken in the year 2070.These images were uploaded on Google Maps by the Austrian activist group Letzte Generation (Last Generation), the report added.Google said it removed the photos as they misrepresents a location.“Our policies clearly prohibit content that is not based on real experience or does not accurately represent a location. We are removing the policy-violating photos in question,” a Google spokesperson said in a statement to AFP.The group said that it was ""not very surprised"" by the company’s action.“They are ignoring the climate catastrophe, just like authorities and big companies in general,” Letzte Generation spokespersonMarina Hagen-Canaval said while talking about Google.The group also noted that this is not their first stunt. Earlier, it posted these pictures on Google Maps to alert tourists. With the stunt, the activists wanted to warn tourists who use the service to prepare for their holidays about the risks of rising temperatures caused by climate change.As per the report, Letzte Generation has staged other protest stunts. This includes blocking highways and has also promised to take more actions, including some on the internet.Apart from this, Google Maps is reportedly planning to remove its ""Followed Places"" feature next year. After 2o25, users will no longer be able to see or follow places within the app. This feature helped users to stay updated about their favourite local businesses and receive notifications about them. These updates include changes in business hours, special offers, or new menu items.","Google has reportedly deleted dozens of images of Austrian landmarks from its maps service. These altered pictures were uploaded on Google Maps by environmental activists from the country. Google said it removed the photos as they misrepresents a location. The group said that it was ""not very surprised"" by the company’s action.","https://static.toiimg.com/thumb/msid-111196431,imgsize-17958,width-400,resizemode-4/111196431.jpg"
-"Mobile plans with free Netflix from Airtel, Jio compared",https://timesofindia.indiatimes.com/technology/tech-news/mobile-plans-with-free-netflix-from-airtel-jio-compared/articleshow/111194720.cms,"Airtel plans with Netflix subscription
-
-Netflix Basic subscription
-
-
-
-Amazon Prime membership
-
-
-
-Disney+ Hotstar subscription
-
-
-
-Unlimited calls
-
-
-
-100 SMS per day
-
-
-
-150GB data
-
-
-
-Unlimited 5G data
-
-
-
-Netflix Basic subscription
-
-
-
-Amazon Prime membership
-
-
-
-Disney+ Hotstar subscription
-
-
-
-Unlimited calls
-
-
-
-100 SMS per day
-
-
-
-200GB data
-
-
-
-Unlimited 5G data
-
-
-
-Netflix Basic subscription
-
-
-
-Unlimited calls
-
-
-
-100 SMS per day
-
-
-
-3GB daily data
-
-
-
-Unlimited 5G data
-
-
-
-Airtel Thanks benefits
-
-
-
-Reliance Jio plans with Netflix subscription
-
-Netflix Basic subscription
-
-
-
-Amazon Prime membership
-
-
-
-Unlimited calls
-
-
-
-100GB data
-
-
-
-3 additional SIM connections with 5GB data each
-
-
-
-Netflix Mobile subscription
-
-
-
-Amazon Prime membership
-
-
-
-Unlimited calls
-
-
-
-100 SMS per day
-
-
-
-300GB data
-
-
-
-Up to 500GB data rollover
-
-
-
-Netflix Mobile subscription
-
-
-
-Unlimited calls
-
-
-
-100 SMS per day
-
-
-
-2GB daily data
-
-
-
-Unlimited 5G data
-
-
-
-Netflix Basic subscription
-
-
-
-Unlimited calls
-
-
-
-100 SMS per day
-
-
-
-3GB daily data
-
-
-
-Unlimited 5G data
-
-
+Vodafone Idea Rs 24 plan
 
 Comparison table
 
-Plan
+Feature
 
 
 
-Type
+Airtel Rs 9 Plan
 
 
 
-Price (Rs)
+Vodafone Idea Rs 24 Plan
 
 
 
-Data allowance
+Price
 
 
 
-Calls
+Rs 9
 
 
 
-SMS
+Rs 24
 
 
 
-Netflix subscription
+Validity
 
 
 
-Additional perks
+1 hour
 
 
 
-Airtel
+1 hour
 
 
 
-Postpaid
-
-
-
-1,199
-
-
-
-150GB
+Data Limit
 
 
 
@@ -240,303 +64,129 @@ Unlimited
 
 
 
-100/day
-
-
-
-Basic
-
-
-
-Amazon Prime, Disney+ Hotstar, 5G data
-
-
-
-Airtel
-
-
-
-Postpaid
-
-
-
-1,499
-
-
-
-200GB
-
-
-
 Unlimited
 
 
 
-100/day
+FUP Limit
 
 
 
-Basic
+10GB
 
 
 
-Amazon Prime, Disney+ Hotstar, 5G data
+None
 
 
 
-Airtel
+Post-FUP Speed
 
 
 
-Prepaid
+64 Kbps
 
 
 
-1,499
+Not Applicable
 
 
 
-3GB/day
 
 
+Bharti Airtel has launched a new Rs 9 data add-on prepaid recharge plan that offers unlimited data. Vodafone-Idea (Vi) also has a similar data add-on plan, but it costs almost double the Airtel plan. With both plans providing unlimited data, it's essential to compare the differences to determine which one suits your needs better.Airtel's Rs 9 plan offers customers unlimited data with a validity of one hour. However, there is a Fair Usage Policy (FUP) limit of 10GB. After reaching the FUP limit, the speed reduces to 64 Kbps. This plan is economical and suitable for those who need a quick data boost under 10GB within an hour.Vi's Rs 24 plan also offers unlimited data with a one-hour validity. Unlike Airtel's plan, there is no FUP limit, allowing users to consume as much data as they want at high speed throughout the hour. This plan is ideal for users who need truly unlimited data without any speed restrictions.","Airtel's Rs 9 plan offers customers unlimited data with a validity of one hour. Vodafone-Idea (Vi) also has a similar data add-on plan, but it costs almost double the Airtel plan. With both plans providing unlimited data, it's essential to compare the differences.","https://static.toiimg.com/thumb/msid-111212259,imgsize-20034,width-400,resizemode-4/111212259.jpg"
+Deloitte AI exec dispels one of the biggest fears related to AI,https://timesofindia.indiatimes.com/technology/tech-news/deloitte-ai-exec-dispels-one-of-the-biggest-fear-related-to-ai/articleshow/111211823.cms,"Deloitte’s AI executive, Rohit Tandon , emphasizes that AI will create new roles while collaborating with humans. Contrary to the common narrative, Tandon asserts that the future belongs to AI-human collaboration , not replacement. He envisions a revolutionary era where technology empowers the workforce rather than displacing it. In an interview with PTI, Tandon, Managing Director and AI Insights Practice Leader at Deloitte LLP, dispels fears of job losses, emphasizing that AI won’t snatch jobs but will transform the employment landscape.Tandon highlights that AI won’t merely replace people; it will work alongside them. He draws parallels to past technological advancements, such as IT and computers, which initially sparked concerns about job displacement. However, Tandon points out that IT ultimately led to the creation of numerous jobs globally. Similarly, AI’s impact will be all-pervasive, with powerful algorithms accessible on personal devices.The fear of job losses isn’t new. Automation and call centers previously raised similar concerns. While AI will automate easier tasks, it will also create new opportunities. Tandon predicts that AI will replace certain roles with AI-human collaboration. As AI automates simpler jobs, humans will tackle more complex challenges.Tandon emphasizes that AI will supplement human knowledge and information retrieval. It will eliminate specific roles but ultimately generate more jobs. Sectors like finance, HR, and shared services are already impacted by AI. Additionally, energy, consumerization, banking, and hospitality sectors leverage AI’s capabilities.Regarding regulations, Tandon advocates for dynamic approaches. Rather than rigid point-in-time rules, continuous evaluation and adaptation are essential. Government collaboration is crucial for successful AI adoption. Tandon suggests two pillars: computing capability and grassroots-level training. Governments should facilitate compute resources while fostering AI education.In summary, Tandon’s vision underscores AI’s collaborative potential, emphasizing that it will enhance, not replace, the workforce. By fostering dynamic regulations and government-industry partnerships, we can accelerate AI adoption globally.","Rohit Tandon, Managing Director and AI Insights Practice Leader at Deloitte LLP, dispels fears of job losses. Tandon highlights that AI won’t merely replace people; it will work alongside them. Government collaboration is crucial for successful AI adoption.","https://static.toiimg.com/thumb/msid-111211816,imgsize-129860,width-400,resizemode-4/111211816.jpg"
+ChatGPT maker OpenAI buys this analytics startup founded by Indian engineers,https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openai-buys-this-analytics-startup-founded-by-indian-engineers/articleshow/111209664.cms,"What is Rockset
 
-Unlimited
 
 
+What this accusation means for users
 
-100/day
 
 
+Microsoft-backed OpenAI has acquired search and database analytics startup Rockset. The company is founded by two Indian techies -- Venkat Venkataramani and Dhruba Borthakur -- who have studied engineering in Indian institutions. Venkataramani, the CEO of Rockset , was a student at NIT Tiruchirappalli while Borthakur, who is the CTO is an alumnus of BITS Pilani.Before founding Rockset, both founders worked as engineers at Facebook. Before Meta, Venkataramani worked in Oracle while Borthakur was associated with Yahoo.Rockset builds real-time search and analytics databases and has benefited from the use of artificial intelligence ( AI ) in different applications from chatbots and anomaly detection. Backed by Greylock, Sequoia and Hewlett Packard Enterprise's venture capital arm, Rockset raised $105 million in total funding, the company announced last year.According to a report by the news agency Reuters, the companies haven’t disclosed the deal size yet. OpenAI reportedly used its shares to buy the company in a stock deal that valued Rockset at a few hundred million.The report cited sources familiar with the matte to claim that this acquisition is one of its largest acquisitions by the fast-rising OpenAI. As per the report, Rockset was last valued at $86 billion in a tender offer by investors earlier this year.Rockset said that its team will join OpenAI and the technology will power the retrieval infrastructure of the ChatGPT maker's enterprise products. For users, the acquisition translates to faster and more accurate responses from OpenAI's AI models.Rockset's capabilities will enhance OpenAI's ability to quickly access and analyze vast amounts of information. This can be a crucial advantage as the company will target businesses with tools for rapid data indexing and search.Recently, OpenAI’s CTO Mira Murati has also predicted the jobs that AI may take away. Speaking at her alma mater, Dartmouth Engineering, Murati said that the next generation of ChatGPT will possess ""PhD-level intelligence"" for specific tasks. This advanced version is expected to launch in late 2025 or early 2026.",Microsoft-backed OpenAI has acquired search and database analytics startup Rockset. The company is founded by two Indian techies -- Venkat Venkataramani and Dhruba Borthakur. The acquisition translates to faster and more accurate responses from OpenAI's AI models.,"https://static.toiimg.com/thumb/msid-111209606,imgsize-15268,width-400,resizemode-4/111209606.jpg"
+Snapchat to pay $15 million to its women employees; Read the company’s message,https://timesofindia.indiatimes.com/technology/tech-news/snapchat-to-pay-15-million-to-its-women-employees-read-the-companys-message/articleshow/111209581.cms,"What the lawsuit alleges
 
-Basic
 
 
+What the company has to say
 
-Airtel Thanks, 5G data
 
 
+“We care deeply about our commitment to maintaining a fair and inclusive environment at Snap, and do not believe we have any ongoing systemic
 
-Reliance Jio
+pay equity
 
+, discrimination, harassment, or retaliation issues against women.”
 
+Snapchat 's parent company, Snap Inc. has agreed to pay $15 million to its female employees to settle a gender discrimination lawsuit filed by the California Civil Rights Department . The lawsuit alleges that the US-based company failed to ensure fair pay and promotion opportunities for its female employees for three years.The lawsuit (seen by The Verge) covers Snap’s period of growth between 2015 to 2022 when the messaging platform’s parent expanded its workforce from 250 to over 5,000 employees.California's civil rights agency claims that during this period, Snapchat paid women less and provided them with fewer promotion opportunities compared to their male counterparts.Moreover, the lawsuit further accused that women at Snap “were routinely subjected to unwelcome sexual advances and other harassing conduct so severe or pervasive that it created a hostile work environment .”The lawsuit even highlighted that when women complained about their work environment, they allegedly faced retaliation in the form of denied promotions, negative performance reviews, and termination.In a statement to The Verge, Snap spokesperson Ashley Adams said:Adams added that while Snap has “disagreed” with the claims made by the California civil rights agency, the company “took into consideration the cost and impact of lengthy litigation” and has determined that “it is in the best interest of the company to resolve these claims and focus on the future.”Under the proposed settlement, Snap will have to hire an independent consultant to review and recommend changes to its compensation and promotion policies. Additionally, the company will engage a third party to monitor and audit its compliance with sexual harassment , retaliation, and discrimination regulations.Out of the $15 million Snap has agreed to pay $14.5 million to compensate women who worked at the company between 2014 and 2024.",Snap Inc. has agreed to pay $15 million to its female employees to settle a gender discrimination lawsuit filed by the California Civil Rights Department. The lawsuit alleges that the US-based company failed to ensure fair pay and promotion opportunities for its women employees for three years.,"https://static.toiimg.com/thumb/msid-111209574,imgsize-46862,width-400,resizemode-4/111209574.jpg"
+"Garena Free Fire MAX redeem codes for June 23: Win free weapons, skins, diamonds, and other exciting rewards",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-june-23-win-free-weapons-skins-diamonds-and-other-exciting-rewards/articleshow/111202714.cms,"What Are Free Fire Max Redeem Codes?
 
-Postpaid
+Garena Free Fire Max Redeem Codes Today, June 23
 
 
 
-699
+Q7W9E4ER5T1Y2U8I
 
+O0P3I5U7Y9T2ER4E
 
+C1V5EB7N9M2L4K6J
 
-100GB
+H8G0F3D1S6A9QY7W
 
+Z2X4YC6V8B0N9M1L
 
+J3K5L7I9U1Y4TY6R
 
-Unlimited
+X5Y7Z9NA1B3C4D6E
 
+G2H4J6K8L0M1NN3B
 
+V7C9X0NZ2Q4W6E8R
 
-100/day
+T1Y3U5I7O9P2AN4S
 
+4T6E8Y2R9P1D5H0A
 
+K3G6J8HA2N1M4P7L
 
-Basic
+X9Y1A3Z6B7C4EA8D
 
+F5G7H2AJ6K9L1M3N
 
+P2R5S9T4V6X8YA0Z
 
-Amazon Prime, 3 extra SIMs (5GB each)
+E7R9T2YY4U6I8O0P
 
+N1M3B5V7C9X2IZ4L
 
+U6I8O0P2A4S6D8F3
 
-Reliance Jio
+W9Q7E5NR3T1Y2U4I
 
-
-
-Postpaid
-
-
-
-1,499
-
-
-
-300GB (500GB rollover)
-
-
-
-Unlimited
-
-
-
-100/day
-
-
-
-Mobile
-
-
-
-Amazon Prime
-
-
-
-Reliance Jio
-
-
-
-Prepaid
-
-
-
-1,099
-
-
-
-2GB/day
-
-
-
-Unlimited
-
-
-
-100/day
-
-
-
-Mobile
-
-
-
-5G data
-
-
-
-Reliance Jio
-
-
-
-Prepaid
-
-
-
-1,499
-
-
-
-3GB/day
-
-
-
-Unlimited
-
-
-
-100/day
-
-
-
-Basic
-
-
-
-5G data
-
-
-
-
-
-In a competitive move to attract more subscribers, both Airtel and Reliance Jio have introduced mobile plans that come bundled with a Netflix subscription. These plans cater to both prepaid and postpaid users, providing additional perks like unlimited calling, high-speed data, and other streaming service subscriptions. Here, we compare the offerings from Airtel and Reliance Jio.1. Airtel Rs 1,199 postpaid plan This postpaid plan includes:2. Airtel Rs 1,499 postpaid plan The most premium postpaid plan from Airtel offers:3. Airtel Rs 1,499 prepaid plan Airtel's only prepaid plan with Netflix includes:1. Reliance Jio Rs 699 postpaid plan This affordable postpaid plan includes:2. Reliance Jio Rs 1,499 postpaid plan Jio’s premium postpaid plan provides:3. Reliance Jio Rs 1,099 prepaid plan The most affordable prepaid plan with Netflix:4. Reliance Jio Rs 1,499 prepaid plan Jio's high-end prepaid plan includes:Both Airtel and Reliance Jio offer competitive plans with Netflix subscriptions, catering to diverse user needs and preferences. Whether you prioritize data, additional streaming services, or affordability, there’s a plan to suit your requirements.","Both Airtel and Reliance Jio have introduced mobile plans that come bundled with a Netflix subscription. These plans cater to both prepaid and postpaid users, providing additional perks like unlimited calling, high-speed data, and other streaming service subscriptions.","https://static.toiimg.com/thumb/msid-111194720,imgsize-975816,width-400,resizemode-4/111194720.jpg"
-"SoftBank CEO says this tech will make AI 10,000 times smarter than any human",https://timesofindia.indiatimes.com/technology/tech-news/softbank-ceo-says-this-tech-will-make-ai-10000-times-smarter-than-any-human/articleshow/111193244.cms,"What is ASI
-
-While tech giants like Google and Microsoft-backed OpenAI are talking about artificial general intelligence (AGI) – an AI technology that is (at least) as smart as than humans, Softbank CEO Masayoshi Son says artificial super intelligence ( ASI ) will be 10,000 times smarter than humans and will be here in 10 years.In a rare public appearance, Son said that AGI is likely to be one that will be 10 times smarter than humans and will arrive in the next three-to-five years.But if AGI is not much smarter than humans, “then we don’t need to change the way of living, we don’t need to change the structure of human lifestyle,” Son said, as per CNBC.“But when it comes to ASI it’s a totally different story. [With] ASI, you will see a big improvement,” he added.According to Son, ASI is a higher degree of intelligence and in future various ASI models will interact with each other, like neurons in a human brain. This will lead to AI that is 10,000 times smarter than any human genius, Son added.“SoftBank Group has done many things until now that have all been a warm up for my great dream to realise artificial super intelligence,” Son told shareholders at the group's annual general meeting.This year, the company announced that it will step up its investments in AI companies.“From now on, we want to step up investments in AI companies,” said SoftBank chief financial officer Yoshimitsu Goto in May.“The reason we’ve been keeping our balance sheet at a very safe level is because we would like to be prepared, and we would like to be flexible if there is anything that we would like to move on,” he added.","Softbank CEO Masayoshi Son says artificial super intelligence ( ASI) will be 10,000 times smarter than humans and will be here in 10 years. ASI is a higher degree of intelligence and in future various ASI models will interact with each other, like neurons in a human brain.","https://static.toiimg.com/thumb/msid-111193231,imgsize-873688,width-400,resizemode-4/111193231.jpg"
-Google Meet update adds translated captions in over 50 languages,https://timesofindia.indiatimes.com/technology/tech-news/google-meet-update-adds-translated-captions-in-over-50-languages/articleshow/111192253.cms,"Google is making communication easier with the latest update to Google Meet . The popular video conferencing platform now boasts translated captions in over 50 languages, significantly boosting accessibility and inclusivity for global teams.
-
-Previously, Google Meet offered translated captions for a limited number of languages. Now, with support for over 50 languages, meeting participants who don't share a common spoken language can still follow the conversation through real-time captions translated into their preferred language.
-
-By eliminating language barriers, Google Meet fosters a more inclusive environment and ensures everyone can actively participate in meetings, regardless of their native tongue. The update seamlessly integrates with the existing Google Meet interface. Users can easily enable and choose their preferred language for translated captions within the meeting settings. This intuitive design ensures a smooth user experience for participants seeking the benefits of real-time translation.
-
-This update aligns with the growing need for inclusive video conferencing solutions in today's diverse and interconnected world.
-
-","Previously, Google Meet offered translated captions for a limited number of languages. Now, with support for over 50 languages, meeting participants can still follow the conversation through real-time captions translated into their preferred language. This update aligns with the growing need for inclusive video conferencing solutions.","https://static.toiimg.com/thumb/msid-111192246,imgsize-13218,width-400,resizemode-4/111192246.jpg"
-Indigo flyers can now book tickets on WhatsApp: How to use this service,https://timesofindia.indiatimes.com/technology/tech-news/indigo-flyers-can-now-book-tickets-on-whatsapp-how-to-use-this-service/articleshow/111191454.cms,"IndiGo booking assistant 6Eskai on WhatsApp: How to use this service
-
-
-
-What the Indigo and Google said
-
-
-
-""We are delighted to announce the launch of our AI-powered travel booking assistant, 6Eskai, on WhatsApp. As India's preferred airline, IndiGo is committed to delivering superior digital services by harnessing cutting-edge technology. This new feature underscores our dedication to technological innovation and the enhancement of customer experience. It is designed to provide immediate, personalised support to our valued customers, reflecting IndiGo's unwavering commitment to progress and customer satisfaction.""
-
-“We're excited to join forces with IndiGo, a brand celebrated for its exceptional customer experiences and cutting-edge solutions in the aviation industry. By utilising Google Cloud’s leading AI technologies, IndiGo will provide new customer experiences that tackle complex challenges, accelerate innovation, and ultimately deliver more value to users.”
-
-Domestic airline service IndiGo has launched its AI conversational booking assistant , 6Eskai , on WhatsApp . With this addition to IndiGo’s digital ecosystem, the airline company aims to provide seamless travel solutions to its customers. Built on the generative AI assistant platform developed by Riafy , a Google partner, this service will allow customers to book tickets, check in, generate boarding passes, check their flight status and ask their queries on WhatsApp.Powered by this technology, this service will address customer queries received via text and voice messages in English, Hindi and Tamil languages initially. The flight operator also shared emails to its customers to announce the WhatsApp service.To use this service, customers can initiate a WhatsApp by sending a text to this number - +91 7065145858. For this WhatsApp service, 6Eskai leverages Google Cloud ’s Large Language Models. This service offers conversational interactions, responds to emotions, and even infuses humour into responses, ensuring a more engaging experience for customers.The extension of this service on WhatsApp aims to enhance the hassle-free travel booking services available to customers through IndiGo’s digital channels. IndiGo’s 6Eskai boasts 1.7 trillion parameters, allowing it to answer a diverse range of commonly asked questions. It is capable of performing a wide range of tasks, including booking tickets, applying promotional discounts, booking addons, performing web check-ins, helping in seat selection, planning trips, answering FAQs, and connecting customers with an agent.Neetan Chopra, Chief Digital & Information Officer, IndiGo said:Commenting on the announcement, Bikram Singh Bedi, Vice President and Country MD, of Google Cloud India added:","Indian airline service IndiGo has launched its AI conversational booking assistant, 6Eskai, on WhatsApp. Built on the generative AI assistant platform developed by Riafy, a Google partner, this service will allow customers to book tickets, check in, generate boarding passes, ask their queries on WhatsApp and more.","https://static.toiimg.com/thumb/msid-111191423,imgsize-28072,width-400,resizemode-4/111191423.jpg"
-Garena Free Fire MAX redeem codes for June 21: Win free rewards and gifts,https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-june-21-win-free-rewards-and-gifts/articleshow/111156132.cms,"What Are Free Fire Max Redeem Codes?
-
-Garena Free Fire Max Redeem Codes Today, June 21
-
-ZXCVB5NM6LK8JH7G
-
-Q2W3E4R5T6Y7SUIO
-
-PLKM8NJ7HB6VG5CF
-
-2ASD3FG4HJ5KL6ZX
-
-POI8U7Y6T5R4E3WQ
-
-POI1US7Y6T5R4E3W
-
-LKJH7G6F5D4S3A2Q
-
-6QW7ER8STY9UI0OP
-
-ZXCVB1NM2LK3JH4G
-
-POI7U6Y5T4R3E2WQ
-
-LKJH8G7F6D5S4A3Q
-
-9ASD8FG7HJ6KL5ZX
-
-1QW2ER3TY4SUI5OP
-
-ZXCV6BNM7LK8JH9G
-
-4DF9E1C2A7B8H6JK
-
-L3M5P9SO8IU7Y2TR
-
-QW8ER5T6Y1U2IS9O
-
-N7B6VSC45X3Z8M9L
-
-Y6TH7U8I9O2P3SLK
-
-AS8DF6GH5JK7L9MN
+H6J8K0L2M4NN6B8V
 
 How To Redeem Free Fire Codes
 
-To utilise the Rewards Redemption website, navigate to https://reward.ff.garena.com/en.
+To reach the Rewards Redemption website, go to https://reward.ff.garena.com/en.
 
 Sign in using your credentials from platforms like Facebook, X, Apple ID, Google, VK ID, or Huawei ID.
 
-Upon logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
+After logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
 
-Once the code is successfully redeemed, access your Free Fire rewards by launching the game on your device.
+Once the code is successfully redeemed, you can collect your Free Fire rewards by launching the game on your device.
 
-Important Things To Remember
+Important Tips
 
-After successfully redeeming the code, you can claim your rewards from the in-game mail section.
+After successfully redeeming the code, you can collect your rewards from the in-game mail section.
 
-Please note that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
+Keep in mind that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
 
-Allow up to 24 hours for the rewards to be credited to your account.
+Please allow up to 24 hours for the rewards to be credited to your account.
 
 Also read
 
-Embark on an extraordinary gaming journey with Garena Free Fire MAX! This vibrant battle royale sensation has quickly become a favourite among India's gaming enthusiasts, especially following the ban of its predecessor, Garena Free Fire. With stunning graphics and immersive gameplay, Garena Free Fire MAX has captured the hearts of gamers across the nation.The addition of redemption codes in Garena Free Fire MAX brings an exciting element to the gaming experience. These codes, available for a limited time of 12 to 18 hours, create a thrilling sense of urgency and anticipation, enhancing the overall gameplay for players.According to developer guidelines, the 12-character alphanumeric Garena FF redemption codes provide a valuable daily opportunity for up to 500 registered players. This daily claiming system ensures fairness, giving all enthusiasts an equal chance to enhance their in-game journey.Garena Free Fire MAX is celebrated not only for its time-sensitive rewards but also for its stunning visuals, innovative features, and captivating gameplay. The dedicated gaming community continues to grow, drawn to the intricately crafted and exhilarating world of Garena Free Fire MAX.As the leading battle royale title in India, Garena Free Fire MAX remains at the forefront of shaping the gaming landscape. Players are invited to immerse themselves in a world of intense battles, strategic gameplay, and exclusive rewards, promising an unmatched gaming experience within the electrifying realm of Garena Free Fire MAX.These 12-character alphanumeric codes, featuring uppercase letters and numbers, are essential for elevating the gaming experience. Upon successful redemption, players unlock a variety of exciting rewards that not only enhance the gaming environment but also provide strategic advantages on the virtual battlefield.From coveted weapons to unique skins, these in-game items significantly boost immersion and offer a personalised gaming journey. Take advantage of these exclusive redemption codes to enrich your gaming adventure and enhance your gameplay in Garena Free Fire MAX.","Garena Free Fire Max Redeem Codes are available for a limited time of 12 to 18 hours. 12-character alphanumeric codes, featuring uppercase letters and numbers, are essential for the gaming experience. Upon successful redemption, players unlock a variety of exciting rewards.","https://static.toiimg.com/thumb/msid-111156111,imgsize-71552,width-400,resizemode-4/111156111.jpg"
+Garena Free Fire Max , an enhanced version of the popular Garena Free Fire, has seen a surge in popularity in India following the ban of its predecessor. Renowned for its impressive visuals and captivating gameplay, it has won over gamers nationwide.A standout feature of Garena Free Fire Max is its daily redemption codes, which inject excitement into the gaming experience. These codes are available for a limited duration, usually between 12 to 18 hours, fostering a sense of urgency and anticipation among players.According to developer guidelines, these 12-character alphanumeric codes offer daily rewards to up to 500 registered players, promoting fairness and equal opportunities for everyone.Garena Free Fire Max, with its time-sensitive rewards, stunning graphics, innovative features, and immersive gameplay, continues to captivate the gaming community. Its richly detailed universe promises an exhilarating adventure for players.As the premier battle royale game in India, Garena Free Fire Max remains a dominant force, delivering intense battles, strategic gameplay, and exclusive rewards for an unparalleled gaming experience.Elevate your gaming experience with exclusive Garena Free Fire Max redemption codes, unlocking a variety of in-game perks and rewards. Whether you're a veteran player or new to the virtual battlefield, these codes provide a unique chance to enhance your gameplay, improve your strategy, and dive deeper into the excitement.These 12-character alphanumeric codes, consisting of a mix of uppercase letters and numbers, significantly enrich the overall gaming experience. Successfully redeeming these codes grants players access to an array of thrilling rewards, enhancing the gaming atmosphere and providing strategic advantages on the digital battleground.Take advantage of meticulously crafted Garena Free Fire Max redemption codes to elevate your gaming journey. Unlock coveted weapons, distinctive skins, and other in-game items, enhancing immersion and delivering a personalised gaming experience like no other.",Garena Free Fire Max is the premier battle royale game in India. It has seen a surge in popularity in India following the ban of its predecessor. A standout feature of the game is its daily redemption codes. These codes offer daily rewards to up to 500 registered players.,"https://static.toiimg.com/thumb/msid-111202759,imgsize-55888,width-400,resizemode-4/111202759.jpg"
 "Wordle 1098 Puzzle for June 21, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1098-puzzle-for-june-21-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/111153286.cms,"
 
 Wordle 1098 Hints and Clues for June 21, 2024
@@ -896,7 +546,7 @@ Apple has announced Apple Intelligence , a suite of AI features that will run on
 
 TCS sees headcount fall first time in 19 years
 
-India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. During a town hall earlier this month, the global operations head of TCS ' resource management group (RMG) Amar Shetye revealed that the company currently has thousands of open positions that it is not able to fill due to the skills gap.Shetye put the number at 80,000. For those unaware, the RMG team at TCS is responsible for allocation of available resources to various projects across the company and in case of any shortfall, fill such requirements through contractors. These contractors are on the roles of the hiring agencies and may or may not be hired as permanent staff by the company.The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.An employee who attended the townhall anonymously told TOI, ""We were told that either skillsets or employee aspirations are not matching project requirements. However, at TCS, no associate is forced to take on a project if they are not comfortable with it."" Another employee on the bench added, ""He told us that we should consider ourselves fortunate that the firm is not laying off employees for not being mapped to any project unlike other firms."" The company’s recent annual report revealed that 33% of job requirements are currently being met by grooming existing talent.Post the announcement of fourth quarter results, TCS CEO K Krithivasan said that the company has built one of the largest artificial-intelligence-ready workforces in the world. ""TCS is currently working over 200 engagements in GenAI with our clients and foresees a promising pipeline of future work across all industries,"" he wrote.TCS posted strong performance in the fourth quarter of the fiscal year 2024-25. ""This is a quarter of strong deals and execution for us. Continuous focus on operational excellence helped us achieve a 26% operating margin."" The management also said that deal wins were ""across markets, industries and geographies.""The Mumbai-headquartered company said that it had signed new deals totalling $13.2 billion in the fourth quarter, which is one of the highest ever for the company even as it signalled a cautious turnaround for the industry. The company added that the pain may be bottoming out and FY25 will be better than FY24.TCS's Gen-AI deal pipeline is said to have touched $900 million. “Our Generative Artificial Intelligence (AI) pipeline has surged to $900 million, marking a doubling in value. The Total Contract Value (TCV) of the deal comprises primarily standard-sized deals, with the exception of a significant win secured in Q3,"" the company said in its earnings report.TCS' full year headcount fell for the first time in 19 years. The company reported a quarter-on-quarter decline of 1,759 in its headcount for the fourth quarter of FY2024-25. TCS concluded the fourth quarter with a workforce totaling 601,546 employees, with women comprising 35.6% of the total.",India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.,"https://static.toiimg.com/thumb/msid-111176331,imgsize-47576,width-400,resizemode-4/111176331.jpg"
+India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. During a town hall earlier this month, the global operations head of TCS ' resource management group (RMG) Amar Shetye revealed that the company currently has thousands of open positions that it is not able to fill due to the skills gap.Shetye put the number at 80,000. For those unaware, the RMG team at TCS is responsible for allocation of available resources to various projects across the company and in case of any shortfall, fill such requirements through contractors. These contractors are on the roles of the hiring agencies and may or may not be hired as permanent staff by the company.The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.An employee who attended the townhall anonymously told TOI, ""We were told that either skillsets or employee aspirations are not matching project requirements. However, at TCS, no associate is forced to take on a project if they are not comfortable with it.""""He told us that we should consider ourselves fortunate that the firm is not laying off employees for not being mapped to any project unlike other firms,"" another employee on the bench added.The company’s recent annual report revealed that 33% of job requirements are currently being met by grooming existing talent.Post the announcement of fourth quarter results, TCS CEO K Krithivasan said that the company has built one of the largest artificial-intelligence-ready workforces in the world. ""TCS is currently working over 200 engagements in GenAI with our clients and foresees a promising pipeline of future work across all industries,"" he wrote.TCS posted strong performance in the fourth quarter of the fiscal year 2024-25. ""This is a quarter of strong deals and execution for us. Continuous focus on operational excellence helped us achieve a 26% operating margin."" The management also said that deal wins were ""across markets, industries and geographies.""The Mumbai-headquartered company said that it had signed new deals totalling $13.2 billion in the fourth quarter, which is one of the highest ever for the company even as it signalled a cautious turnaround for the industry. The company added that the pain may be bottoming out and FY25 will be better than FY24.TCS's Gen-AI deal pipeline is said to have touched $900 million. “Our Generative Artificial Intelligence (AI) pipeline has surged to $900 million, marking a doubling in value. The Total Contract Value (TCV) of the deal comprises primarily standard-sized deals, with the exception of a significant win secured in Q3,"" the company said in its earnings report.TCS' full year headcount fell for the first time in 19 years. The company reported a quarter-on-quarter decline of 1,759 in its headcount for the fourth quarter of FY2024-25. TCS concluded the fourth quarter with a workforce totaling 601,546 employees, with women comprising 35.6% of the total.",India's largest IT services company Tata Consultancy Services (TCS) is facing a significant challenge filling a massive number of open positions. The reason for the skills gap is said to be a mismatch between the skills possessed by employees and the roles in demand.,"https://static.toiimg.com/thumb/msid-111176331,imgsize-47576,width-400,resizemode-4/111176331.jpg"
 "HDFC Bank users, this 'UPI change' is coming starting June 25",https://timesofindia.indiatimes.com/technology/tech-news/hdfc-bank-users-this-upi-change-is-coming-starting-june-25/articleshow/111136811.cms,"Why HDFC Bank is making this change
 
 What is UPI Lite and why banks are pushing it
@@ -905,7 +555,9 @@ How to register for email to receive all the UPI transaction alerts
 
 
 
-Starting June 25, HDFC Bank will stop sending text alerts for low-value UPI transactions. This means that HDFC Bank customers will receive SMS alerts for UPI transactions exceeding Rs 100 when sending money and similar notification for when received is above Rs 500. However, the bank will continue to send email alerts for all transactions with no absolutely change.In a mail as well as SMS alert sent to its customers, HDFC Bank said: “Starting from 25th June, 2024: Email Alerts: Continue to receive email alerts for all UPI transactions. SMS Notifications: Now only for transactions above Rs 100 (money sent/paid) and Rs 500 (money received).”This change aligns with banking norms, which require text messages for transactions over Rs 5,000. Despite this, many banks send alerts for lower-value debits as well. HDFC Bank stated that feedback indicated alerts for low-value transactions were deemed 'not useful,' as there is often duplication of notifications from UPI payment apps.Bankers noted that bulk text messages cost between Rs 0.01-0.03 each. With UPI transactions averaging around 40 crores per day, banks collectively spend several crores daily on text message alerts.Banks are also promoting the use of UPI Lite for transactions up to Rs 500. UPI Lite allows a small amount of money to be set aside by the app, facilitating quick payments without the need for second-factor authentication.By reducing the frequency of low-value transaction alerts, HDFC Bank and others aim to streamline notifications for customers while also cutting costs. This shift is expected to enhance the user experience and encourage the adoption of UPI Lite for smaller transactions. However, users can register their email with HDFC bank to receive messages of all the UPI transactionsStep 1: Click on https://instaservices.hdfcbank.com/?journey=107&source_type=103Step 2: Enter the registered mobile numberStep 3: Identify using DoB or PAN or Customer ID and click on Get OTP.","HDFC Bank will stop sending text alerts for low-value UPI transactions. Customers will receive SMS alerts for transactions exceeding Rs 100. However, the bank will continue to send email alerts for all transactions. This change aligns with banking norms for transactions over Rs 5,000.","https://static.toiimg.com/thumb/msid-111136818,imgsize-28532,width-400,resizemode-4/111136818.jpg"
+https://instaservices.hdfcbank.com/?journey=107&source_type=103
+
+Starting June 25, HDFC Bank will stop sending text alerts for low-value UPI transactions. This means that HDFC Bank customers will receive SMS alerts for UPI transactions exceeding Rs 100 when sending money and similar notification for when received is above Rs 500. However, the bank will continue to send email alerts for all transactions with no absolutely change.In a mail as well as SMS alert sent to its customers, HDFC Bank said: “Starting from 25th June, 2024: Email Alerts: Continue to receive email alerts for all UPI transactions. SMS Notifications: Now only for transactions above Rs 100 (money sent/paid) and Rs 500 (money received).”This change aligns with banking norms, which require text messages for transactions over Rs 5,000. Despite this, many banks send alerts for lower-value debits as well. HDFC Bank stated that feedback indicated alerts for low-value transactions were deemed 'not useful,' as there is often duplication of notifications from UPI payment apps.Bankers noted that bulk text messages cost between Rs 0.01-0.03 each. With UPI transactions averaging around 40 crores per day, banks collectively spend several crores daily on text message alerts.Banks are also promoting the use of UPI Lite for transactions up to Rs 500. UPI Lite allows a small amount of money to be set aside by the app, facilitating quick payments without the need for second-factor authentication.By reducing the frequency of low-value transaction alerts, HDFC Bank and others aim to streamline notifications for customers while also cutting costs. This shift is expected to enhance the user experience and encourage the adoption of UPI Lite for smaller transactions. However, users can register their email with HDFC bank to receive messages of all the UPI transactionsStep 1: Click onStep 2: Enter the registered mobile numberStep 3: Identify using DoB or PAN or Customer ID and click on ""Get OTP.""","HDFC Bank will stop sending text alerts for low-value UPI transactions. Bank will continue to send email alerts for all transactions. This change aligns with banking norms, which require text messages for transactions over Rs 5,000. Bankers noted that bulk text messages cost between Rs 0.01-0.03 each.","https://static.toiimg.com/thumb/msid-111136818,imgsize-28532,width-400,resizemode-4/111136818.jpg"
 "Apple iPhone 14 is available for just Rs 13,510 on Amazon; know how to grab the deal",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-14-is-available-for-just-rs-13510-on-amazon-know-how-to-grab-the-deal/articleshow/111136473.cms,"Apple iPhone 14 Amazon offer
 
 Apple iPhone 14 deal: Amazon Pay ICICI Bank Credit Card discount
