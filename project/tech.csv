@@ -1,122 +1,89 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-"UPI, ATM services resume for 300 small banks as NPCI restores network after ransomware attack",https://timesofindia.indiatimes.com/technology/tech-news/upi-atm-services-resume-for-300-small-banks-as-npci-restores-network-after-ransomware-attack/articleshow/112211165.cms,"Here’s what NPCI’s statement on X reads
+Apple confirms ChatGPT integration for iOS 18 coming later this year,https://timesofindia.indiatimes.com/technology/tech-news/apple-confirms-chatgpt-integration-for-ios-18-coming-later-this-year/articleshow/112237662.cms,"ChatGPT coming to iOS 18
 
-NPCI connectivity with C-Edge Technologies Ltd. has been re-established following security review by an independent forensic auditing firm. Investigation confirms that the impacted systems have been isolated by C-Edge to contain potential spread of the ransomware. Further, necessary security review and scans have been conducted by the auditor to ensure that rest of the infrastructure is clean.
+Apple CEO Tim Cook has reaffirmed the company’s commitment to integrating ChatGPT into its iOS 18 operating system, confirming the feature is on track for a later this year release.The announcement came during Apple’s quarterly earnings call, where Cook addressed questions about the progress of Apple Intelligence, the company’s umbrella term for AI features .Cook confirmed that ChatGPT integration will be available by the end of the year as part of Apple Intelligence.First unveiled at WWDC in June, the ChatGPT integration is expected to significantly enhance Siri’s capabilities, allowing for more natural and informative interactions. Beyond Siri, Apple Intelligence is poised to offer a range of features, including text summarisation, improved notification management, and even custom emoji generation.With user consent, Siri will be able to provide ChatGPT-powered answers to questions and requests. ChatGPT will also be integrated into Apple's writing tools, enabling users to generate text and images. Apple has confirmed that its ChatGPT implementation will utilise OpenAI 's advanced GPT-4o model.iPhone, iPad, and Mac users will enjoy free access to ChatGPT without needing to create an account. ChatGPT Plus subscribers can link their accounts for premium features on these devices. Apple has assured users that ChatGPT requests and IP addresses will not be stored by OpenAI.While the exact timeline for the iOS 18 release remains unconfirmed, Cook’s statement indicates that users can anticipate experiencing the benefits of ChatGPT integration before the year ends.","ChatGPT will be integrated into Apple's iOS 18 operating system. Apple has confirmed that its ChatGPT implementation will utilise OpenAI's advanced GPT-4o model. iPhone, iPad, and Mac users will enjoy free access to Chat GPT without needing to create an account. ChatG PT Plus subscribers can link their accounts for premium features.","https://static.toiimg.com/thumb/msid-112237636,imgsize-1487877,width-400,resizemode-4/112237636.jpg"
+Government has a warning for SBI customers on this 'alert message' from the bank,https://timesofindia.indiatimes.com/technology/tech-news/government-has-a-warning-for-sbi-customers-on-this-alert-message-from-the-bank/articleshow/112237145.cms,"What is the message
 
-The impact was limited to C-Edge systems hosted in their data center and not on any of the co-operative banks or regional rural banks' own infrastructure. The services of co-operative banks and regional rural banks, which were dependent on C-Edge, have now been restored. With this, respective banks shall be able to offer a full range of services seamlessly to their customers, as it was before.
+Here are some tips to protect yourself from
 
-The National Payments Corporation of India ( NPCI ) says it has restored connectivity with C-Edge Technologies after a ransomware attack earlier this week.The attack, attributed to the RansomEXX group , had primarily impacted Brontoo Technology Solutions, a key collaborator with C-Edge, a joint venture between TCS and SBI . The security breach forced the temporary shutdown of payment systems across small Indian local banks.Customers of nearly 300 Regional Rural Banks and cooperative banks were unable to access key payment-related services like fund transfers using the NEFT or UPI route or ATM withdrawals.In a post titled ‘NPCI connectivity with C-Edge Technologies re-established’, NPCI said that the connection was re-established following a security review by an independent forensic auditing firm. The post was shared on microblogging site X, formerly known as Twitter.According to a Economic Times report, NPCI has directed C-Edge Technologies to hire a forensic auditor to fully review its systems and this incident and submit a report within two months. The report quotes an unnnamed person aware of the matter who said “NPCI has received a preliminary report about the incident, C-Edge has also been asked to submit a forensic audit within two months,”.","The National Payments Corporation of India ( NPCI ) says it has restored connectivity with C-Edge Technologies after a ransomware attack earlier this week. The attack, attributed to the RansomEXX group, had primarily impacted Brontoo Technology Solutions. The security breach forced the temporary shutdown of payment systems across small Indian local banks.Customers of nearly 300 Regional Rural Banks and cooperative banks were unable to access key payment- related services.","https://static.toiimg.com/thumb/msid-112211158,imgsize-25458,width-400,resizemode-4/112211158.jpg"
-These 53 popular apps across nine biggest industries are using deceptive patterns: Advertising Standards Council of India,https://timesofindia.indiatimes.com/technology/tech-news/these-53-popular-apps-across-nine-biggest-industries-are-using-deceptive-patterns-advertising-standards-council-of-india/articleshow/112205222.cms,"What are dark patterns and how they impact users
+SMS fraud
 
-Names of apps that ASCI analysed
+:
 
-Cab Booking:
+Avoid clicking links or providing personal information to numbers you don't recognise.
 
-Delivery & Logistics:
+Legitimate businesses rarely demand immediate action via SMS.
 
-Ecommerce:
+Hover over links without clicking to check the actual URL. Avoid clicking if it looks unfamiliar or misspelled.
 
-Streaming:
+Avoid sharing passwords, credit card numbers, or personal details via SMS
 
-Service & Fintech:
+Enable two-factor authentication: This adds an extra layer of security to your accounts
 
-Travel Booking:
+Be cautious with free Wi-Fi. Public Wi-Fi networks can be less secure, making it easier for hackers to intercept information.
 
-EdTech:
+Ensure your phone's operating system and apps are up-to-date with the latest security patches
 
-Gaming:
+If you receive a suspicious text, report it immediately
 
-Health Tech:
+Fact Check Unit of the Press Information Bureau (PIB), under I&B ministry, has alerted SBI customers about fraudulent messages being circulated. In a post on X, formerly known as Twitter, PIB stated that scammers are sending APKs and messages via SMS and WhatsApp, claiming to help redeem SBI reward points. PIB clarified that SBI never sends links or unsolicited APKs through SMS or WhatsApp and advised the bank customers to not to click on such links or download unknown files.“Beware! Did you also receive a message asking you to download & install an APK file to redeem SBI rewards #PIBFactCheck @TheOfficialSBI NEVER sends links or APK files over SMS/WhatsApp Never download unknown files or click on such links,” reads the post.SBI rewards:Dear Value customer,Your SBI NetBanking Reward Points (Rs 9980.00) will expire today! Now Redeem through SBI REWARD App Install & claim your reward by cash deposit in your account.ThankyouTeam-SBI","The Press Information Bureau (PIB), under I&B ministry, has alerted SBI customers about fraudulent messages being circulated. PIB stated that scammers are sending APKs and messages via SMS and WhatsApp, claiming to help redeem SBI reward points.","https://static.toiimg.com/thumb/msid-112237142,imgsize-49124,width-400,resizemode-4/112237142.jpg"
+When Elon Musk 'remembered' Genghis Khan for this long post on Telegram CEO Pavel Durov,https://timesofindia.indiatimes.com/technology/tech-news/when-elon-musk-remembered-genghis-khan-for-this-long-post-on-telegram-ceo-pavel-durov/articleshow/112231857.cms,"Pavel Durov , the co-founder and CEO of the popular messaging app Telegram, recently disclosed that he has fathered over 100 biological children. Remarkably, he remains unmarried.Durov’s journey as a sperm donor began 15 years ago when a close friend approached him with a heartfelt request. The friend and his wife were struggling with fertility issues, and they asked Durov to donate sperm at a clinic.Initially amused by the idea, Durov soon realized the seriousness of the situation and agreed to help.Doctors emphasized the scarcity of high-quality donor material, prompting Durov to view sperm donation as his civic duty. His contributions have enabled around a hundred couples across 12 countries to conceive children. Even today, one IVF clinic retains his frozen sperm for anonymous use by families seeking to expand.Despite acknowledging the risks involved, Durov has no regrets about his altruistic act. He believes he played a role in addressing the global shortage of healthy sperm.Tesla CEO Elon Musk , himself father of 12 children, playfully responded to Durov’s revelation. On X (formerly Twitter), Musk quipped that having 100 biological children was “rookie numbers,” humorously attributing the quote to Genghis Khan—an 11th-century Mongol ruler estimated to have had hundreds, if not thousands, of biological offspring.Musk himself has fathered 12 children with three different women and recently welcomed a new baby with Neuralink executive Shivon Zilis.","Telegram co-founder Pavel Durov has fathered over 100 biological children. Remarkably, he remains unmarried. His contributions have enabled around a hundred couples across 12 countries to conceive children. Tesla CEO Elon Musk, himself father of 12 children, playfully responded to the revelation.","https://static.toiimg.com/thumb/msid-112231866,imgsize-13950,width-400,resizemode-4/112231866.jpg"
+Google Contacts update makes contact syncing easier and displays synced account details,https://timesofindia.indiatimes.com/technology/tech-news/google-contacts-update-makes-contact-syncing-easier-and-displays-synced-account-details/articleshow/112231167.cms,"Google has announced a significant update to its Contacts service aimed at streamlining contact management and providing users with greater transparency. The new update introduces simplified contact syncing and offers clear insights into where each contact is stored.With the latest update, users can now effortlessly keep their contacts in sync across multiple devices and platforms.Google has refined the syncing process to ensure a seamless experience, eliminating the hassle of managing contacts manually. This is particularly beneficial for users who frequently switch between devices or use a combination of personal and work accounts.One of the standout features of the update is the ability to see synced account details directly within contact cards. This transparency empowers users to quickly identify the source of each contact, whether it's a linked email account or stored locally on the device. This information is crucial for effective contact management and helps users make informed decisions about their contacts.To enhance user security and privacy, Google has also introduced a ""Report illegal profile content"" button within contact cards. This feature allows users to flag contacts that violate Google's policies, providing an additional layer of protection for user data.The updated Google Contacts is designed to make contact management more efficient and intuitive. By providing clear visibility into contact syncing and ownership, Google aims to simplify the user experience and help people stay connected effortlessly.","Google has announced a significant update to its Contacts service aimed at streamlining contact management and providing users with greater transparency. The new update introduces simplified contact syncing and offers clear insights into where each contact is stored. Google has also introduced a ""Report illegal profile content"" button within contact cards.","https://static.toiimg.com/thumb/msid-112231156,imgsize-4634,width-400,resizemode-4/112231156.jpg"
+"What Google's regulatory filing reveals about its stake in CrowdStrike, the company that caused biggest-ever internet outage",https://timesofindia.indiatimes.com/technology/tech-news/what-googles-regulatory-filing-reveals-about-its-stake-in-crowdstrike-the-company-that-caused-biggest-ever-internet-outage/articleshow/112230594.cms,"Troubles mount for CrowdStrike
 
-Key findings of the ASCI report
+Google 's parent company, Alphabet , has significantly reduced its stake in cybersecurity firm CrowdStrike, according to a recent regulatory filing. The move comes amidst a firestorm of controversy surrounding a global tech outage triggered by a CrowdStrike software update last month.Alphabet's holdings in CrowdStrike dropped from 855,789 Class A shares to 427,895 as of June 30th, representing a substantial decrease in its investment.This decision was made prior to the July 19th outage that disrupted operations across industries, including healthcare, banking, and aviation.The widespread disruption caused by the CrowdStrike incident has led to a dramatic decline in the company's stock price, with shares plummeting by nearly 35%. Investors are reevaluating their reliance on single-source cybersecurity solutions, and regulatory scrutiny is intensifying over the safety of such critical software.Adding to CrowdStrike's troubles, a class-action lawsuit was filed against the company this week accusing it of misleading investors about the reliability of its software. Furthermore, Delta Airlines has claimed that the outage cost the company a staggering $500 million, and it is pursuing legal action against both Microsoft and CrowdStrike for damages.As the fallout from the outage continues to unfold, the cybersecurity industry is facing unprecedented challenges. The incident has raised serious questions about the resilience of critical infrastructure and the potential risks associated with overreliance on a single vendor.","Alphabet's holdings in CrowdStrike dropped from 855,789 Class A shares to 427,895 as of June 30th. The decision was made prior to the July 19th outage that disrupted operations across industries, including healthcare, banking, and aviation.","https://static.toiimg.com/thumb/msid-112230589,imgsize-34022,width-400,resizemode-4/112230589.jpg"
+"Apple beats quarterly revenue record in India, Indonesia and these countries",https://timesofindia.indiatimes.com/technology/tech-news/apple-beats-quarterly-revenue-record-in-india-indonesia-and-these-countries/articleshow/112228422.cms,"Cook said Apple “excited about Apple Intelligence”
 
-A new study by the Advertising Standards Council of India ( ASCI ) Academy and Parallel HQ has revealed the use of deceptive design patterns (or dark patterns ) in popular Indian apps. The report, titled “Conscious Patterns,” analysed 53 apps and found that 52 employed at least one deceptive practice.In the study, ASCI defines dark patterns as deceptive UI/UX practices that can mislead or trick users into doing something they originally did not intend or want to do.These patterns include privacy deception , interface interference, drip pricing and false urgency, which can manipulate user behaviour.“It is important to note that the widespread use of dark patterns can impact user autonomy and informed decision-making,” the report said. The study also highlights the need for more ethical app design and underscores the importance of consumer protection.The apps are spread across 9 industries and the report does not provide app-specific data . However, it does provide the list of apps it analysed.Ola, Uber, inDrive, RapidoSwiggy, Zomato, Dunzo, Zepto, Borzo, BlinkIt, PorterBig Basket, Nike, Amazon, Flipkart, Myntra, Ajit, Tira, Tata Cliq, MeeshoPrime Video, Netflix, Disney+Hotstar, YouTube, JioCinemaPaytm, Cred, PhonePe, Groww, ZerodhaAgoda, Goibibo, EaseMyTrip, Yatra, Makemytrip, Cleartrip, Redbus, Booking.comVedanta, UpGrad, Byju’s, Unacademy, PhysicswallahDream11, Subway Surfers, Teen Patti Gold, Candy Crush, Ludo KingTata 1mg, Cure.fit, PharmEasy, HealthifyMe, PractoASCI report says that out of the 53 top apps in India that researchers analysed, 52 out of them use deceptive patterns .“These apps collectively have been downloaded over 21 billion times, pointing to the potential of their consumer impact,” the report added.The findings have raised concerns about user autonomy and the potential impact on consumer decision-making. The study also offers alternative design practices and a scoring tool to help developers create more ethical apps.The report found that four deceptive patterns accounted for 78% of the total occurrences - privacy deception (24%), drip pricing (19%), interface interference (18%), and false urgency (17%).It said that more than 80% of apps exhibited deceptive patterns in the settings/ profile section. All e-commerce apps studied made it difficult for users to delete their accounts.While some health-tech apps—4/5, relied on creating time-based pressure (false urgency) to rush users into making decisions, basket sneaking was four times more prevalent in delivery and logistics apps as compared to other sectors.The report also found that the three sectors with the highest deceptive patterns per app were health-tech at 8.8, travel booking at 7.2, and e-commerce at 5.3. The lowest incidences of deceptive patterns per app were observed in streaming services at 1.8 and in the gaming sector at 2.4.The report comes on the heels of guidelines issued by the Advertising Standards Council of India (ASCI) and the Department of Consumer Affairs (DoCA) on deceptive patterns. Industry body Nasscom is collaborating with ASCI and Parallel to address this issue and promote responsible app development.","ASCI report says that out of the 53 top apps in India that researchers analysed, 52 out of them use deceptive patterns. The findings have raised concerns about user autonomy and the potential impact on consumer decision-making. The study also offers alternative design practices and a scoring tool to help developers create more ethical apps.","https://static.toiimg.com/thumb/msid-112205230,imgsize-13652,width-400,resizemode-4/112205230.jpg"
-"This Google security software had a fake version with 'virus' on Google, delete it if you downloaded",https://timesofindia.indiatimes.com/technology/tech-news/this-google-security-software-had-a-fake-version-with-virus-on-google-delete-it-if-you-downloaded/articleshow/112205487.cms,"How the Scam Works
+Apple CEO Tim Cook told investors during the company’s earnings call that the company’s June quarter revenue record is better than it had expected. He said that the company set quarterly revenue records in more than two dozen countries and regions, including India.“Apple is reporting a new June quarter revenue record of $85.8 billion, up 5% from a year ago, and better than we had expected… We also set quarterly revenue records in more than two dozen countries and regions, including Canada, Mexico, France, Germany, the UK, India, Indonesia, the Philippines, and Thailand,” Cook said in the earnings call after the Q3 results were announced.“And we set an all-time revenue record in services, which grew 14%,” he added.Echoing Cook, Luca Maestri , senior vice president and chief financial officer at Apple, said that Mac’s revenue growth is also due to “strong performance in our emerging markets, with June quarter records for Mac in Latin America, India, and South Asia.”Talking about Apple Intelligence – an AI-powered system that includes generative AI models and tools, Cook said that the company remains optimistic about the possibilities of AI.“During the quarter, we were excited to announce incredible updates to our software platforms at our Worldwide Developers Conference, including Apple Intelligence, a breakthrough personal intelligence system that puts powerful, private generative AI models at the core of iPhone, iPad, and Mac,” Cook said.“We very much look forward to sharing these tools with our users, and we continue to invest significantly in the innovations that will enrich our customers’ lives, while leading with the values that drive our work,” he added.“With each innovation, we’re unlocking new ways of working, new ways of learning, and new ways of tapping into the unlimited promise of human potential. We are doing that across every product and every service,” Cook noted.The Apple CEO also explained that Apple Intelligence will be available on “pretty much all of the apps that you use every day”, and “so there is been a deep level of thinking about how it affects those apps”.","Apple CEO Tim Cook said the company’s June quarter revenue record is better than it had expected. He said that the company set quarterly revenue records in more than two dozen countries and regions, including India. Cook said Apple “excited about Apple Intelligence”","https://static.toiimg.com/thumb/msid-112228419,imgsize-24358,width-400,resizemode-4/112228419.jpg"
+"Garena Free Fire MAX redeem codes for August 2: Win free diamonds, skins, and more",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-august-2-win-free-diamonds-skins-and-more/articleshow/112212399.cms,"What Are Free Fire Max Redeem Codes?
 
-Fake Ads:
+Garena Free Fire Max Redeem Codes Today, August 2
 
-Deceptive Landing Pages:
+QW56-VB78-RT90
 
-Malware Download:
+GY12-FK47-OP56
 
-Why This Matters
+VGT5-BC67-DE34
 
-Tricks Users:
+ZU67-BG89-XD45
 
-Steals Information:
+KL09-JN88-UY76
 
-How to Protect Yourself
+HG54-FD34-DX22
 
-What Google Says
+PLQ2-GH56-XX44
 
-Malicious actors have exploited Google's advertising platform to distribute malware disguised as the popular security app, Google Authenticator. This scheme targets users searching for the software on Google. Security company Malwarebytes has detected a malware attacks have become more advanced, and the advice to keep your device safe is no longer as easy as ""Don't click on any random links sent to you."" Threat actors are seeking victims out with more concealed measures, like this fake ad for Google Authenticator that looks like the real deal, identified in a July 30 report by Malwarebytes.Deceptive advertisements appear in Google search results, mimicking legitimate Google Authenticator ads. They display a trusted URL like ""https://www.google.com"", creating a false sense of security.Clicking the ad redirects users through a series of disguised links before ending on a fake website impersonating a Google portal. These sites often have names similar to Google Authenticator, like ""chromeweb-authenticators.com"".Upon clicking the ""Download Authenticator"" button, users unknowingly download a malicious executable disguised as ""Authenticator.exe"".The campaign's tactics, including trusted-looking URLs and website impersonation, are designed to deceive users into downloading malware.The downloaded malware, known as DeerStealer , can steal sensitive information from your device.* Download Only from Official Sources: Always download Google Authenticator directly from the Google Play Store or App Store, or from the official Google website* Be Wary of Suspicious Ads: Don't click on ads, especially those promising software downloads, unless you're absolutely certain of their legitimacy.* Check URLs Carefully: Verify the actual website address before clicking on any link, even if the displayed URL looks familiar.Google has blocked the specific advertiser reported in this case, but the issue persists. The company acknowledged to Bleeping Computer that attackers exploit weaknesses like creating multiple accounts and manipulating URLs to bypass detection.","Malwarebytes has detected a malware attacks have become more advanced. Threat actors are seeking victims out with more concealed measures. Deceptive advertisements appear in Google search results, mimicking legitimate Google Authenticator ads. The campaign's tactics, including trusted-looking URLs and website impersonation, are designed to deceive users into downloading malware.","https://static.toiimg.com/thumb/msid-112205488,imgsize-19206,width-400,resizemode-4/112205488.jpg"
-"Karnataka authorities withdraw GST notice sent to Infosys, direct the company to ...",https://timesofindia.indiatimes.com/technology/tech-news/karnataka-authorities-withdraw-gst-notice-sent-to-infosys-direct-the-company-to-/articleshow/112205011.cms,"What Infosys said on Rs 32,000 GST demand
+RG45-BN09-KL54
 
-NASSCOM comes out strongly in support of Infosys
+ZX56-OV49-PC11
 
-In a dramatic turn of events, Infosys has been temporarily relieved of the staggering Rs 32,403 crore GST demand. The Karnataka state tax authorities, who had issued the notice, have withdrawn it and directed the IT giant to respond to the central GST intelligence agency instead.In a late evening filing on stock exchanges, Infosys informed: ""The company has received a communication from Karnataka State authorities, withdrawing the pre-show cause notice and has directed the company to submit further response to DGGI central authority on this matter."" Directorate General of GST Intelligence (DGGI) is the apex intelligence and investigative agency for matters relating to violation of the Goods & Services Tax, Central Excise Duty and Service Tax.The controversy erupted started on July 31 when the tax authorities accused Infosys of evading GST on services received from its overseas branches between 2017 and 2022. The company strongly denied the allegations, citing a recent government circular that exempts such services from GST. Infosys had strongly argued that GST payments are eligible for credit or refund against export of IT services.The massive demand had sent shockwaves through the IT industry, with Nasscom raising concerns about the impact on business sentiment. The industry body emphasized the need for clarity in tax regulations to avoid such disputes. NASSCOM raised the issue with the Union finance ministry.The apex IT body Nasscom said that the latest tax demand reflects a lack of understanding of the industry's operating model and sheds light on sector-wide issues wherein multiple companies are facing avoidable litigation and uncertainty.Nasscom added that government circulars issued based on recommendations of the GST Council must be honoured in enforcement mechanisms so that notices do not create uncertainty and negatively impact perceptions on India's ease of doing business.","Karnataka state tax authorities have withdrawn the pre-show cause notice against Infosys. The IT giant had been accused of evading GST on services received from overseas branches. The company strongly denied the allegations, citing a recent government circular that exempts such services from GST.","https://static.toiimg.com/thumb/msid-112204991,imgsize-57796,width-400,resizemode-4/112204991.jpg"
-Infosys gets strong support from NASSCOM,https://timesofindia.indiatimes.com/technology/tech-news/infosys-gets-strong-support-from-nasscom/articleshow/112204926.cms,"Nasscom has expressed deep concern over the Rs 32,403 crore GST demand levied on Infosys , arguing that it reflects a fundamental misunderstanding of the IT industry 's operating model. The industry body warned that such actions could lead to avoidable litigation, investor uncertainty, and damage India's reputation as a business-friendly destination.""Recent media reports of a GST demand of over Rs 320 billion (Rs 32,403 crore) reflects a lack of understanding of the industry's operating model.This is an industry-wide issue, and multiple companies are facing avoidable litigation, uncertainty, and concerns from investors and customers,"" Nasscom said without naming Infosys.The IT services giant has been slapped with a hefty GST demand for services procured from its overseas branches. Infosys has vehemently denied any wrongdoing, citing a recent Central Board of Indirect Taxes and Customs circular that exempts such transactions from GST.Nasscom emphasized the importance of clear and consistent GST regulations for boosting India's IT exports and attracting foreign investments. The industry body called on authorities to respect the GST Council's decisions and avoid actions that could create a hostile business environment.The dispute highlights the growing challenges faced by the IT sector in navigating complex tax regulations . With the government's ambitious 'Viksit Bharat' vision, ensuring a stable and predictable tax regime is crucial for the industry's growth.The case has raised concerns among other IT companies, as it could potentially set a precedent for similar demands. The industry is now watching closely to see how the matter unfolds","Infosys has been slapped with a hefty GST demand for services procured from its overseas branches. Nasscom has expressed deep concern over the Rs 32,403 crore GST demand levied on Infosys. The industry body warned that such actions could lead to avoidable litigation and investor uncertainty.","https://static.toiimg.com/thumb/msid-112204920,imgsize-19840,width-400,resizemode-4/112204920.jpg"
-ChatGPT-maker OpenAI’s CEO Sam Altman shares “quick update” on AI safety,https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openais-ceo-sam-altman-shares-quick-update-on-ai-safety/articleshow/112201295.cms,"Read OpenAI CEO Sam Altman’s post on X
+MF56-DF78-VB23
 
-A few quick updates about safety at OpenAI:
+TR34-WQ67-BH45
 
-As we said last July, we’re committed to allocating at least 20% of the computing resources to safety efforts across the entire company.
+FF99-XX21-YY33
 
-Our team has been working with the
+How To Redeem Free Fire Codes
 
-US AI Safety Institute
+To reach the Rewards Redemption website, go to https://reward.ff.garena.com/en.
 
-on an agreement where we would provide early access to our next foundation model so that we can work together to push forward the science of AI evaluations. excited for this!
+Sign in using your credentials from platforms like Facebook, X, Apple ID, Google, VK ID, or Huawei ID.
 
-Finally, we want current and former employees to be able to raise concerns and feel comfortable doing so. This is crucial for any company, but for us especially and an important part of our safety plan. In May, we voided non-disparagement terms for current and former employees and provisions that gave OpenAI the right (although it was never used) to cancel vested equity. We've worked hard to make it right.
+After logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
 
-OpenAI has said that it is dedicated to making sure its powerful AI tools don’t cause harm. Responding to questions from US lawmakers, the company noted that its employees have ways to raise concerns about safety practices, Bloomberg reported. Separately, CEO Sam Altman also shared a few quick updates about safety at OpenAI.The report says that the Microsoft-backed company reassured lawmakers of its commitment to safety after five senators raised questions about its policies in a letter addressed to Altman.OpenAI said it will continue to uphold its promise to allocate 20% of its computing resources toward safety-related research over multiple years.OpenAI has mired into a series of controversies around its commitment to safety and ability for employees to speak out on the topic, the report noted, adding that several key members of its safety-related teams have resigned.This team also included former co-founder and chief scientist Ilya Sutskever as well as another leader of the company's team devoted to assessing long-term safety risks, Jan Leike . He publicly shared concerns that the company was prioritising product development over safety.",CEO Sam Altman shared a few quick updates about safety at OpenAI. Microsoft- backed company reassured lawmakers of its commitment to safety after five senators raised questions about its policies in a letter addressed to Altman. OpenAI said it will continue to uphold its promise to allocate 20% of its computing resources toward safety-related research over multiple years.,"https://static.toiimg.com/thumb/msid-112201250,imgsize-1410125,width-400,resizemode-4/112201250.jpg"
-"Reddit CEO calls out Microsoft and other AI companies, says blocking them 'a real pain in the a*s'",https://timesofindia.indiatimes.com/technology/tech-news/reddit-ceo-calls-out-microsoft-and-other-ai-companies-says-blocking-them-a-real-pain-in-the-as/articleshow/112199954.cms,"Reddit CEO Steve Huffman has called out Microsoft and other AI companies for using Reddit's data to train their artificial intelligence models without permission or compensation. In a recent interview with The Verge, Huffman described efforts to block these companies as ""a real pain in the ass.""""We've had Microsoft, Anthropic , and Perplexity act as though all of the content on the internet is free for them to use,"" Huffman told The Verge.He specifically criticized Microsoft for using Reddit's data ""without telling us"" to train its AI and summarize content in Bing search results.Huffman explained the rationale behind blocking these companies: ""Without these agreements, we don't have any say or knowledge of how our data is displayed and what it's used for, which has put us in a position now of blocking folks who haven't been willing to come to terms with how we'd like our data to be used or not used.""In early July, Reddit updated its robots.txt file to block web crawlers from companies without agreements. This resulted in Reddit results disappearing from Microsoft's Bing search engine while remaining visible on Google.Huffman argued that the traditional value exchange between search engines and content platforms has evolved. ""When it was used for simple search, to create simple links that would send us traffic from search engines, that was fine,"" he told Bloomberg. ""But now folks are using Reddit data for training, they're reselling it, they're doing search summaries instead of linking to us.""He further elaborated to The Verge, ""I think the traditional value exchange from search engines has changed. Search and summarization and training are merging, and the value exchange of crawling in exchange for traffic back is becoming muddied.""Reddit has already struck deals with Google and OpenAI , allowing them to access its data for a fee. Google reportedly agreed to pay $60 million annually for this access. So, Microsoft’s Bing and other search engines apparently don’t have the access to Reddit, so they can’t show the result in their search.Microsoft's head of search, Jordi Ribas, responded on social media platform X that ""Reddit has blocked Bing from crawling their site for search, favoring another search engine and impacting competition from Bing and Bing-powered engines."" However, a Microsoft spokesperson stated that the company honors websites' directions regarding content usage for AI models.The Reddit CEO pointed to OpenAI's recent SearchGPT announcement as a model for future agreements. However, Reddit spokesperson Tim Rathschmidt clarified that none of the site's existing content deals are exclusive.While Anthropic told the Verge that Reddit has been on their block list for web crawling since mid-May, Microsoft and Perplexity did not comment on the matter.Huffman's stance sends a clear message: the era of freely scraping online content for AI training may be coming to an end. ""The traditional value exchange from search engines has changed,"" he emphasized.","Reddit CEO Steve Huffman has called out Microsoft and other AI companies for using Reddit's data to train their AI models without permission or compensation. In early July, Reddit updated its robots.txt file to block web crawlers from companies without agreements. This resulted in Reddit results disappearing from Microsoft's Bing search engine while remaining visible on Google.","https://static.toiimg.com/thumb/msid-112199922,imgsize-1269330,width-400,resizemode-4/112199922.jpg"
-"Garena Free Fire Max redeem codes for August 1, 2024: Win exciting rewards daily",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-august-1-2024-win-exciting-rewards-daily/articleshow/112183947.cms,"What are Free Fire Max redeem codes?
+Once the code is successfully redeemed, you can collect your Free Fire rewards by launching the game on your device.
 
-Garena Free Fire Max redeem codes for August 1, 2024:
+Important Tips
 
-FAST-KILL-7WIN-NER9
+After successfully redeeming the code, you can collect your rewards from the in-game mail section.
 
-BLAZ-E999-7777-8888
+Keep in mind that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
 
-MYST-ERYB-OX99-FF00
-
-VICT-ORYY-2024-FF77
-
-GARE-NAFF-0011-2222
-
-GOLD-EN44-55GG-66HH
-
-HERO-ICFF-3333-4444
-
-SURV-IVOR-5555-6666
-
-LEGE-ND88-77VG-66UX
-
-How to redeem Free Fire codes
-
-Access Rewards Redemption website by clicking https://reward.ff.garena.com/en
-
-Login using the platforms: Facebook, X, Apple ID, Google, VK ID or Huawei ID
-
-Enter the redeem code in the text box appearing on the screen
-
-Click ‘Confirm’ to conclude the redemption process
-
-Upon successful redemption, claim your Free Fire rewards by launching the Free Fire game on your device
-
-Important tips
-
-After successfully redeeming the codes, players can access their rewards through the in-game mail section
-
-These codes are not valid for guest accounts; you must link your account to Facebook, X, or VK to claim the rewards
-
-Kindly allow a 24-hour processing period for the rewards to be credited
+Please allow up to 24 hours for the rewards to be credited to your account.
 
 Also read
 
-Garena Free Fire Max is an enhanced version of the widely popular Garena Free Fire, which gained significant traction in India after its predecessor was banned. Known for its impressive visuals and engaging gameplay, the game has garnered widespread acclaim nationwide.One notable feature of Garena Free Fire Max is its daily redemption codes, which enhance the player experience by adding excitement and urgency.These time-limited codes remain active for 12 to 18 hours, fostering anticipation and increasing user engagement.Following developer guidelines, the 12-character alphanumeric redemption codes of Garena Free Fire Max provide daily rewards to a maximum of 500 registered players, ensuring fairness and equal opportunities for progression.With its time-sensitive rewards, stunning graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately crafted universe promises an exhilarating adventure for players, solidifying its position in India's battle royale gaming scene.Players who use redeem codes in Garena Free Fire Max can access a variety of valuable in-game items, including weapons, diamonds, and exclusive skins. These codes comprise 12-character alphanumeric combinations, enriching the gaming experience. Upon redemption, players can unlock rewards such as Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. It's noteworthy that these codes are time-limited, active for up to 12 hours, and restricted to the first 500 users who redeem them.","Garena Free Fire Max redeem codes for August 1, 2024: FAST-KILL-7WIN-WIN-9, E999-E999-7777-8888, MYST-ERYB-OX99-FF00, VICT-ORYY-2024-FF77. These codes are not valid for guest accounts; you must link your account to Facebook, X, Apple ID, Google, VK ID or Huawei ID.","https://static.toiimg.com/thumb/msid-112184113,imgsize-54084,width-400,resizemode-4/112184113.jpg"
+Embark on an exhilarating gaming odyssey with Garena Free Fire MAX! This highly acclaimed battle royale game has garnered significant popularity among Indian gamers, particularly following the ban on its predecessor, Garena Free Fire. With its breathtaking visuals and captivating gameplay, Garena Free Fire MAX has captivated the attention of players nationwide.The introduction of redemption codes in Garena Free Fire MAX brings an exciting new dimension to the gaming experience. These codes, available for a limited time ranging from 12 to 18 hours, instil anticipation and urgency, intensifying the excitement for players.Adhering to developer guidelines, the 12-character alphanumeric Garena FF redemption codes offer a daily opportunity for up to 500 registered players to claim rewards. This ensures fairness, granting every player an equal chance to augment their in-game progression.Renowned for its time-sensitive rewards, captivating graphics, innovative features, and immersive gameplay, Garena Free Fire MAX continues to enthral the gaming community. Its meticulously crafted and thrilling universe offers an irresistible adventure for players.As India's premier battle royale game, Garena Free Fire MAX remains at the forefront of the gaming industry. Players are encouraged to partake in intense battles, strategic gameplay, and exclusive rewards, promising an unparalleled gaming journey within the dynamic realm of Garena Free Fire MAX.Elevate your gaming journey with exclusive redemption codes designed specifically for Garena Free Fire Max, granting access to a diverse array of in-game benefits and rewards. Whether you're a seasoned veteran or new to the virtual battleground, these codes present a distinct opportunity to enhance your gaming escapade, strategize effectively, and delve deeper into the thrill of the game.Comprising 12-character alphanumeric sequences, featuring a combination of uppercase letters and numbers, these codes significantly enhance the overall gaming experience. Upon successful redemption, players gain access to a plethora of thrilling rewards that not only enrich the gaming environment but also offer strategic advantages on the digital battlefield.Seize the chance to elevate your gaming journey with exclusive redemption codes intricately crafted for Garena Free Fire Max. These codes unlock coveted weapons, unique skins, and other in-game items, augmenting immersion and delivering a personalised gaming experience that is unparalleled.","Garena Free Fire Max Redeem Codes are available for 12 to 18 hours. The codes offer access to a plethora of thrilling rewards. These codes unlock coveted weapons, unique skins, and other in-game items, augmenting immersion and delivering a personalised gaming experience.","https://static.toiimg.com/thumb/msid-112212402,imgsize-47084,width-400,resizemode-4/112212402.jpg"
 "Wordle 1140 Puzzle for August 2, 2024: Hints, clues and solution for word of the day",https://timesofindia.indiatimes.com/technology/gaming/wordle-1140-puzzle-for-august-2-2024-hints-clues-and-solution-for-word-of-the-day/articleshow/112210338.cms,"
 
 Wordle 1140 Hints and Clues for August 2, 2024
@@ -134,319 +101,431 @@ Today’s word ends with E.
 Wordle 1140, August 2, 2024: Word of the Day
 
 Wordle, the popular word-guessing game that has taken the world by storm, continues to challenge players with its cryptic puzzles. Whether you’re a seasoned Wordle aficionado or a newbie trying to crack the code, we’ve got you covered. Let’s dive into today’s hints and uncover the elusive answer!Wordle, a brain-child of Josh Wardle, a Brooklyn-based software engineer, has become a daily ritual for many.Since its debut in 2021, the word game has gained popularity among users, with NewYork Times buying it in 2022.Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints. Each player gets only six chances to solve the puzzle.Today’s Wordle 1140 promises a puzzle that tests your linguistic skills, likely to be decoded by many participants. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Are you ready for another round of the super fun Wordle puzzle game?Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. Drumroll please, as we unveil the answer for Wordle 1140.Today's Wordle 1140 word is FLAKE.","Wordle 1140 promises a puzzle that tests your linguistic skills, likely to be decoded by many participants. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge. Users are greeted with a new word puzzle everyday that can easily be cracked using elimination hints.","https://static.toiimg.com/thumb/msid-112210332,imgsize-14288,width-400,resizemode-4/112210332.jpg"
-Researchers on how China may be closing AI gap with the US,https://timesofindia.indiatimes.com/technology/tech-news/researchers-on-how-china-may-be-closing-ai-gap-with-the-us/articleshow/112083299.cms,"China bets on open-source software for AI development
+"Intel to layoff over 15,000 employees: Read the memo shared by company’s CEO",https://timesofindia.indiatimes.com/technology/tech-news/intel-to-layoff-over-15000-employees-read-the-memo-shared-by-companys-ceo/articleshow/112211785.cms,"Here’s the full text of the memo shared by Intel CEO
 
-Researchers and technologists have said that China is rapidly catching up to the US in the race for artificial intelligence (AI) development with a growing emphasis on open-source technology , a report has said.According to the New York Times, Chinese companies are sharing their AI advancements , including underlying code, through open-source platforms, allowing for faster collaboration and innovation within the global AI community .Recently at the World Artificial Intelligence Conference in Shanghai, a video was shown wherein an old photograph of a woman with two toddlers came to life with the use of AI technology similar to Sora – created by ChatGPT-maker OpenAI .While Sora is not available for the public, the technology by Chinese companies are available to the general public.“My American friends still can’t use Sora. But we already have better solutions here,” the co-founder of the startup that made the AI video was quoted as saying.As per Kai-Fu Lee, an investor and technologist who helped build Chinese offices for both Google and Microsoft, and who co-founded 01.AI start-up, said that his company’s chatbot technology scored nearly as well as the leading American technologies on common benchmark tests that rate the performance of the world’s chatbots.“We have disproved the commonplace belief that China doesn’t have the talent or the technology to compete with the US. That belief is simply wrong,” Dr. Lee said.Chinese companies are readily sharing their AI advancements, including underlying code, through open-source platforms. This allows for faster collaboration and innovation within the global AI community.“Chinese companies are good at replicating and improving what the U.S. already has. They are not as good at inventing something completely new that will bypass the U.S. in five to 10 years,” said Yiran Chen, a professor of electrical and computer engineering at Duke University.Recently, Meta CEO Mark Zuckerberg pointed out that open-source AI software is beneficial for both the developers and the company. Clément Delangue, chief executive of Hugging Face also said that open-source AI is the foundation of AI development. He said that the US built its leadership in AI through collaboration between companies and researchers, “and it looks like China could do the same thing.”","Chinese companies are readily sharing their AI advancements, including underlying code, through open-source platforms. This allows for faster collaboration and innovation within the global AI community.“We have disproved the commonplace belief that China doesn’t have the talent or the technology to compete with the US. That belief is simply wrong,” Dr. Lee said.","https://static.toiimg.com/thumb/msid-112082899,imgsize-94094,width-400,resizemode-4/112082899.jpg"
-Google Gemini may soon allow further editing of AI-generated images,https://timesofindia.indiatimes.com/technology/tech-news/google-gemini-may-soon-allow-further-editing-of-ai-generated-images/articleshow/112097581.cms,"Google brings this “Gemini's big upgrade” to free version
+Team,
 
-Google's AI model, Gemini, is poised to redefine image editing . According to recent reports, the tech giant is developing a new feature that will allow users to make precise modifications to AI-generated images .Currently, users often find themselves starting from scratch when they want to tweak an AI-generated image. However, this upcoming update is set to change that.With the new tool, users will be able to fine-tune images with greater precision, potentially altering elements like background, objects, or even the subject's appearance.Users can simply circle the desired area of an image with their finger or stylus and then provide text instructions for the desired changes. This intuitive approach eliminates the need for complex descriptions, as Gemini will automatically identify the selected region.While Google hasn't officially confirmed the feature, its potential implications are significant. If realised, this development could revolutionise the creative process for designers, artists, and content creators alike.Recently, Google has announced a significant upgrade to its Gemini AI chatbot. The company is introducing the Gemini 1.5 Flash large language model (LLM) to the free version of its chatbot, providing faster response times and enhanced accuracy.“Today we’re upgrading our free-tier experience to Gemini 1.5 Flash. With Gemini 1.5 Flash, you’ll notice across-the-board improvements in quality and latency, with especially noticeable improvements in reasoning and image understanding,” the company said.","Users will be able to circle the desired area of an image with their finger or stylus and then provide text instructions for the desired changes. Google hasn't officially confirmed the feature, but its potential implications are significant. If realised, this development could revolutionise the creative process for designers, artists, and content creators alike.","https://static.toiimg.com/thumb/msid-112097523,imgsize-31426,width-400,resizemode-4/112097523.jpg"
-"Google Photos makes it easier to hide unwanted faces in Memories, here’s how",https://timesofindia.indiatimes.com/technology/tech-news/google-photos-makes-it-easier-to-hide-unwanted-faces-in-memories-heres-how/articleshow/112096710.cms,"How the feature will work
+We have moved our All Company Meeting to today, following our earnings call, as we are announcing significant actions to reduce our costs. We plan to deliver $10 billion in
 
-Google Photos is making a significant upgrade to its Memories feature, giving users more control over which faces appear in their nostalgic photo collages. The tech giant is rolling out a new tool that simplifies the process of hiding individuals from appearing in Memories.As reported by Android Authority, Google is now making it easier to hide faces in Google Photos.Previously, users had to navigate through multiple menus to exclude specific people from their photo retrospectives. The new update promises a more streamlined approach, allowing users to directly hide a face from a photo's details page. This change is expected to make the process quicker and more intuitive.While Google hasn’t officially announced a release date for the new feature, it’s anticipated to be available to users in the coming months. This update comes as a welcome relief for many users who have expressed frustration over seeing unwanted faces in their Memories.To hide individuals from Memories in Google Photos, navigate to the app's settings menu, then go to Preferences > Memories, and select ""Hide people and pets."" This action will enable you to conceal individuals from appearing in your memories, creations, or on the search page without deleting any of the photos they are in.The report mentions that Google has simplified this process by reducing the number of steps. As per the APK teardown users will have to now open a photo and swipe to Metadata. After this, they just have to tap on three dots in the People section and tap on the hide face option. Users can choose to either reduce the frequency of a person's appearance or completely block them from showing up in any photo memories.","Google Photos is making a significant upgrade to its Memories feature, giving users more control over which faces appear in their nostalgic photo collages. The tech giant is rolling out a new tool that simplifies the process of hiding individuals from appearing in Memories. Google hasn't officially announced a release date for the new feature, but it’s anticipated to be available to users in the coming months.","https://static.toiimg.com/thumb/msid-112096687,imgsize-73265,width-400,resizemode-4/112096687.jpg"
-Anand Mahindra on AI: …is going to be of significantly more value to us than we imagined,https://timesofindia.indiatimes.com/technology/tech-news/anand-mahindra-on-ai-is-going-to-be-of-significantly-more-value-to-us-than-we-imagined/articleshow/112095975.cms,"How X users reacted to Anand Mahindra’s post
+cost savings
 
-Anand Mahindra said that artificial intelligence (AI) can be of more value to mankind than ‘imagined’. Citing a research that showed how AI can detect breast cancer five years before it develops, he wrote ""If this is accurate, then AI is going to be of significantly more value to us than we imagined and much earlier than we had imagined,"".The Mahindra Group chairman took to microblogging platform X (formerly known as Twitter) to share his views.Recently, a team of researchers from Duke University in the US developed a new AI model to predict 5-year breast cancer risk from mammograms.Traditional cancer diagnosis relies on biopsies, microscopic histological examinations, and imaging techniques like MRI, CT, and PET scans. Human interpretation of these tests can be subjective. AI, on the other hand, can analyse medical images with staggering accuracy.An IANS report quotes Vineet Nakra, a radiation oncologist at Max Super Speciality Hospital on how AI is helping in cancer diagnosis and treatment. She told the news agency that AI is helping pathologists diagnose cancer much faster and paving the way for doctors to make personalised and patient-centric cancer care.Commenting on Mahindra’s X post, a user wrote “That's the best use of technology anyway. Assisting human kind to become better and reduce risks”. “AI in the medical field will have a huge impact and will certainly make significant contributions. Google DeepMind's AI system, AlphaFold3, can accurately predict the 3D structure of proteins and has potential applications in drug discovery and understanding diseases,” commented another.“AI, Machine Learning, Big data analysis based systems will drastically improve the living standards of life of every strata of society,” replied a third.","The Mahindra Group chairman took to microblogging platform X to share his views. He cited a research that showed how AI can detect breast cancer five years before it develops. Traditional cancer diagnosis relies on biopsies, microscopic histological examinations, and imaging techniques like MRI, CT, and PET scans.","https://static.toiimg.com/thumb/msid-112095975,imgsize-68790,width-400,resizemode-4/112095975.jpg"
-WhatsApp shut down in India: IT Minister Ashwini Vaishnaw says ‘the company has not…’,https://timesofindia.indiatimes.com/technology/tech-news/whatsapp-shut-down-in-india-it-minister-ashwini-vaishnaw-says-the-company-has-not/articleshow/112079860.cms,"“People use WhatsApp because…”
+in 2025, and this includes reducing our head count by roughly 15,000 roles, or 15% of our workforce. The majority of these actions will be completed by the end of this year.
 
-IT Minister Ashwini Vaishnaw stated that neither WhatsApp nor its parent company Meta have informed the government of any plans to shut down their services in India. He made this statement in response to a question raised in the Rajya Sabha recently.“[The] Ministry of Electronics and Information Technology (MeitY) has shared that WhatsApp or Meta has not informed the government about any such plans,” Vaishnaw said in a written reply to a question by Congress member Vivek Tankha, as per PTI report on Friday (July 26).Tankha had asked whether WhatsApp was planning to shut its services in India due to the government's directives to share user details in accordance with the government directions under Section 69A of the Information Technology Act, 2000.Responding to Tankha's question on curbs on social media platforms, the I&B minister said the central government issued directions in the interest of the sovereignty or integrity of India, defence of India, security of the state, friendly relations with foreign states or public order or for preventing incitement to the commission of any cognisable offence relating to above in respect of the information on a computer resource.Earlier this year, WhatsApp told the Delhi High Court that it will stop functioning in India if it is compelled by the government to break encryption of messages.Previously, WhatsApp challenged the newly amended IT Rules saying that they violate the right to privacy and were unconstitutional. WhatsApp told the Delhi High Court that its end-to-end encryption protects user privacy by ensuring only the sender and recipient can access message content.“As a platform, we are saying, if we are told to break encryption, then WhatsApp goes,” Tejas Karia, appearing for Whatsapp, told a Division Bench. He added that people use WhatsApp because of the privacy features that it offers.“India (is) a country that’s at the forefront... You’re leading the world in terms of how people and businesses have embraced messaging,” Meta CEO Mark Zuckerberg had said in a virtual address at Meta’s annual event last year.WhatsApp has more than 400 million users in India, making it the largest market for the platform.",IT Minister Ashwini Vaishnaw stated that neither WhatsApp nor its parent company Meta have informed the government of any plans to shut down their services in India. He made this statement in response to a question raised in the Rajya Sabha recently.,"https://static.toiimg.com/thumb/msid-112079840,imgsize-1419451,width-400,resizemode-4/112079840.jpg"
-"Apple reduces iPhone prices in India, here are all the new prices",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-reduces-iphone-prices-in-india-here-are-all-the-new-prices/articleshow/112043162.cms,"How much Apple iPhones cost now
+This is painful news for me to share. I know it will be even more difficult for you to read. This is an incredibly hard day for Intel as we are making some of the most consequential changes in our company’s history. When we meet in a few hours, I’ll talk about why we’re doing this and what you can expect in the coming weeks. In advance of that, I wanted to preview some of what’s on my mind.
 
-iPhone Model
+Simply put, we must align our cost structure with our new operating model and fundamentally change the way we operate. Our revenues have not grown as expected – and we’ve yet to fully benefit from powerful trends, like AI. Our costs are too high, our margins are too low. We need bolder actions to address both – particularly given our financial results and outlook for the second half of 2024, which is tougher than previously expected.
 
+These decisions have challenged me to my core, and this is the hardest thing I’ve done in my career. My pledge to you is that we will prioritize a culture of honesty, transparency and respect in the weeks and months to come.
 
+Next week, we’ll announce a companywide enhanced retirement offering for eligible employees and broadly offer an application program for voluntary departures. I believe that how we implement these changes is just as important as the changes themselves, and we will adhere to Intel values throughout this process.
 
-Storage Variant
+Why Now?
 
+Since introducing our new operating model, we have taken a clean-sheet view of the business and assessed ourselves against benchmarks for high-performing foundries, fabless product companies and corporate functions. This work made it clear our cost structure is not competitive.
 
+For example, our annual revenue in 2020 was about $24 billion higher than it was last year, yet our current workforce is actually 10% larger now than it was then. There are a lot of reasons for this, but it’s not a sustainable path forward.
 
-Old Price (Rs )
+Beyond our costs, we need to change the way we operate – something many of you shared as part of our Employee Experience Survey. There’s too much complexity, so we need to both automate and simplify processes. It takes too long for decisions to be made, so we need to eliminate bureaucracy. And there’s too much inefficiency in the system, so we need to expedite workflows.
 
+Key Priorities
 
+The actions we are taking will make Intel a leaner, simpler and more agile company. Let me highlight our areas of focus:
 
-New Price (Rs )
+Reducing Operational Costs: We will drive companywide operational and cost efficiencies, including the cost savings and head count reductions mentioned above.
 
+Simplifying Our Portfolio: We will complete actions this month to simplify our businesses. Each business unit is conducting a portfolio review and identifying underperforming products. We are also integrating key software assets into our business units so we accelerate our shift to systems-based solutions. And we will narrow our incubation focus on fewer, more impactful projects.
 
+Eliminating Complexity: We will reduce layers, eliminate overlapping areas of responsibility, stop non-essential work, and foster a culture of greater ownership and accountability. For example, we will consolidate Customer Success into the Sales, Marketing and Communications Group to streamline our go-to-market motions.
 
-iPhone 15
+Reducing Capital and Other Costs: With the completion of our historic five-nodes-in-four-years roadmap clearly in sight, we will review all active projects and equipment so we begin to shift our focus toward capital efficiency and more normalized spending levels. This will reduce our 2024 capital expenditures by more than 20%, and we plan to reduce our non-variable cost of goods sold by roughly $1 billion in 2025.
 
+Suspending Our Dividend: We will suspend our stock dividend beginning next quarter to prioritize investments in the business and drive more sustained profitability.
 
+Maintaining Growth Investments: Our IDM2.0 strategy is unchanged. Having fought hard to reestablish our innovation engine, we will maintain the key investments in our process technology and core product leadership.
 
-128GB
+The Future
 
+I have no illusions that the path in front of us will be easy. You shouldn’t either. This is a tough day for all of us and there will be more tough days ahead. But as difficult as all of this is, we are making the changes necessary to build on our progress and usher in a new era of growth.
 
+When we began this journey, we set our sights high, knowing that Intel is a place where big ideas are born and the power of what’s possible triumphs over the status quo. After all, our mission is to create world-changing technologies that improve the lives of every person on the planet. And at our best, we have exemplified these ideals more than any company in the world.
 
-Rs 79,900
+To live up to this mission, we must continue to drive our IDM 2.0 strategy, which remains the same: re-establish process technology leadership; invest in at-scale, globally resilient supply chain by expanding manufacturing capacity in the U.S. and EU; become a world-class, leading-edge foundry for internal and external customers; rebuild product portfolio leadership; and deliver AI Everywhere.
 
+Over the past few years, we have rebuilt a sustainable innovation engine that is largely in place and on track. It’s now time to focus on building the sustainable financial engine needed to drive our performance. We must improve our execution, adapt to new market realities and operate as a more agile company. That’s the spirit of the actions we are taking – knowing that the choices we make today, as difficult as they are, will strengthen our ability to serve our customers and grow our business for years to come.
 
+As we take these next steps in our journey, let’s not forget that there has never been a greater need for what we do. The world will increasingly run on silicon – and the world needs a healthy and vibrant Intel. That’s why the work we are doing is so consequential. Not only are we remaking a great company, but we are also creating technology and manufacturing capabilities that will reshape the world for decades to come. And this is something we should never lose sight of as we push forward in pursuit of our goals.
 
-Rs 79,600
+We’ll talk more in a few hours. Please come with your questions so we can have an open and honest discussion about what comes next.
 
+Intel has announced to reduce its head count by more than 15% of its workforce, some 15,000 people, to reduce costs. “Our costs are too high, our margins are too low,” the company’s CEO Pat Gelsinger said in an internal memo sent to Intel employees on Thursday. In the letter, Gelsinger also said that the software giant will also announce a companywide enhanced retirement offering for eligible employees and broadly offer an application program for voluntary departures next week.","CEO: We plan to deliver $10 billion in cost savings by 2025. This includes reducing our head count by roughly 15,000 roles, or 15% of our workforce. The majority of these actions will be completed by the end of this year.","https://static.toiimg.com/thumb/msid-112211779,imgsize-17172,width-400,resizemode-4/112211779.jpg"
+iQoo Z9s series to launch in India on August 21: What to expect,https://timesofindia.indiatimes.com/technology/mobiles-tabs/iqoo-z9s-series-to-launch-in-india-on-august-21-what-to-expect/articleshow/112213404.cms,"
 
+iQoo Z9s series what to expect
 
+iQoo Z9 Lite launched in India recently
 
 
-256GB
 
+iQoo is all set to launch its Z9s smartphone series in India on August 21. The company took to microblogging site X (formerly twitter ) to announce the launch date.“Introducing the #iQOOZ9sPro with the Z series' first-ever premium marble texture! Launching on August 21st @amazonIN. Inspired by nature and crafted for luxury. It’s not just a phone—it’s a statement of style and performance,” read the company’s post.As per the teaser, the upcoming smartphone series is claimed to be the ‘segment’s fastest curved screen phone’.The series may offer two phones – iQoo Z9s and iQoo Z9s Pro .The upcoming iQoo smartphone series is tipped to come in 12GB RAM and 256GB internal storage variant. The smartphone may feature a 50MP rear camera with f/1.8 aperture and OIS. white and orange are the rumoured colour variants of the phones, but it is likely that the series may offer other colour models as well.Chinese smartphone maker iQoo launched its Z9 Lite smartphone in India last week. The smartphone comes with a starting price tag of Rs 10,499. iQoo Z9 Lite 5G sports a 6.56-inch HD+ display and is powered by an octa-core MediaTek Dimensity 6300 chipset paired with up to 6GB of RAM. The smartphone offers 128GB internal storage. Users can further expand the storage by adding a microSD card of up to 1TB.iQoo Z9 Lite 5G runs Android 14 operating system topped with FunTouch OS. The smartphone also comes with IP64 rating which makes it resistant to dust and water. The smartphone is backed by a 5000 mAh battery with 15W fast charging support.","iQoo is all set to launch its Z9s smartphone series in India on August 21. The company took to microblogging site X (formerly twitter ) to announce the launch date. iQoo Z9 Lite was launched in India last week with a starting price tag of Rs 10,499.","https://static.toiimg.com/thumb/msid-112213393,imgsize-35422,width-400,resizemode-4/112213393.jpg"
+"'ATM, UPI service affected': Ransomware attack on service provider hits 300 small banks across India",https://timesofindia.indiatimes.com/technology/tech-news/atm-upi-service-affected-ransomware-attack-on-service-provider-hits-300-small-banks-across-india/articleshow/112175656.cms,"All online transactions, such as RTGS and UPI payments, affected
 
+'Breach discovered two days ago'
 
-Rs 89,900
+NEW DELHI: A ransomware attack has forced the temporary shutdown of payment systems across nearly 300 small Indian local banks, according to reports. The customers of these banks have not been able to access payments services like withdrawing cash at ATMs or using United Payments Interface (UPI).The ransomware attack affected C-Edge Technologies , a provider of banking technology systems to small banks across the country, reports said.Other banking services are functioning normally, the officials told PTI.In a statement released late in the evening, the national payments corporation of India (NPCI) said, ""C-Edge Technologies….has been possibly impacted by a ransomware attack impacting a few of their systems,"" leading to the temporary isolation of C-Edge from accessing NPCI-operated retail payment systems.Dileep Sanghani, chairman of the national cooperative union of India, told news agency PTI that nearly 300 banks in India, including 17 district cooperative banks in Gujarat, which rely on C-Edge, have been facing issues for the past two to three days.""All online transactions, such as RTGS and UPI payments, are affected. Money is deducted from the sender's account but does not get credited in the receiver's account,"" Sanghani said.""Customers of banks serviced by C-Edge will not be able to access payment systems during the period of isolation,"" the NPCI told news agency Reuters.The statement also mentioned that restoration work is being carried out rapidly in collaboration with C-Edge Technologies, and a mandatory security review is underway.C-Edge, a joint venture between SBI and TCS, serves cooperative banks and regional rural banks, which have been affected by the breach. Officials stated that other banking services remained unaffected. To protect the broader payments system, necessary precautions, including isolating the C-Edge system, had to be implemented following the discovery of the breach two days ago.An industry official told news agency PTI that a ransomware had been detected and isolated within the system, prompting a third-party audit.The official told news agency PTI that the affected banks represent less than 1 percent of the total payment system volume in the country.Despite the incident, no financial losses have been reported, news agency PTI said.","Customers of these banks have not been able to access payments services like withdrawing cash at ATMs or using United Payments Interface (UPI) The ransomware attack affected C-Edge Technologies, a provider of banking technology systems to small banks across the country.","https://static.toiimg.com/thumb/msid-112175695,imgsize-1564323,width-400,resizemode-4/112175695.jpg"
+"Anand Mahindra on Indian badminton star Lakshya Sen's match at Paris Olympic: If I was his opponent, I would …",https://timesofindia.indiatimes.com/technology/tech-news/anand-mahindra-on-indian-badminton-star-lakshya-sens-match-at-paris-olympic-if-i-was-his-opponent-i-would-/articleshow/112193934.cms,"What Anand Mahindra said
 
+Indian badminton sensation Lakshya Sen has left the sporting world in awe with his remarkable performance at the Paris Olympics 2024. In a thrilling match against Indonesia’s world number 4 Jonatan Christie , Lakshya not only secured a convincing 21-18, 21-12 victory but also showcased an extraordinary shot that went viral on social media .Mahindra Group chairman Anand Mahindra has once again showcased his sharp wit, this time taking a playful jab at Lakshya Sen's audacious behind-the-back shot.The shot in question? A jaw-dropping “behind-the-back” stroke that left spectators and opponents alike stunned. Industrialist Anand Mahindra, witnessing this display of skill, humorously suggested that Christie’s only recourse might be to “cry foul and file a suit” against Lakshya. According to Mahindra, the young shuttler seemed like an “unnatural opponent who possessed three arms.”The post resonated with fans, garnering thousands of likes and retweets. Here are some of the user reactions .“I was fortunate enough to watch this live. This is new India. Unconventional, aggressive, energetic and resourceful.”“Absolutely. A secret weapon of the best players! The Trump Card.”“Amazing. I can’t stand on my feet for 10 mins straight, and how do these athlete fly on toes.”“Flick that will be remembered for ages !”","Indian badminton sensation Lakshya Sen has left the sporting world in awe with his remarkable performance at the Paris Olympics 2024. In a thrilling match against Indonesia’s world number 4 Jonatan Christie, Lakshya secured a convincing 21-18, 21-12 victory. The shot in question? A jaw-dropping “behind- the-back” stroke that left spectators and opponents alike stunned.","https://static.toiimg.com/thumb/msid-112193926,imgsize-20236,width-400,resizemode-4/112193926.jpg"
+Google to Tesla CEO Elon Musk: We want to set this record straight ...,https://timesofindia.indiatimes.com/technology/tech-news/google-to-tesla-ceo-elon-musk-we-want-to-set-the-record-straight-/articleshow/112155142.cms,"Tesla CEO Elon Musk accused Google of interfering with US elections and banning Donald Trump on Search. Google responded, clarifying that a bug in its autocomplete feature affected searches for political figures, including past presidents. The company stated that the issue has been resolved and emphasized that autocomplete helps users find results quickly without censoring specific terms.","Tesla CEO Elon Musk accused Google of interfering with US elections and banning Donald Trump on Search. Google responded, clarifying that a bug in its autocomplete feature affected searches for political figures, including past presidents. The company stated that the issue has been resolved.","https://static.toiimg.com/thumb/msid-112155469,imgsize-23312,width-400,resizemode-4/112155469.jpg"
+"Apple iPhone 15 Plus is available for just Rs 16,730 on Amazon; check exchange deal and bank offer",https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-15-plus-is-available-for-just-rs-16730-on-amazon-check-exchange-deal-and-bank-offer/articleshow/112199291.cms,"Apple iPhone 15 Plus (Black, 128GB) Amazon deal
 
+iPhone 15 Plus specifications
 
-Rs 89,600
+Display: The iPhone 15 Plus boasts a 6.7-inch Super Retina XDR display with ProMotion technology, allowing for a refresh rate of up to 120Hz. This provides a smoother and more responsive visual experience.
 
+Processor: It is powered by the latest A16 Bionic chip, which ensures high performance and efficiency for demanding tasks.
 
+Camera: The rear camera system features a new 48MP main sensor, offering significant improvements in photo and video quality, especially in low light. The Ultra Wide and Telephoto cameras have also seen enhancements, expanding shooting options.
 
+Battery and additional features: The iPhone 15 Plus includes a long-lasting battery, a new under-display fingerprint sensor, and a USB-C port for added convenience.
 
+Also read
 
-512GB
+The iPhone 15 Plus (Black, 128GB), released in 2023, is now offered at an exceptional price on Amazon. For those seeking a high-quality smartphone at a great value, the current Apple iPhone 15 Plus offer on Amazon is a chance you won't want to overlook.Initially priced at Rs 89,600, the iPhone 15 Plus is now available on Amazon with a 9% price reduction, bringing the cost down to Rs 81,900.However, the savings extend beyond this discount. Amazon is also offering a generous exchange discount of up to Rs 58,700 for customers who trade in their old phone in good condition.In addition, holders of an Amazon Pay ICICI Bank credit card can benefit from an extra discount of up to Rs 6,470. When combining these discounts and offers, the final effective price of the Apple iPhone 15 Plus can drop to an exceptionally low Rs 16,730. This comprehensive set of promotions provides an excellent opportunity for buyers seeking significant savings on this premium smartphone.","Initially priced at Rs 89,600, the iPhone 15 Plus is now available on Amazon with a 9% price reduction, bringing the cost down to Rs 81,900. Amazon is also offering a generous exchange discount of up to Rs 58,700 for customers who trade in their old phone in good condition. Holders of an Amazon Pay ICICI Bank credit card can benefit from an extra discount ofup to Rs 6,470.","https://static.toiimg.com/thumb/msid-112200931,imgsize-11076,width-400,resizemode-4/112200931.jpg"
+Turkey's Olympic shooter Yusuf Dikec breaks the internet with effortless swag; he’s the hottest meme on X,https://timesofindia.indiatimes.com/technology/social/turkeys-olympic-shooter-yusuf-dikec-breaks-the-internet-with-effortless-swag-hes-the-hottest-meme-on-x/articleshow/112192946.cms,"Yusuf Dikec’s viral moment
 
+Comparisons and memes
 
 
-Rs 109,900
 
+Yusuf Dikec memes and reactions on X
 
+Olympic 2024 results
 
-Rs 109,600
+Also read
 
+Turkish air pistol shooter Yusuf Dikec has become a viral sensation on social media after winning the silver medal at the 2024 Paris Olympics. A photograph of the 51-year-old athlete taking aim with one hand in his pocket and minimal gear has captivated the internet. This unexpected image of casual confidence has made Dikec the hottest meme on X, garnering widespread attention and admiration.On X, a post featuring the now-iconic photograph of Dikec has amassed an astonishing 62 million views.The post humorously noted, “Turkey sent a 51 yr old guy with no specialised lenses, eye cover or ear protection and got the silver medal,” capturing the essence of Dikec's unconventional approach.Dikec's appearance and performance starkly contrasted with other athletes in the air pistol mixed team competition, who sported specialised gear, including goggles, lenses to prevent blur, and noise-cancelling ear protectors. In contrast, Dikec competed with prescription glasses and normal earplugs, exuding an aura of casual coolness as he competed with one hand in his pocket. This unique display of confidence and skill has led to a flood of memes and jokes on X and other social media platforms.Social media users have had a field day with Dikec's image. Some of the best memes include comparisons to a secret spy or hitman, humorously suggesting that he intentionally didn't win gold to avoid suspicion. Here are some notable posts:In the 10-metre air pistol mixed team event, Zorana Arunovic and Damir Mikec of Serbia won the gold, narrowly defeating Sevval Ilayda Tarhan and Yusuf Dikec of Turkey with a score of 16-14 at the Chateauroux Shooting Centre. India’s Manu Bhaker and Sarabjot Singh claimed the bronze, beating the South Korean pair Oh Ye-jin and Lee Won-ho 16-10.",Turkish air pistol shooter Yusuf Dikec has become a viral sensation on social media after winning the silver medal at the 2024 Paris Olympics. A photograph of the 51-year-old athlete taking aim with one hand in his pocket and minimal gear has captivated the internet. This unexpected image of casual confidence has made him the hottest meme on X.,"https://static.toiimg.com/thumb/msid-112193019,imgsize-34162,width-400,resizemode-4/112193019.jpg"
+30% of Gen-AI projects will be 'dumped' by the end of 2025 due to these reasons: Gartner,https://timesofindia.indiatimes.com/technology/tech-news/30-of-gen-ai-projects-will-be-dumped-by-the-end-of-2025-due-to-these-reasons-gartner/articleshow/112170259.cms,"What early adopters say
 
+Calculating business impact
 
-iPhone 15 Plus
+At least 30% of generative artificial intelligence ( GenAI ) projects will be abandoned after proof of concept by the end of 2025, due to poor data quality, inadequate risk controls, escalating costs or unclear business value, according to research company Gartner , Inc.Speaking at the Gartner Data & Analytics Summit in Sydney this week, Rita Sallam, distinguished VP analyst at Gartner said, “After last year's hype, executives are impatient to see returns on GenAI investments, yet organizations are struggling to prove and realize value.As the scope of initiatives widen, the financial burden of developing and deploying GenAI models is increasingly felt.”A major challenge for organizations arises in justifying the substantial investment in GenAI for productivity enhancement, which can be difficult to directly translate into financial benefit, according to Gartner. Many organizations are leveraging GenAI to transform their business models and create new business opportunities. However, these deployment approaches come with significant costs, ranging from $5 million to $20 million.“Unfortunately, there is no one size fits all with GenAI, and costs aren’t as predictable as other technologies,” said Sallam. “What you spend, the use cases you invest in and the deployment approaches you take, all determine the costs. Whether you’re a market disruptor and want to infuse AI everywhere, or you have a more conservative focus on productivity gains or extending existing processes, each has different levels of cost, risk, variability and strategic impact.”Regardless of AI ambition, Gartner research indicates GenAI requires a higher tolerance for indirect, future financial investment criteria versus immediate return on investment (ROI). Historically, many CFOs have not been comfortable with investing today for indirect value in the future. This reluctance can skew investment allocation to tactical versus strategic outcomes.Earlier adopters across industries and business processes are reporting a range of business improvements that vary by use case, job type and skill level of the worker. According to a recent Gartner survey, respondents reported 15.8% revenue increase, 15.2% cost savings and 22.6% productivity improvement on average. The survey of 822 business leaders was conducted between September and November 2023.“This data serves as a valuable reference point for assessing the business value derived from GenAI business model innovation,” said Sallam. “But it’s important to acknowledge the challenges in estimating that value, as benefits are very company, use case, role and workforce specific. Often, the impact may not be immediately evident and may materialize over time. However, this delay doesn’t diminish the potential benefits.”By analyzing the business value and the total costs of GenAI business model innovation, organizations can establish the direct ROI and future value impact, according to Gartner. This serves as a crucial tool for making informed investment decisions about GenAI business model innovation.“If the business outcomes meet or exceed expectations, it presents an opportunity to expand investments by scaling GenAI innovation and usage across a broader user base, or implementing it in additional business divisions,” said Sallam. “However, if they fall short, it may be necessary to explore alternative innovation scenarios. These insights help organizations strategically allocate resources and determine the most effective path forward.”","At least 30% of generative artificial intelligence projects will be abandoned after proof of concept by the end of 2025, according to research company Gartner. Many organizations are leveraging GenAI to transform their business models and create new business opportunities. But these deployment approaches come with significant costs, ranging from $5 million to $20 million.","https://static.toiimg.com/thumb/msid-112170248,imgsize-2847222,width-400,resizemode-4/112170248.jpg"
+Indian Bike Driving 3D Cheat Codes August 2024: Check out the list and know how to use cheat codes,https://timesofindia.indiatimes.com/technology/gaming/indian-bike-driving-3d-cheat-codes-august-2024-check-out-the-list-and-know-how-to-use-cheat-codes/articleshow/112212834.cms,"Indian Bike Driving 3D Cheat Codes August 2024
 
+Indian Bike Driving Active Cheat Codes
 
+Cheat Code
 
-128GB
+Use For
 
+8000
 
+Helicopter
 
-Rs 89,900
+1212
 
+Truck
 
+9
 
-Rs 89,600
+Night Mode
 
+666
 
+Banneli TNT
 
+330
 
+Jet Pack Mini
 
-256GB
+200
 
+Horse
 
+320
 
-Rs 99,900
+Jet Pack
 
+7112
 
+Moon Gravity
 
-Rs 99,600
+2
 
+Tattoo Skin
 
+1211
 
+Pulsar
 
+6677
 
-512GB
+JCB
 
+400
 
+Zx10r Bike
 
-Rs 119,900
+555
 
+Plane
 
+7777
 
-Rs 119,600
+Duke 200
 
+6021
 
+Super Splendor
 
-iPhone 15 Pro
+15
 
+Yamaha R15
 
+9000
 
-128GB
+Splendor
 
+6000
 
+Tron Bike
 
-Rs 134,900
+2020
 
+Endeavour
 
+444
 
-Rs 129,800
+Scorpio s11
 
+700
 
+Lamborghini v2
 
+777
 
+Ducati Diavel
 
-256GB
+4050
 
+Apache
 
+0
 
-Rs 144,900
+Gas Tank
 
+0 + Car
 
+Monster Truck
 
-Rs 139,800
+1111
 
+Cycle
 
+2000
 
+Rolls Royce
 
+999
 
-512GB
+Yamaha VMAX
 
+6666
 
+Range Rover
 
-Rs 164,900
+606
 
+Fire Truck
 
+1001
 
-Rs 159,700
+Legendar
 
+4215
 
+Duke
 
+7000
 
+Hayabhusa
 
-1TB
+300
 
+Bolero
 
+1212
 
-Rs 184,900
+Truck With a Trailer
 
+888
 
+Yamaha FZ10
 
-Rs 179,400
+8880
 
+Hummer Car
 
+1120
 
+Skyfall
 
+200
 
+Bag
 
+9090
 
+Thar
 
+1000
 
+Fortuner
 
+8123
 
-iPhone 15 Pro Max
+Mustang
 
+1112
 
+Slow Motion
 
-256GB
+600
 
+Dog
 
+3333
 
-Rs 159,900
+Lamborghini
 
+4444
 
+Bugatti Chiron
 
-Rs 154,000
+3000
 
+Kawasaki Ninja H2r
 
+900
 
+Koeigness
 
+12345
 
-512GB
+MoreNpc
 
+2030
 
+Zombie
 
-Rs 179,900
+1216
 
+Ultra Super Jump
 
+800
 
-Rs 173,900
+Bugatti v2
 
+9999
 
+Royal Enfield Bullet
 
+5050
 
+Dino
 
-1TB
+9129
 
+Infinity Health
 
+8888
 
-Rs 199,900
+Duke 1290
 
+300
 
+TarzenCar
 
-Rs 193,500
+5000
 
+Pulsar Rs200
 
+2222
 
+ATV
 
+4040
 
-Apple iPhone 14
+Tank
 
+0
 
+Fuel Tank
 
-Old price
+5555
 
+Ghost Raider Bike
 
+54321
 
-New price
+More Traffic Car
 
+333
 
+Scorpio Classic
 
+500
 
+Audi
 
-128GB
+4000
 
+Porsche
 
+2244
 
-Rs 69,900
+Supra
 
+1215
 
+Super Jump
 
-Rs 69,600
+1190
 
+New KTM
 
+0
 
+Hero Pleasure
 
+8811
 
-256GB
+Ferrari
 
+1210
 
+KTM
 
-Rs 79,900
 
 
+How to use Indian Bike Driving 3D Cheat Codes
 
-Rs 79,600
+Begin by starting the Indian Bike Driving 3D game on your device.
 
+Look for the button featuring a phone icon, typically located at the bottom left corner of the game screen. Click on this icon to open the phone menu.
 
+Within the phone menu, find the handset icon, usually coloured green and positioned in the middle. Click on this icon to proceed.
 
+Upon clicking the handset icon, a contact list will appear on the screen. Look for an icon featuring nine orange circles at the bottom left corner of this screen. Click on it to access the number entry interface.
 
+In the number entry interface, use your device's keypad to input one of the provided cheat codes. Each cheat code corresponds to a specific reward mentioned in the description.
 
-512GB
+After entering the cheat code, press the confirm or enter button on your device's keypad. This action will immediately grant you the corresponding benefit associated with that cheat code.
 
+Also read |
 
+|
 
-Rs 99,900
-
-
-
-Rs 99,600
-
-
-
-
-
-
-
-Finance Minister Nirmala Sitharaman has reduced the basic customs duty on mobile phones, chargers, and some components as part of the Union Budget 2024, addressing a major demand from the electronics manufacturing industry. Currently, imported smartphones sold in India are subject to 18% GST and 22% customs duty (20% basic and 2% surcharge). The 10% surcharge on the basic customs duty will remain unchanged.Following the reduction, the total customs duty is now 16.5% (15% basic and 1.5% surcharge). For phones manufactured in India, only the 18% GST is applied. Apple imports its iPhone Pro and Pro Max models, while its other smartphones are produced locally.Post this announcement, Apple has reduced prices of iPhones in India. While the price cut on base models non-Pro is almost negligible at Rs 300, the cut on high end Pro models is up to Rs 6,000. Here are the new prices of iPhones as they appear on Apple's official store in India.Apple has already updated its website with the new prices of the iPhone. The iPhone 15 Pro and iPhone 15 Pro Max models have received a discount of up to Rs 6,000. In comparison, the iPhone 15 and iPhone 15 Plus have received less discounts.Furthermore, the affordable iPhone SE has got a price cut of Rs 2,300 and is now available for Rs 47,600 (down from Rs 49,900). Similarly, the iPhone 13 and iPhone 14 models are selling at prices of Rs 59,600 and Rs 69,600, respectively.Here’s our table comparison of all the iPhone models that are currently listed on Apple’s website.","Finance Minister Nirmala Sitharaman has reduced the basic customs duty on mobile phones, chargers, and some components as part of the Union Budget 2024. Apple imports its iPhone Pro and Pro Max models, while its other smartphones are produced locally. Post this announcement, Apple has reduced prices of iPhones in India. While the price cut on base models non-Pro is almost negligible, the cut on high end Pro models is up to Rs 6,000.","https://static.toiimg.com/thumb/msid-112043162,imgsize-16814,width-400,resizemode-4/112043162.jpg"
-CrowdStrike outage: Microsoft now wants to keep away the access of Windows Kernel from these companies,https://timesofindia.indiatimes.com/technology/tech-news/crowdstrike-outage-microsoft-now-wants-to-keep-away-the-access-of-windows-kernel-from-these-companies/articleshow/112057428.cms,"Following a major outage caused by a faulty CrowdStrike update last week, Microsoft is pushing for significant changes to Windows security architecture. The incident, which impacted 8.5 million PCs, has led Microsoft to reassess the resilience of its operating system and consider restricting kernel-level access for third-party security vendors .John Cable, Microsoft's vice president of program management for Windows servicing and delivery, outlined the company's stance in a blog post titled ""Windows resiliency: Best practices and the path forward."" Cable emphasised the need for ""end-to-end resilience"" and hinted at potential changes that could restrict kernel access for security software.The CrowdStrike update bug, which resulted in widespread system crashes, has highlighted the risks associated with allowing third-party applications to operate at the kernel level. This privileged access, while beneficial for threat detection, can lead to catastrophic failures if errors occur.Microsoft is now exploring alternatives that don't rely on kernel access, such as VBS enclaves and the Azure Attestation service. These technologies, which utilize Zero Trust approaches, could provide enhanced security without the risks associated with kernel-level operations.The tech giant's push for change may face resistance from cybersecurity vendors and regulators. A similar attempt to restrict kernel access in Windows Vista in 2006 was met with opposition. In contrast, Apple successfully locked down kernel access in macOS in 2020.Microsoft's approach involves collaboration with partners and the broader security community. The company aims to balance improved system resilience with the needs of security vendors who have historically relied on kernel-level access for their products.Microsoft's response to the CrowdStrike incident also included deploying over 5,000 support engineers to assist affected organizations and providing ongoing updates through the Windows release health dashboard. The company has emphasized the importance of business continuity planning, secure data backups, and utilizing cloud-native approaches for managing Windows devices to enhance resilience against future incidents.","Microsoft is pushing for changes to its Windows security architecture. The move follows a major outage caused by a faulty CrowdStrike update last week. The incident, which impacted 8.5 million PCs, has led Microsoft to reassess the resilience of its operating system.","https://static.toiimg.com/thumb/msid-112057392,imgsize-1874009,width-400,resizemode-4/112057392.jpg"
-ChatGPT maker OpenAI testing SearchGPT: 4 key things to know about the AI-powered search engine set to take on Google,https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openai-testing-searchgpt-4-key-things-to-know-about-the-ai-powered-search-engine-set-to-take-on-google/articleshow/112079736.cms,"
-
-
-
-SearchGPT in testing phase right now
-
-What OpenAI said about SearchGPT
-
-OpenAI to take on Microsoft Bing and Perplexity, along with Google
-
-SearchGPT may look like Google Overview
-
-(With agency inputs)
-
-OpenAI is testing an artificial intelligence-powered search engine that can access information from across the internet in real time. The prominent AI startup revealed the new prototype, SearchGPT , in a blog post earlier this week. OpenAI plans to integrate its new search engine technology with its existing online chatbot, ChatGPT. In a blog post, Microsoft-backed OpenAI said that the company plans to integrate the best features from the search tool into ChatGPT in the future.Here are the key things to know about SearchGPT.The company said it was testing the technology with a small group of users as well as online publishers who partnered with OpenAI to help build the search engine.“Getting answers on the web can take a lot of effort, often requiring multiple attempts to get relevant results,” the company said in its blog post. “We believe that by enhancing the conversational capabilities of our models with real-time information from the web, finding what you’re looking for can be faster and easier,” it added. Users will be able to interact with SearchGPT through conversational queries, and can ask follow-up questions as they might if speaking to a person, OpenAI said.Other than the search giant Google , SearchGPT launch, announced earlier this week, places the AI giant in competition with its largest backer Microsoft's Bing search and emerging services such as Perplexity — a search-focused AI chatbot firm backed by Amazon founder Jeff Bezos and semiconductor giant Nvidia . According to web analytics firm Statcounter, Google dominates the search engine market with a 91.1% share as of June 2024.Google recently added AI-generated query result summaries -- referred to as ""Overviews"" -- to its search engine. This new feature offers written text at the top of results for Google searches, ahead of the traditional links to websites, which summarizes information that the engine believes answers the user's search query. The description shared by OPenAI of SearchGPT appears similar to Google's Overviews.","OpenAI is testing an artificial intelligence-powered search engine that can access information from across the internet in real time. The AI startup revealed the new prototype, SearchGPT, in a blog post earlier this week. OpenAI plans to integrate its new search engine technology with its existing online chatbot, ChatGPT.","https://static.toiimg.com/thumb/msid-112079732,imgsize-10682,width-400,resizemode-4/112079732.jpg"
-"UK, EU question Elon Musk’s X over use of data to train Grok AI: What they said",https://timesofindia.indiatimes.com/technology/tech-news/uk-eu-question-elon-musks-x-over-use-of-data-to-train-grok-ai-what-they-said/articleshow/112082799.cms,"Also Read:
-
-How X’s auto-consent flouts tech rules in the UK, EU
-
-Elon Musk-owned X recently enabled by default a setting that allows the social media platform to utilise user data to train its AI model, Grok. This means X can use user posts, interactions, and outputs from Grok for training and refining its AI, requiring users to manually opt-out. Now the regulators in the UK and the European Union ( EU ) have reportedly connected with the company over its alleged attempt to gain user consent for data harvesting without their approval.While X claims this data is essential for improving user experience, privacy concerns have been raised. The setting states that users “allow your posts as well as your interactions, inputs and results with Grok to be used for training and fine-tuning”.Users have expressed difficulty in disabling this feature as the option is currently hidden within the web app's settings and unavailable on the mobile app.The move contradicts the tech laws in both the regions as the regulations prohibit pre-ticked consent boxes. Tech companies are not allowed to use “pre-ticked boxes” or “any other method of default consent”.Data protection authorities in the UK and Ireland have expressed their concerns over X's actions, as per a report by the Guardian. The UK's Information Commissioner's Office (ICO) is investigating the matter, emphasising the importance of transparency and user choice in data usage.“Platforms seeking to use their users’ data to train their AI foundation models must be transparent about their activities,” said a spokesperson for the ICO.“They should take steps to proactively notify users well in advance of using data for these purposes, and provide people with ample time and simple processes to object to having their data used in this way,” the spokesperson added.Similarly, Ireland's Data Protection Commission (DPC), the lead regulator for X in the EU, has expressed surprise at the development and is seeking further information from the company.“The DPC has been engaging with X on this matter for a number of months, with our latest interaction occurring as recently as yesterday, therefore we are surprised by today’s developments. We have followed up with X today (July 26) and are awaiting a response. We expect further engagement early next week,” said Graham Doyle, a DPC deputy commissioner.","X recently enabled by default a setting that allows the social media platform to utilise user data to train its AI model, Grok. This means X can use user posts, interactions, and outputs from Grok for training and refining its AI, requiring users to manually opt-out. Now the regulators in the UK and the European Union ( EU ) have reportedly connected with the company over its alleged attempt to gain user consent for data harvesting.","https://static.toiimg.com/thumb/msid-112082790,imgsize-17768,width-400,resizemode-4/112082790.jpg"
+Indian Bikes Driving 3D is an Android game that draws inspiration from the GTA series, offering players an immersive open-world experience akin to GTA San Andreas and GTA Vice City. Although the game provides captivating gameplay, players might face challenges, prompting developers to introduce cheat codes. These codes unlock new vehicles and special features, enriching the gaming experience.This article provides a comprehensive list of cheat codes for Indian Bikes Driving 3D to enhance your gameplay. Let's dive in!The developers of Indian Bikes Driving 3D frequently release new cheat codes. Here are the latest cheat codes for the game:Using cheat codes in the game is a simple and swift process. Follow these steps to effectively utilise the cheat codes:","Indian Bikes Driving 3D is an Android game series, offering an immersive open- world experience akin to GTA San Andreas and GTA Vice City. Cheat codes unlock special features, enriching the gaming experience. Each cheat code corresponds to a specific reward mentioned in the description.","https://static.toiimg.com/thumb/msid-112213000,imgsize-66626,width-400,resizemode-4/112213000.jpg"
 Oppo K12x 5G debut in India with MediaTek Dimensity 6300 processor and 32MP camera: Price and other details,https://timesofindia.indiatimes.com/technology/mobiles-tabs/oppo-k12x-5g-debut-in-india-with-mediatek-dimensity-6300-processor-and-32mp-camera-price-and-other-details/articleshow/112100720.cms,"
 
 Oppo K12x 5G price and availability
@@ -454,32 +533,46 @@ Oppo K12x 5G price and availability
 Oppo K12x 5G features
 
 Oppo took the wraps off its K12x 5G phone in India today. The smartphone comes with a starting price of Rs 12,999 and is claimed to be the toughest phone under Rs 15K. It comes with a 360-degree damage-proof armour body. Powered by a MediaTek chip, the device has a 5,100mAh battery with 45W SuperVOOC charger. Here are the detailsOppo K12x 5G has two RAM variants - 6GB and 8GB paired with 128GB and 256GB storage capacities.The 6GB RAM model costs Rs 12,999, while the 8GB RAM model is priced at Rs 15,999. The handset will be available in the country via Flipkart along with Oppo online stores and offline retail stores across the country.First sale of Oppo K12x 5G starts August 2 at 12 noon. Breeze Blue and Midnight Violet are the colour options that buyers can choose from.As far as the features are concerned, Oppo K12x 5G has a 6.67-inch 120Hz Ultra Bright display with 1000 nits of peak brightness. The smartphone has a 7.68 mm slim casing and weighs about 186 grams.The handset is said to have a 360° damage-proof armour body and comes with military standard certified - IP54 water and dust resistance design. Oppo K12x 5G houses a 5,100mAh battery and comes with 45 W SUPERVOOC Flash Charge.The Oppo K12x 5G smartphone comes powered by MediaTek Dimensity 6300 chipset based on 6nm architecture. It offers up to 8GB RAM expansion. On the camera front, the smartphone boasts of a 32MP AI main camera with 2MP secondary camera. For selfies and video calls, the phone has an 8MP camera at the front.","Oppo took the wraps off its K12x 5G phone in India today. The smartphone comes with a starting price of Rs 12,999 and is claimed to be the toughest phone under Rs 15K. Powered by a MediaTek chip, the device has a 5,100mAh battery with 45W SuperVOOC charger.","https://static.toiimg.com/thumb/msid-112101009,imgsize-16752,width-400,resizemode-4/112101009.jpg"
-Microsoft outage: CrowdStrike CEO explains the 'logic' that went wrong,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-outage-crowdstrike-ceo-explains-the-logic-that-went-wrong/articleshow/111880827.cms,"The 'logic' that went wrong in CrowdStrike update
+"Lost money through UPI, credit/debit cards, or ATM scams? Stay calm and follow these steps",https://timesofindia.indiatimes.com/technology/tech-tips/lost-money-through-upi-credit/debit-cards-or-atm-scams-stay-calm-and-follow-these-steps/articleshow/112193190.cms,"UPI or ATM scam victim? Immediate actions to take
 
-The machines impacted as per CrowdStrike
+Report the fraud immediately
 
-A faulty software update from US-based cybersecurity company CrowdStrike caused widespread disruptions on Friday, impacting critical services from airlines and banks to hospitals and stock exchanges. Millions of Microsoft Windows computers worldwide were rendered inoperable for several hours, and may across the world still continue to.In a blog post, CrowdStrike CEO George Kurtz, has explained what exactly may have caused the global outage.The post also shares a how-to guide for customers to fix the issue. There's also a root cause analysis. CrowdStrike emphasized that the incident was not a result of a cyberattack and that the issue has been resolved. Systems that downloaded the faulty update between 9:30 AM and 10:57 AM IST were most affected.""On July 19, 2024 at 04:09 UTC, as part of ongoing operations, CrowdStrike released a sensor configuration update to Windows systems. Sensor configuration updates are an ongoing part of the protection mechanisms of the Falcon platform. This configuration update triggered a logic error resulting in a system crash and blue screen (BSOD) on impacted systems,"" wrote Kurtz.The CEO claimed that the issue has been rectified, ""The sensor configuration update that caused the system crash was remediated on Friday, July 19, 2024 05:27 UTC.""""Customers running Falcon sensor for Windows version 7.11 and above, that were online between Friday, July 19, 2024 04:09 UTC and Friday, July 19, 2024 05:27 UTC, may be impacted. Systems running Falcon sensor for Windows 7.11 and above that downloaded the updated configuration from 04:09 UTC to 05:27 UTC – were susceptible to a system crash,"" said the blog post.",Faulty software update from US-based cybersecurity company CrowdStrike caused widespread disruptions on Friday. Millions of Microsoft Windows computers worldwide were rendered inoperable for several hours. CrowdStrike emphasized that the incident was not a result of a cyberattack and that the issue has been resolved.,"https://static.toiimg.com/thumb/msid-111880831,imgsize-1874009,width-400,resizemode-4/111880831.jpg"
-WazirX suspends trading after $230 million loss: What 'India Ka Bitcoin Exchange' said on losing nearly half its reserves,https://timesofindia.indiatimes.com/technology/tech-news/wazirx-suspends-trading-after-230-million-loss-what-india-ka-bitcoin-exchange-said-on-losing-nearly-half-its-reserves/articleshow/111908988.cms,"Biggest Crypto hack in recent times
+Block your card or UPI account
 
-Hackers may have links to North Korea
+File a complaint with your bank
 
-WazirX, the leading Indian cryptocurrency exchange, has temporarily suspended all trading activities following a devastating cyberattack that drained nearly half of its reserves. The exchange that calls itself ' India Ka Bitcoin Exchange ' revealed in a post on X (formerly Twitter) on July 21 that hackers managed to steal approximately $230 million worth of crypto assets.The breach exploited a vulnerability in the exchange's multi-signature wallet system, compromising the security of stored funds. To mitigate further losses and ensure the protection of remaining assets, WazirX has temporarily halted customer withdrawals.""Trading has been temporarily paused. The cyber attack theft has impacted our ability to maintain 1:1 collaterals with assets, and we've temporarily paused trading. We're conducting thorough forensic data examination and security audit procedures and working to enable withdrawals soon. User safety remains our top priority. Thank you for your patience and support during this challenging time. We will continue to provide regular updates 🙏,"" read the post.Based on the Cyvers estimate, the amount lost from the multiple-signature wallet on WazirX would be one of the biggest crypto thefts in recent years and comes just a month after Japanese crypto exchange DMM Bitcoin lost over $300 million in a hackThe incident is said to have raised concerns about the exchange's security protocols and its ability to safeguard user funds. Some are also questioning WazirX's claim of maintaining a 1:1 collateral ratio with assets, sparking fears among investors about potential losses.In an attempt to recover the stolen funds, WazirX has launched a bounty program offering up to $23 million for information leading to the arrest of the culprits and the return of the stolen assets. Preliminary investigations by risk-management firm Elliptic suggest that the hackers may have links to North Korea.Elliptic said in a blog post that hackers affiliated with North Korea appear to have carried out the hack. “The North Korea attribution is based on similarities in the types of services used by these hackers in the past, as well as similarities in their transactional behavior,” Tom Robinson, co-founder of Elliptic, said in an email.","WazirX, the leading Indian cryptocurrency exchange, has temporarily suspended all trading activities following a devastating cyberattack. The breach exploited a vulnerability in the exchange's multi-signature wallet system, compromising the security of stored funds. Preliminary investigations by risk-management firm Elliptic suggest that the hackers may have links to North Korea.","https://static.toiimg.com/thumb/msid-111908981,imgsize-10588,width-400,resizemode-4/111908981.jpg"
-Karnataka reservation bill: PhonePe CEO and founder Sameer Nigam issues this 'personal statement',https://timesofindia.indiatimes.com/technology/tech-news/karnataka-reservation-bill-phonepe-ceo-and-founder-sameer-nigam-issues-this-personal-statement/articleshow/111908948.cms,"Read PhonePe CEO Sameer Nigam’s personal note
+Lodge a complaint with the Cyber Crime Cell
 
-“PhonePe was born in Bengaluru and we are incredibly proud of our roots in this city, which is well known for its world-class technology talent and vibrant diversity. From Bengaluru, over the past decade we have expanded across the length and breadth of India and been able to deliver secure and efficient digital payments for over 55 Crore Indians.
+File an FIR
 
-Bengaluru's reputation as the ""Silicon valley of India"" is truly well-deserved. The city thrives on an incredible culture of innovation, and attracts the most brilliant young minds from Karnataka and the rest of India. As a company, we are deeply grateful for the supportive business environment that Karnataka’s governments and its local
+UPI and ATM frauds: Tracking and recovering your funds
 
-Kannadiga
+Follow up with your bank
 
-populace have offered us. Without such an inclusive ecosystem and progressive policies, Bengaluru would not have become a global technology superpower.
+Use the dispute resolution mechanism
 
-As a company we also thrive on celebrating diversity, we have always tried hard to deliver fair, unbiased and meritocracy-based employment opportunities for all Indians - including to all local Kannadigas. We believe such an approach gives every Indian a good job a chance to shine, and ultimately helps create more societal and economic value for Bengaluru, Karnataka and India.
+Leverage the Ombudsman scheme
 
-I read some recent media articles, relating to a few personal comments that I made last week regarding the draft job reservation bill. I would first and foremost like to clarify that it was NEVER my intention to insult Karnataka and it’s people. If my comments hurt anyone’s sentiments in such a way, I am truly sorry and would like to offer you an unconditional apology. I have the highest regard for Kannada, and all other Indian languages. In fact, I truly believe that linguistic diversity and rich cultural heritage is a national asset that all Indians should be proud of; and all Indians should be respectful of and celebrate local and cultural norms.
+UPI and ATM scams: Preventive measures for the future
 
-Bengaluru’s Indian startups are competing against trillion dollar giants like Google, Apple, Amazon and Microsoft. To do so, these companies must be able to employ the very best talent available in India purely based on their technology skills and proficiency in fields such as Coding, Design, Product Management, Data Sciences, Machine Learning, AI and beyond. As a nation, that is the only way we can build world-class companies that can compete in the global village that we live in today.
+Enable transaction alerts
 
-I also want to help create lakhs of jobs for Bengaluru and Karnataka. And, I believe with more dialogue and discussion, we can find ways to create more sustainable employment avenues. Let’s all work together to do this meaningfully and while creating long-term impact.”
+Set transaction limits
 
-PhonePe CEO Sameer Nigam issued a personal note following backlash over his comments on Karnataka 's job reservation bill. The controversy erupted after Nigam criticised the bill on social media platform X, questioning whether his children deserved jobs in their home city given his company's pan-India job creation.""If my comments hurt anyone's sentiments, I am truly sorry and would like to offer you an unconditional apology,"" Nigam said in a statement.He emphasised his 22-year connection to Bengaluru and respect for linguistic diversity.The Karnataka Cabinet had recently approved a bill mandating 50% reservation for locals in management roles and 70% in non-management positions within private companies. The bill, which also proposed 100% quota for locals in certain government jobs, was put on hold after industry backlash.Nigam stressed the need for merit-based hiring to build globally competitive companies. He reaffirmed PhonePe's commitment to Karnataka, stating the company plans to create thousands of new jobs in the state.",PhonePe CEO Sameer Nigam issued a personal note following backlash over his comments on Karnataka's job reservation bill. The controversy erupted after Nigam criticised the bill on social media platform X. Nigam emphasised his 22-year connection to Bengaluru and respect for linguistic diversity.,"https://static.toiimg.com/thumb/msid-111908944,imgsize-71462,width-400,resizemode-4/111908944.jpg"
+Use two-factor authentication
+
+Regularly monitor your statements
+
+Be wary of phishing scams
+
+Also read
+
+In the digital age, financial transactions have become incredibly convenient. The rise of Unified Payments Interface (UPI), credit/debit cards, and ATMs has revolutionised the way we manage our finances. However, with these advancements comes an increase in financial scams. Many individuals fall prey to fraudulent activities, losing hard-earned money in the process.If you have experienced such a situation, it is essential to remain calm and take immediate action. This guide outlines the crucial steps to follow if you lose money via UPI, credit/debit cards, or ATM scams , helping you secure your finances and increase the chances of recovery.As soon as you detect any unauthorised transaction, contact your bank or card issuer immediately. Most financial institutions have dedicated helplines for reporting fraud. Time is critical in these situations; the sooner you report, the better the chances of freezing the fraudulent transaction. Provide all necessary details, including the transaction amount, time, and any relevant information that can assist in the investigation.To prevent further unauthorised transactions, request your bank to block your card or freeze your UPI account. This step is vital in minimising the potential damage to your finances. Most banks offer this service through their customer service numbers or mobile apps. Additionally, changing your online banking passwords and securing your accounts is advisable.Visit your bank's nearest branch or use their online complaint system to file a detailed report about the fraud. Ensure you include all pertinent information, such as transaction details and any correspondence with the fraudsters. This documentation is essential for the bank's investigation and potential reimbursement.Reporting the fraud to the Cyber Crime Cell in your city is crucial. You can submit a complaint online via the National Cyber Crime Reporting Portal at cybercrime.gov.in. Provide comprehensive details and any evidence you have to support your claim. Cybercrime cells are equipped to handle such cases and can coordinate with banks and other institutions to track the fraudsters.If the amount lost is substantial, filing a First Information Report (FIR) at your local police station is necessary. This legal step initiates a formal investigation, which is often required for any reimbursement claims from your bank. Make sure to include all required documents and detailed information about the scam.Stay in constant contact with your bank during the investigation. Banks usually require up to 10 business days to investigate fraud cases. Keeping a record of all communications and following up regularly can expedite the process and ensure your case is prioritised.Banks and payment platforms have dispute resolution mechanisms in place. If the transaction was unauthorised, file a dispute with your bank. The bank might provisionally credit the disputed amount back to your account while the investigation is ongoing. Providing detailed information and documentation can help your case.If your bank's response is unsatisfactory, you can escalate the issue to the Banking Ombudsman. The Reserve Bank of India (RBI) offers this service to address grievances related to banking services. Filing a complaint with the Ombudsman can bring additional scrutiny and pressure on the bank to resolve your issue.Activate SMS and email alerts for all transactions on your bank accounts and cards. This feature allows you to detect unauthorised activity immediately and take swift action to prevent further fraud.Setting daily or per-transaction limits on your cards and UPI accounts can minimise potential losses if your account is compromised. Most banks offer this service through their mobile apps or online banking platforms.Two-factor authentication (2FA) enhances the security of your online transactions by adding an additional layer of protection. Enabling 2FA makes it harder for fraudsters to access your accounts, even if they have your password.Reviewing your bank and card statements regularly helps spot unauthorised transactions early. Immediate detection can prevent further fraud and make it easier to recover lost funds.Be cautious of unsolicited emails, messages, or phone calls asking for your banking details. Always confirm the legitimacy of such communications before replying. Banks and financial institutions will never request sensitive information through these methods.","The rise of Unified Payments Interface (UPI) and credit/debit cards has revolutionised the way we manage our finances. However, with these advancements comes an increase in financial scams. This guide outlines the crucial steps to follow if you lose money via UPI, credit/Debit cards, or ATM scams.","https://static.toiimg.com/thumb/msid-112193247,imgsize-263688,width-400,resizemode-4/112193247.jpg"
+"Oppo A3x 5G launches in India with 32MP camera and 5,100mAh battery: Price and other details",https://timesofindia.indiatimes.com/technology/mobiles-tabs/oppo-a3x-5g-launches-in-india-with-32mp-camera-and-5100mah-battery-price-and-other-details/articleshow/112215901.cms,"Oppo A3x price and availability
+
+
+
+Oppo A3x 5G features
+
+Oppo has launched a new smartphone under its A series. The company has launched Oppo A3x 5G phone in India. Priced under Rs 15,000, Oppo A3x 5G comes powered by a MediaTek processor and boasts of a 5,100mAh battery. Here's everything you need to know about the new Oppo phoneOppo A3x is offered in two storage models - 64GB and 128GB paired with 4GB RAM. The former costs Rs 12,499, while the 128GB variant is priced at Rs 13,499.Starry Purple, Sparkle Black, and Starlight White are the colour variants of the smartphone.It is available on Oppo online store along with offline retail stores across the country.Oppo A3x 5G is equipped with a 6.67-inch HD+ display with 120Hz refresh rate, 1000 nits peak brightness and 89.9% screen-to-body ratio. Powering the phone is the MediaTek Dimensity 6300 processor paired with 4GB RAM.Oppo A3x 5G comes with military-grade shock resistance against accidental drops and spills. As far as the camera is concerned, the handset boasts of a 32MP (8MP pixel-binned) primary camera. For selfies and video calls, the device has a 5MP camera at the front.The device houses a 5,100mAh battery coupled with 45watt SuperVOOC Flash Charge. G, 4G LTE, dual-band Wi-Fi, Bluetooth, GPS, and a USB Type-C port are some of the connectivity features on the Oppo A3x 5G. The smartphone runs on ColorOS 14.0 operating system.","Oppo has launched a new smartphone under its A series. The company has launched Oppo A3x 5G phone in India. Priced under Rs 15,000, the phone comes powered by a MediaTek processor. It is available on Oppo online store along with offline retail stores.","https://static.toiimg.com/thumb/msid-112215876,imgsize-23376,width-400,resizemode-4/112215876.jpg"
+Google Pixel 9 series’ Tensor G4 chip may not get major upgrades,https://timesofindia.indiatimes.com/technology/mobiles-tabs/google-pixel-9-series-tensor-g4-chip-may-not-get-major-upgrades/articleshow/112200277.cms,"Google 's upcoming Pixel 9 series, set to launch on August 13, will feature the new Tensor G4 chip . While the overall upgrade may be modest, the chip's improved modem could significantly enhance user experience, according to recent reports.The Tensor G4, as revealed by Android Authority, maintains many components from its predecessor but introduces a new CPU configuration and an upgraded modem.The chip adopts a 1+3+4 core layout, featuring newer ARMv9.2 cores: one Cortex-X4, three Cortex-A720, and four Cortex-A520. These cores are clocked slightly higher than those in the Tensor G3 .The most notable improvement comes from the Exynos Modem 5400 , which reportedly offers up to 50% better power consumption compared to the previous Exynos Modem 5300. This enhancement could address long-standing issues of heat generation and battery drain in Pixel devices, particularly when using cellular data.Android Authority's source indicates that the Tensor G4 retains many custom components from the G3, including the Titan M2 security chip and the TPU (Tensor Processing Unit). The chip's packaging process reportedly remains unchanged, using Samsung 's FOPLP (Fan-Out Panel Level Packaging) technology.Interestingly, the report mentions that not all Tensor G4 devices may benefit from the new modem. A future device, possibly the Pixel 9a , might use the older Exynos Modem 5300 instead.",Google's upcoming Pixel 9 series will feature the new Tensor G4 chip. The chip features a new CPU configuration and an upgraded modem. The modem reportedly offers up to 50% better power consumption compared to the previous Exynos Modem 5300.,"https://static.toiimg.com/thumb/msid-112202787,imgsize-530585,width-400,resizemode-4/112202787.jpg"
