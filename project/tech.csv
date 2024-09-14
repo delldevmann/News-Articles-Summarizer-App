@@ -1,104 +1,121 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-"Truecaller to show live caller IDs on iPhones, CEO says it will work ‘just like you would expect’",https://timesofindia.indiatimes.com/technology/tech-news/truecaller-to-show-live-caller-ids-on-iphones-ceo-says-it-will-work-just-like-you-would-expect/articleshow/113308639.cms,"Apple iOS 18 release documentation
+How a hacker tricked ChatGPT into giving a step-by-step guide for making homemade bombs,https://timesofindia.indiatimes.com/technology/tech-news/how-a-hacker-tricked-chatgpt-into-giving-step-by-step-guide-for-making-homemade-bombs/articleshow/113330675.cms,"Hacker 'jailbreaks' ChatGPT for infomration on making homemade bombs
 
-“Call history search Search for previous calls, transcribed voicemails, and contacts using a broad range of search criteria. Type in a number, a name, or a caller ID like ""plumber"" or ""bank"" to instantly fetch call history in real time. Search within Recents in the Phone app or use Spotlight Search to quickly surface information.
+ChatGPT is equipped with safety measures to prevent the generation of harmful content, such as sexual images or a detailed guide on creating a bomb. But a hacker has claimed to have discovered a way to bypass these safeguards without resorting to any hacking techniques.As per a report by TechCrunch, the AI chatbot first refused to assist with the request by saying, “Providing instructions on how to create dangerous or illegal items, such as a fertiliser bomb, goes against safety guidelines and ethical responsibilities.”The hacker says that it used a trick that ended in ChatGPT ignoring its safety guardrails to produce instructions for making powerful explosives.The hacker, known as Amadon, claimed that the method involved engaging ChatGPT in a science-fiction game scenario where safety restrictions don't apply, effectively “jailbreaking” the AI. He called his findings a “social engineering hack to completely break all the guardrails around ChatGPT’s output.”The publication has not revealed the prompts used in the jailbreak and some of ChatGPT’s responses as they are deemed potentially dangerous, raising concerns about the misuse of AI. Amadon believes that once the guardrails are breached, there's no limit to the information ChatGPT can provide.“I’ve always been intrigued by the challenge of navigating AI security . With [Chat]GPT, it feels like working through an interactive puzzle — understanding what triggers its defenses and what doesn’t,” Amadon was quoted as saying.“It’s about weaving narratives and crafting contexts that play within the system’s rules, pushing boundaries without crossing them. The goal isn’t to hack in a conventional sense but to engage in a strategic dance with the AI, figuring out how to get the right response by understanding how it ‘thinks,’” he added.While Amadon reported his findings to OpenAI through their bug bounty program, the company responded that model safety issues aren't suitable for such a program, as they are not easily fixable bugs.","ChatGPT is equipped with safety measures to prevent the generation of harmful content. But a hacker has claimed to have discovered a way to bypass these safeguards. The hacker, known as Amadon, claimed that the method involved engaging ChatGPT in a science-fiction game scenario where safety restrictions don't apply.","https://static.toiimg.com/thumb/msid-113330623,imgsize-412311,width-400,resizemode-4/113330623.jpg"
+"Sexual harassment probe opened against SAP CTO Jurgen Muller, here's what the company said",https://timesofindia.indiatimes.com/technology/tech-news/sexual-harassment-probe-opened-against-sap-cto-jurgen-muller-heres-what-the-company-said/articleshow/113334171.cms,"German prosecutors have launched a criminal investigation into SAP SE 's Chief Technology Officer, Jurgen Muller . The move comes after the company's announcement that he will step down at the end of the month due to ""inappropriate"" behaviour. In an emailed statement to Bloomberg, prosecutors confirmed the formal investigation is related to an allegation of sexual harassment .The report states that the inquiry was initiated after Muller allegedly made improper advances toward a female employee.What the company saidLast week, SAP issued a statement in which Muller said that he would leave the company following an incident at a company event. However, the company didn’t specify the details about what exactly happened at the event.“I want to address an incident at a past company event where my behaviour was inappropriate. I regret being inconsiderate and sincerely apologize to everyone affected. I recognize my behaviour at that moment did not reflect our values at SAP. I take full responsibility and believe stepping down is best for the company. I wish the team continued success,” Mueller said in the statementIn a separate statement to Bloomberg, SAP said it will fully cooperate with the investigation.Muller, who led SAP's ""business technology platform,"" joined the company in 2013 and became CTO in 2019. His contract was extended in April until the end of 2027 as he was responsible for preparing the company for more cloud computing customers.Muller's departure is the latest in a series of departures from the company’s management board. In August, chief marketing officer Julia White and chief revenue officer Scott Russell left SAP. These changes came after CEO Christian Klein started a restructuring program earlier this year to improve the company, reduce costs, and be more competitive in AI development.The company has plans to cut or retrain between 9,000 and 10,000 employees this year, which is about 10% of its workforce.As per a previous Bloomberg report, this is not the first time there have been concerns with the culture at SAP. Current and former employees have complained about bullying, harassment, and heavy drinking at company events. These problems have made it difficult for women to get promoted to executive positions.","German prosecutors have launched a criminal investigation into SAP SE's Chief Technology Officer, Jurgen Muller. The move comes after the company's announcement that he will step down at the end of the month due to ""inappropriate"" behaviour. Prosecutors confirmed the formal investigation is related to an allegation of sexual harassment.","https://static.toiimg.com/thumb/msid-113334169,imgsize-780360,width-400,resizemode-4/113334169.jpg"
+Telecom department comes with new 'Make in India' rules for these 36 products,https://timesofindia.indiatimes.com/technology/tech-news/telecom-department-comes-with-new-make-in-india-rules-for-these-36-products/articleshow/113333991.cms,"36 products in the list
 
-Live caller ID lookup New APIs allow developers like Truecaller to fetch information from their servers and provide live caller ID for incoming calls, in a privacy-preserving way.”
+“Sufficient local capacity and competition for these products in India”
 
-Truecaller on iPhones has been there for a while. However, it is not as seamless as on Android. One of the app’s key features - caller ID - is not available on iPhones due to privacy issues. But this is set to end soon with the iOS 18 rollout.Truecaller CEO Alan Mamedi in a post on X (formerly Twitter) said “From the iOS 18 feature release documentation :) Soon we will hopefully hear people say ‘Truecaller finally works on iPhone ’.Even though it has worked fairly OK in the last 2 years, this time it will be just like you would expect Truecaller to work, end to end.”The post also shared screenshots of release documentations of iOS 18 which reads:Truecaller has long been criticized for privacy. In 2022, an investigation conducted by The Caravan alleged that Truecaller gathered information without the user's consent. Truecaller, on its part, denied the allegations, saying that the investigation was flawed and based on incorrect data.","Truecaller on iPhones has been there for a while. However, it is not as seamless as on Android. One of the app’s key features - caller ID - is not available on iPhones due to privacy issues. But this is set to end soon with the iOS 18 rollout.","https://static.toiimg.com/thumb/msid-113308638,imgsize-12808,width-400,resizemode-4/113308638.jpg"
-OpenAI releases new o1 models with reasoning capabilities; available to these users,https://timesofindia.indiatimes.com/technology/tech-news/openai-releases-new-o1-models-with-reasoning-capabilities-available-to-these-users/articleshow/113307844.cms,"OpenAI o1-mini
+The Department of Telecommunications DoT ) has taken a significant step to boost domestic manufacturing in the telecom sector. In a notification issued recently, the telecom department has identified 36 products for which a minimum local content of 50% or more is now required in public procurement.To encourage stakeholder input, the DoT has invited comments on the draft notification within 15 days.The revised norms will apply to procurement by central government entities, including state-run companies and local bodies, as well as projects funded by the Universal Service Obligation Fund. ""This Notification shall be applicable in respect of the procurement made by all attached or subordinate offices or autonomous bodies under the Government of India including Government Companies as defined in the Companies Act, and/or the States and Local Bodies making procurement under all Central Schemes/ Central Sector Schemes where the Scheme is fully or partially funded by the Government of India. This Notification shall also be applicable in respect of projects wherein funding of goods, services or works are by the Universal Service Obligation Fund (USOF),"" said the DoT order.In an effort to further promote "" Make in India ,"" the government has excluded imported items sourced from resellers and distributors from the calculation of local content. Additionally, royalties, technical charges paid abroad, and repackaged or refurbished goods are no longer considered as local content.As per the report, these 36 products include routers, ethernet switches, media gateways, customer premises equipment, Gigabit Passive Optical Network (GPON) equipment, IP based Soft Switches, IMS, Unified Communication Systems, Wireline PABXs, VSAT Hub Subsystems, Satellite Phones(S Bands), Telecom Batteries, IP Audio/Video phones and IP/ Internet Set-top Box. From this list certain products will have minimum local content of more than 50%, on rest, the minimum local content has to be 65%.According to the telecom department, the 36 products identified in the list have sufficient local capacity and competition. The notification said that DoT will prioritise class-I suppliers, who must have at least 50% local content. If a class-I supplier is unable to fulfil an order, a class-II supplier with at least 20% local content may be considered. Manufacturers participating in the Production Linked Incentive (PLI) scheme for telecom products will be classified as class-II suppliers.To support indigenous technologies, the DoT has introduced the possibility of including proof of concept in tenders and requests for proposals as an alternative to qualifying experience, where applicable.","The Department of Telecommunications DoT ) has taken a significant step to boost domestic manufacturing in the telecom sector. In a notification issued recently, the telecom department has identified 36 products for which a minimum local content of 50% or more is now required in public procurement.","https://static.toiimg.com/thumb/msid-113333980,imgsize-65038,width-400,resizemode-4/113333980.jpg"
+How European Union may have 'bad' but not 'dangerous' news for Google,https://timesofindia.indiatimes.com/technology/tech-news/how-european-union-may-have-bad-but-not-dangerous-news-for-google/articleshow/113333907.cms,"EU antitrust regulators are considering hefty fines for Google's anti-competitive practices in its adtech business. A breakup order is not currently planned but remains a future possibility if issues persist. The decision may be announced in the coming months, following Margrethe Vestager's departure from office in November.","EU antitrust regulators are considering hefty fines for Google's anti- competitive practices in its adtech business. A breakup order is not currently planned but remains a future possibility if issues persist. The decision may be announced in the coming months, following Margrethe Vestager's departure from office in November.","https://static.toiimg.com/thumb/msid-113333900,imgsize-48848,width-400,resizemode-4/113333900.jpg"
+Infosys founder Narayana Murthy: My wife's logic was ...,https://timesofindia.indiatimes.com/technology/tech-news/infosys-founder-narayana-murthy-my-wifes-logic-was-/articleshow/113333089.cms,"Disciplined environment is most important
 
-Availability of OpenAI o1 series
+Murthy does not agree with coaching classes
 
-Sam Altman-led OpenAI has launched a new series of reasoning models under the o1 series . The company says that these new models can reason through complex tasks and solve harder problems than previous models in science, coding, and math.OpenAI o1 and OpenAI o1-mini , the company said, are trained to spend more time thinking through problems before they respond, much like a person would.OpenAI further claims that the o1 series models perform “similarly to PhD students on challenging benchmark tasks in physics, chemistry, and biology. We also found that it excels in math and coding.”“In a qualifying exam for the International Mathematics Olympiad (IMO), GPT-4o correctly solved only 13% of problems, while the reasoning model scored 83%,” it added.OpenAI says that the o1 model can be used by healthcare researchers to annotate cell sequencing data, by physicists to generate complicated mathematical formulas needed for quantum optics, and by developers in all fields to build and execute multi-step workflows.The company has also announced OpenAI o1-mini – a faster, cheaper reasoning model, particularly for coding.“As a smaller model, o1-mini is 80% cheaper than o1-preview, making it a powerful, cost-effective model for applications that require reasoning but not broad world knowledge,” the company stated.The company says that OpenAI o1 series will be available for ChatGPT Plus and Team users. They are rolling out to end users. Both o1-preview and o1-mini can be selected manually in the model picker. The models have a weekly rate limit of 30 messages for o1-preview and 50 for o1-mini.“We are working to increase those rates and enable ChatGPT to automatically choose the right model for a given prompt,” the company added.","OpenAI has launched a new series of reasoning models under the o1 series. The company says that these new models can reason through complex tasks and solve harder problems than previous models in science, coding, and math. OpenAI has also announced OpenAI o1-mini – a faster, cheaper reasoning model.","https://static.toiimg.com/thumb/msid-113307841,imgsize-412311,width-400,resizemode-4/113307841.jpg"
-Mark Zuckerberg discloses ‘one of the biggest mistakes of his career’: “I don’t actually think…”,https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-discloses-one-of-the-biggest-mistakes-of-his-career-i-dont-actually-think/articleshow/113302349.cms,"Mark Zuckerberg, CEO of Meta, reflected on his career's biggest mistakes in a recent podcast. He admitted that over-apologizing for Facebook’s content moderation issues was a '20-year mistake.' Zuckerberg also discussed the political challenges faced by Facebook, including backlash after Trump's 2016 election victory and the Cambridge Analytica data scandal.","Zuckerberg admitted that over-apologizing for Facebook’s content moderation issues was a '20-year mistake' He also discussed the political challenges faced by Facebook, including backlash after Trump's 2016 election victory and the Cambridge Analytica data scandal.","https://static.toiimg.com/thumb/msid-113302337,imgsize-101496,width-400,resizemode-4/113302337.jpg"
-Refund on Apple iPhone 15 and iPhone 14: What Apple's 'price protection' policy says and the conditions that apply,https://timesofindia.indiatimes.com/technology/tech-news/refund-on-apple-iphone-15-and-iphone-14-what-apples-price-protection-policy-says-and-the-conditions-that-apply/articleshow/113301334.cms,"Apple has unveiled its new iPhone 16 series featuring four models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. Pre-orders commence on September 13 with sales starting on September 20. Additionally, Apple has slashed prices of older models like the iPhone 15 and iPhone14 by Rs10,000 and offers refunds under certain conditions.","Apple has unveiled its new iPhone 16 series featuring four models. Pre-orders commence on September 13 with sales starting on September 20. Apple has slashed prices of older models like the iPhone 15 and iPhone14 by Rs10,000 and offers refunds under certain conditions.","https://static.toiimg.com/thumb/msid-113301330,imgsize-39978,width-400,resizemode-4/113301330.jpg"
-Airtel partners Sparkle to increase capacity on low latency route between India and Italy,https://timesofindia.indiatimes.com/technology/tech-news/airtel-partners-sparkle-to-increase-capacity-on-low-latency-route-between-india-and-italy/articleshow/113299557.cms,"Airtel Business has entered into an agreement with Sparkle for additional capacity on the Blue-Raman Submarine Cable Systems, linking India and Italy. This partnership aims to diversify Airtel’s global network and meet rising data demands. Both companies will collaborate on new business ventures in the Indian sub-continent.",Airtel Business has entered into an agreement with Sparkle for additional capacity on the Blue-Raman Submarine Cable Systems. This partnership aims to diversify Airtel’s global network and meet rising data demands. Both companies will collaborate on new business ventures in the Indian sub-continent.,"https://static.toiimg.com/thumb/msid-113299541,imgsize-19764,width-400,resizemode-4/113299541.jpg"
-Britain’s one of the largest mobile services providers BT Group raises cybersecurity alarm: “...every 90 seconds hackers are checking…”,https://timesofindia.indiatimes.com/technology/tech-news/britains-one-of-the-largest-mobile-services-providers-bt-group-raises-cybersecurity-alarm-every-90-seconds-hackers-are-checking/articleshow/113298258.cms,"Other industry targets of hackers
+Infosys founder NR Narayana Murthy recently emphasized on the importance of parental involvement in fostering a disciplined learning environment for children. Speaking at the launch of a physics textbook, Murthy shared his family's approach to education, which included dedicated reading and study time and a ban on television.Murthy and his wife, Sudha, established a routine where they would spend over three hours each day reading with their children, Akshata and Rohan.This practice not only created a conducive atmosphere for learning but also allowed the children to seek clarification from their parents.“My wife's logic was, if I am watching TV, I cannot tell my children to study. So she said, I will sacrifice my TV time, and I will also study,” Murthy told the media after unveiling Paul Hewitt’s 13th edition of Pearson's book Conceptual Physics in Bengaluru.While Murthy acknowledged that parents may not always have the same level of academic expertise as their children, he emphasized that the most crucial aspect is creating a disciplined environment. Parents who lead by example, avoiding distractions like excessive television, can significantly influence their children's study habits.Murthy also expressed his reservations about coaching classes, suggesting that they are often a last resort for students who have not paid attention in class. He believes that effective learning should primarily occur within the classroom, with parents providing support and guidance at home.As the coaching industry continues to expand in India, Murthy's perspective offers a counterpoint to the prevailing emphasis on external tutoring. By highlighting the importance of parental involvement and a disciplined learning environment, he encourages parents to play a more active role in their children's education.","Infosys founder NR Narayana Murthy recently emphasized on the importance of parental involvement in fostering a disciplined learning environment. Murthy and his wife, Sudha, established a routine where they would spend over three hours each day reading with their children, Akshata and Rohan.","https://static.toiimg.com/thumb/msid-113333078,imgsize-38556,width-400,resizemode-4/113333078.jpg"
+"Meta will restart training its AI using public Facebook, Instagram content in UK",https://timesofindia.indiatimes.com/technology/tech-news/meta-will-restart-training-its-ai-using-public-facebook-instagram-content-in-uk/articleshow/113330550.cms,"Facebook parent Meta will begin training its generative AI models using public content from adult users in the UK, following positive engagement with the UK's Information Commissioner's Office. The initiative aims to reflect British culture and history in AI models and simplifies the objection process for users concerning their data usage.",Facebook parent Meta will begin training its generative AI models using public content from adult users in the UK. The initiative aims to reflect British culture and history in AI models and simplifies the objection process for users concerning their data usage. It follows positive engagement with the UK's Information Commissioner's Office.,"https://static.toiimg.com/thumb/msid-113330542,imgsize-20454,width-400,resizemode-4/113330542.jpg"
+Google rolling out Gemini Live AI assistant access to all Android users for free: How to access,https://timesofindia.indiatimes.com/technology/tech-news/google-rolling-out-gemini-live-ai-assistant-access-to-all-android-users-for-free-how-to-access/articleshow/113330172.cms,"“We're starting to roll out Gemini Live in English to more people using the Android app, free of charge. Go Live to talk things out with Gemini, explore a new topic, or brainstorm ideas. Keep an eye out for Gemini Live in the
 
-Bharti Group acquires 24.5% stake in British Telecom
+Gemini app
 
-BT Group , which is one of Britain's largest mobile services providers, has claimed it has spotted 2,000 signals of potential cyber-attacks across its network every second, a report has said. According to the company, cyber criminals have been using disposable “bots” to try to evade existing blocking and security measures.“Our data shows that every 90 seconds hackers are checking connected devices to find a way in,” said BT's managing director of security Tris Morgan, as per news agency Reuters.It also claimed that the digital surveillance activity by hackers using malicious scanning “bots” was 1,200% higher in July compared to the same month the previous year.Without providing any further information, BT said that hackers are also targeting the retail, education and hospitality industries as well as the defence and financial services sectors – which are their traditional hunting grounds.This data was released at the company’s Secure Tomorrow cybersecurity event, where it showed its quantum secure communications and AI cyber defence capabilities.Last month, Sunil Bharti Mittal's conglomerate announced that it will buy a stake in BT Group for about $4 billion to become the single largest shareholder in Britain's biggest broadband and mobile company.The company said in a statement that Bharti Global, the international investment arm of Bharti Enterprises , will buy a 9.99 per cent stake in BT Group from Patrick Drahi's Altice immediately and purchase the remainder after it secures the necessary regulatory approvals.Bharti is India's second-largest telecom operator with about 400 million subscribers. BT owned a 21% stake in Bharti Airtel from 1997 to 2001.","BT claims it has spotted 2,000 signals of potential cyber-attacks across its network every second. Cyber criminals have been using disposable “bots” to try to evade existing blocking and security measures. Data was released at the company’s Secure Tomorrow cybersecurity event, where it showed its quantum secure communications.","https://static.toiimg.com/thumb/msid-113298242,imgsize-25810,width-400,resizemode-4/113298242.jpg"
-"Garena Free Fire Max redeem codes for September 12, 2024: Win free rewards like gold, gun skins, pets, and more",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-september-12-2024-win-free-rewards-like-gold-gun-skins-pets-and-more/articleshow/113270008.cms,"What are Free Fire Max redeem codes?
+👀”
 
-Garena Free Fire Max redeem codes for September 12, 2024
+Take a look at the post here
 
-GARE-TB3N-4C5R
 
-X4SW-FGRH-G76T
 
-6AQ2-WS3X-FE4R
+Gemini Live for all Android users: Availability
 
-TGHY-VFD4-E3AR
 
-QFDS-S5ER-7Y8U
 
-JHGF-DSAS-DFVB
+Gemini Advanced subscription: All the details
 
-GFHY-T5R4-E3W2
+","Summarize: “We're starting to roll out Gemini Live in English to more people using the Android app, free of charge. Go Live to talk things out with Gemini, explore a new topic, or brainstorm ideas.”","https://static.toiimg.com/thumb/msid-113330185,imgsize-17614,width-400,resizemode-4/113330185.jpg"
+Garena Free Fire MAX redeem codes for September 13: Win in-game goodies and rewards,https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-september-13-win-in-game-goodies-and-rewards/articleshow/113302749.cms,"What Are Free Fire Max Redeem Codes?
 
-NGFD-MKI8-7Y6T
+Garena Free Fire Max Redeem Codes Today, September 13
 
-VFGV-JEK5-M8H7
+FFTU-89VX-1ZW2
 
-BGR5-TY7Y-J9W3
+FFXY-34BC-5DV6
 
-DGET-FMCK-D7E4
+FFPL-77MQ-8RT9
 
-4EET-Z4V2-B5J6
+FFQW-12TS-3FG4
 
-8XJT-Y2E4-K1G2
+FFER-56GH-7IJ8
 
-6EQT-W3FV-2A5T
+FFYU-91ZL-23KO
 
-3RJI-9H2V-CXE5
+FFLP-45MX-6PN7
 
-4PQL-7M5D-JX4E
+FFTR-89SA-1DH2
 
-T2JK-5F9E-D7C6
+FFBJ-34VK-5WM6
+
+FFNX-77QZ-8RP9
+
+FFQE-12WD-3ER4
+
+FFGR-56TH-7UJ8
+
+FFYL-91CV-23BN
+
+FFAB-12CD-3GH4
+
+FFDE-56FV-7GH8
+
+FFJI-91JK-2LM3
+
+FFNO-45PQ-6RS7
+
+How To Redeem Free Fire Codes
+
+To reach the Rewards Redemption website, go to https://reward.ff.garena.com/en.
+
+Sign in using your credentials from platforms like Facebook, X, Apple ID, Google, VK ID, or Huawei ID.
+
+After logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
+
+Once the code is successfully redeemed, you can collect your Free Fire rewards by launching the game on your device.
+
+Important Tips
+
+After successfully redeeming the code, you can collect your rewards from the in-game mail section.
+
+Keep in mind that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
+
+Please allow up to 24 hours for the rewards to be credited to your account.
 
 Also read
 
-How to redeem Free Fire Codes
+Embark on an exhilarating gaming adventure with Garena Free Fire MAX! This immensely popular battle royale game has earned widespread acclaim among Indian gamers, particularly following the ban on its predecessor, Garena Free Fire. Featuring stunning graphics and captivating gameplay, Garena Free Fire MAX has captivated players across the nation.The introduction of redemption codes in Garena Free Fire MAX introduces an exciting new element to the game.These codes, available for a limited period ranging from 12 to 18 hours, create anticipation and urgency, elevating the gaming experience for players.In accordance with developer regulations, the 12-character alphanumeric Garena FF redemption codes offer a daily opportunity for up to 500 registered players to claim rewards. This ensures fairness, providing all players with an equal chance to enhance their in-game journey.Renowned for its time-sensitive rewards, breathtaking visuals, innovative features, and immersive gameplay, Garena Free Fire MAX continues to captivate the gaming community. Its intricately designed and thrilling universe offers an enticing experience for players.As India's premier battle royale title, Garena Free Fire MAX remains a frontrunner in the gaming industry. Players are invited to engage in intense battles, strategic gameplay, and exclusive rewards, guaranteeing an unparalleled gaming experience within the dynamic world of Garena Free Fire MAX.Enhance your gaming adventure with specialised redemption codes tailored for Garena Free Fire Max, granting access to a plethora of in-game items and rewards. Whether you're a seasoned player or new to the virtual battleground, these codes offer a unique opportunity to enrich your gaming journey, strategize effectively, and delve deeper into the excitement.Comprising 12-character alphanumeric combinations, including uppercase letters and numbers, these codes significantly elevate the overall gaming experience. Upon successful redemption, players unlock a variety of thrilling rewards that not only enhance the gaming environment but also provide strategic advantages on the virtual battlefield.Seize the opportunity to elevate your gaming experience with exclusive redemption codes, meticulously crafted to enhance your gameplay in Garena Free Fire Max. These codes unlock coveted weapons, unique skins, and other in-game items, greatly enhancing immersion and offering a personalised gaming experience.","Garena Free Fire Max is India's premier battle royale title. Redeem codes to unlock in-game items and rewards. Available for a limited period ranging from 12 to 18 hours, codes create anticipation and urgency, elevating the gaming experience for players.","https://static.toiimg.com/thumb/msid-113302770,imgsize-69740,width-400,resizemode-4/113302770.jpg"
+"Hamster Kombat Daily Cipher Codes and Combo Cards for September 13, 2024: Unlock up to 1 million coins",https://timesofindia.indiatimes.com/technology/gaming/hamster-kombat-daily-cipher-codes-and-combo-cards-for-september-13-2024-unlock-up-to-1-million-coins/articleshow/113301301.cms,"What are the Daily Cipher Code and Combo Card?
 
-Access Rewards Redemption website by clicking https://reward.ff.garena.com/en
+Hamster Kombat Daily Cipher code for September 13, 2024
 
-Login using the platforms: Facebook, X, Apple ID, Google, VK ID or Huawei ID
+“INSPIRE”
 
-Enter the redeem code in the text box appearing on the screen
+▬ Long Tap
 
-Click ‘Confirm’ to conclude the redemption process
+● Short Tap
 
-Upon successful redemption, claim your Free Fire rewards by launching the Free Fire game on your device
+Today’s morse code is: INSPIRE
 
-Key points to keep in mind:
+I: • •
 
-After successfully redeeming the codes, players can access their rewards through the in-game mail section
+N: — •
 
-These codes are not valid for guest accounts; you must link your account to Facebook, X, or VK to claim the rewards
+S: • • •
 
-Kindly allow a 24-hour processing period for the rewards to be credited
+P: • — — •
 
-Also read
+I: • •
 
-Garena Free Fire Max , a popular battle royale game, offers an upgraded gaming experience over the original Garena Free Fire, which was banned in India by the central government. Since its launch, Free Fire Max has gained immense popularity among Indian gamers due to its enhanced graphics and exciting gameplay. The developers regularly release redeem codes, providing players with additional benefits and rewards.In Garena Free Fire Max, redeem codes enable players to acquire a range of valuable in-game items, including weapons, diamonds, and exclusive skins.These codes, comprising 12-character alphanumeric combinations, enhance the overall gaming experience. Upon redemption, players can receive rewards such as the Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. It is crucial to note that these codes are time-sensitive, usually valid for up to 12 hours, and limited to the first 500 users who redeem them.","In Garena Free Fire Max, redeem codes enable players to acquire a range of valuable in-game items, including weapons, diamonds, and exclusive skins. Upon redemption, players can receive rewards such as the Rebel Academy Weapon Loot Crate, Revolt Weapon Loot crate, Fire Head Hunting Parachute.","https://static.toiimg.com/thumb/msid-113270155,imgsize-65374,width-400,resizemode-4/113270155.jpg"
-"Hamster Kombat Daily Cipher Codes and Combo Cards for September 9, 2024: Unlock up to 1 million coins",https://timesofindia.indiatimes.com/technology/gaming/hamster-kombat-daily-cipher-codes-and-combo-cards-for-september-9-2024-unlock-up-to-1-million-coins/articleshow/113173891.cms,"What are the Daily Cipher Code and Combo Card?
+R: • — •
 
-Hamster Kombat Daily Cipher code for September 9, 2024
-
-Today’s morse code is: 260924
-
-2: ● ● ▬ ▬ ▬
-
-6: ▬ ● ● ● ●
-
-0: ▬ ▬ ▬ ▬ ▬
-
-9: ▬ ▬ ▬ ▬ ●
-
-2: ● ● ▬ ▬ ▬
-
-4: ● ● ● ● ▬
+E: •
 
 Morse code sheet for quick reference
 
@@ -110,159 +127,315 @@ Tips
 
 A
 
+
+
 • —
+
+
 
 Dot, Dash
 
+
+
 B
+
+
 
 — • • •
 
+
+
 Dash, Dot, Dot, Dot
+
+
 
 C
 
+
+
 — • — •
+
+
 
 Dash, Dot, Dash, Dot
 
+
+
 D
+
+
 
 — • •
 
+
+
 Dash, Dot, Dot
+
+
 
 E
 
+
+
 •
+
+
 
 Dot
 
+
+
 F
+
+
 
 • • — •
 
+
+
 Dot, Dot, Dash, Dot
+
+
 
 G
 
+
+
 — — •
+
+
 
 Dash, Dash, Dot
 
+
+
 H
+
+
 
 • • • •
 
+
+
 Dot, Dot, Dot, Dot
+
+
 
 I
 
+
+
 • •
+
+
 
 Dot, Dot
 
+
+
 J
+
+
 
 • — — —
 
+
+
 Dot, Dash, Dash, Dash
+
+
 
 K
 
+
+
 — • —
+
+
 
 Dash, Dot, Dash
 
+
+
 L
+
+
 
 • — • •
 
+
+
 Dot, Dash, Dot, Dot
+
+
 
 M
 
+
+
 — —
+
+
 
 Dash, Dash
 
+
+
 N
+
+
 
 — •
 
+
+
 Dash, Dot
+
+
 
 O
 
+
+
 — — —
+
+
 
 Dash, Dash, Dash
 
+
+
 P
+
+
 
 • — — •
 
+
+
 Dot, Dash, Dash, Dot
+
+
 
 Q
 
+
+
 — — • —
+
+
 
 Dash, Dash, Dot, Dash
 
+
+
 R
+
+
 
 • — •
 
+
+
 Dot, Dash, Dot
+
+
 
 S
 
+
+
 • • •
+
+
 
 Dot, Dot, Dot
 
+
+
 T
+
+
 
 —
 
+
+
 Dash
+
+
 
 U
 
+
+
 • • —
+
+
 
 Dot, Dot, Dash
 
+
+
 V
+
+
 
 • • • —
 
+
+
 Dot, Dot, Dot, Dash
+
+
 
 W
 
+
+
 • — —
+
+
 
 Dot, Dash, Dash
 
+
+
 X
+
+
 
 — • • —
 
+
+
 Dash, Dot, Dot, Dash
+
+
 
 Y
 
+
+
 — • — —
+
+
 
 Dash, Dot, Dash, Dash
 
+
+
 Z
+
+
 
 — — • •
 
+
+
 Dash, Dash, Dot, Dot
+
+
 
 
 
@@ -276,51 +449,83 @@ Wait at least 1.5 seconds between each letter sequence to ensure proper registra
 
 How to activate Daily Cipher Mode?
 
-To activate the Daily Cipher mode, simply go to the ""Exchange"" tab and press the ""Daily Cipher"" button. Once activated, enter the daily Morse code using the following tapping patterns:
-
 Dash / Long (— or – ): Hold a long tap for 3 seconds.
 
 Dot / Short (. or • ): Perform a quick tap without holding your finger on the screen.
 
-Hamster Daily Combo Cards for 09 September, 2024
+Hamster Daily Combo Cards for 13th September, 2024
 
 
 
-VC Labs/ PR & Team Tab
+Binance Listing/ Specials Tab
 
-Influencers/ PR & Team Tab
+OKX Listing/ Specials Tab
 
-Gym hamster/ Specials Tab
+Bybit Listing/ Specials Tab
 
 Card
 
+
+
 Tab
+
+
 
 Cost
 
+
+
 Waiting Timer
 
-VC Labs
 
-PR & Team Tab
 
-Low no
+Binance Listing
 
-Influencers
 
-PR & Team Tab
-
-Low
-
-no
-
-Gym hamster
 
 Specials Tab
 
+
+
+Very high
+
+
+
+yes
+
+
+
+OKX Listing
+
+
+
+Specials Tab
+
+
+
+Very high
+
+
+
+yes
+
+
+
+Bybit Listing
+
+
+
+Specials Tab
+
+
+
 very high
 
-no
+
+
+yes
+
+
 
 
 
@@ -330,9 +535,89 @@ Date
 
 Daily Cipher Code
 
+12 September 2024
+
+
+
+
+
+D: — • •
+
+E: •
+
+L: • — • •
+
+I: • •
+
+G: — — •
+
+H: • • • •
+
+T: —
+
+
+
+11 September 2024
+
+
+
+
+
+T: —
+
+H: • • • •
+
+R: • — •
+
+I: • •
+
+L: • — • •
+
+L: • — • •
+
+
+
+10 September 2024
+
+
+
+
+
+E: •
+
+M: — —
+
+O: — — —
+
+T: —
+
+I: • •
+
+O: — — —
+
+N: — •
+
+
+
+09 September 2024
+
+
+
+2: ● ● ▬ ▬ ▬
+
+6: ▬ ● ● ● ●
+
+0: ▬ ▬ ▬ ▬ ▬
+
+9: ▬ ▬ ▬ ▬ ●
+
+2: ● ● ▬ ▬ ▬
+
+4: ● ● ● ● ▬
+
+
+
 08 September 2024
-
-
 
 
 
@@ -344,39 +629,23 @@ C: ▬ ● ▬ ●
 
 
 
-
-
 07 September 2024
 
 
 
 R: • — •
 
-
-
 E: •
-
-
 
 G: — — •
 
-
-
 I: • •
-
-
 
 S: • • •
 
-
-
 T: —
 
-
-
 E: •
-
-
 
 R: • — •
 
@@ -964,178 +1233,9 @@ S: • • •
 
 
 
-Also Read
+Also read
 
-The widely popular Telegram-based crypto tap-to-earn game has just revealed the code word and card combinations that could earn you up to 6 million tokens for free.Since its launch in March 2024, Hamster Kombat has seen explosive growth, attracting over 200 million users globally. The viral clicker game centers around a Hamster who acts as the CEO of a simulated virtual crypto exchange.Players are tasked with supporting this ambitious rodent by mining coins and upgrading the exchange’s level.As a reward for their efforts, players can earn free bonuses. Mining in Hamster Kombat is simple—just tap on the Hamster icon until your energy bar is depleted.The Daily Cipher Code and Combo Card are special challenges within the game designed to reward players with even more tokens. The Daily Cipher Code is a task where players must decipher a word using Morse code. Successfully cracking the code within the 24-hour time limit can earn you 1 million coins.The Daily Combo Card is a challenge that requires players to correctly choose three cards from the game’s upgrade categories: PR & Team, Markets, Legal, Specials, and Web3. Completing this challenge can net you an additional 5 million coins. Like the Cipher Code, the Combo Card is updated daily.The Hamster Kombat Daily Cipher code for today is “260924” Enter the code using the Morse sheet given below and earn up to 1 million coins.▬ Long Tap● Short TapToday's special cars was ""A pair of skis""","Hamster Kombat Daily Cipher code for September 9, 2024 is 260924. To solve today’s cipher:Tap once for a dot (•).Tap and hold for a dash (—).Wait at least 1.5 seconds between each letter sequence to ensure proper registration.","https://static.toiimg.com/thumb/msid-113173929,imgsize-36200,width-400,resizemode-4/113173929.jpg"
-"iPhone 16 series launched: Complete features, specifications, price in India, and how to pre-order",https://timesofindia.indiatimes.com/technology/mobiles-tabs/iphone-16-series-launched-complete-features-specifications-price-in-india-and-how-to-pre-order/articleshow/113255679.cms,"
-
-Apple iPhone 16 series price in India
-
-Model
-
-Storage
-
-
-
-Price
-
-
-
-iPhone 16
-
-128GB
-
-
-
-Rs 79,900
-
-
-
-iPhone 16
-
-256GB
-
-
-
-Rs 89,900
-
-
-
-iPhone 16
-
-512GB
-
-
-
-Rs 1,09,900
-
-
-
-iPhone 16 Plus
-
-
-
-128GB
-
-
-
-Rs 89,900
-
-
-
-iPhone 16 Plus
-
-256GB
-
-
-
-Rs 99,900
-
-
-
-iPhone 16 Plus
-
-512GB
-
-
-
-Rs 1,19,900
-
-
-
-iPhone 16 Pro
-
-
-
-128GB
-
-
-
-Rs 1,19,900
-
-
-
-iPhone 16 Pro
-
-256GB
-
-
-
-Rs 1,29,900
-
-
-
-iPhone 16 Pro
-
-512GB
-
-
-
-Rs 1,49,900
-
-
-
-iPhone 16 Pro
-
-1TB
-
-
-
-Rs 1,69,900
-
-
-
-iPhone 16 Pro Max
-
-
-
-256GB
-
-
-
-Rs 1,44,900
-
-
-
-iPhone 16 Pro Max
-
-512GB
-
-
-
-Rs 1,64,900
-
-
-
-iPhone 16 Pro Max
-
-1TB
-
-
-
-Rs 1,84,900
-
-
-
-
-
-
-
-Apple iPhone 16 series how to pre-order
-
-Apple iPhone 16 series display
-
-Apple iPhone 16 series colours
-
-Apple iPhone 16 series camera
-
-
-
-Apple iPhone 16 series performance
-
-Read More |
-
-Apple iPhone 16 series is now official. The series comprises of four phones -- iPhone 16, iPhone 16 Plus, iPhone 16 Pro and iPhone 16 Pro Max. This year, Apple packs the 2024 iPhone lineup with a host of new features including a new Camera Control button and Apple Intelligence rolling out with iOS18. While the standard models -- iPhone 16 and iPhone 16 Plus are powered by A18 Bionic chipset, the iPhone 16 Pro and iPhone 16 Pro Max come with A18 Pro Bionic chip.All four devices run on iOS 18 operating system that was announced in June this year. Let’s take a look at the specs, price and other details of the phonesThe standard model iPhone 16 is offered in three storage models – 128GB, 256GB and 512GB. It comes with a starting price of Rs 79,900. Similarly, the Plus models – iPhone 16 Plus carries a price tag of Rs 89,900 (base model).In the Pro category, the iPhone 16 Pro comes with a starting price of Rs 1,19,900. Apple iPhone 16 Pro Max, on the other hand, is priced at Rs 1,44,900.Pre-orders for iPhone 16 series start September 13 at 5:30pm. Those interested can head to Apple India store along with Flipkart, Amazon, and other stores to pre-order your favorite iPhone 16 series model.Coming to the display, the iPhone 16 features a 6.1-inch Retina XDR OLED display, while the Plus model has a bigger 6.7-inch Retina XDR OLED screen.Apple has bumped up the screen size of iPhone 16 Pro and iPhone 16 Pro Max to 6.3-inch and 6.9-inch Retina XDR OLED screens.Apple iPhone 16 and iPhone 16 Plus come in Black, White, Pink, Teal and Ultramarine colour variants. While the iPhone 16 Pro and iPhone 16 Pro Max are offered in Black Titanium, White Titanium, Natural Titanium and Desert Titanium colour variants.Both iPhone 16 Pro and iPhone 16 Pro Max are equipped with 48MP Fusion camera on the rear paired with a 48MP ultra-wide camera and a 12MP telephoto camera. Users can capture 4K120 fps in Slo-mo or Video mode, and adjust the playback speed after capture in the Photos app.While the iPhone 16 and iPhone 16 Plus offer 48MP Fusion camera and 12MP ultra-wide camera on the rear. The Ultra Wide camera gathers up to 2.6x more light for higher image quality. Additionally, iPhone 16 and iPhone 16 Plus now take spatial photos and videos.All four phones under the iPhone 16 series boast of a 12MP TrueDepth camera at the front for selfies and video calls.Apple iPhone 16 series will run on iOS 18 operating system. The iPhone 16 and iPhone 16 Plus are powered by A18 Bionic chipset which is claimed to come with an upgraded 16-core Neural Engine, optimized for large generative models and runs ML models up to 2x faster than the A16 Bionic chip. The new A18 chip delivers a huge leap in performance and efficiency, enabling demanding AAA games, as well as a big boost in battery life. The 6-core CPU is 30 percent faster than the A16 Bionic chip and faster than all the competition. It is also more power efficient and can run the same workload with 30 percent less power than A16 Bionic. The 5-core GPU is up to 40 percent faster and 35 percent more efficient than A16 Bionic to power stunning graphics performance for Apple Intelligence.While the Pro models – iPhone 16 Pro and iPhone 16 Pro Max are equipped with A18 Pro chipset with 6-core GPU, which is up to 20 percent faster than the previous generation, driving graphics rendering for Apple Intelligence and stunning visuals for gaming. Apple says that the new 16-core Neural Engine is faster and more efficient than the previous generation, powering remarkable on-device performance for Apple Intelligence. ""A 17 percent increase in total system memory bandwidth — the highest ever in iPhone — enables faster experiences when using Writing Tools and Image Playground, and helps deliver astounding graphics,"" the company added.As far as the battery is concerned, all four phones - iPhone 16, iPhone 16 Plus, iPhone 16 Pro and iPhone 16 Pro Max come equipped with built‑in rechargeable lithium‑ion battery. The devices also offer MagSafe wireless charging up to 25W with 30W adapter or higher.","Apple iPhone 16 series comprises of four phones -- iPhone 16, iPhone 16 Plus, iPhone16 Pro and iPhone 16 Pro Max. The standard model iPhone 16 is offered in three storage models – 128GB, 256GB and 512GB. The iPhone 16 features a 6.1-inch Retina XDR OLED display, while the Plus model has a bigger 6.7-inch retina OLED screen.","https://static.toiimg.com/thumb/msid-113255679,imgsize-695012,width-400,resizemode-4/113255679.jpg"
+The widely popular Telegram-based crypto tap-to-earn game has just revealed the code word and card combinations that could earn you up to 6 million tokens for free.Since its launch in March 2024, Hamster Kombat has seen explosive growth, attracting over 200 million users globally. The viral clicker game centers around a Hamster who acts as the CEO of a simulated virtual crypto exchange.Players are tasked with supporting this ambitious rodent by mining coins and upgrading the exchange’s level.As a reward for their efforts, players can earn free bonuses. Mining in Hamster Kombat is simple—just tap on the Hamster icon until your energy bar is depleted.The Daily Cipher Code and Combo Card are special challenges within the game designed to reward players with even more tokens. The Daily Cipher Code is a task where players must decipher a word using Morse code. Successfully cracking the code within the 24-hour time limit can earn you 1 million coins.The Daily Combo Card is a challenge that requires players to correctly choose three cards from the game’s upgrade categories: PR & Team, Markets, Legal, Specials, and Web3. Completing this challenge can net you an additional 5 million coins. Like the Cipher Code, the Combo Card is updated daily.The Hamster Kombat Daily Cipher code for today isEnter the code using the Morse sheet given below and earn up to 1 million coins.To activate the Daily Cipher mode, simply go to the ""Exchange"" tab and press the ""Daily Cipher"" button. Once activated, enter the daily Morse code using the following tapping patterns:Binance Listing, OKX Listing, and Bybit Listing were added to the specials tab today. They are all part of today’s combo.","Hamster Kombat Daily Cipher code for September 13, 2024 is: INSPIRE’s morse code is: InSPIRE. To activate Daily Cipher Mode: Hold a long tap for 3 seconds. Perform a quick tap without holding your finger on screen.","https://static.toiimg.com/thumb/msid-113301352,imgsize-65194,width-400,resizemode-4/113301352.jpg"
 Apple iPhone 15 and iPhone 15 Plus get price cut in India: Here’s how much they cost,https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-15-and-iphone-15-plus-get-price-cut-in-india-heres-how-much-they-cost/articleshow/113204792.cms,"Apple iPhone 15, iPhone 15 Plus price cut in India
 
 Here are the new prices of iPhone 15 and iPhone 15 Plus
@@ -1149,70 +1249,72 @@ iPhone 15 Plus old price vs iPhone 15 Plus new price
 Storage Capacity Old Price New Price 128GB Rs 89,900 Rs 79,900 256GB Rs 99,900 Rs 89,900 512GB Rs 1,19,900 Rs 1,09,900
 
 Apple iPhone 15, iPhone 15 Plus: Key features","summarize: Apple iPhone 15, iPhone 15 Plus price cut in India. iPhone 15 old price vs iPhone 15 new price. Storage Capacity Old Price New Price 128GB Rs 69,900 Rs 69.900 256GB Rs 89,900 £ 79,900 512GB Rs 1,09,900 (£99,900) £ 99,900.","https://static.toiimg.com/thumb/msid-113204800,imgsize-16920,width-400,resizemode-4/113204800.jpg"
-TapSwap Daily Codes for September 3 2024: Earn TapSwap coins and get a chance to earn cryptocurrency,https://timesofindia.indiatimes.com/technology/gaming/tapswap-daily-codes-for-september-3-2024-earn-tapswap-coins-and-get-a-chance-to-earn-cryptocurrency/articleshow/113010950.cms,"What is TapSwap?
-
-
-
-How to play TapSwap
-
-
+"TapSwap Daily Codes for September 13, 2024: Earn TapSwap coins daily and earn cryptocurrency",https://timesofindia.indiatimes.com/technology/gaming/tapswap-daily-codes-for-september-13-2024-earn-tapswap-coins-daily-and-earn-cryptocurrency/articleshow/113301466.cms,"How to play TapSwap
 
 Find the TapSwap bot
 
+Open your Telegram app and search for ""TapSwap"" or a related bot name. Select the official TapSwap bot from the search results.
+
 Start playing
+
+Once you’ve found the bot, click ""Start"" or a similar command to begin. You’ll typically see a virtual coin in the centre of the screen. Tap on the coin continuously to earn points or virtual coins.
+
+
+
+
 
 Collect points
 
+Tap frequently to accumulate points. Some TapSwap games might include additional features like daily bonuses, special missions, or power-ups to help you gather points more quickly.
+
+
+
+
+
 Redeem points
 
-TapSwap Daily Codes for September 3 2024
+Once you’ve earned enough points, you can exchange them for rewards offered by the game, such as crypto tokens, virtual goods, or discounts on various products.
 
 
 
-Code: volume - Famous Crypto Millionaires!
+TapSwap Daily Codes for September 13, 2024
 
-- Famous Crypto Millionaires! Code: volatility - Facebook Ads Tutorial
+$5,000 a Month flipping items on eBay: settlement
 
-- Facebook Ads Tutorial Code: wallet - Get Paid To Playtest
+Make $3,000 per Month by Selling: shard
 
-- Get Paid To Playtest Code: wei - Selling Your Arts Online!
+They Changed Our Lives - Code: tangle
 
-- Selling Your Arts Online! Code: whale - Be Productive Working From Home
+How to retire early - Code: taproot
 
-- Be Productive Working From Home Code: regens - The Best Side Hustle Ideas!
+10 Business ideas for Digital Nomads - Code: shilling
 
-- The Best Side Hustle Ideas! Code: whitepaper - Make Big Money In Small Towns
+Earn $250 per hour on Freelance - Code: shitcoin
 
-- Make Big Money In Small Towns Code: whitelist - Make $1000 Per Day!
+$16,000 Per Month With - Code: short
+
+Earn $5,500 per month on Text - Code: sidechain
 
 How to redeem codes in TapSwap
 
+Getting started : Access TapSwap through the Telegram bot or the TapSwap app.
 
+: Access TapSwap through the Telegram bot or the TapSwap app. Go to the codes section : Navigate to the ""Task"" or ""Cinema Code"" section.
 
-Getting started: Access TapSwap through the Telegram bot or the TapSwap app.
+: Navigate to the ""Task"" or ""Cinema Code"" section. Enter your code : Input the provided code and press submit.
 
-Access TapSwap through the Telegram bot or the TapSwap app. Go to the codes section: Navigate to the ""Task"" or ""Cinema Code"" section.
-
-Navigate to the ""Task"" or ""Cinema Code"" section. Enter your code: Input the provided code and press submit.
-
-Input the provided code and press submit. Claim your reward: After the code is verified, your account will be credited with the corresponding in-game currency or rewards.
-
-Also Read |
-
-TapSwap Daily Code has quickly gained popularity, attracting millions of users with its straightforward and rewarding tap-to-earn gameplay. Similar to Hamster Kombat, TapSwap offers players the chance to earn cryptocurrency by tapping, completing tasks, and engaging in various in-game activities. With its user-friendly design and enticing crypto rewards, the platform has drawn a global audience of over 60 million.By blending entertainment with financial incentives, TapSwap has made a significant mark on the mobile gaming industry.TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices. Players earn points by tapping a gold coin that appears in the centre of the screen. The game features a unique ‘Energy’ metre that depletes over time and slowly replenishes, adding a layer of strategy to the tapping process. Its straightforward gameplay makes TapSwap highly engaging and widely popular. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.Open your Telegram app and search for ""TapSwap"" or a related bot name. Select the official TapSwap bot from the search results.Once you’ve found the bot, click ""Start"" or a similar command to begin. You’ll typically see a virtual coin in the centre of the screen. Tap on the coin continuously to earn points or virtual coins.Tap frequently to accumulate points. Some TapSwap games might include additional features like daily bonuses, special missions, or power-ups to help you gather points more quickly.Once you’ve earned enough points, you can exchange them for rewards offered by the game, such as crypto tokens, virtual goods, or discounts on various products.Similar to the Hamster Kombat Daily Cipher and Hamster Kombat Daily Combo, TapSwap features Daily Codes that players can redeem for additional rewards. This system is crucial for enhancing in-game earnings and keeping player engagement high, with over 60 million active participants benefiting from these daily bonuses.","TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices. Players earn points by tapping a gold coin that appears in the centre of the screen. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.","https://static.toiimg.com/thumb/msid-113011166,imgsize-35690,width-400,resizemode-4/113011166.jpg"
-Did Pavel Durov went under the knife? His transformation raises eyebrows,https://timesofindia.indiatimes.com/technology/social/did-telegrams-ceo-parel-durov-go-under-the-knife-his-transformation-raises-eyebrows/articleshow/112996284.cms,"Pavel Durov's rise to fame
-
-Durov's recent legal troubles
-
-Pavel Durov’s transformation: Then vs. Now
-
-Social media reactions on Durov’s transformation
-
-Impact of public scrutiny
+: Input the provided code and press submit. Claim your reward: After the code is verified, your account will be credited with the corresponding in-game currency or rewards.
 
 Also read
 
-Pavel Durov, CEO of Telegram , has recently become the subject of widespread speculation after older photos of him resurfaced online. These images have led many to wonder whether the billionaire entrepreneur underwent plastic surgery to enhance his appearance. Adding to the intrigue, Durov was recently arrested in France, raising further questions about the man behind the popular messaging app.Pavel Durov, a 39-year-old entrepreneur originally from Russia, is best known as the founder and CEO of Telegram, a messaging app launched in 2013.Telegram quickly gained popularity for its strong emphasis on user privacy, offering end-to-end encryption and other security features that set it apart from competitors. As of now, Forbes estimates Durov's net worth to be around $15.5 billion. Despite his success in the tech industry, Durov has managed to maintain a relatively low profile—until now.Durov's recent arrest in Paris has added a new layer of complexity to his public image. He was detained in France on charges of suspected complicity in running an online platform involved in illicit activities, including child exploitation, drug trafficking, and fraud. While these allegations are serious, it is the sudden focus on Durov's physical transformation that has captured the internet's attention.Pavel Durov has been active on social media platforms like Instagram since 2011, regularly sharing photos from his travels around the world. In his recent posts, Durov appears with a full head of hair and a toned physique, often posing shirtless in various locations. However, these recent images stand in stark contrast to older photos where Durov was seen with a noticeably receding hairline.The drastic change in his appearance has fueled rumours that Durov may have undergone plastic surgery, including a possible hair transplant. A popular post on X (formerly Twitter) by a well-known account shared a side-by-side comparison of Durov's old and new photos, sparking a flurry of online discussions. The post reads, ""Pavel Durov (Telegram CEO) before his hair transplant and plastic surgery,"" and has since gone viral.The speculation around Durov's transformation has been met with a variety of opinions online. On Reddit, users have debated whether the changes in Durov's appearance are the result of surgical procedures or simply better grooming and styling.One Reddit user commented, ""This isn't a hair transplant. His hair is too thick and full to have this kind of drastic change from a HT. Most likely he's wearing a hair system (wig).""Another user added, ""There's speculation that it's not a transplant, but rather a hair system because his hair loss was much more advanced in the first picture, so when the operation happens, the resulting hairdo never looks as full as his.""Some users believe the changes are the result of plastic surgery, with one theorising, ""This is well-done surgery.""However, not everyone is convinced that surgery is involved. One Reddit user opined, ""Honestly, I think a lot of the facial 'changes' are simply due to the much better angle and lighting in the second photo.""As the speculation continues, it's clear that Durov's transformation—whether natural or assisted—has caught the public's eye. The intense scrutiny of his appearance highlights the challenges that come with being in the spotlight, especially for someone as private as Durov. Whether or not he has undergone any procedures, the discussions around his looks reflect a broader societal fascination with image and success.","Pavel Durov, 39, is the founder and CEO of Telegram, a messaging app launched in 2013. He has recently become the subject of widespread speculation after older photos of him resurfaced online. These images have led many to wonder whether the billionaire entrepreneur underwent plastic surgery to enhance his appearance.","https://static.toiimg.com/thumb/msid-112996358,imgsize-26776,width-400,resizemode-4/112996358.jpg"
+TapSwap Daily Code has rapidly become a favourite among users, amassing millions of players through its simple yet rewarding tap-to-earn gameplay. Like Hamster Kombat, TapSwap allows players to earn cryptocurrency by tapping, completing tasks, and participating in various in-game activities.TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices.Players earn points by tapping a gold coin that appears in the centre of the screen. The game features a unique ‘Energy’ metre that depletes over time and slowly replenishes, adding a layer of strategy to the tapping process. Its straightforward gameplay makes TapSwap highly engaging and widely popular. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.Similar to the Hamster Kombat Daily Cipher and Hamster Kombat Daily Combo, TapSwap features Daily Codes that players can redeem for additional rewards. This system is crucial for enhancing in-game earnings and keeping player engagement high, with over 60 million active participants benefiting from these daily bonuses.","TapSwap is an interactive tap-to-earn game accessible through Telegram’s mini apps for both iOS and Android devices. Players earn points by tapping a gold coin that appears in the centre of the screen. The game has gained considerable attention for its daily codes, which offer bonus points or coins up to 400,000.","https://static.toiimg.com/thumb/msid-113301502,imgsize-28792,width-400,resizemode-4/113301502.jpg"
+"Truecaller to show live caller IDs on iPhones, CEO says it will work ‘just like you would expect’",https://timesofindia.indiatimes.com/technology/tech-news/truecaller-to-show-live-caller-ids-on-iphones-ceo-says-it-will-work-just-like-you-would-expect/articleshow/113308639.cms,"Apple iOS 18 release documentation
+
+“Call history search Search for previous calls, transcribed voicemails, and contacts using a broad range of search criteria. Type in a number, a name, or a caller ID like ""plumber"" or ""bank"" to instantly fetch call history in real time. Search within Recents in the Phone app or use Spotlight Search to quickly surface information.
+
+Live caller ID lookup New APIs allow developers like Truecaller to fetch information from their servers and provide live caller ID for incoming calls, in a privacy-preserving way.”
+
+Truecaller on iPhones has been there for a while. However, it is not as seamless as on Android. One of the app’s key features - caller ID - is not available on iPhones due to privacy issues. But this is set to end soon with the iOS 18 rollout.Truecaller CEO Alan Mamedi in a post on X (formerly Twitter) said “From the iOS 18 feature release documentation :) Soon we will hopefully hear people say ‘Truecaller finally works on iPhone ’.Even though it has worked fairly OK in the last 2 years, this time it will be just like you would expect Truecaller to work, end to end.”The post also shared screenshots of release documentations of iOS 18 which reads:Truecaller has long been criticized for privacy. In 2022, an investigation conducted by The Caravan alleged that Truecaller gathered information without the user's consent. Truecaller, on its part, denied the allegations, saying that the investigation was flawed and based on incorrect data.","Truecaller on iPhones has been there for a while. However, it is not as seamless as on Android. One of the app’s key features - caller ID - is not available on iPhones due to privacy issues. But this is set to end soon with the iOS 18 rollout.","https://static.toiimg.com/thumb/msid-113308638,imgsize-12808,width-400,resizemode-4/113308638.jpg"
 "Blade ball codes for September 2024: Get free swords, wheel spins, tickets and know the steps to redeem codes",https://timesofindia.indiatimes.com/technology/gaming/blade-ball-codes-for-september-2024-get-free-swords-wheel-spins-tickets-and-know-the-steps-to-redeem-codes/articleshow/112189814.cms,"Blade ball codes September 2024
 
 
@@ -1484,91 +1586,97 @@ Enjoy your rewards!
 Also Read |
 
 Blade Ball is an action-packed multiplayer game on Roblox where players battle fiercely using a variety of blades and weapons. Set in vibrant arenas, players must leverage their skills, strategies, and quick reflexes to outmanoeuvre opponents and claim victory.In Blade Ball, codes play a significant role in enhancing the gaming experience. Players can redeem these codes for a variety of in-game rewards, including currency, exclusive items, and power-ups.These codes are usually released by the developers during special events, updates, or milestones to keep the community engaged and enrich the player's experience.The game features extensive customization options for weapons and characters, allowing for a tailored gameplay experience. Whether engaging in one-on-one duels or larger skirmishes, Blade Ball offers thrilling and endless fun for players of all ages.Save the current Blade Ball codes and redeem them to enrich and diversify your gameplay experience.To redeem the codes, follow the simple steps:","Blade Ball is an action-packed multiplayer game on Roblox where players battle fiercely using a set of blades and arenas. Players can redeem codes for a variety of rewards, including power-ups, items, and power ups. These codes are usually released by the developers during events, updates or milestones.","https://static.toiimg.com/thumb/msid-112190113,imgsize-45844,width-400,resizemode-4/112190113.jpg"
-MemeFi daily codes for 9 September 2024: Boost your earnings with daily codes and know how to maximize,https://timesofindia.indiatimes.com/technology/gaming/memefi-daily-codes-for-9-september-2024-boost-your-earnings-with-daily-codes-and-know-how-to-maximize/articleshow/113181480.cms,"What are MemeFi daily combo code, video code, and YouTube code?
+"MemeFi daily codes for 13 September, 2024: Boost your earnings with daily codes and know how to maximise",https://timesofindia.indiatimes.com/technology/gaming/memefi-daily-codes-for-13-september-2024-boost-your-earnings-with-daily-codes-and-know-how-to-maximise/articleshow/113309320.cms,"What are MemeFi daily combo code, video code, and YouTube code?
 
-MemeFi daily combo code: A daily feature where players enter a specific code to unlock rewards or bonuses within the MemeFi ecosystem. These codes can be found within the game or through official MemeFi channels, such as their Telegram community.
+MemeFi daily combo code : A daily feature where players enter a specific code to unlock rewards or bonuses within the MemeFi ecosystem. These codes can be found within the game or through official MemeFi channels, such as their Telegram community.
 
-MemeFi video code : By watching MemeFi videos on platforms like YouTube or within the app, users can obtain a code. Entering this code in the app rewards the user with coins or other in-game benefits.
+: A daily feature where players enter a specific code to unlock rewards or bonuses within the MemeFi ecosystem. These codes can be found within the game or through official MemeFi channels, such as their Telegram community. MemeFi video code : By watching MemeFi videos on platforms like YouTube or within the app, users can obtain a code. Entering this code in the app rewards the user with coins or other in-game benefits.
 
-MemeFi YouTube code : Similar to the Video Code, the YouTube Code is provided in MemeFi's YouTube content. Watching the videos and entering the code rewards players with additional in-game bonuses.
+: By watching MemeFi videos on platforms like YouTube or within the app, users can obtain a code. Entering this code in the app rewards the user with coins or other in-game benefits. MemeFi YouTube code: Similar to the Video Code, the YouTube Code is provided in MemeFi's YouTube content. Watching the videos and entering the code rewards players with additional in-game bonuses.
 
-The MemeFi daily combo for September 9
+The MemeFi daily combo for September 13
 
-2-2-2-2:
+4-2-4-2:
 
-Neck - one hit
-
-Neck - one hit
+Legs - one hit
 
 Neck - one hit
 
 Neck - one hit
+
+Legs - one hit
 
 MemeFi Video Codes
 
-Here are the MemeFi video codes for September 9, 2024:
+Here are the MemeFi video codes for September 13, 2024:
 
-Enemies of the MEMEFI world: part 1 - Answers: 1. To find a portal to the real world 2. Falling into a magic vortex
+Enemies of the MemeFi World: part 1: 1. To find a portal to the real world 2. Falling into a magic vortex
 
-- Answers: 1. To find a portal to the real world 2. Falling into a magic vortex MemeFi Reviews Users' Crypto Posts - Answers: 1. You get stronger and earn more coins 2. Play for future earnings
+Enemies of the MemeFi World: part 2: 1. He can bend time 2. A curse that turned him into a dog
 
-- Answers: 1. You get stronger and earn more coins 2. Play for future earnings Enemies of the MEMEFI world: part 2 - Answers: 1. He can bend time 2. a curse that turned him into a dog
+Enemies of the MemeFi World: part 3: 1. Mona's influence 2. She's part vampire herself
 
-- Answers: 1. He can bend time 2. a curse that turned him into a dog Earn $5,000 per week with this Secrets of Succesful entrepreneurs - Code: regens
+Enemies of the MemeFi World: part 4: 1. Fear of fire 2. A warrior monk's life
 
-- Code: regens Durov arrested, France vs Freedom? - Answers: 1. To clone himself and create an army of tech geniuses 2. Telegram offers end-to-end encryption for secure messaging
+MemeFi Reviews Users' Crypto Posts: 1. You get stronger and earn more coins 2. Play for future earnings
 
-- Answers: 1. To clone himself and create an army of tech geniuses 2. Telegram offers end-to-end encryption for secure messaging How to Set Yourself Up for Success and Start earning RIGHT NOW! - Code: Affiliate
+Earn $5,000 per week with this Secrets of Succesful entrepreneurs: regens
 
-- Code: Affiliate Telegram's Future After Pavel Durov's Arrest - Answers 1. Pavel Durov and the Telegram team 2. No, TON isn't directly integrated into Telegram
+Durov arrested, France vs Freedom? : 1. To clone himself and create an army of tech geniuses 2. Telegram offers end-to-end encryption for secure messaging
 
-- Answers 1. Pavel Durov and the Telegram team 2. No, TON isn't directly integrated into Telegram Earn $10,000 Per Month With These Telegram Games - Code: protocol
+How to Set Yourself Up for Success and Start earning RIGHT NOW! : affiliate
 
-- Code: protocol Enemies of the MemeFi World: Part 3 - Answers 1. Mona's influence 2. she's part vampire herself
+Telegram's Future After Pavel Durov's Arrest: 1. Pavel Durov and the Telegram team 2. No, TON isn't directly integrated into Telegram
 
-- Answers 1. Mona's influence 2. she's part vampire herself Do this everytime you get paid (Paycheck routine) - code: mobile
+Earn $10,000 Per Month With These Telegram Games: protocol
 
-- code: mobile Earn $500,000 with your first business - Code: script
+Do this every time you get paid (Paycheck routine) : mobile
 
-- Code: script Enemies of the memefi world part 4 - Answer: 1. Fear of fire 2. A warrior monk's life
+Earn $500,000 with your first business: script
 
-- Answer: 1. Fear of fire 2. A warrior monk's life How I make $5,000 a week from my hobby - Code: taproot
+How I make $5,000 a week from my hobby: taproot
 
-- Code: taproot How to actually retire in 7 years (starting with $0) - Code: mainnet
+How to actually retire in 7 years (starting with $0) : mainnet
 
-- Code: mainnet The Truth About Meme Coins - Answers: 1. To ensure it is not a scam and has potential value 2. All of the above
+The Truth About Meme Coins: 1. To ensure it is not a scam and has potential value 2. All of the above
 
-- Answers: 1. To ensure it is not a scam and has potential value 2. All of the above Best way to learn everything and be successful - Code: parachain
+Best way to learn everything and be successful: parachain
 
-- Code: parachain The 7 BEST purchases to make in your 20s - Code: satoshi
+The 7 BEST purchases to make in your 20s: satoshi
 
-- Code: satoshi MEMEFI steals personal data? - Answers: 1. When the price of a coin is artificially inflated and then quickly sold off 2. By checking the coin's official website or a reputable exchange platform
+MEMEFI steals personal data? : 1. When the price of a coin is artificially inflated and then quickly sold off 2. By checking the coin's official website or a reputable exchange platform
 
-- Answers: 1. When the price of a coin is artificially inflated and then quickly sold off 2. By checking the coin's official website or a reputable exchange platform 10 Note taking secrets of the Top 1% of students - Code: station
+10 Note taking secrets of the Top 1% of students: station
 
-- Code: station How To Invest In 2024 (The BEST Way To Get Rich) - Code: demurrage
+How To Invest In 2024 (The BEST Way To Get Rich) : demurrage
 
-- Code: demurrage MemeFi Spills the Tea for Crypto Newbies - Answers: 1.Look at the number of followers on their social media accounts 2.The creator takes invested money and disappears
+MemeFi Spills the Tea for Crypto Newbies: 1.Look at the number of followers on their social media accounts 2.The creator takes invested money and disappears
 
-- Answers: 1.Look at the number of followers on their social media accounts 2.The creator takes invested money and disappears How to set your goals and start earning $10,000 per month - Code: trading
+How to set your goals and start earning $10,000 per month: trading
 
-- Code: trading 10 Small HABITS That Will Change YOUR Life Forever - Code: platform
+10 Small HABITS That Will Change YOUR Life Forever: platform
 
-- Code: platform Meme Coin Scams to Watch Out For - Answers: 1. A type of cryptocurrency 2. Spiteful creatures who kill memes and plunder their homes
+Meme Coin Scams to Watch Out For: 1. A type of cryptocurrency 2. Spiteful creatures who kill memes and plunder their homes
 
-- Answers: 1. A type of cryptocurrency 2. Spiteful creatures who kill memes and plunder their homes How To Accept Yourself and Still Make Changes - Code: pegged
+How To Accept Yourself and Still Make Changes: pegged
 
-- Code: pegged Memecoins vs. Shitcoins: Where bigger profits? - Answers: 1. The co-founder of Ethereum 2. Dog
+Memecoins vs. Shitcoins: Where bigger profits? : 1. The co-founder of Ethereum 2. Dog
 
-- Answers: 1. The co-founder of Ethereum 2. Dog Comfort Zone Will Kill Your Soul - Code: market
+Comfort Zone Will Kill Your Soul: market
 
-- Code: market Secret Tip To Boost Your Confidence - Code: golden
+Secret Tip To Boost Your Confidence: golden
 
-- Code: golden My SECRET to Never Running Out of Energy - Code: phishing
+My SECRET to Never Running Out of Energy: phishing
 
-- Code: phishing Meme coin Scams to Watch Out For - Answers: 1. Both 2. Both
+Meme coin Scams to Watch Out For: 1. Both 2. Both
 
-- Answers: 1. Both 2. Both Stay Productive 99% of Every Day | Step by Step Guide - Code: vanity
+Stay Productive 99% of Every Day | Step by Step Guide: vanity
+
+10 Tips to Glow Up in 2024 | Become the BEST version of YOU! : hacking
+
+Morning Routine That Makes Me Productive: storage
+
+You're not dumb: How to fix your Attention Span: customer
 
 How to earn MemeFi coins
 
@@ -1590,9 +1698,13 @@ Watch MemeFi videos : MemeFi releases videos on various platforms, often contain
 
 : Locate the code mentioned in the video. Enter the code: Input the code in the app to earn additional MemeFi Coins or other rewards.
 
+
+
+
+
 YouTube code:
 
-Watch YouTube content : MemeFi regularly uploads videos on YouTube that include hidden codes.
+Watch Y ouTube content : MemeFi regularly uploads videos on YouTube that include hidden codes.
 
 : MemeFi regularly uploads videos on YouTube that include hidden codes. Locate the YouTube code : Pay attention to the video content to find the YouTube Code.
 
@@ -1600,90 +1712,78 @@ Watch YouTube content : MemeFi regularly uploads videos on YouTube that include 
 
 Also read
 
-MemeFi Coin is a popular Telegram tap-to-earn game created by the MemeFi project team, similar to Hamster Kombat and TapSwap. With over 20 million players, it involves battling meme-themed enemies through repeated tapping to earn in-game currency. Players can boost their earnings by leveling up, joining clans, purchasing upgrades, and completing tasks like sharing on social media and watching videos.MemeFi provides daily opportunities for users to earn rewards through different codes:Another way to score big rewards in MemeFi Coin is by entering secret codes found in videos.To earn MemeFi Coins using the Daily Combo Code, Video Code, and YouTube Code, follow these steps:",MemeFi daily combo code is a daily feature where players enter a specific code to unlock rewards or bonuses within the MemeFi ecosystem. Video code is provided in Meme Fi's YouTube content. Watching the videos and entering the code rewards players with additional in-game bonuses.,"https://static.toiimg.com/thumb/msid-113181698,imgsize-39240,width-400,resizemode-4/113181698.jpg"
-"Coin Master free spins & coins for September 3, 2024: Claim 14 million coins with today’s links",https://timesofindia.indiatimes.com/technology/gaming/coin-master-free-spins-coins-for-september-3-2024-claim-14-million-coins-with-todays-links/articleshow/113011748.cms,"Understanding gameplay of Coin Master
+MemeFi Coin is a popular Telegram tap-to-earn game created by the MemeFi project team, similar to Hamster Kombat and TapSwap. With over 20 million players, it involves battling meme-themed enemies through repeated tapping to earn in-game currency. Players can boost their earnings by levelling up, joining clans, purchasing upgrades, and completing tasks like sharing on social media and watching videos.MemeFi provides daily opportunities for users to earn rewards through different codes:Another way to score big rewards in MemeFi Coin is by entering secret codes found in videos.To earn MemeFi Coins using the Daily Combo Code, Video Code, and YouTube Code, follow these steps:","MemeFi daily combo code is a daily feature where players enter a specific code to unlock rewards or bonuses within the MemeFi ecosystem. By watching videos on platforms like YouTube or within the app, users can obtain a code. Entering this code in the app rewards the user with coins or other in-game benefits. The YouTube Code is provided in Meme Fi's YouTube content.","https://static.toiimg.com/thumb/msid-113309332,imgsize-99338,width-400,resizemode-4/113309332.jpg"
+"Coin Master free spins and coins for 12 September, 2024: Earn 1 million coins using today’s links",https://timesofindia.indiatimes.com/technology/gaming/coin-master-free-spins-and-coins-for-13-september-2024-earn-1-million-coins-using-todays-links/articleshow/113308739.cms,"Understanding Coin Master
 
-How to maximise spins in Coin Master
+Key features of Coin Master
 
-1. Slot machine
+1. Slot Machine
 
+Pigs: Three pigs trigger a raid on another player's village, allowing you to steal coins.
 
+Three pigs trigger a raid on another player's village, allowing you to steal coins. Hammers: Three hammers allow you to attack another player's village or take revenge on someone who has attacked you.
 
-Pigs : Three pigs trigger a raid on another player's village, allowing you to steal coins.
-
-: Three pigs trigger a raid on another player's village, allowing you to steal coins. Hammers : Three hammers allow you to attack another player's village or take revenge on someone who has attacked you.
-
-: Three hammers allow you to attack another player's village or take revenge on someone who has attacked you. Shields: Three shields protect your village from attacks.
+Three hammers allow you to attack another player's village or take revenge on someone who has attacked you. Shields: Three shields protect your village from attacks.
 
 Three shields protect your village from attacks. Coins and Coin Bags: These provide varying amounts of coins, with more awarded for three-of-a-kind.
 
-These provide varying amounts of coins, with more awarded for three-of-a-kind. Items : Collect items to unlock event prizes and additional rewards.
+These provide varying amounts of coins, with more awarded for three-of-a-kind. Items: Collect items to unlock event prizes and additional rewards.
 
-: Collect items to unlock event prizes and additional rewards. Energy Capsules: Three energy capsules grant 10 extra spins.
+Collect items to unlock event prizes and additional rewards. Energy Capsules: Three energy capsules grant 10 extra spins.
 
 2. Collecting cards
 
-
-
 3. Pets
 
+Foxy : Increases raid rewards by digging an extra hole.
 
+: Increases raid rewards by digging an extra hole. Rhino : Defends the village more effectively than shields, with a chance to block attacks entirely.
 
-Ways to earn spins in Coin Master
+: Defends the village more effectively than shields, with a chance to block attacks entirely. Tiger: Boosts rewards from attacking other villages.
 
+Ways to get spins in Coin Master
 
+Passively : Earn 5 spins per hour, up to 50 spins at a time.
 
-Passively: Earn 5 spins per hour, up to 50 spins at a time.
+: Earn 5 spins per hour, up to 50 spins at a time. Facebook connection : Link your Facebook account for a bonus of 50 spins.
 
-Earn 5 spins per hour, up to 50 spins at a time. Facebook connection: Link your Facebook account for a bonus of 50 spins.
+: Link your Facebook account for a bonus of 50 spins. Facebook invites : Invite friends to play Coin Master and receive spins based on your level.
 
-Link your Facebook account for a bonus of 50 spins. Facebook invites: Invite friends to play Coin Master and receive spins based on your level.
-
-Invite friends to play Coin Master and receive spins based on your level. Slot machine : Earn spins through the slot machine by collecting energy capsules.
+: Invite friends to play Coin Master and receive spins based on your level. Slot machine : Earn spins through the slot machine by collecting energy capsules.
 
 : Earn spins through the slot machine by collecting energy capsules. Exclusive events : Participate in events to win spins and other rewards.
 
-: Participate in events to win spins and other rewards. Tournaments: Place well in tournaments to earn spin-filled gifts.
+: Participate in events to win spins and other rewards. Tournaments : Place well in tournaments to earn spin-filled gifts.
 
-Place well in tournaments to earn spin-filled gifts. Send and receive spins: Exchange spins with friends, benefiting both parties.
+: Place well in tournaments to earn spin-filled gifts. Send and receive spins : Exchange spins with friends, benefiting both parties.
 
-Cards: Completing card collections rewards players with additional spins.
+: Exchange spins with friends, benefiting both parties. Cards : Completing card collections rewards players with additional spins.
 
-Completing card collections rewards players with additional spins. Gifts from the game: Occasionally, the game offers free spins through its official Facebook page or via email.
+: Completing card collections rewards players with additional spins. Gifts from the game: Occasionally, the game offers free spins through its official Facebook page or via email.
 
-Coin Master spins for 03rd September, 2024
+Coin Master spins for 13 September, 2024
 
+https://Coin-Master.me/asZJiQ - 25 spins
 
+https://Coin-Master.me/itXpXh - 10 spins and 7 million coins
 
-25 spins
+https://Coin-Master.me/wngYxu - 25 spins
 
-10 free spins and 7 million coins
+https://Coin-Master.me/vJAQov - 25 spins
 
-25 spins
+How to redeem coin master free spins and coins from active links
 
-25 spins
+Step 1: Begin the redemption process by ensuring your mobile network is active.
 
-10 spins and 7 million coins
+Begin the redemption process by ensuring your mobile network is active. Step 2: Tap on each active link.
 
-25 spins
+Tap on each active link. Step 3: The links will direct you to the game installed on your iOS or Android device.
 
-How to redeem Coin Master free spins and coins from active links
+The links will direct you to the game installed on your iOS or Android device. Step 4: After opening all the links, the app will start loading the required assets. Once this is complete, a display box will appear showing the number of links and coins you will receive. Click the green ""Collect"" button, and all freebies will be added to your in-game inventory.
 
+Also read
 
-
-Step 1
-
-Step 2:
-
-Step 3:
-
-Step 4:
-
-Step 5:
-
-Also read:
-
-Coin Master is a popular mobile game available for free on both Android and iOS platforms, offering a unique blend of village-building, social interaction, and virtual slot machine mechanics. The primary objective of the game is to build and upgrade villages, while simultaneously attacking and defending against those belonging to other players, including your friends.To excel in Coin Master, players must effectively defend their villages, collect rewards, and progress quickly.The game's core mechanic revolves around a virtual slot machine that awards players with various rewards, including coins, shields, and weapons. In Coin Master, characters embark on time-travelling adventures, adopting roles such as pirates, hippies, kings, warriors, and Vikings, among others.Players accumulate spins, which can be used to earn rewards such as coins, shields, and opportunities to attack or raid other players' villages. Here’s what you can expect from the slot machine:Players can also perform a ""Super Bet,"" wagering multiple spins simultaneously for potentially greater rewards.Players can also earn spins and coins by collecting thematic cards to complete collections, which unlock rewards like pets, spins, and coins; card collection begins at the third village, and cards can be traded with friends to complete sets faster.Pets, including Foxy (increases raid rewards), Rhino (enhances village defence), and Tiger (boosts attack rewards), play a key role by offering various bonuses as they level up. To maintain pets, players need to provide food, which can be obtained from the store, special events, or the slot machine.Spins are crucial in Coin Master as they enable participation in the slot machine. Here are some of the best ways to accumulate spins:If you want to get 120 spins and 14 million coins from the above-listed links, redeem them within three days. You can’t redeem them afterward because they will expire. Moreover, you can use each link only once per account to claim free rewards.: Begin the redemption process by ensuring your mobile network is active.Tap on each active link on September 3, 2024 , provided above.The links will direct you to the game installed on your iOS or Android device.After opening all the links, the app will start loading the required assets. Once this is complete, a display box will appear showing the number of links and coins you will receive.Click the green ""Collect"" button, and all freebies will be added to your in-game inventory.","Coin Master is a popular mobile game available for free on both Android and iOS platforms. The primary objective of the game is to build and upgrade villages, while simultaneously attacking and defending against those belonging to other players, including your friends. The game's core mechanic revolves around a virtual slot machine that awards players with various rewards, including coins, shields, and weapons.","https://static.toiimg.com/thumb/msid-113012237,imgsize-37198,width-400,resizemode-4/113012237.jpg"
+Coin Master is a popular mobile game available for free on both Android and iOS platforms, offering a unique blend of village-building, social interaction, and virtual slot machine mechanics. The primary objective of the game is to build and upgrade villages, while simultaneously attacking and defending against those belonging to other players, including your friends.To excel in Coin Master, players must effectively defend their villages, collect rewards, and progress quickly.The game's core mechanic revolves around a virtual slot machine that awards players with various rewards, including coins, shields, and weapons. In Coin Master, characters embark on time-travelling adventures, adopting roles such as pirates, hippies, kings, warriors, and Vikings, among others.Players accumulate spins, which can be used to earn rewards such as coins, shields, and opportunities to attack or raid other players' villages. Here’s what you can expect from the slot machine:Players can also perform a ""Super Bet,"" wagering multiple spins simultaneously for potentially greater rewards.The game features thematic cards that players should collect to complete various collections. Each completed collection unlocks rewards like pets, spins, and coins. Players must reach the third village to start collecting cards and can trade cards with friends to complete collections faster.Pets play a crucial role in Coin Master, offering various bonuses as they level up. There are three pets:Spins are crucial in Coin Master as they enable participation in the slot machine. Here are some of the best ways to accumulate spins:Pets require food, which can be obtained from the store, special events, or the slot machine.If you want to get free spins and coins from the above-listed links, redeem them within three days. You can’t redeem them afterward because they expire. Moreover, you can use each link only once per account to claim free rewards.","Coin Master is a popular mobile game available for free on both Android and iOS platforms. It offers a unique blend of village-building, social interaction, and virtual slot machine mechanics. Players can build and upgrade villages, while simultaneously attacking and defending against those belonging to other players.","https://static.toiimg.com/thumb/msid-113308808,imgsize-29198,width-400,resizemode-4/113308808.jpg"
 When Tesla CEO Elon Musk called Ratan Tata a “gentleman and …”,https://timesofindia.indiatimes.com/technology/tech-news/when-tesla-ceo-elon-musk-called-ratan-tata-a-gentleman-and-/articleshow/112903343.cms,"Tata Nano and the Indian automobile market
 
 Elon Musk praised Ratan Tata
@@ -1693,11 +1793,242 @@ The legacy of the Tata Nano
 Also read
 
 In the realm of business and innovation, few figures command as much respect as Tata Group chairman emeritus Ratan Tata. His influence extends far beyond the Indian corporate world, even garnering admiration from Tesla CEO and X owner Elon Musk . In a 2009 interview with American journalist Charlie Rose , Musk praised Ratan Tata as a ""gentleman and a scholar."" This moment has recently resurfaced, shedding light on Musk's appreciation for Ratan Tata and his ambitious project, the Tata Nano .The Tata Nano was introduced by Tata Motors in 2008 as the world's cheapest car, with a price tag of just Rs 1 lakh (approximately $2,300 at the time). The car was a pet project of Ratan Tata, designed to make automobile ownership accessible to millions of Indians who had never been able to afford a car. The idea was revolutionary—a small, affordable car that would cater to the vast Indian middle class, providing them with a safe and efficient means of transportation.In the interview with Charlie Rose, which took place shortly after the launch of the Tata Nano, the Tesla CEO was asked about his views on Ratan Tata’s efforts to introduce a low-cost car in India. The interview clip, which has recently gone viral, captures Musk's candid response.""Take for a moment Ratan Tata, what he’s doing in India — developing a little sedan for $2300. Where do you put that in the whole equation of where the future of cars is?"" asked Rose.Musk responded with a mix of admiration and caution. He began by acknowledging the brilliance behind the Tata Nano project and the character of Ratan Tata himself.""I think it's a good idea to have affordable cars, but I think the problem with something like the Nano ... I wouldn't say problem because I think, by the way, it is probably a great idea and Ratan is a gentleman and scholar,"" Musk said.However, Musk also expressed his concerns about the long-term viability of such a low-cost vehicle, particularly in the context of rising fuel prices. He pointed out that while the initial purchase cost of the Nano was remarkably low, the cost of running the car—particularly fuel costs—could become a significant issue as gasoline prices continued to rise.""But where it’s going to become challenging in the future is when the price of gasoline rises, the cost of acquiring the car is much less of an issue than the cost of running the car,"" the billionnaire explained.Despite the initial excitement surrounding the Tata Nano, the car faced numerous challenges. One of the most significant issues was its branding. While the Nano was intended to be an affordable vehicle for the masses, it was often labeled as ""cheap"" rather than ""affordable."" This perception problem, combined with safety concerns and competition from other small cars, led to unimpressive sales figures.The Nano’s production was ultimately discontinued in 2018, marking the end of what was initially seen as a groundbreaking project. The car's journey from inception to discontinuation is often cited as one of the biggest marketing failures in the automobile industry.","The Tata Nano was introduced by Tata Motors in 2008 as the world's cheapest car, with a price tag of just Rs 1 lakh (approximately $2,300 at the time) The car was a pet project of Ratan Tata, designed to make automobile ownership accessible to millions of Indians who had never been able to afford a car. In a 2009 interview with American journalist Charlie Rose, Musk praised Tata as a ""gentleman and a scholar""","https://static.toiimg.com/thumb/msid-112903454,imgsize-56798,width-400,resizemode-4/112903454.jpg"
-Donald Trump has found a role for Elon Musk in the US government,https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-has-found-a-role-for-elon-musk-in-the-us-government/articleshow/113118428.cms,"Donald Trump announced his intention to form a government efficiency commission with Elon Musk as its head if he is elected President. The commission will audit the federal government to identify and eliminate fraud and improper payments. Trump also outlined proposals to cut regulations, boost energy production, adopt cryptocurrencies, and reduce corporate taxes for US-based companies.","The commission will audit the federal government to identify and eliminate fraud and improper payments. Trump also outlined proposals to cut regulations, boost energy production, adopt cryptocurrencies, and reduce corporate taxes for US- based companies. The commission will be headed by Elon Musk if he is elected President.","https://static.toiimg.com/thumb/msid-113118411,imgsize-952590,width-400,resizemode-4/113118411.jpg"
-"PM Narendra Modi at SEMICON India 2024: “In the 21st-century Bharat, the chips are never…”",https://timesofindia.indiatimes.com/technology/tech-news/pm-narendra-modi-at-semicon-india-2024-in-the-21st-century-bharat-the-chips-are-never/articleshow/113258193.cms,"PM says India preparing a semiconductor workforce
+"""Don’t like the concept of joint family…”: Woman earning 1.3 LPA seeks 30 LPA NRI husband; her post goes viral",https://timesofindia.indiatimes.com/technology/social/dont-like-the-concept-of-joint-family-woman-earning-1-3-lpa-seeks-30-lpa-nri-husband-her-post-goes-viral/articleshow/113291417.cms,"Also read
 
-Prime Minister Narendra Modi on Wednesday (September 11) inaugurated the Semicon India summit at the India Expo Mart in Greater Noida. He addressed the gathering, saying that it is “the right time” for the chipmakers across the globe to invest in India.“You are at the right time, at the right place. In the 21st-century Bharat, the chips are never down! And it’s not just that, today’s Bharat assures the world — When the chips are down, you can bet on India!” he told the gathering in his keynote speech.Modi said that the country contributes 20% of the talent in the world of designing, and it is continually expanding.He noted that investments worth more than Rs 1.5 trillion have been made in this sector, and many projects are currently in the pipeline.“We are preparing a semiconductor workforce of 85,000 technicians, engineers, and R&D experts. Bharat’s focus is on making its students and professionals ready for the semiconductor industry,” he highlighted.Modi said that India’s mantra is ‘Increasing the number of chips produced in India’ and for that, the government has taken steps to advance semiconductor manufacturing. The government is providing 50% support for setting up semiconductor manufacturing facilities in the country even as state governments are providing additional support in this regard.“The Semicon India Program is also an excellent initiative. Under this program, financial support is being provided for front-end fabs, display fabs, semiconductor packaging, compound semiconductors, sensors, and display manufacturing,” Modi added.The PM also said that his dream is “for every device in the world to have an Indian-made chip. Bharat will do whatever is necessary to become a semiconductor powerhouse”.Modi said India’s semiconductor ecosystem provides solutions not only to domestic challenges but also to global ones.","Prime Minister Narendra Modi on Wednesday (September 11) inaugurated the Semicon India summit at the India Expo Mart in Greater Noida. He addressed the gathering, saying that it is ‘the right time’ for the chipmakers across the globe to invest in India.","https://static.toiimg.com/thumb/msid-113258171,imgsize-989527,width-400,resizemode-4/113258171.jpg"
-Microsoft acquires 16.4 acre land in Pune’s industrial area,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-acquires-16-4-acre-land-in-punes-industrial-area/articleshow/113297752.cms,"Microsoft’s Indian arm has purchased 16.4 acres of land in Pune’s Hinjewadi area for Rs 519.72 crore, enhancing its presence in India’s commercial real estate sector. The company is expanding its data centre operations and investing in AI and digital skills training programs to equip the workforce for future challenges.",Microsoft's Indian arm has purchased 16.4 acres of land in Pune’s Hinjewadi area for Rs 519.72 crore. The company is expanding its data centre operations and investing in AI and digital skills training programs.,"https://static.toiimg.com/thumb/msid-113297713,imgsize-62402,width-400,resizemode-4/113297713.jpg"
+What she wants in a husband
+
+Online reactions and viral response
+
+Also read
+
+A woman’s detailed list of requirements for a future husband has gone viral on social media, sparking widespread reactions. Her profile, shared on X (formerly known as Twitter), includes her own personal details such as her salary, education, and a bold set of expectations for her ideal partner. The unusual demands have generated a mixture of amusement, criticism, and debate among users online.The woman, who earns Rs 1.3 lakh per annum and holds a Bachelor of Education (B.Ed) degree, has raised eyebrows by seeking a techie groom with an annual income of Rs 30 lakh.She further outlined her preferences, stating that her ideal partner should be settled in India, the US, or Europe and should own a spacious 3BHK home. Her love for luxury is evident in her desire to travel frequently and stay in 5-star hotels, which she expects to continue after marriage.The post was shared on X with the caption, “Her qualities and salary. Expected husband’s qualities and salary,” emphasising the stark difference between her modest income and her high expectations for a spouse.Beyond financial expectations, the woman’s list includes several personal and lifestyle requirements. She currently lives with her parents, whom she describes as dependent on her, and expects her future husband to accommodate them in a large independent house. She also made it clear that she is not willing to take on traditional household chores due to her professional commitments, and therefore, she expects her partner to provide a full-time cook and maid.Moreover, she expressed her passion for travel, stating that her husband should share her enthusiasm for exploring the world. She also mentioned that she does not believe in joint family living arrangements and expects her in-laws to reside separately.The profile has garnered over 1.2 million views and has sparked a lively conversation on social media. Many users were shocked by the wide gap between her salary of Rs 1.3 lakh and her demand for a partner earning Rs 30 lakh. Some users questioned the feasibility of her lifestyle expectations, pointing out the disparity between her income and her desire for luxury experiences like 5-star hotels.One user humorously remarked, “She makes Rs 11,000 a month, but she wants a full-time maid and cook? Talk about next-level priorities!” Another comment highlighted the irony, stating, “132000 per annum salary and her hobby is 5-star hotels? And surprise me with Louis Vuitton—that was the highlight.""Others were puzzled by her specific relationship expectations, such as her demand for an unmarried man despite her being divorced, and her insistence that her parents live with her while her in-laws live separately. One user commented, “She’s divorced but wants an unmarried man. Her parents will stay with her, but no in-laws allowed—how fair is that?”While the post has mostly drawn criticism and amusement, it has also led to broader discussions about societal expectations in marriage. Some users defended the woman’s right to have her own preferences, with one person writing, “Everyone is entitled to have their own expectations, but they should be realistic about what they offer in return.” However, the majority of responses leaned towards disbelief, with one user summing up the sentiment by saying, “She will be single if she continues like this.”","A woman's detailed list of requirements for a future husband has gone viral on social media. Her profile, shared on X, includes her own personal details such as her salary, education, and a bold set of expectations for her ideal partner. The unusual demands have generated a mixture of amusement, criticism, and debate among users online.","https://static.toiimg.com/thumb/msid-113291520,imgsize-100842,width-400,resizemode-4/113291520.jpg"
+"Airtel CEO Gopal Vittal sends letter to Reliance Jio, Vodafone-Idea, Tata Tele and BSNL CEOs; here's what he said",https://timesofindia.indiatimes.com/technology/tech-news/airtel-ceo-gopal-vittal-sends-letter-to-reliance-jio-vodafone-idea-tata-tele-and-bsnl-ceos-heres-what-he-said/articleshow/113278022.cms,"Here’s what Airtel CEO wrote in the letter
+
+Spam and phishing message menace grows in India
+
+What the government’s directive says
+
+Bharti Airtel CEO Gopal Vittal has written a letter to the heads of Reliance Jio , Vodafone Idea , state-run Bharat Sanchar Nigam Ltd ( BSNL ) and Tata Teleservices, says a report in Economic Times. In the letter, Vittal proposed creating a collaborative system for sharing information about corporate connections used for commercial calling. This collaborative approach is aimed to monitor and prevent the misuse of these connections.""We are ready to take the first step and share the data (entity name and active numbers only) in the same template on a monthly basis and we would appreciate your support,"" Vittal said in the letter.The letter was sent to Reliance Jio MD Pankaj Pawar, Vodafone Idea CEO Akshaya Moondra, BSNL CMD Robert Ravi and Tata Teleservices MD Harjit Singh Chauhan.""As the telecom industry continues to face the growing challenge of UCC , it has become clear that despite ongoing efforts, more robust and unified mechanisms are required to protect our customers from this persistent issue,"" Vittal said in the letter. He also stressed that in line with the directives of Trai and DoT, the focus remains on finding effective solutions to curb UCC.UCC in the telecom industry means Unsolicited Commercial Communications that describes the combination of communications and collaboration technologies.""We strongly believe that tackling this issue should be a joint endeavour among all telecom operators, rather than isolated efforts,"" he said.Telecom operators must take ""collective responsibility"" in preventing UCC by ensuring that their networks are not exploited by spammers, especially through corporate connections that may be unintentionally facilitating such activities, he said.""Today, enterprise customers are served by multiple operators, and we are seized of the fact that any independent efforts to address spam may not be in the best interests of customers, as it may impact the quality and continuity of services,"" Vittal added.According to industry data, 1.5-1.7 billion commercial messages are sent every day in India, taking the total to about 55 billion every month. As per a survey by community social media platform Local Circles, six in 10 consumers get three or more spam calls each day, with financial services and real estate said to be top offenders. In another survey, 76% consumers said that they get three or more spam messages daily. Blocking numbers doesn't help either.The problem has proven intractable for stakeholders including telcos, the regulator and the government. Recently, the government directed telecom companies to disconnect entities using bulk connections to engage in such activity. Around 350,000 such numbers have been blocked and 50 entities have been blacklisted in the last two weeks.The telecom regulatory authority of India (TRAI) asked telcos to share information on blacklisted entities with each other, so that such entities don't switch from one operator to another.","Bharti Airtel CEO Gopal Vittal has written a letter to the heads of Reliance Jio, Vodafone Idea, state-run Bharat Sanchar Nigam Ltd ( BSNL ) and Tata Teleservices. Vittal proposed creating a collaborative system for sharing information about corporate connections used for commercial calling.","https://static.toiimg.com/thumb/msid-113278007,imgsize-62174,width-400,resizemode-4/113278007.jpg"
+Oprah Winfrey to OpenAI CEO Sam Altman: How do we know we can trust you,https://timesofindia.indiatimes.com/technology/tech-news/oprah-winfrey-to-openai-ceo-sam-altman-how-do-we-know-we-can-trust-you/articleshow/113325513.cms,"OpenAI CEO Sam Altman addressed questions about AI safety and trust during an interview with Oprah Winfrey. He highlighted the importance of transparency and government involvement in safety testing while acknowledging potential misuse of AI technology. The discussion occurred alongside OpenAI's launch of its new generative AI model, o1, and reports of seeking a $150 billion valuation.","OpenAI CEO Sam Altman addressed questions about AI safety and trust during an interview with Oprah Winfrey. He highlighted the importance of transparency and government involvement in safety testing while acknowledging potential misuse of AI technology. The discussion occurred alongside OpenAI's launch of its new generative AI model, o1.","https://static.toiimg.com/thumb/msid-113326041,imgsize-37952,width-400,resizemode-4/113326041.jpg"
+Microsoft ‘evaluates’ how far it can go to prevent another CrowdStrike-like outage,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-evaluates-how-far-it-can-go-to-prevent-another-crowdstrike-like-outage/articleshow/113322361.cms,"Microsoft is working on new security features for Windows to prevent issues like the CrowdStrike update crash. The company plans to shift security software operations outside the Windows kernel, enhancing system stability and security. This initiative involves collaboration with industry partners and government officials, aiming for improved reliability without compromising on security.","Microsoft is working on new security features for Windows to prevent issues like the CrowdStrike update crash. The company plans to shift security software operations outside the Windows kernel, enhancing system stability and security. This initiative involves collaboration with industry partners and government officials.","https://static.toiimg.com/thumb/msid-113322298,imgsize-1874009,width-400,resizemode-4/113322298.jpg"
+Nokia looking for new CEO: This is what company has to say,https://timesofindia.indiatimes.com/technology/tech-news/nokia-looking-for-new-ceo-this-is-what-company-has-to-say/articleshow/113321220.cms,Nokia has dismissed reports about replacing its CEO Pekka Lundmark -- appointed in 2020 -- stating that the Board fully supports him. The company emphasized its routine assessment of leadership succession plans. This statement follows claims that Nokia is seeking new leadership due to declining sales and weak demand for 5G telecom equipment.,Nokia dismisses reports about replacing its CEO Pekka Lundmark. Company emphasized its routine assessment of leadership succession plans. Lundmark was appointed in 2020 and will remain in his role until 2018. Nokia is facing declining sales and weak demand for 5G telecom equipment.,"https://static.toiimg.com/thumb/msid-113321175,imgsize-182136,width-400,resizemode-4/113321175.jpg"
+Amazon and Flipkart may face 'trouble' before their biggest festive sale of the year,https://timesofindia.indiatimes.com/technology/tech-news/amazon-and-flipkart-may-face-trouble-before-their-biggest-festive-sale-of-the-year/articleshow/113317836.cms,"What CCI investigators said
+
+
+
+An investigation by the Competition Commission of India (CCI) has reportedly discovered that US-based e-commerce majors like Amazon and Walmart who own Flipkart have violated local competition laws . The probe by the country’s competition watchdog claims that these e-tailer platforms allegedly gave preference to select sellers on their shopping websites. CCI reportedly ordered this investigation against Amazon and Flipkart in 2020 following allegations that these platforms promoted certain sellers with which they had business arrangements and gave priority to certain listings.According to an exclusive report by the news agency Reuters, CCI investigators have submitted a 1027-page report on Amazon and a separate 1,696-page report on Flipkart.In these reports, the investigators claimed that both companies had created a system where certain sellers were favoured and appeared more prominently in search results, giving them an advantage over other sellers.As per the report, both investigations noted: “Each of the anti-competitive practices alleged ... were investigated and found to be true. Ordinary sellers remained as mere database entries.”The CCI investigation report on Amazon claimed that preferred sellers on the platform “get the advantage in the (online) listing” and when a customer searches for any product their “attention is drawn towards” those listings.The practice of preferential listings and deep discounting of mobile phones - including selling products below cost price - cause a “catastrophic impact on the existing competition in the market,” the report notedIn the report on Flipkart, the CCI said preferred sellers were provided various services such as marketing and delivery at a “miniscule cost.”CCI said that Flipkart allows these sellers to sell phones at very low prices, which is considered “predatory pricing” and harms competition.“The anti-competitive practises are not limited to sales of mobile phones. They are equally prevalent in other categories of goods,” both reports said.The investigation's findings are the latest blow to Amazon and Flipkart in India, where they have been criticised by smaller retailers for their business practices. These retailers have claimed that their businesses have been harmed by the deep discounts offered online.Both Amazon and Flipkart have previously denied any such violations and said that their practices are in line with Indian laws. The two companies will now examine the report and raise any concerns before CCI staff decide on possible fines.Last month, the minister of commerce and industry, Piyush Goyal criticised Amazon saying that the company's investments were used to offset its losses.",The Competition Commission of India (CCI) has reportedly discovered that US- based e-commerce majors like Amazon and Walmart who own Flipkart have violated local competition laws. The probe by the country’s competition watchdog claims that these e-tailer platforms allegedly gave preference to select sellers on their websites.,"https://static.toiimg.com/thumb/msid-113317861,imgsize-33988,width-400,resizemode-4/113317861.jpg"
+"iPhone 16 models pre-order starts today: All the stores where you can pre-book the iPhone 16, iPhone 16 Plus, iPhone 16 Pro and iPhone 16 Pro Max",https://timesofindia.indiatimes.com/technology/tech-news/iphone-16-iphone-16-pro-models-pre-order-starts-today-all-the-stores-where-you-can-pre-book-the-iphone-16-iphone-16-plus-iphone-16-pro-and-iphone-16-pro-max/articleshow/113316792.cms,"Where to pre-order iPhone 16
+
+Apple Store online
+
+Apple Store Saket, Delhi
+
+Apple Store BKC, Mumbai
+
+Flipkart
+
+Amazon
+
+Croma
+
+Reliance Digital
+
+Vijay Sales
+
+Imagine stores
+
+Unicorn stores
+
+Mapple stores
+
+iConcept stores
+
+iPlanet stores
+
+Aptronix stores
+
+iPhone 16 series pre-booking offers
+
+iPhone 16 series price in India
+
+
+
+Model
+
+
+
+Storage
+
+
+
+Price
+
+
+
+iPhone 16
+
+
+
+128GB
+
+
+
+Rs 79,900
+
+
+
+
+
+256GB
+
+
+
+Rs 89,900
+
+
+
+
+
+512GB
+
+
+
+Rs 109,900.00
+
+
+
+iPhone 16 Plus
+
+
+
+128GB
+
+
+
+Rs 89,900
+
+
+
+
+
+256GB
+
+
+
+Rs 99,900
+
+
+
+
+
+512GB
+
+
+
+Rs 119,900
+
+
+
+iPhone 16 Pro
+
+
+
+128GB
+
+
+
+Rs 119,900
+
+
+
+
+
+256GB
+
+
+
+Rs 129,900
+
+
+
+
+
+512GB
+
+
+
+Rs 149,900
+
+
+
+
+
+1TB
+
+
+
+Rs 169,900
+
+
+
+iPhone 16 Pro Max
+
+
+
+256GB
+
+
+
+Rs 144,900
+
+
+
+
+
+512GB
+
+
+
+Rs 164,900
+
+
+
+
+
+1TB
+
+
+
+Rs 184,900
+
+
+
+
+
+The iPhone 16 lineup is finally here, and pre-orders begin today, September 13, at 5:30 p.m. IST. Apple's latest offering includes the iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and the top-of-the-line iPhone 16 Pro Max. Whether you're looking to upgrade your current device or join the Apple ecosystem, various stores ready to take your pre-orders. Let's explore where you can pre-book your new iPhone 16.Customers pre-booking iPhone 16 series models from Apple Store having credit card from Axis Bank, ICICI Bank, and American Express can save Rs 5000 instantly on their iPhone purchase.The savings vary by model, with iPhone 16 Pro, iPhone 16 Pro Max, iPhone 16, and iPhone 16 Plus offering the maximum discount of ₹5000.00.For those preferring to spread out their payments, No Cost EMI options for 3 or 6 months are available from most leading banks.Apple's Trade In program allows customers to exchange their current device for credit ranging from ₹4000.00 to ₹67500.00 towards their new iPhone purchase, all conveniently done online.As an added bonus, new iPhone buyers can enjoy 3 months of Apple Music, Apple TV+, and Apple Arcade for free with their purchase.","The iPhone 16 lineup is finally here, and pre-orders begin today, September 13, at 5:30 p.m. IST. Apple's latest offering includes the iPhone 16, iPhone 16 Plus, and the top-of-the-line iPhone 16 Pro Max. Customers pre-booking iPhone 16 series models from Apple Store can save Rs 5000 instantly on their purchase.","https://static.toiimg.com/thumb/msid-113316793,imgsize-1086931,width-400,resizemode-4/113316793.jpg"
+"Harsh Goenka slams VIP culture at Lalbaugcha Raja, shares video of 'unequal treatment'",https://timesofindia.indiatimes.com/technology/tech-news/harsh-goenka-slams-vip-culture-at-lalbaugcha-raja-shares-video-of-unequal-treatment/articleshow/113313948.cms,"Ever wondered why people opt for VIP darshan at Lalbaugcha Raja? It’s because the common devotee often faces long waits and crowds, highlighting the unequal treatment. Isn’t faith supposed to be equal for all?
+
+Take a look at the post here
+
+How X users reacted to the post
+
+The 10-day Ganpati festival is in full swing across the country. Lalbaugcha Raja which is said to attract over 1.5 million visitors everyday during the festival is in news for more than one reason this year. A video showing a long line of devotees being shoved and manhandled by workers at the Lalbaugcha Raja Sarvajanik Ganeshotsav Mandal has gone viral on social media.Sparking a debate against VIP culture , the video has gained attention of many, including the chairman of RPG Group - Harsh Goenka . Sharing the video in a post on X (formerly Twitter), he wrote:Slamming this VIP culture, one user said “We are ourselves responsible for this ..this is ridiculous. I still believe you get more peace of mind if you pray at your home.” Another replied to Goenka’s post “Every year the same thing. Can there be no solution to effectively manage the crowd? I guess if the VIP line is abolished then 50% of the crowd can be diverted.”While a third commented “Abolish VIP culture! Let them enjoy a comfortable and relaxed darshan from the luxury of their homes. It's disheartening that something as pure as faith is being divided by privilege. The essence of devotion is equality, not hierarchy. VIP darshan undermines this, turning a spiritual experience into an exclusive affair.”“The actual Jap and Tap is standing in queue for hours because that's where God sees our activity who's choosing a shortcut and who's bearing the pain of process,” said a fourth.",The 10-day Ganpati festival is in full swing across the country. A video showing a long line of devotees being shoved and manhandled by workers at the Lalbaugcha Raja Sarvajanik Ganeshotsav Mandal has gone viral on social media.,"https://static.toiimg.com/thumb/msid-113313926,imgsize-34212,width-400,resizemode-4/113313926.jpg"
+"Mid-range smartphones interest online shoppers the most, reveals new survey ahead of festive season",https://timesofindia.indiatimes.com/technology/tech-news/mid-range-smartphones-interest-online-shoppers-the-most-reveals-new-survey-ahead-of-festive-season/articleshow/113310537.cms,"Customers are enthusiastic for festive shopping upswing this year, reveals a study conducted by Ipsos Research Private Limited, commissioned by Amazon India . Among the respondents surveyed, a high 89% expressed their excitement for the upcoming festivities, with 71% indicating their intention to shop online this festive season.Reflecting a surge in consumer confidence and willingness to shop, nearly 50% of respondents who intend to shop online, stated they would spend more on online festive shopping than last year.This trend cuts across metros (55%) and tier-2 cities (43% in cities with 10-40 lakh population).Electronic items continue to be a major focus during the festive season, with 1 in 3 respondents, waiting for these events for their purchases. Moreover, 69% expressed their trust in online shopping events to purchase electronic items.Midrange smartphones in the Rs 10001-Rs 30000 draw interest with almost 80% respondents willing to purchase a mobile in this price band during festive online shopping events. Furthermore, 74% of respondents appreciate the access to new brand and product launches for large appliances during the festive season. Notably, 30% stated that they wish to buy home décor products at these online events during the festive season.Digital payment methods are on the rise, with 64% of consumers choosing UPI for online festive shopping, revealed the survey. In addition, 82% indicated that their favoured digital payment method for earning rewards and cashback is UPI, especially during the festive season.“The essence of India’s festival season is deeply rooted in traditions, cultures, and the emotions they evoke. The months leading up to the festivities are significant as many major shopping explorations and purchase decisions occur during this time."" said Saurabh Srivastava, Vice President – Categories, Amazon India.","A study conducted by Ipsos Research Private Limited, commissioned by Amazon India. Among the respondents surveyed, a high 89% expressed their excitement for the upcoming festivities. Nearly 50% of respondents who intend to shop online, stated they would spend more on online festive shopping than last year.","https://static.toiimg.com/thumb/msid-113310519,imgsize-1374823,width-400,resizemode-4/113310519.jpg"
+OpenAI releases new o1 models with reasoning capabilities; available to these users,https://timesofindia.indiatimes.com/technology/tech-news/openai-releases-new-o1-models-with-reasoning-capabilities-available-to-these-users/articleshow/113307844.cms,"OpenAI o1-mini
+
+Availability of OpenAI o1 series
+
+Sam Altman-led OpenAI has launched a new series of reasoning models under the o1 series . The company says that these new models can reason through complex tasks and solve harder problems than previous models in science, coding, and math.OpenAI o1 and OpenAI o1-mini , the company said, are trained to spend more time thinking through problems before they respond, much like a person would.OpenAI further claims that the o1 series models perform “similarly to PhD students on challenging benchmark tasks in physics, chemistry, and biology. We also found that it excels in math and coding.”“In a qualifying exam for the International Mathematics Olympiad (IMO), GPT-4o correctly solved only 13% of problems, while the reasoning model scored 83%,” it added.OpenAI says that the o1 model can be used by healthcare researchers to annotate cell sequencing data, by physicists to generate complicated mathematical formulas needed for quantum optics, and by developers in all fields to build and execute multi-step workflows.The company has also announced OpenAI o1-mini – a faster, cheaper reasoning model, particularly for coding.“As a smaller model, o1-mini is 80% cheaper than o1-preview, making it a powerful, cost-effective model for applications that require reasoning but not broad world knowledge,” the company stated.The company says that OpenAI o1 series will be available for ChatGPT Plus and Team users. They are rolling out to end users. Both o1-preview and o1-mini can be selected manually in the model picker. The models have a weekly rate limit of 30 messages for o1-preview and 50 for o1-mini.“We are working to increase those rates and enable ChatGPT to automatically choose the right model for a given prompt,” the company added.","OpenAI has launched a new series of reasoning models under the o1 series. The company says that these new models can reason through complex tasks and solve harder problems than previous models in science, coding, and math. OpenAI has also announced OpenAI o1-mini – a faster, cheaper reasoning model.","https://static.toiimg.com/thumb/msid-113307841,imgsize-412311,width-400,resizemode-4/113307841.jpg"
+Mark Zuckerberg discloses ‘one of the biggest mistakes of his career’: “I don’t actually think…”,https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-discloses-one-of-the-biggest-mistakes-of-his-career-i-dont-actually-think/articleshow/113302349.cms,"Mark Zuckerberg, CEO of Meta, reflected on his career's biggest mistakes in a recent podcast. He admitted that over-apologizing for Facebook’s content moderation issues was a '20-year mistake.' Zuckerberg also discussed the political challenges faced by Facebook, including backlash after Trump's 2016 election victory and the Cambridge Analytica data scandal.","Zuckerberg admitted that over-apologizing for Facebook’s content moderation issues was a '20-year mistake' He also discussed the political challenges faced by Facebook, including backlash after Trump's 2016 election victory and the Cambridge Analytica data scandal.","https://static.toiimg.com/thumb/msid-113302337,imgsize-101496,width-400,resizemode-4/113302337.jpg"
+Refund on Apple iPhone 15 and iPhone 14: What Apple's 'price protection' policy says and the conditions that apply,https://timesofindia.indiatimes.com/technology/tech-news/refund-on-apple-iphone-15-and-iphone-14-what-apples-price-protection-policy-says-and-the-conditions-that-apply/articleshow/113301334.cms,"Apple has unveiled its new iPhone 16 series featuring four models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. Pre-orders commence on September 13 with sales starting on September 20. Additionally, Apple has slashed prices of older models like the iPhone 15 and iPhone14 by Rs10,000 and offers refunds under certain conditions.","Apple has unveiled its new iPhone 16 series featuring four models. Pre-orders commence on September 13 with sales starting on September 20. Apple has slashed prices of older models like the iPhone 15 and iPhone14 by Rs10,000 and offers refunds under certain conditions.","https://static.toiimg.com/thumb/msid-113301330,imgsize-39978,width-400,resizemode-4/113301330.jpg"
+Airtel partners Sparkle to increase capacity on low latency route between India and Italy,https://timesofindia.indiatimes.com/technology/tech-news/airtel-partners-sparkle-to-increase-capacity-on-low-latency-route-between-india-and-italy/articleshow/113299557.cms,"Airtel Business has entered into an agreement with Sparkle for additional capacity on the Blue-Raman Submarine Cable Systems, linking India and Italy. This partnership aims to diversify Airtel’s global network and meet rising data demands. Both companies will collaborate on new business ventures in the Indian sub-continent.",Airtel Business has entered into an agreement with Sparkle for additional capacity on the Blue-Raman Submarine Cable Systems. This partnership aims to diversify Airtel’s global network and meet rising data demands. Both companies will collaborate on new business ventures in the Indian sub-continent.,"https://static.toiimg.com/thumb/msid-113299541,imgsize-19764,width-400,resizemode-4/113299541.jpg"
+Microsoft 365 back after outage: What caused it and the company’s statement,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-back-after-outage-what-caused-it-and-the-companys-statement/articleshow/113298986.cms,"Microsoft's Microsoft 365 suite faced an outage impacting thousands of users due to a change in a third-party ISP's managed environment. The issue affected services like Word, Excel, and Teams. The ISP has reverted the change, and Microsoft confirmed that the services are now recovering. In India, reports about issues with Microsoft 365 peaked at around 6.45 pm.","Microsoft 365 suite faced an outage impacting thousands of users due to a change in a third-party ISP's managed environment. The ISP has reverted the change, and Microsoft confirmed that the services are now recovering. In India, reports about issues with Microsoft 365 peaked at around 6.45 pm.","https://static.toiimg.com/thumb/msid-113298965,imgsize-113818,width-400,resizemode-4/113298965.jpg"
+Britain’s one of the largest mobile services providers BT Group raises cybersecurity alarm: “...every 90 seconds hackers are checking…”,https://timesofindia.indiatimes.com/technology/tech-news/britains-one-of-the-largest-mobile-services-providers-bt-group-raises-cybersecurity-alarm-every-90-seconds-hackers-are-checking/articleshow/113298258.cms,"Other industry targets of hackers
+
+Bharti Group acquires 24.5% stake in British Telecom
+
+BT Group , which is one of Britain's largest mobile services providers, has claimed it has spotted 2,000 signals of potential cyber-attacks across its network every second, a report has said. According to the company, cyber criminals have been using disposable “bots” to try to evade existing blocking and security measures.“Our data shows that every 90 seconds hackers are checking connected devices to find a way in,” said BT's managing director of security Tris Morgan, as per news agency Reuters.It also claimed that the digital surveillance activity by hackers using malicious scanning “bots” was 1,200% higher in July compared to the same month the previous year.Without providing any further information, BT said that hackers are also targeting the retail, education and hospitality industries as well as the defence and financial services sectors – which are their traditional hunting grounds.This data was released at the company’s Secure Tomorrow cybersecurity event, where it showed its quantum secure communications and AI cyber defence capabilities.Last month, Sunil Bharti Mittal's conglomerate announced that it will buy a stake in BT Group for about $4 billion to become the single largest shareholder in Britain's biggest broadband and mobile company.The company said in a statement that Bharti Global, the international investment arm of Bharti Enterprises , will buy a 9.99 per cent stake in BT Group from Patrick Drahi's Altice immediately and purchase the remainder after it secures the necessary regulatory approvals.Bharti is India's second-largest telecom operator with about 400 million subscribers. BT owned a 21% stake in Bharti Airtel from 1997 to 2001.","BT claims it has spotted 2,000 signals of potential cyber-attacks across its network every second. Cyber criminals have been using disposable “bots” to try to evade existing blocking and security measures. Data was released at the company’s Secure Tomorrow cybersecurity event, where it showed its quantum secure communications.","https://static.toiimg.com/thumb/msid-113298242,imgsize-25810,width-400,resizemode-4/113298242.jpg"
+Microsoft acquires 16.4 acre land in Pune’s Hinjewadi industrial area,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-acquires-16-4-acre-land-in-punes-industrial-area/articleshow/113297752.cms,"Microsoft’s Indian arm has purchased 16.4 acres of land in Pune’s Hinjewadi area for Rs 519.72 crore, enhancing its presence in India’s commercial real estate sector. The company is expanding its data centre operations and investing in AI and digital skills training programs to equip the workforce for future challenges.",Microsoft's Indian arm has purchased 16.4 acres of land in Pune’s Hinjewadi area for Rs 519.72 crore. The company is expanding its data centre operations and investing in AI and digital skills training programs.,"https://static.toiimg.com/thumb/msid-113297713,imgsize-62402,width-400,resizemode-4/113297713.jpg"
 "Google is making it easy for users to search old and deleted links, here’s how",https://timesofindia.indiatimes.com/technology/tech-news/google-is-making-it-easy-for-users-to-search-for-old-and-deleted-links-heres-how/articleshow/113295849.cms,"Google collaborates with The Internet Archive to integrate the Wayback Machine into its search results, allowing users to access historical versions of websites. By clicking on three dots next to search results and selecting 'More About This Page,' users can view older snapshots of web pages. This feature is being rolled out globally.",Users can access historical versions of websites by clicking on three dots next to search results and selecting 'More About This Page' This feature is being rolled out globally. Google collaborates with The Internet Archive to integrate the Wayback Machine into its search results.,"https://static.toiimg.com/thumb/msid-113295827,imgsize-11800,width-400,resizemode-4/113295827.jpg"
 OpenAI may soon be worth more than Goldman Sachs,https://timesofindia.indiatimes.com/technology/tech-news/openai-may-soon-be-worth-more-than-goldman-sachs/articleshow/113294601.cms,"OpenAI, the maker of ChatGPT , is reportedly in discussions to raise $6.5 billion at a staggering $150 billion valuation, sources familiar with the matter told the Bloomberg. This valuation would make OpenAI worth more than 88% of Fortune 500 companies, surpassing established giants like Goldman Sachs , Uber, and BlackRock .The funding round is expected to be led by Josh Kushner's Thrive Capital , with potential participation from tech heavyweights Microsoft Apple , and Nvidia.OpenAI is also seeking to secure an additional $5 billion in debt financing from banks.This new valuation represents a significant jump from OpenAI's previous $86 billion valuation earlier this year. The rapid increase highlights the growing investor enthusiasm for AI technology and OpenAI's position as a leader in the field.The funds raised will primarily be used for computing power and other operating expenses, according to an internal memo from OpenAI's CFO Sarah Friar. The company also plans to offer employees an opportunity to sell some of their shares in a tender offer later this year.OpenAI's unconventional structure as a nonprofit partnered with a capped-profit arm has not deterred investors. The company has emerged as a frontrunner in the AI race, despite growing competition from well-funded rivals.If successful, this funding round would cement OpenAI's status as one of the most valuable private companies globally, joining the ranks of SpaceX and ByteDance.As negotiations continue, the terms of the deal may change. OpenAI has not yet responded to requests for comment on the reported funding round.","OpenAI is reportedly in discussions to raise $6.5 billion at a staggering $150 billion valuation. This valuation would make OpenAI worth more than 88% of Fortune 500 companies, surpassing established giants like Goldman Sachs and Uber. The funding round is expected to be led by Josh Kushner's Thrive Capital, with potential participation from Microsoft Apple and Nvidia.","https://static.toiimg.com/thumb/msid-113294583,imgsize-38076,width-400,resizemode-4/113294583.jpg"
 Why IBM is paying $2.7 billion to this US-based insurance company,https://timesofindia.indiatimes.com/technology/tech-news/why-ibm-is-paying-2-7-billion-to-this-us-based-insurance-company/articleshow/113293274.cms,"IBM is transferring $6 billion of its pension obligations to Prudential Financial, leading to a one-time charge of $2.7 billion in the third quarter without affecting overall financial performance. IBM has also closed its R&D operations in China, resulting in job losses for over 1,000 employees.","IBM is transferring $6 billion of its pension obligations to Prudential Financial, leading to a one-time charge of $2.7 billion. IBM has also closed its R&D operations in China, resulting in job losses for over 1,000.","https://static.toiimg.com/thumb/msid-113293190,imgsize-57730,width-400,resizemode-4/113293190.jpg"
@@ -1706,7 +2037,9 @@ Why IBM is paying $2.7 billion to this US-based insurance company,https://timeso
 "Viral video: Indian woman's dance on Shreya Ghoshal song in Denmark goes viral on Instagram, singer reacts",https://timesofindia.indiatimes.com/technology/tech-news/viral-video-indian-womans-dance-on-shreya-ghoshal-song-in-denmark-goes-viral-on-instagram-singer-reacts/articleshow/113284483.cms,"What did Instagram react to the dance
 
 A captivating video of an Indian dancer Natasha Sherpa 's performance at the Red Bull Dance Your Style National Finals in Denmark has taken the internet by storm. The clip shows her grooving to Bollywood singer Shreya Ghoshal 's popular song ""Ooh La La"" with unmatched energy and precision.Sherpa's electrifying performance, filled with expressive gestures and flawless footwork, left the audience in awe.Her passion for Bollywood dance was evident as she effortlessly blended traditional elements with contemporary style.Following the viral success of her performance, Sherpa took to social media to share her excitement. ""Bollywood is in my Blood. And now… in their hearts,"" she wrote, expressing gratitude for the overwhelming response.""A wholesome moment for me to be able to perform at @redbulldance Denmarks’s Red Bull Dance Your Style National Finals 🇩🇰 giving a small taste of my Indian Culture, since the World Finals for Red Bull Dance Your style World Championship 2024 will be held in Mumbai, India 🇮🇳❤️‍🔥 I was actually the Host for this competition 🗣️🎤 but I surprise the crowd with an unexpected flashmob dance 💃🏻More clips of the full performs dropping soon ❤️🫶🏽,"" reads her post. In the Instagram post, she also thanked the organizers, co-hosts, and fellow dancers who contributed to the event's success.The video quickly gained traction, amassing over 25 million views and sparking countless comments. One of the most notable reactions came from the song's original singer, Shreya Ghoshal. The talented vocalist shared a fire emoji and a heart emoticon in the comments section, expressing her admiration for Sherpa's performance.“Best thing on the internet today,” wrote an Instagram user. “Oh my god this is so fun,” added another. A third commented, “You killed it fr.” There are also some tongue-in-cheek comments, ""Acha hua bollywood bajaya to log pyar kis barish kr rahe hain Bhojpuri bajate to log pyar ki tsunami baha dete !!,"" wrote a user. ""It's awesome,"" comments toocame from several users. Several users have also shared applauding GIFs in message.","Natasha Sherpa's performance at the Red Bull Dance Your Style National Finals in Denmark has taken the internet by storm. The clip shows her grooving to Bollywood singer Shreya Ghoshal's popular song ""Ooh La La"" Sherpa took to social media to share her excitement.","https://static.toiimg.com/thumb/msid-113284724,imgsize-13580,width-400,resizemode-4/113284724.jpg"
-Ola responds to arson incident at Karnataka showroom: Here’s what the company said,https://timesofindia.indiatimes.com/technology/tech-news/ola-responds-to-arson-incident-at-karnataka-showroom-heres-what-the-company-said/articleshow/113284709.cms,"What Ola said in X post
+Ola responds to arson incident at Karnataka showroom: Here’s what the company said,https://timesofindia.indiatimes.com/technology/tech-news/ola-responds-to-arson-incident-at-karnataka-showroom-heres-what-the-company-said/articleshow/113284709.cms,"Ola Electric condemned an arson incident at its Kalburgi showroom in Karnataka, where a dissatisfied customer set fire to the store over issues with his new e-scooter's servicing. An FIR has been registered, and the perpetrator is under arrest. The company is pursuing legal actions to prevent such occurrences in the future.
+
+What Ola said in X post
 
 There has been an incident of arson yesterday at one of our brand stores in Kalaburagi, Karnataka.
 
@@ -1714,44 +2047,5 @@ The perpetrator of this violent act has been identified and an FIR has been lodg
 
 Further to the FIR, we at Ola highly condemn such unlawful acts, and will take all necessary legal measures to ensure that appropriate and strict actions are taken in this matter and such incidents are not repeated.
 
-Ola Electric has condemned the act of arson at its Kalburgi showroom. Earlier this week, an Ola customer set fire to an Ola Electric showroom in Karnataka over unsatisfactory servicing of a recently-purchased e-scooter. The company has condemned the act, stating that an FIR has been registered against the individual. Ola Electric took to microblogging platform X (formerly Twitter) to share a post.""There has been an incident of arson yesterday at one of our brand stores in Kalaburagi, Karnataka,"" the Bengaluru-based company said in a statement on X.According to a PTI report, a customer named Mohammad Nadeem , had bought an Ola scooter a few days back. But it soon developed certain issues. Dissatisfied with the brand store's response regarding the issues with the scooter, he allegedly set the store on fire.","An Ola customer set fire to an Ola Electric showroom in Karnataka over unsatisfactory servicing of a recently-purchased e-scooter. The company has condemned the act, stating that an FIR has been registered against the individual.","https://static.toiimg.com/thumb/msid-113284707,imgsize-18892,width-400,resizemode-4/113284707.jpg"
+Ola Electric has condemned the act of arson at its Kalburgi showroom. Earlier this week, an Ola customer set fire to an Ola Electric showroom in Karnataka over unsatisfactory servicing of a recently-purchased e-scooter. The company has condemned the act, stating that an FIR has been registered against the individual. Ola Electric took to microblogging platform X (formerly Twitter) to share a post.""There has been an incident of arson yesterday at one of our brand stores in Kalaburagi, Karnataka,"" the Bengaluru-based company said in a statement on X.According to a PTI report, a customer named Mohammad Nadeem , had bought an Ola scooter a few days back. But it soon developed certain issues. Dissatisfied with the brand store's response regarding the issues with the scooter, he allegedly set the store on fire.","Ola Electric has condemned an arson incident at its Kalburgi showroom in Karnataka. A dissatisfied customer set fire to the store over issues with his new e-scooter's servicing. An FIR has been registered, and the perpetrator is under arrest. The company is pursuing legal actions to prevent such occurrences in the future.","https://static.toiimg.com/thumb/msid-113284709,imgsize-18892,width-400,resizemode-4/113284709.jpg"
 "Why and when a Google exec told colleague: We're both Goldman and NYSE, as per trial evidence",https://timesofindia.indiatimes.com/technology/tech-news/why-and-when-a-google-exec-told-colleague-were-both-goldman-and-nyse-as-per-trial-evidence/articleshow/113283794.cms,"Why and when a Google exec told colleague: We're both Goldman and NYSE, as per trial evidence","Google exec told colleague: We're both Goldman and NYSE, as per trial evidence. Google exec said: 'We're not just Google, we're Goldman and we're both NYSE' Google exec was referring to the New York Stock Exchange and Goldman Sachs, according to testimony.","https://static.toiimg.com/thumb/msid-113283778,imgsize-103762,width-400,resizemode-4/113283778.jpg"
-"Drama at Israeli startup valued at $1.5 billion, new CEO announced; old refuses to leave; read emails that the two CEOs sent to employees",https://timesofindia.indiatimes.com/technology/tech-news/drama-at-israeli-startup-valued-at-1-5-billion-new-ceo-announced-old-refuses-to-leave-read-emails-that-the-two-ceos-sent-to-employees/articleshow/113283100.cms,"Old CEO Nadav Shoval's email to employees
-
-New CEO Tim Harvey's email to employees after old CEO refused to step down
-
-OneWeb's official statement
-
-Israeli software company OpenWeb reportedly finds itself in a leadership crisis as founder-CEO Nadav Shoval publicly disputes the board's decision to appoint Tim Harvey as the new CEO. According to a report in CTech, the drama unfolded this week when Harvey, previously the chairman of the board, announced he would take over the CEO role from Shoval at a company-wide Townhall.Shoval, however, claims this move violates his contract and undermines the company.For those unaware, founded in 2012 as Spot.IM, OpenWeb provides an online platform that facilitates healthy discussions for publishers and their communities. The startup boasts of over 100 million active users, the company has secured significant funding, including a $170 million Series F round in October 2022, valuing OpenWeb at $1.5 billion.In an email to employees, Shoval accused the board of ""falsely stating"" his departure and ""acting against OpenWeb's best interests."" He further claims to have notified the board about contractual breaches, but they proceeded with the leadership change anyway. “I will continue relentlessly fighting for OpenWeb's mission and purpose. I notified the Board that they breached my contract, which was intended to directly call out their concerning conduct. Instead of addressing these issues, the Board decided to move forward with an attempted leadership transition, continuing to act against OpenWeb's best interests,” he wrote.Shoval’s letter followed an earlier email sent to employees announcing Harvey’s appointment as CEO. “I will be stepping in as our new CEO, succeeding Nadav Shoval, who has led the company with incredible passion and vision since its inception,” wrote Harvey, before going on to thank Shoval for all his contributions.Harvey, in a separate message to staff, acknowledged the confusion and apologized for the situation. He emphasized a ""planned CEO transition process"" and vowed to handle it with ""respect"" for all parties. Harvey wrote to the staff: ""Apologies to everyone who received this email. We are progressing with the CEO transition process as planned. As we move forward, we are committed to handling this situation with the utmost respect for all individuals involved and acknowledging their contributions to OpenWeb. Our priority remains the continued success, stability and providing value to our partners.""OpenWeb's official statement acknowledges Shoval's founding role and ""incredible passion"" while welcoming Harvey as the ""interim CEO."" They highlight Harvey's extensive experience and aim to maintain the company's growth trajectory. The statement concludes by emphasizing OpenWeb's commitment to ""trusted spaces for meaningful dialogue"" and its talented team.","Israeli software company OpenWeb reportedly finds itself in a leadership crisis. Founder-CEO Nadav Shoval publicly disputes the board's decision to appoint Tim Harvey as the new CEO. Shoval claims this move violates his contract and undermines the company. Harvey, previously the chairman of the board, announced he would take over the CEO role from Shoval at a company-wide Townhall.","https://static.toiimg.com/thumb/msid-113283049,imgsize-15012,width-400,resizemode-4/113283049.jpg"
-Apple iOS 18 has a tool that helps configure genuine replacement parts,https://timesofindia.indiatimes.com/technology/tech-news/apple-ios-18-has-a-tool-that-helps-configure-genuine-replacement-parts/articleshow/113279389.cms,Apple's latest iOS 18 includes a Repair Assistant feature that lets users configure replacement parts after repairs. This tool ensures the proper functioning of devices using genuine Apple components.,Apple's latest iOS 18 includes a Repair Assistant feature that lets users configure replacement parts after repairs. This tool ensures the proper functioning of devices using genuine Apple components. Apple's new iOS 18 comes with a new repair assistant feature. The Repair Assistant will be available on iOS 18.,"https://static.toiimg.com/thumb/msid-113279379,imgsize-15700,width-400,resizemode-4/113279379.jpg"
-Reliance Jio has an important warning for its customers on calls from these numbers,https://timesofindia.indiatimes.com/technology/tech-news/reliance-jio-has-an-important-warning-for-its-customers-on-calls-from-these-numbers/articleshow/113248820.cms,"What is the warning
-
-Here are some tips to protect yourself from such scams
-
-Telecom operator Reliance Jio has issued a warning for its customers. The service provider is asking the customers to beware of the calls and messages coming from +92 code.“Beware of calls/messages from +92 code or other sources impersonating as police officials. Dial 1930 or report in cybercrime.gov.in to lodge cybercrime complaint,” the company said in an SMS sent to its users.Scammers often pose as police officers to trick people into revealing personal information or sending money.Recently, CBI also issued a warning to the public about a surge in fraudulent activities where scammers are impersonating CBI officers to extort money. These criminals are using the agency’s logo and the names of senior officials to create a sense of authenticity and deceive unsuspecting victims.* If you receive a call from someone claiming to be a police officer, ask for their badge number, department name, and contact information. You can then verify this information through official channels.* Avoid sharing sensitive details like your Social Security number, bank account information, or credit card details over the phone, especially if you didn't initiate the call.* Real police officers will never pressure you to make immediate payments or decisions. If someone is demanding immediate action, it's a red flag.* If you're unsure about a call, hang up and contact the police department directly using a number you know is legitimate.",Telecom operator Reliance Jio has issued a warning for its customers. The service provider is asking the customers to beware of the calls and messages coming from +92 code. Scammers often pose as police officers to trick people into revealing personal information or sending money.,"https://static.toiimg.com/thumb/msid-113248784,imgsize-102156,width-400,resizemode-4/113248784.jpg"
-"Airtel CEO Gopal Vittal sends letter to Reliance Jio, Vodafone-Idea, Tata Tele and BSNL CEOs; here's what he said",https://timesofindia.indiatimes.com/technology/tech-news/airtel-ceo-gopal-vittal-sends-letter-to-reliance-jio-vodafone-idea-tata-tele-and-bsnl-ceos-heres-what-he-said/articleshow/113278022.cms,"Here’s what Airtel CEO wrote in the letter
-
-Spam and phishing message menace grows in India
-
-What the government’s directive says
-
-Bharti Airtel CEO Gopal Vittal has written a letter to the heads of Reliance Jio , Vodafone Idea , state-run Bharat Sanchar Nigam Ltd ( BSNL ) and Tata Teleservices, says a report in Economic Times. In the letter, Vittal proposed creating a collaborative system for sharing information about corporate connections used for commercial calling. This collaborative approach is aimed to monitor and prevent the misuse of these connections.""We are ready to take the first step and share the data (entity name and active numbers only) in the same template on a monthly basis and we would appreciate your support,"" Vittal said in the letter.The letter was sent to Reliance Jio MD Pankaj Pawar, Vodafone Idea CEO Akshaya Moondra, BSNL CMD Robert Ravi and Tata Teleservices MD Harjit Singh Chauhan.""As the telecom industry continues to face the growing challenge of UCC, it has become clear that despite ongoing efforts, more robust and unified mechanisms are required to protect our customers from this persistent issue,"" Vittal said in the letter. He also stressed that in line with the directives of Trai and DoT, the focus remains on finding effective solutions to curb UCC. UCC in the telecom industry means Unsolicited Commercial Communications that describes the combination of communications and collaboration technologies.""We strongly believe that tackling this issue should be a joint endeavour among all telecom operators, rather than isolated efforts,"" he said.Telecom operators must take ""collective responsibility"" in preventing UCC by ensuring that their networks are not exploited by spammers, especially through corporate connections that may be unintentionally facilitating such activities, he said.""Today, enterprise customers are served by multiple operators, and we are seized of the fact that any independent efforts to address spam may not be in the best interests of customers, as it may impact the quality and continuity of services,"" Vittal added.According to industry data, 1.5-1.7 billion commercial messages are sent every day in India, taking the total to about 55 billion every month. As per a survey by community social media platform Local Circles, six in 10 consumers get three or more spam calls each day, with financial services and real estate said to be top offenders. In another survey, 76% consumers said that they get three or more spam messages daily. Blocking numbers doesn't help either.The problem has proven intractable for stakeholders including telcos, the regulator and the government. Recently, the government directed telecom companies to disconnect entities using bulk connections to engage in such activity. Around 350,000 such numbers have been blocked and 50 entities have been blacklisted in the last two weeks.The telecom regulatory authority of India (TRAI) asked telcos to share information on blacklisted entities with each other, so that such entities don't switch from one operator to another.","Bharti Airtel CEO Gopal Vittal has written a letter to the heads of Reliance Jio, Vodafone Idea, state-run Bharat Sanchar Nigam Ltd ( BSNL ) and Tata Teleservices. Vittal proposed creating a collaborative system for sharing information about corporate connections.","https://static.toiimg.com/thumb/msid-113278007,imgsize-62174,width-400,resizemode-4/113278007.jpg"
-"Amazon Great Indian Festival 2024: Likely sale dates, bank offers, early access for Prime members and more",https://timesofindia.indiatimes.com/technology/tech-news/amazon-great-indian-festival-2024-likely-sale-dates-bank-offers-early-access-for-prime-members-and-more/articleshow/113275479.cms,"Amazon Great Indian Festival 2024: Likely sale dates, bank offers, early access for Prime members and more",The Amazon Great Indian Festival 2024 is expected to take place in the fall of 2024. The festival will be the first of its kind in the U.S. and will take place on the East Coast of the United States. The event will be open to Prime members and other members of the public.,"https://static.toiimg.com/thumb/msid-113275479,imgsize-26756,width-400,resizemode-4/113275479.jpg"
-"How Facebook co-founder Mark Zuckerberg can beat Elon Musk, Amazon founder Jeff Bezos to become the richest person this year",https://timesofindia.indiatimes.com/technology/tech-news/how-facebook-co-founder-mark-zuckerberg-can-beat-elon-musk-amazon-founder-jeff-bezos-to-become-the-richest-person-this-year/articleshow/113269831.cms,"Mark Zuckerberg's wealth surged by $51 billion this year, reaching an estimated $179 billion and placing him fourth on the Bloomberg Billionaires Index. He trails Elon Musk, Jeff Bezos, and Bernard Arnault. The volatility in tech fortunes and possible setbacks for Musk or Bezos might help Zuckerberg climb to the top spot in the near future.","Mark Zuckerberg's wealth surged by $51 billion this year, reaching an estimated $179 billion and placing him fourth on the Bloomberg Billionaires Index. He trails Elon Musk, Jeff Bezos, and Bernard Arnault. The volatility in tech fortunes and possible setbacks for Musk or Bezos might help Zuckerberg climb to the top spot.","https://static.toiimg.com/thumb/msid-113268261,imgsize-22126,width-400,resizemode-4/113268261.jpg"
-Nothing expands service network in India,https://timesofindia.indiatimes.com/technology/tech-news/nothing-expands-service-network-in-india/articleshow/113269356.cms,"Nothing is expanding its service centre network to meet increasing customer demand. The London-based consumer tech brand will open two new exclusive service centres in Hyderabad and Chennai in October, bringing the total to five nationwide.The expansion includes two new exclusive service centres in Hyderabad and Chennai, five priority exclusive service desks at multi-brand centres, and pickup and drop services covering 18,000 pin codes.Pranay Rao , Head of Marketing at Nothing India, stated, ""The expansion of our service centres is a testament to our commitment to customer satisfaction and our rapid growth in the Indian market.""The company is also expanding its retail presence. Its offline presence has increased from 2,000 to 5,000 locations, with plans to reach 7,000 outlets soon. Nothing products are currently available at Flipkart , Croma , and Vijay Sales.Nothing India aims to enhance accessibility to customer support across the nation with these expansions. The new facilities are designed to provide top-tier service, ensuring a seamless, fast, and efficient experience for customers.","Nothing is expanding its service centre network to meet increasing customer demand. The London-based consumer tech brand will open two new exclusive service centres in Hyderabad and Chennai in October. Its offline presence has increased from 2,000 to 5,000 locations, with plans to reach 7,000 outlets.","https://static.toiimg.com/thumb/msid-113269446,imgsize-124624,width-400,resizemode-4/113269446.jpg"
-Read Chinese billionaire Alibaba founder Jack Ma's 'pep talk' memo to employees on the company's 25th anniversary,https://timesofindia.indiatimes.com/technology/tech-news/read-chinese-billionaire-alibaba-founder-jack-maas-pep-talk-memo-to-employees-on-companys-25th-anniversary/articleshow/113269186.cms,"Facing competition from upstarts like Pinduoduo and Douyin
-
-Alibaba facing regulatory pressure
-
-Alibaba co-founder Jack Ma has urged the company to embrace competition and trust in market forces. In an internal memo marking Alibaba's 25th anniversary, Ma acknowledged the challenges facing the e-commerce giant but emphasized the importance of resilience and innovation.“Many of Alibaba’s business face challenges and the possibility of being surpassed, but that’s to be expected as no single company can stay at the top forever in any industry,” Ma said in a letter sent to employees, seen by The Wall Street Journal.Once a dominant player in China's e-commerce industry, Alibaba has faced increased competition from upstarts like Pinduoduo and Douyin . The company has also been navigating a weakening Chinese economy and subdued consumer sentiment.Ma stressed that competition is essential for growth and industry health. ""Only with competition can we become stronger,"" he said.Ma reiterated Alibaba's ambition to be a long-lasting company, emphasizing the importance of idealistic beliefs and trust in the market. He encouraged employees to remain focused amidst challenges and competition. “The reason we’re Alibaba is because we have idealistic beliefs, we trust the future, believe in the market. We believe that only a company that can create real value for society can keep operating for 102 years,” he said.Ma himself has maintained a low profile since 2020 when financial affiliate Ant Group faced regulatory scrutiny. The memo comes after Alibaba completed a three-year regulatory process in China. IN August, Chinese regulators concluded their evaluation of the company's monopolistic practices and required it to submit compliance reports.In an earlier internal letter, he praised Alibaba's leadership and restructuring efforts following the company's division into six independently run companies.With the completion of its Hong Kong listing conversion and inclusion in a mainland China trading scheme, Alibaba is positioning itself for continued growth and expansion.Alibaba has also been facing regulatory pressure. Chinese regulators said in late August that they have completed their monitoring and evaluation of Alibaba after the company was penalized over monopolistic practices in 2021. Over the past three years, the company has been required to submit self-evaluation compliance reports to market regulators.","Alibaba co-founder Jack Ma has urged the company to embrace competition and trust in market forces. In an internal memo marking Alibaba's 25th anniversary, Ma acknowledged the challenges facing the e-commerce giant. The memo comes after Alibaba completed a three-year regulatory process in China.","https://static.toiimg.com/thumb/msid-113269188,imgsize-78528,width-400,resizemode-4/113269188.jpg"
-Climate NGO: How can CEO Sundar Pichai say that Google is progressing to a sustainable future when its ....,https://timesofindia.indiatimes.com/technology/tech-news/climate-ngo-how-can-ceo-sundar-pichai-say-that-google-is-progressing-to-a-sustainable-future-when-its-/articleshow/113267590.cms,"Global technology giants have significantly reduced their business flight emissions in recent years, but some companies are falling short, according to a report by news agency Reuters.Travel Smart , a campaign led by Transport & Environment (T&E), analyzed 26 major tech companies and found that their corporate flight emissions dropped by an average of 49% in 2023 compared to pre-pandemic levels.While this progress is encouraging, only seven companies have set specific reduction targets. The report said that Alphabet and Apple, in particular, have been slow to reduce emissions and are at risk of reverting to pre-pandemic levels.Alphabet, which has not set a reduction goal, and Apple, which has a broader target, reportedly saw emissions reductions of only 23% and 31%, respectively, in 2023.""How can (Google chief) Sundar Pichai say that Google is progressing to a sustainable future when its travel emissions are going in the wrong direction?"" said Denise Auclair, corporate travel manager at T&E. IBM , and SAP , despite substantial cuts, are also said to be at risk due to their high levels of business flights without specific reduction goals.""Tech companies must set reduction targets to be credible climate leaders,"" Auclair added.In response to the report, Apple emphasized its efforts to reduce greenhouse gas emissions across its entire carbon footprint, including business travel. The company aims to become carbon-neutral by 2030.","Travel Smart analyzed 26 major tech companies and found that their corporate flight emissions dropped by an average of 49% in 2023 compared to pre-pandemic levels. Only seven companies have set specific reduction targets. Apple emphasized its efforts to reduce greenhouse gas emissions across its entire carbon footprint, including business travel.","https://static.toiimg.com/thumb/msid-113267567,imgsize-48848,width-400,resizemode-4/113267567.jpg"
-"German foreign minister Annalena Baerbock to S Jaishankar: “Very impressed by your ...., I thought this would be impossible in Germany”",https://timesofindia.indiatimes.com/technology/tech-news/german-foreign-minister-annalena-baerbock-to-s-jaishankar-very-impressed-by-your-i-thought-this-would-be-impossible-in-germany/articleshow/113267556.cms,"German minister uses UPI to buy vegetables in India
-
-German foreign minister Annalena Baerbock has heaped praise on Unified Payments Interface (UPI) for its quick payment capabilities. Speaking alongside foreign minister S. Jaishankar at the Annual Ambassadors’ Conference in Berlin, Baerbock said that she remembered her time as the ambassador to India two years ago when she saw people buying groceries using UPI “We met two years ago for the first time when I was in Delhi. I used your Metro and experienced your modernisation strategy kilometre by kilometre,” Baerbock recalled.She added that she was impressed by UPI after seeing people buying groceries on the streets and using the digital instant payments system to make payments.“I also saw people buying groceries and was very impressed by your Unified Payments Interface, a digital instant payment system. I thought this would be impossible in Germany,” she added“...but we also watched that closely, and we did a big jump compared to our speed here in Germany. Also, with regard to digitalisation, I saw not only that it's possible to pay on the street with digital payments but also I saw unfortunately in our Embassy, in our consulate that we are carrying application forms for Visa still in boxes,” she noted.“So I thought, ‘Okay, I cannot change the payment on the street, but I can definitely change the digitalisation in our ministry’,” Baerbock said.Last year, Volker Wissing, who is minister for transport in Germany, was seen impressed by the UPI system in the viral clip, shared by the German Embassy in India on X. Wissing was seen buying vegetables from a street vendor in Bengaluru and used the UPI system to make the payment.“One of India's success stories is its digital infrastructure. UPI enables seamless transactions within seconds, with millions of Indians using it. Federal Minister for Digital and Transport @Wissing experienced the simplicity of UPI payments firsthand and was highly impressed!” the post said.The incident quickly went viral through social media, with many praising UPI's success for making transactions fast.","Annalena Baerbock has heaped praise on Unified Payments Interface (UPI) for its quick payment capabilities. She was speaking alongside foreign minister S. Jaishankar at the Annual Ambassadors’ Conference in Berlin. Last year, Volker Wissing, who is minister for transport in Germany, was seen impressed by the UPI system in the viral clip.","https://static.toiimg.com/thumb/msid-113267538,imgsize-97738,width-400,resizemode-4/113267538.jpg"
-"How Blinkit, Swiggy Instamart and BigBasket plan to 'change' gifting this Diwali",https://timesofindia.indiatimes.com/technology/tech-news/how-blinkint-swiggy-instamart-and-bigbasket-plan-to-change-gifting-this-diwali/articleshow/113267348.cms,"Increase inventory by up to 60%
-
-Expanding product portfolios and going to new locations
-
-Quick commerce companies like Blinkit , Swiggy Instamart and Tata Group-owned Big Basket are reportedly teaming up with fast-moving consumer goods (FMCG) giants for the first time to capitalize on the festive season. According to a report in Economic Times, quoting company executives said, ""Quick commerce companies are, for the first time, collaborating with fast-moving consumer goods (FMCG) companies such as Parle, Mondelez and ITC on offers, special packs and promotional banners for this festive season.""The focus is reported to be on categories such as chocolates, Indian sweets, confectionery, dry fruits, and cookies.Additionally, these platforms have forged alliances with consumer electronics companies for products like kitchen appliances, personal care electronics, smartwatches, and earbuds.To meet the increasing demand, quick commerce platforms are aiming to boost their inventory levels by up to 60% compared to 2023's festive season. Executives have been meeting with brands to finalize plans and secure a larger share of the festive gifting market, traditionally dominated by large retail chains and local stores.""Quick commerce companies are seeking support from FMCG giants in terms of promotions and special packs for the festive season,"" told Krishnarao Buddha, senior category head at Parle Products , to ET. ""They aim to compete fiercely with ecommerce platforms and modern retail this Diwali ,"" he added.Parle will be offering large confectionery packs and festive cookie packs through quick commerce for the first time this Diwali.Mondelez India has partnered with leading quick commerce companies, especially for gifting, according to Desmond D'souza, vice-president of sales. ""This includes strong on-app and off-app collaborations, including digital and out-of-home, and building significant visibility on the platform,"" he said.The company will target premium shoppers with Silk and Bournville branded gifting packs, along with Cadbury Celebrations.The Diwali promotions come as quick commerce has become a rapidly growing channel for consumer goods manufacturers. It accounts for 30-40% of their online sales.These 10-30-minute delivery companies are also expanding their product portfolio and reaching new locations.While most quick commerce companies planned to scale up into high-value electronic products and fashion by the festive season, these partnerships are still being negotiated. As a result, they have focused on festive purchases and gifting.Consumers are turning to quick commerce for gifting across food and personal care categories. ""ITC has lined up a series of festive gift packs across categories for launch on different channels, including quick commerce. We expect sales from quick commerce to increase significantly this season,"" said an ITC spokesperson, as per the report.A senior executive at a large electronics brand said the company will expand its presence in quick commerce this Diwali for the first time. ""Consumer preference has shifted to quick commerce in large cities,"" he said.","Quick commerce companies like Blinkit and Swiggy Instamart are teaming up with fast-moving consumer goods (FMCG) giants for the first time to capitalize on the festive season. The focus is reported to be on categories such as chocolates, Indian sweets, confectionery, dry fruits, and cookies.","https://static.toiimg.com/thumb/msid-113267319,imgsize-19706,width-400,resizemode-4/113267319.jpg"
-Google co-founder Sergey Brin on why he is ‘back to office’: “I just don’t want to miss out on this…”,https://timesofindia.indiatimes.com/technology/tech-news/google-co-founder-sergey-brin-on-why-he-is-back-to-office-i-just-dont-want-to-miss-out-on-this/articleshow/113264321.cms,"Sergey Brin, co-founder of Google, has confirmed his active daily involvement at Google HQ. Motivated by the exciting advancements in Artificial Intelligence, he has re-engaged with technical work and AI meetings. Brin highlighted AI's transformative impact on technology and its applications across various domains, including Google's core business area of Search.","Sergey Brin, co-founder of Google, has confirmed his active daily involvement at Google HQ. Motivated by the exciting advancements in Artificial Intelligence, he has re-engaged with technical work and AI meetings. Brin highlighted AI's transformative impact on technology and its applications.","https://static.toiimg.com/thumb/msid-113264309,imgsize-26120,width-400,resizemode-4/113264309.jpg"
-OpenAI to launch 'Strawberry' AI model for ChatGPT within two weeks,https://timesofindia.indiatimes.com/technology/tech-news/openai-to-launch-strawberry-ai-model-for-chatgpt-within-two-weeks/articleshow/113262804.cms,"OpenAI is preparing to release a new AI model called ""Strawberry"" within the next two weeks. Designed for the ChatGPT service, Strawberry focuses on reasoning and deliberation before responding. It will be available both as an integrated and standalone service, offering more thoughtful replies but with longer response times compared to other models.","OpenAI is preparing to release a new AI model called ""Strawberry"" within the next two weeks. Designed for the ChatGPT service, Strawberry focuses on reasoning and deliberation before responding. It will be available both as an integrated and standalone service.","https://static.toiimg.com/thumb/msid-113262777,imgsize-412311,width-400,resizemode-4/113262777.jpg"
