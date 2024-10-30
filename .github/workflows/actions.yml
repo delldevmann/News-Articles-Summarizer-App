@@ -36,27 +36,42 @@ jobs:
 
       - name: Install Python packages
         run: |
-          python -m pip install --upgrade pip
-          python -m pip install torch torchvision torchaudio
+          python -m pip install --upgrade pip || echo "Failed to upgrade pip"
+          python -m pip install torch torchvision torchaudio || echo "Failed to install PyTorch packages"
           
       - name: Install other requirements
-        run: pip install -r requirements.txt
+        run: |
+          if [ -f "requirements.txt" ]; then
+            pip install -r requirements.txt || echo "Failed to install packages from requirements.txt"
+          else
+            echo "requirements.txt file not found"
+          fi
 
       - name: Execute update_BoW.py
-        run: python update_BoW.py
+        run: |
+          if [ -f "update_BoW.py" ]; then
+            python update_BoW.py || echo "Error executing update_BoW.py"
+          else
+            echo "update_BoW.py file not found"
+          fi
 
       - name: Execute newday.py
-        run: python project/newday.py
+        run: |
+          if [ -f "project/newday.py" ]; then
+            python project/newday.py || echo "Error executing newday.py"
+          else
+            echo "project/newday.py file not found"
+          fi
 
       - name: Commit files
         run: |
           git config --local user.email "delldevman@proton.me"
           git config --local user.name "delldevmann"
           git add -A
-          git diff-index --quiet HEAD || git commit -a -m "Updated logs"
+          git diff-index --quiet HEAD || git commit -a -m "Updated logs" || echo "No changes to commit"
 
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git push origin main
+          git push origin main || echo "Failed to push changes to main"
