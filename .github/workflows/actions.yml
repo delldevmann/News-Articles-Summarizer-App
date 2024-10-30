@@ -4,7 +4,7 @@ on:
   schedule:
     # Run newday.py twice a day at 2:30 AM and 2:30 PM (UTC).
     - cron: '30 02 * * *'
-    - cron: '33 10 * * *'
+    - cron: '36 10 * * *'
     
 
 jobs:
