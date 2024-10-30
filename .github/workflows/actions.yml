@@ -2,11 +2,10 @@ name: Run Scripts
 
 on:
   schedule:
-    # Run newday.py twice a day at 2:30 AM and 2:30 PM (UTC).
+    # Run newday.py twice a day at 2:30 AM and 10:36 AM (UTC).
     - cron: '30 02 * * *'
     - cron: '36 10 * * *'
-    workflow_dispatch:
-    
+  workflow_dispatch:
 
 jobs:
   build:
@@ -29,10 +28,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install torch torchvision torchaudio
+
       - name: Install other requirements
         run: pip install -r requirements.txt
 
-      - name: Execute update_BoW.py (every day)
+      - name: Execute update_BoW.py
         run: python update_BoW.py
 
       - name: Execute newday.py
@@ -43,7 +43,8 @@ jobs:
           git config --local user.email "ralphsmashthecomputer@gmail.com"
           git config --local user.name "Ralphdaypythondev"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated logs" --allow-empty)
+          git diff-index --quiet HEAD || git commit -a -m "Updated logs"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
