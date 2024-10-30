@@ -2,9 +2,8 @@ name: Run Scripts
 
 on:
   schedule:
-    # Run newday.py twice a day at 2:30 AM and 10:36 AM (UTC).
     - cron: '30 02 * * *'
-    - cron: '04 11 * * *'
+    - cron: '36 10 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,15 +11,15 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: Ralphdapythondev/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: Ralphdapythondev/setup-node@v4
         with:
           node-version: '20'
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: Ralphdapythondev/setup-python@v5
         with:
           python-version: '3.9'
 
@@ -28,7 +27,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install torch torchvision torchaudio
-
       - name: Install other requirements
         run: pip install -r requirements.txt
 
@@ -46,7 +44,7 @@ jobs:
           git diff-index --quiet HEAD || git commit -a -m "Updated logs"
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: Ralphdapythondev/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
