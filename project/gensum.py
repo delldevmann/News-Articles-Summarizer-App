@@ -1,5 +1,5 @@
 from transformers import BartForConditionalGeneration, BartTokenizer, pipeline
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 import textwrap
 import re
 
@@ -7,15 +7,21 @@ import re
 model_name = "facebook/bart-large-cnn"
 model = BartForConditionalGeneration.from_pretrained(model_name)
 tokenizer = BartTokenizer.from_pretrained(model_name)
-translator = Translator()
-sentiment_analyzer = pipeline("sentiment-analysis")
-topic_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+
+# Set up pipelines with device specification (0 = GPU, -1 = CPU)
+sentiment_analyzer = pipeline("sentiment-analysis", device=0)  # Adjust device based on availability
+topic_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", device=0)
+
+def translate_text(text, target_language="en"):
+    """Translate text using deep-translator's GoogleTranslator."""
+    translator = GoogleTranslator(source='auto', target=target_language)
+    return translator.translate(text)
 
 def text_summarizer(text, max_length=125, min_length=50, length_penalty=2.0, num_beams=4, 
                     target_language=None, detailed=False):
     # Translate if needed
     if target_language:
-        text = translator.translate(text, dest=target_language).text
+        text = translate_text(text, target_language=target_language)
     
     # Summarize text
     inputs = tokenizer.encode("summarize: " + text, return_tensors="pt", max_length=1024, truncation=True)
@@ -49,6 +55,7 @@ def text_summarizer(text, max_length=125, min_length=50, length_penalty=2.0, num
     return result
 
 # Example usage
-text = "Your long article or text goes here..."
-result = text_summarizer(text, target_language="es", detailed=True)
-print(result)
+if __name__ == "__main__":
+    text = "Your long article or text goes here..."
+    result = text_summarizer(text, target_language="es", detailed=True)
+    print(result)
