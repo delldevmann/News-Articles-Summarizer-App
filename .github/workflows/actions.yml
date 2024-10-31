@@ -40,35 +40,38 @@ jobs:
           python -m pip install torch torchvision torchaudio || echo "Failed to install PyTorch packages"
           
       - name: Install other requirements
+        shell: pwsh
         run: |
-          if [ -f "requirements.txt" ]; then
+          if (Test-Path "requirements.txt") {
             pip install -r requirements.txt || echo "Failed to install packages from requirements.txt"
-          else
+          } else {
             echo "requirements.txt file not found"
-          fi
+          }
 
       - name: Execute update_BoW.py
+        shell: pwsh
         run: |
-          if [ -f "update_BoW.py" ]; then
+          if (Test-Path "update_BoW.py") {
             python update_BoW.py || echo "Error executing update_BoW.py"
-          else
+          } else {
             echo "update_BoW.py file not found"
-          fi
+          }
 
       - name: Execute newday.py
+        shell: pwsh
         run: |
-          if [ -f "project/newday.py" ]; then
+          if (Test-Path "project/newday.py") {
             python project/newday.py || echo "Error executing newday.py"
-          else
+          } else {
             echo "project/newday.py file not found"
-          fi
+          }
 
       - name: Commit files
         run: |
           git config --local user.email "delldevman@proton.me"
           git config --local user.name "delldevmann"
           git add -A
-          git diff-index --quiet HEAD || git commit -a -m "Updated logs" || echo "No changes to commit"
+          git diff-index --quiet HEAD || git commit -a -m "Updated logs"
 
       - name: Push changes
         env:
