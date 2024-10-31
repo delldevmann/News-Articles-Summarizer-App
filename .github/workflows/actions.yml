@@ -51,26 +51,27 @@ jobs:
       - name: Verify Dependency Loading
         shell: pwsh
         run: |
+          Write-Output "Verifying dependencies"
           python -c "import torch, pandas" || echo "Dependency loading failed"
 
       - name: Execute update_BoW.py with Debugging
         shell: pwsh
         run: |
           if (Test-Path "update_BoW.py") {
-            set -x
+            Write-Output "Executing update_BoW.py"
             python update_BoW.py || echo "Error executing update_BoW.py"
           } else {
-            echo "update_BoW.py file not found"
+            Write-Output "update_BoW.py file not found"
           }
 
       - name: Execute newday.py with Debugging
         shell: pwsh
         run: |
           if (Test-Path "project/newday.py") {
-            set -x
+            Write-Output "Executing newday.py"
             python project/newday.py || echo "Error executing newday.py"
           } else {
-            echo "project/newday.py file not found"
+            Write-Output "project/newday.py file not found"
           }
 
       - name: Commit files
