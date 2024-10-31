@@ -2,19 +2,15 @@ name: Run Scripts
 
 on:
   schedule:
-    - cron: '30 02 * * *'
-    - cron: '36 10 * * *'
+    - cron: '11 10 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: windows-latest
-    timeout-minutes: 30  # Increased timeout for large processing tasks
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -26,58 +22,21 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Cache Python dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
       - name: Install Python packages
         run: |
-          python -m pip install --upgrade pip || echo "Failed to upgrade pip"
-          python -m pip install torch torchvision torchaudio || echo "Failed to install PyTorch packages"
-          
-      - name: Install other requirements
-        shell: pwsh
-        run: |
-          if (Test-Path "requirements.txt") {
-            pip install -r requirements.txt || echo "Failed to install packages from requirements.txt"
-          } else {
-            echo "requirements.txt file not found"
-          }
+          python -m pip install --upgrade pip
+          python -m pip install --no-cache-dir -r requirements.txt
 
-      - name: Verify Dependency Loading
-        shell: pwsh
-        run: |
-          Write-Output "Verifying dependencies"
-          python -c "import torch, pandas" || echo "Dependency loading failed"
+      - name: Execute update_BoW.py (every day)
+        run: python update_BoW.py
 
-      - name: Execute update_BoW.py with Debugging
-        shell: pwsh
-        run: |
-          if (Test-Path "update_BoW.py") {
-            Write-Output "Executing update_BoW.py"
-            python update_BoW.py || echo "Error executing update_BoW.py"
-          } else {
-            Write-Output "update_BoW.py file not found"
-          }
-
-      - name: Execute newday.py with Debugging
-        shell: pwsh
-        run: |
-          if (Test-Path "project/newday.py") {
-            Write-Output "Executing newday.py"
-            python project/newday.py || echo "Error executing newday.py"
-          } else {
-            Write-Output "project/newday.py file not found"
-          }
+      - name: Execute newday.py
+        run: python project/newday.py
 
       - name: Commit files
         run: |
-          git config --local user.email "delldevman@proton.me"
-          git config --local user.name "delldevmann"
+          git config --local user.email "ralphsmashthecomputer@gmail.com"
+          git config --local user.name "Ralphdapythondev"
           git add -A
           git diff-index --quiet HEAD || git commit -a -m "Updated logs"
 
@@ -85,4 +44,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git push origin main || echo "Failed to push changes to main"
+          git push origin main
