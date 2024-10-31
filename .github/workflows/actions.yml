@@ -35,8 +35,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "ralphsmashthecomputer@gmail.com"
-          git config --local user.name "Ralphdapythondev"
+          git config --local user.email "delldevman@proton.me"
+          git config --local user.name "delldevmann"
           git add -A
           git diff-index --quiet HEAD || git commit -a -m "Updated logs"
 
