@@ -10,6 +10,7 @@ nltk==3.8.1
 textblob==0.17.1
 scikit-learn==1.4.1.post1
 transformers==4.39.3
+torch==2.0.1  # Ensure PyTorch is available
 
 # Data handling
 pandas==2.1.1
@@ -17,9 +18,8 @@ pandas==2.1.1
 # User interface for summarizer app
 streamlit==1.33.0
 
-# Optional translation modules (use one as needed)
-googletrans==4.0.0-rc1  # For translation; known issues
-#deep-translator==1.10.1   # Recommended alternative to googletrans
+# Translation module
+deep-translator==1.10.1  # Reliable alternative to googletrans
 
 # Text-to-Speech for summaries
 gTTS==2.5.1
