@@ -2,20 +2,28 @@ from transformers import BartForConditionalGeneration, BartTokenizer, pipeline
 from deep_translator import GoogleTranslator
 import textwrap
 import re
+import torch
 
 # Load models and utilities
 model_name = "facebook/bart-large-cnn"
 model = BartForConditionalGeneration.from_pretrained(model_name)
 tokenizer = BartTokenizer.from_pretrained(model_name)
 
-# Set up pipelines with device specification (0 = GPU, -1 = CPU)
-sentiment_analyzer = pipeline("sentiment-analysis", device=0)  # Adjust device based on availability
-topic_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", device=0)
+# Automatically select device: 0 for GPU, -1 for CPU
+device = 0 if torch.cuda.is_available() else -1
+
+# Set up pipelines with appropriate device specification
+sentiment_analyzer = pipeline("sentiment-analysis", device=device)
+topic_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", device=device)
 
 def translate_text(text, target_language="en"):
     """Translate text using deep-translator's GoogleTranslator."""
-    translator = GoogleTranslator(source='auto', target=target_language)
-    return translator.translate(text)
+    try:
+        translator = GoogleTranslator(source='auto', target=target_language)
+        return translator.translate(text)
+    except Exception as e:
+        print(f"Translation error: {e}")
+        return text  # Return original text if translation fails
 
 def text_summarizer(text, max_length=125, min_length=50, length_penalty=2.0, num_beams=4, 
                     target_language=None, detailed=False):
